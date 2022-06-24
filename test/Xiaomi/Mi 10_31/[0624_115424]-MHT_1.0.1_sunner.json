@@ -1,0 +1,21 @@
+java.lang.reflect.InvocationTargetException
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.mihetao.research.impl.HybridBridge.execute(HybridBridge.java:146)
+	at com.mihetao.research.impl.HybridBridge.interceptUrl(HybridBridge.java:50)
+	at com.mihetao.research.MainActivity$MiHetapClient.shouldOverrideUrlLoading(MainActivity.java:393)
+	at android.webkit.WebViewClient.shouldOverrideUrlLoading(WebViewClient.java:83)
+	at org.chromium.android_webview.AwContentsClientBridge.shouldOverrideUrlLoading(Unknown Source:90)
+	at android.os.MessageQueue.nativePollOnce(Native Method)
+	at android.os.MessageQueue.next(MessageQueue.java:340)
+	at android.os.Looper.loopOnce(Looper.java:168)
+	at android.os.Looper.loop(Looper.java:299)
+	at android.app.ActivityThread.main(ActivityThread.java:8283)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:556)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1045)
+Caused by: java.lang.IllegalArgumentException: If you have applied for MANAGE_EXTERNAL_STORAGE permissions, do not apply for the READ_EXTERNAL_STORAGE and WRITE_EXTERNAL_STORAGE permissions
+	at com.hjq.permissions.PermissionChecker.optimizeDeprecatedPermission(PermissionChecker.java:407)
+	at com.hjq.permissions.XXPermissions.request(XXPermissions.java:183)
+	at com.mihetao.research.utils.PermissHelper.request(PermissHelper.java:102)
+	at com.mihetao.research.impl.HybridBridge.openAppAuth(HybridBridge.java:362)
+	... 14 more
