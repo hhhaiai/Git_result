@@ -1,0 +1,7 @@
+org.json.JSONException: No value for openid
+	at org.json.JSONObject.get(JSONObject.java:400)
+	at org.json.JSONObject.getString(JSONObject.java:561)
+	at com.mihetao.research.a.i$b.handleMessage(Unknown Source:117)
+	at android.os.Handler.dispatchMessage(Handler.java:106)
+	at android.os.Looper.loop(Looper.java:236)
+	at android.os.HandlerThread.run(HandlerThread.java:67)
