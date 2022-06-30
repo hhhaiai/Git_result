@@ -1,0 +1,11 @@
+java.lang.RuntimeException: java.lang.Throwable: A WebView method was called on thread 'thread-1'. All WebView methods must be called on the same thread. (Expected Looper Looper (main, tid 1) {4de7fbb} called on Looper (thread-1, tid 12311) {8fd0bc5}, FYI main Looper is Looper (main, tid 1) {4de7fbb})
+	at android.webkit.WebView.checkThread(WebView.java:2612)
+	at android.webkit.WebView.loadUrl(WebView.java:754)
+	at com.mihetao.research.impl.HybridBridge.userOpenIdResult(Unknown Source:510)
+	at com.mihetao.research.a.i$b.handleMessage(Unknown Source:131)
+	at android.os.Handler.dispatchMessage(Handler.java:110)
+	at android.os.Looper.loop(Looper.java:219)
+	at android.os.HandlerThread.run(HandlerThread.java:67)
+Caused by: java.lang.Throwable: A WebView method was called on thread 'thread-1'. All WebView methods must be called on the same thread. (Expected Looper Looper (main, tid 1) {4de7fbb} called on Looper (thread-1, tid 12311) {8fd0bc5}, FYI main Looper is Looper (main, tid 1) {4de7fbb})
+	at android.webkit.WebView.checkThread(WebView.java:2607)
+	... 6 more
