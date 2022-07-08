@@ -1,0 +1,315 @@
+{
+    "屏幕信息": {
+        "widthPixels": 1080,
+        "heightPixels": 1920,
+        "density": 3,
+        "scaledDensity": 3,
+        "densityDpi": 480,
+        "xdpi": 370.702,
+        "ydpi": 369.454,
+        "widthPixels1": 1080,
+        "heightPixels1": 1920,
+        "density1": 3,
+        "scaledDensity1": 3,
+        "densityDpi1": 480,
+        "xdpi1": 370.702,
+        "ydpi1": 369.454,
+        "widthPixels2": 1080,
+        "heightPixels2": 1920,
+        "density2": 3,
+        "scaledDensity2": 3,
+        "densityDpi2": 480,
+        "xdpi2": 370.702,
+        "ydpi2": 369.454,
+        "t-width": 360,
+        "t-height": 640,
+        "t-w": 1080,
+        "t-h": 1920
+    },
+    "设备信息": {
+        "SystemName": "Android",
+        "SystemVersion": "8.1.0",
+        "DeviceBrand": "OPPO",
+        "DeviceModel": "OPPO R11 Plusk",
+        "SerialNumber": "17ecacf7",
+        "IMEIS": "865132039868976|865132039868968|A0000070E1F45B",
+        "ApplicationChannel": "CHANNEL-OPPO",
+        "ApplicationKey": "APPKE",
+        "APILevel": "27",
+        "UA": "Mozilla\/5.0 (Linux; Android 8.1.0; OPPO R11 Plusk Build\/OPM1.171019.011; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/62.0.3202.84 Mobile Safari\/537.36",
+        "TargetSdkVersion": "30",
+        "BootTimeMilliseconds": "1657126908537",
+        "Simulator": "0",
+        "Debug": "0",
+        "Hijack": "0",
+        "SDK--utdid": "YJt\/NViQrAcDAC9nFdtWTQ06",
+        "IsRoot": "0",
+        "SystemFontSize": "0",
+        "SystemHour": "12",
+        "SystemLanguage": "zh",
+        "SystemArea": "CN",
+        "TimeZone": "GMT+08:00",
+        "SenSorModuleName": [
+            {
+                "SenSorName": "LSM6DS3 Accelerometer",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "STMicroelectronics",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.8999999761581421
+            },
+            {
+                "SenSorName": "LSM6DS3 Accelerometer Uncalibrated",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "STMicroelectronics",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.8999999761581421
+            },
+            {
+                "SenSorName": "AK09911 Magnetometer",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "AKM",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 2.4000000953674316
+            },
+            {
+                "SenSorName": "AK09911 Magnetometer Uncalibrated",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "AKM",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 2.4000000953674316
+            },
+            {
+                "SenSorName": "LSM6DS3 Gyroscope",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "STMicroelectronics",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.8999999761581421
+            },
+            {
+                "SenSorName": "LSM6DS3 Gyroscope Uncalibrated",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "STMicroelectronics",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.8999999761581421
+            },
+            {
+                "SenSorName": "stk3210 PRX",
+                "SenSorVersion": "2",
+                "SenSorManufacturer": "Sensortek",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.10000000149011612
+            },
+            {
+                "SenSorName": "stk3210 ALS",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "Sensortek",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.10000000149011612
+            },
+            {
+                "SenSorName": "Gravity",
+                "SenSorVersion": "2",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 1.79998779296875
+            },
+            {
+                "SenSorName": "Linear Acceleration",
+                "SenSorVersion": "2",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 1.79998779296875
+            },
+            {
+                "SenSorName": "Rotation Vector",
+                "SenSorVersion": "2",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 3.29998779296875
+            },
+            {
+                "SenSorName": "Step Detector",
+                "SenSorVersion": "2",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.899993896484375
+            },
+            {
+                "SenSorName": "Significant Motion Detector",
+                "SenSorVersion": "2",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.899993896484375
+            },
+            {
+                "SenSorName": "Game Rotation Vector",
+                "SenSorVersion": "2",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 1.79998779296875
+            },
+            {
+                "SenSorName": "GeoMagnetic Rotation Vector",
+                "SenSorVersion": "2",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 3.29998779296875
+            },
+            {
+                "SenSorName": "Orientation",
+                "SenSorVersion": "2",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 3.29998779296875
+            },
+            {
+                "SenSorName": "Motion",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "OPPO",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "DeviceOrientation",
+                "SenSorVersion": "2",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.899993896484375
+            },
+            {
+                "SenSorName": "Android Stationary Detector",
+                "SenSorVersion": "2",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.899993896484375
+            },
+            {
+                "SenSorName": "Android Motion Detector",
+                "SenSorVersion": "2",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.899993896484375
+            },
+            {
+                "SenSorName": "LSM6DS3 Step Counter",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "STMicroelectronics",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.8999999761581421
+            },
+            {
+                "SenSorName": "AMD",
+                "SenSorVersion": "2",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.899993896484375
+            },
+            {
+                "SenSorName": "RMD",
+                "SenSorVersion": "2",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.899993896484375
+            },
+            {
+                "SenSorName": "Pedometer",
+                "SenSorVersion": "2",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.899993896484375
+            },
+            {
+                "SenSorName": "Motion Accel",
+                "SenSorVersion": "2",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.899993896484375
+            },
+            {
+                "SenSorName": "Zhq SENSORS_LOG",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "Zhq",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.10999999940395355
+            },
+            {
+                "SenSorName": "Free_fall",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "OPPO",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "Action_detect",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "OPPO",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "Persistent Motion Detector",
+                "SenSorVersion": "2",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.899993896484375
+            }
+        ],
+        "CPUModel": "arm64-v8a:",
+        "BuildId": "OPM1.171019.011",
+        "BuildDisplay": "R11Plusk_11_A.54_200528",
+        "BuildProduct": "R11Plusk",
+        "BuildDevice": "R11Plusk",
+        "BuildBoard": "sdm660",
+        "BuildHardware": "qcom",
+        "BuildSupportedAbis": "arm64-v8a,armeabi-v7a,armeabi",
+        "BuildSupportedAbis32": "armeabi-v7a,armeabi",
+        "BuildSupportedAbis64": "arm64-v8a",
+        "BuildType": "user",
+        "BuildTags": "release-keys",
+        "BuildFingerPrint": "OPPO\/R11Plusk\/R11Plusk:8.1.0\/OPM1.171019.011\/1575877917:user\/release-keys",
+        "BuildRadioVersion": "Q_V1_P14,Q_V1_P14",
+        "BuildIncremental": "1590666042",
+        "BuildBaseOS": "OPPO\/R11Plusk\/R11Plusk:8.1.0\/OPM1.171019.011\/1571804910:user\/release-keys",
+        "BuildSecurityPatch": "2019-11-05",
+        "BuildPreviewSdkInt": "0",
+        "BuildSdkInt": "27",
+        "BuildCodename": "REL",
+        "ETDM": {
+            "BatteryStatus": "5",
+            "BatteryHealth": "2",
+            "BatteryLevel": "100",
+            "BatteryScale": "100",
+            "BatteryPlugged": "2",
+            "BatteryTechnology": "Li-ion"
+        }
+    }
+}
