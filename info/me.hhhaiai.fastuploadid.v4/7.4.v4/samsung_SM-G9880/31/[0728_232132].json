@@ -1,0 +1,413 @@
+{
+    "Unknow": {
+        "App-Count": 375,
+        "com.sec.android.app.myfiles": 1659020522000,
+        "com.sec.android.app.myfiles-files": 1659020522000,
+        "com.samsung.android.spay": 1659020301000,
+        "com.samsung.android.spay-cache": 1659020302000,
+        "com.sohu.inputmethod.sogou.samsung": 1659016427000,
+        "com.sohu.inputmethod.sogou.samsung-cache": 1659016427000,
+        "com.sohu.inputmethod.sogou.samsung-files": 1659016427000,
+        "com.google.android.gms": 1659019372000,
+        "com.google.android.gms-cache": 1659019372000,
+        "com.samsung.android.app.routines": 1659018814000,
+        "com.samsung.android.app.routines-cache": 1659018814000,
+        "com.samsung.android.forest": 1659020522000,
+        "com.samsung.android.forest-files": 1659020522000,
+        "com.samsung.android.spayfw": 1659020301000,
+        "com.samsung.android.spayfw-cache": 1659020301000,
+        "Research-Count": 16
+    },
+    "屏幕信息": {
+        "widthPixels": 1440,
+        "heightPixels": 3048,
+        "density": 3.5,
+        "scaledDensity": 3.5,
+        "densityDpi": 560,
+        "xdpi": 515.154,
+        "ydpi": 511.194,
+        "widthPixels1": 1440,
+        "heightPixels1": 3200,
+        "density1": 3.5,
+        "scaledDensity1": 3.5,
+        "densityDpi1": 560,
+        "xdpi1": 515.154,
+        "ydpi1": 511.194,
+        "widthPixels2": 1440,
+        "heightPixels2": 3048,
+        "density2": 3.5,
+        "scaledDensity2": 3.5,
+        "densityDpi2": 560,
+        "xdpi2": 515.154,
+        "ydpi2": 511.194,
+        "t-width": 411.42856,
+        "t-height": 870.8571,
+        "t-w": 1440,
+        "t-h": 3200
+    },
+    "设备信息": {
+        "SystemName": "Android",
+        "SystemVersion": "12",
+        "DeviceBrand": "samsung",
+        "DeviceModel": "SM-G9880",
+        "ApplicationChannel": "CHANNEL-samsung",
+        "ApplicationKey": "APPKE",
+        "APILevel": "31",
+        "UA": "Mozilla\/5.0 (Linux; Android 12; SM-G9880 Build\/SP1A.210812.016; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/96.0.4664.104 Mobile Safari\/537.36",
+        "TargetSdkVersion": "31",
+        "BootTimeMilliseconds": "1658959229457",
+        "Simulator": "0",
+        "Debug": "0",
+        "Hijack": "0",
+        "SDK--utdid": "Xzz49BWhXg4DADKTPzPqQg1y",
+        "IsRoot": "0",
+        "SystemFontSize": "0",
+        "SystemHour": "12",
+        "SystemLanguage": "zh",
+        "SystemArea": "CN",
+        "TimeZone": "GMT+08:00",
+        "SenSorModuleName": [
+            {
+                "SenSorName": "LSM6DSO Accelerometer",
+                "SenSorVersion": "15932",
+                "SenSorManufacturer": "STMicro",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.17000000178813934
+            },
+            {
+                "SenSorName": "AK09918 Magnetometer",
+                "SenSorVersion": "146952",
+                "SenSorManufacturer": "akm",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 1.100000023841858
+            },
+            {
+                "SenSorName": "LSM6DSO Gyroscope",
+                "SenSorVersion": "15932",
+                "SenSorManufacturer": "STMicro",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.550000011920929
+            },
+            {
+                "SenSorName": "TMD4907 Light Ambient Light Sensor Non-wakeup",
+                "SenSorVersion": "384",
+                "SenSorManufacturer": "AMS",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.10000000149011612
+            },
+            {
+                "SenSorName": "lps22hh Pressure Sensor Non-wakeup",
+                "SenSorVersion": "133386",
+                "SenSorManufacturer": "STMicro",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.012000000104308128
+            },
+            {
+                "SenSorName": "gravity  Non-wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "qualcomm",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.5149999856948853
+            },
+            {
+                "SenSorName": "linear_acceleration",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "qualcomm",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.5149999856948853
+            },
+            {
+                "SenSorName": "Rotation Vector  Non-wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "qualcomm",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 1.4149999618530273
+            },
+            {
+                "SenSorName": "AK09918 Magnetometer-Uncalibrated",
+                "SenSorVersion": "146952",
+                "SenSorManufacturer": "akm",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 1.100000023841858
+            },
+            {
+                "SenSorName": "Game Rotation Vector  Non-wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "qualcomm",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.5149999856948853
+            },
+            {
+                "SenSorName": "LSM6DSO Gyroscope-Uncalibrated",
+                "SenSorVersion": "15932",
+                "SenSorManufacturer": "STMicro",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.550000011920929
+            },
+            {
+                "SenSorName": "smd  Wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "Samsung",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "step_detector  Non-wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "Samsung",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "step_counter  Non-wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "Samsung",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "Tilt Detector  Wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "Samsung",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "Pick Up Gesture  Wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "Samsung",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "Screen Orientation Sensor",
+                "SenSorVersion": "1040",
+                "SenSorManufacturer": "Samsung",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "motion_detect",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "qualcomm",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.02500000037252903
+            },
+            {
+                "SenSorName": "LSM6DSO Accelerometer-Uncalibrated",
+                "SenSorVersion": "15932",
+                "SenSorManufacturer": "STMicro",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.17000000178813934
+            },
+            {
+                "SenSorName": "WideIR ALS",
+                "SenSorVersion": "384",
+                "SenSorManufacturer": "AMS",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.10000000149011612
+            },
+            {
+                "SenSorName": "interrupt_gyro  Non-wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "Samsung",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "Proximity strm",
+                "SenSorVersion": "384",
+                "SenSorManufacturer": "AMS",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.10000000149011612
+            },
+            {
+                "SenSorName": "SensorHub type",
+                "SenSorVersion": "2",
+                "SenSorManufacturer": "SAMSUNG",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "TMD4907 Light CCT  Non-wakeup",
+                "SenSorVersion": "384",
+                "SenSorManufacturer": "AMS",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.10000000149011612
+            },
+            {
+                "SenSorName": "Wake Up Motion  Wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "Samsung",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "TMD4907 Proximity Proximity Sensor Wakeup",
+                "SenSorVersion": "384",
+                "SenSorManufacturer": "AMS",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.10000000149011612
+            },
+            {
+                "SenSorName": "call_gesture  Wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "Samsung",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "TMD4907 Light Auto Brightness Non-wakeup",
+                "SenSorVersion": "384",
+                "SenSorManufacturer": "AMS",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.10000000149011612
+            },
+            {
+                "SenSorName": "Pocket mode  Wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "Samsung",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "Led Cover Event  Wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "Samsung",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "Shake to Share  Wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "Samsung",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "A96T3X6 Grip sensor",
+                "SenSorVersion": "14",
+                "SenSorManufacturer": "ABOV",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.75
+            },
+            {
+                "SenSorName": "Touch Proximity Sensor",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "Samsung Electronics",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.75
+            },
+            {
+                "SenSorName": "Hall IC",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "Samsung Electronics",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.75
+            },
+            {
+                "SenSorName": "TCS3407 Rear ALS",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "AMS",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 1
+            },
+            {
+                "SenSorName": "Palm Proximity Sensor",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "Samsung",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0
+            },
+            {
+                "SenSorName": "Ear call-gesture state",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "Samsung",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0
+            },
+            {
+                "SenSorName": "Motion Sensor",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "Samsung Electronics",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0
+            },
+            {
+                "SenSorName": "Orientation Sensor",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "Samsung Electronics",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 1.4149999618530273
+            }
+        ],
+        "CPUModel": "arm64-v8a:",
+        "BuildId": "SP1A.210812.016",
+        "BuildDisplay": "SP1A.210812.016.G9880ZCU3FVF3",
+        "BuildProduct": "z3qzcx",
+        "BuildDevice": "z3q",
+        "BuildBoard": "kona",
+        "BuildBootloader": "G9880ZCU3FVF3",
+        "BuildHardware": "qcom",
+        "BuildSupportedAbis": "arm64-v8a,armeabi-v7a,armeabi",
+        "BuildSupportedAbis32": "armeabi-v7a,armeabi",
+        "BuildSupportedAbis64": "arm64-v8a",
+        "BuildType": "user",
+        "BuildTags": "release-keys",
+        "BuildFingerPrint": "samsung\/z3qzcx\/z3q:12\/SP1A.210812.016\/G9880ZCU3FVF3:user\/release-keys",
+        "BuildRadioVersion": "G9880ZCU3FVF2,G9880ZCU3FVF2",
+        "BuildIncremental": "G9880ZCU3FVF3",
+        "BuildSecurityPatch": "2022-04-01",
+        "BuildPreviewSdkInt": "0",
+        "BuildSdkInt": "31",
+        "BuildCodename": "REL",
+        "IDFA": "ea668989-38fe-4854-ac12-48041389ad55",
+        "ETDM": {
+            "BatteryStatus": "5",
+            "BatteryHealth": "2",
+            "BatteryLevel": "100",
+            "BatteryScale": "100",
+            "BatteryPlugged": "0",
+            "BatteryTechnology": "Li-ion"
+        }
+    }
+}
