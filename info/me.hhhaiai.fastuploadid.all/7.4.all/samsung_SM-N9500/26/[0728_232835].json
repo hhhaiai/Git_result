@@ -1,0 +1,401 @@
+{
+    "Unknow": {
+        "App-Count": 346,
+        "com.tencent.mobileqq": 1659021487000,
+        "com.tencent.mobileqq-files": 1659021487000,
+        "com.samsung.android.bixby.agent": 1659021551000,
+        "com.samsung.android.bixby.agent-files": 1659021551000,
+        "com.samsung.android.mobileservice": 1659021552000,
+        "com.samsung.android.mobileservice-cache": 1659021552000,
+        "com.sec.android.app.launcher": 1659021497000,
+        "com.sec.android.app.launcher-cache": 1659021497000,
+        "Research-Count": 9
+    },
+    "屏幕信息": {
+        "widthPixels": 1080,
+        "heightPixels": 2094,
+        "density": 2.625,
+        "scaledDensity": 2.8875,
+        "densityDpi": 420,
+        "xdpi": 386.3655,
+        "ydpi": 388.8825,
+        "widthPixels1": 1080,
+        "heightPixels1": 2220,
+        "density1": 2.625,
+        "scaledDensity1": 2.625,
+        "densityDpi1": 420,
+        "xdpi1": 386.3655,
+        "ydpi1": 388.8825,
+        "widthPixels2": 1080,
+        "heightPixels2": 2220,
+        "density2": 2.625,
+        "scaledDensity2": 2.625,
+        "densityDpi2": 420,
+        "xdpi2": 386.3655,
+        "ydpi2": 388.8825,
+        "t-width": 411.42856,
+        "t-height": 797.7143,
+        "t-w": 1080,
+        "t-h": 2220
+    },
+    "设备信息": {
+        "SystemName": "Android",
+        "SystemVersion": "8.0.0",
+        "DeviceBrand": "samsung",
+        "DeviceModel": "SM-N9500",
+        "SerialNumber": "ce071717f19be4db0b7e",
+        "IMEIS": "358520080948297|358521080948295|35852008094829",
+        "ApplicationChannel": "CHANNEL-samsung",
+        "ApplicationKey": "APPKE",
+        "APILevel": "26",
+        "UA": "Mozilla\/5.0 (Linux; Android 8.0.0; SM-N9500 Build\/R16NW; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/66.0.3359.126 Mobile Safari\/537.36",
+        "TargetSdkVersion": "31",
+        "BootTimeMilliseconds": "1643083915037",
+        "Simulator": "0",
+        "Debug": "0",
+        "Hijack": "0",
+        "SDK--utdid": "YuKpDLPuuggDAPJZ\/xQOKC\/H",
+        "IsRoot": "0",
+        "SystemFontSize": "0",
+        "SystemHour": "12",
+        "SystemLanguage": "zh",
+        "SystemArea": "CN",
+        "TimeZone": "GMT+08:00",
+        "SenSorModuleName": [
+            {
+                "SenSorName": "LSM6DSL Accelerometer",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "STMicroelectronics",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.15000000596046448
+            },
+            {
+                "SenSorName": "LSM6DSL Accelerometer Uncalibrated",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "STMicroelectronics",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.15000000596046448
+            },
+            {
+                "SenSorName": "AK09916C Magnetometer",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "AKM",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 1.100000023841858
+            },
+            {
+                "SenSorName": "AK09916C Magnetometer Uncalibrated",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "AKM",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 1.100000023841858
+            },
+            {
+                "SenSorName": "LSM6DSL Gyroscope",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "STMicroelectronics",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.44999998807907104
+            },
+            {
+                "SenSorName": "LSM6DSL Gyroscope Uncalibrated",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "STMicroelectronics",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.44999998807907104
+            },
+            {
+                "SenSorName": "TMD4906 PROX",
+                "SenSorVersion": "2",
+                "SenSorManufacturer": "AMS TAOS",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.10000000149011612
+            },
+            {
+                "SenSorName": "TMD4906 ALS",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "AMS TAOS",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.10000000149011612
+            },
+            {
+                "SenSorName": "LPS22HB Barometer",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "STMicroelectronics",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.2750000059604645
+            },
+            {
+                "SenSorName": "Gravity",
+                "SenSorVersion": "2",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.5999908447265625
+            },
+            {
+                "SenSorName": "Linear Acceleration",
+                "SenSorVersion": "2",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.5999908447265625
+            },
+            {
+                "SenSorName": "Rotation Vector",
+                "SenSorVersion": "2",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 1.54998779296875
+            },
+            {
+                "SenSorName": "Step Detector",
+                "SenSorVersion": "2",
+                "SenSorManufacturer": "Samsung Electronics",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "Step Counter",
+                "SenSorVersion": "2",
+                "SenSorManufacturer": "Samsung Electronics",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "Significant Motion Detector",
+                "SenSorVersion": "2",
+                "SenSorManufacturer": "Samsung Electronics",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.149993896484375
+            },
+            {
+                "SenSorName": "Game Rotation Vector",
+                "SenSorVersion": "2",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.5999908447265625
+            },
+            {
+                "SenSorName": "Orientation",
+                "SenSorVersion": "2",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 1.54998779296875
+            },
+            {
+                "SenSorName": "Tilt Detector",
+                "SenSorVersion": "2",
+                "SenSorManufacturer": "Samsung Electronics",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.149993896484375
+            },
+            {
+                "SenSorName": "Pick Up Gesture",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "Samsung Electronics",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.25
+            },
+            {
+                "SenSorName": "Gyro Interrupt",
+                "SenSorVersion": "2",
+                "SenSorManufacturer": "Samsung",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.4499969482421875
+            },
+            {
+                "SenSorName": "Iris Prox",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "Samsung",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "TMD4906 Wide ALS",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "AMS TAOS",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.10000000149011612
+            },
+            {
+                "SenSorName": "TMD4906 Flicker",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "AMS TAOS",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.10000000149011612
+            },
+            {
+                "SenSorName": "SensorHub type",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "Samsung",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "TMD4906 ALS-CCT",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "AMS TAOS",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.10000000149011612
+            },
+            {
+                "SenSorName": "AMD",
+                "SenSorVersion": "2",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.149993896484375
+            },
+            {
+                "SenSorName": "RMD",
+                "SenSorVersion": "2",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.149993896484375
+            },
+            {
+                "SenSorName": "SX9320 Grip Sensor",
+                "SenSorVersion": "512",
+                "SenSorManufacturer": "SEMTECH",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.75
+            },
+            {
+                "SenSorName": "Rear Ambient Light",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "MAXIM",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 1
+            },
+            {
+                "SenSorName": "Rear Proximity detecting",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "MAXIM",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 1
+            },
+            {
+                "SenSorName": "HRMLED IR",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "MAXIM",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 1
+            },
+            {
+                "SenSorName": "HRMLED RED",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "MAXIM",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 1
+            },
+            {
+                "SenSorName": "MAX86907",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "MAXIM",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 1
+            },
+            {
+                "SenSorName": "Screen Orientation Sensor",
+                "SenSorVersion": "3",
+                "SenSorManufacturer": "Samsung Electronics",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0
+            },
+            {
+                "SenSorName": "HRM Sensor",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "Samsung Electronics",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0
+            },
+            {
+                "SenSorName": "HeartRate Sensor",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "Samsung Electronics",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0
+            },
+            {
+                "SenSorName": "Motion Sensor",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "Samsung Electronics",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0
+            },
+            {
+                "SenSorName": "Orientation Sensor",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "Samsung Electronics",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 1.54998779296875
+            }
+        ],
+        "CPUModel": "arm64-v8a:",
+        "BuildId": "R16NW",
+        "BuildDisplay": "R16NW.N9500ZCS4CRH1",
+        "BuildProduct": "greatqltezc",
+        "BuildDevice": "greatqltechn",
+        "BuildBoard": "msm8998",
+        "BuildBootloader": "N9500ZCS4CRH1",
+        "BuildHardware": "qcom",
+        "BuildSupportedAbis": "arm64-v8a,armeabi-v7a,armeabi",
+        "BuildSupportedAbis32": "armeabi-v7a,armeabi",
+        "BuildSupportedAbis64": "arm64-v8a",
+        "BuildType": "user",
+        "BuildTags": "release-keys",
+        "BuildFingerPrint": "samsung\/greatqltezc\/greatqltechn:8.0.0\/R16NW\/N9500ZCS4CRH1:user\/release-keys",
+        "BuildRadioVersion": "N9500ZCS3CRH1",
+        "BuildIncremental": "N9500ZCS4CRH1",
+        "BuildBaseOS": "samsung\/greatqltezc\/greatqltechn:8.0.0\/R16NW\/N9500ZCU4CRG2:user\/release-keys",
+        "BuildSecurityPatch": "2018-08-01",
+        "BuildPreviewSdkInt": "0",
+        "BuildSdkInt": "26",
+        "BuildCodename": "REL",
+        "IDFA": "81394e86-9c91-43aa-942d-3ff4065e1460",
+        "ETDM": {
+            "BatteryStatus": "5",
+            "BatteryHealth": "2",
+            "BatteryLevel": "100",
+            "BatteryScale": "100",
+            "BatteryPlugged": "2",
+            "BatteryTechnology": "Li-ion"
+        }
+    }
+}
