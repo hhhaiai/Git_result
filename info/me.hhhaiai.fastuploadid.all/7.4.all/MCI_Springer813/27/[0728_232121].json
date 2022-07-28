@@ -1,0 +1,219 @@
+{
+    "Unknow": {
+        "App-Count": 79,
+        "com.baidu.msc.trafficinspector": 1659021285000,
+        "com.baidu.msc.trafficinspector-cache": 1659021285000,
+        "com.baidu.springer": 1659008452000,
+        "com.baidu.springer-files": 1659021290000,
+        "Research-Count": 5
+    },
+    "屏幕信息": {
+        "widthPixels": 720,
+        "heightPixels": 1280,
+        "density": 2,
+        "scaledDensity": 2,
+        "densityDpi": 320,
+        "xdpi": 213,
+        "ydpi": 213,
+        "widthPixels1": 720,
+        "heightPixels1": 1280,
+        "density1": 2,
+        "scaledDensity1": 2,
+        "densityDpi1": 320,
+        "xdpi1": 213,
+        "ydpi1": 213,
+        "widthPixels2": 720,
+        "heightPixels2": 1280,
+        "density2": 2,
+        "scaledDensity2": 2,
+        "densityDpi2": 320,
+        "xdpi2": 213,
+        "ydpi2": 213,
+        "t-width": 360,
+        "t-height": 640,
+        "t-w": 720,
+        "t-h": 1280
+    },
+    "设备信息": {
+        "SystemName": "Android",
+        "SystemVersion": "8.1.0",
+        "DeviceBrand": "MCI",
+        "DeviceModel": "Springer813",
+        "SerialNumber": "RW1SPRINGERH55M7",
+        "IMEIS": "867981023273033|A1000002B0BEB2",
+        "IMSIS": "460001391655775",
+        "ApplicationChannel": "CHANNEL-MCI",
+        "ApplicationKey": "APPKE",
+        "APILevel": "27",
+        "UA": "Mozilla\/5.0 (Linux; Android 8.1.0; Springer813 Build\/OPM8.190605.005; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/61.0.3163.98 Mobile Safari\/537.36",
+        "TargetSdkVersion": "31",
+        "BootTimeMilliseconds": "1653532229054",
+        "Simulator": "0",
+        "Debug": "0",
+        "Hijack": "0",
+        "SDK--utdid": "YuKpSoAp77oDABy9JVLIVAtt",
+        "IsRoot": "0",
+        "SystemFontSize": "0",
+        "SystemHour": "12",
+        "SystemLanguage": "zh",
+        "SystemArea": "CN",
+        "TimeZone": "GMT+08:00",
+        "SenSorModuleName": [
+            {
+                "SenSorName": "Acceleration sensor",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "AOSP",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.20000000298023224
+            },
+            {
+                "SenSorName": "Compass Magnetic field sensor",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "AOSP",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 6.800000190734863
+            },
+            {
+                "SenSorName": "Compass Orientation sensor",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "AOSP",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 7
+            },
+            {
+                "SenSorName": "Gravity sensor",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "AOSP",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.20000000298023224
+            },
+            {
+                "SenSorName": "BMI160 Step counter",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "Bosch",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 6.099999904632568
+            },
+            {
+                "SenSorName": "BMI160 Step detector",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "Bosch",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 6.099999904632568
+            },
+            {
+                "SenSorName": "Gyroscope sensor",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "AOSP",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 6.099999904632568
+            },
+            {
+                "SenSorName": "Light sensor",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "AOSP",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.5
+            },
+            {
+                "SenSorName": "Proximity sensor",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "AOSP",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.5
+            },
+            {
+                "SenSorName": "Pressure sensor",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "AOSP",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 1
+            },
+            {
+                "SenSorName": "Temperature sensor",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "AOSP",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 1
+            },
+            {
+                "SenSorName": "Game Rotation Vector Sensor",
+                "SenSorVersion": "3",
+                "SenSorManufacturer": "AOSP",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 13.100000381469727
+            },
+            {
+                "SenSorName": "GeoMag Rotation Vector Sensor",
+                "SenSorVersion": "3",
+                "SenSorManufacturer": "AOSP",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 13.100000381469727
+            },
+            {
+                "SenSorName": "Linear Acceleration Sensor",
+                "SenSorVersion": "3",
+                "SenSorManufacturer": "AOSP",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 13.100000381469727
+            },
+            {
+                "SenSorName": "Rotation Vector Sensor",
+                "SenSorVersion": "3",
+                "SenSorManufacturer": "AOSP",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 13.100000381469727
+            },
+            {
+                "SenSorName": "Orientation Sensor",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "AOSP",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 13.100000381469727
+            }
+        ],
+        "CPUModel": "arm64-v8a:",
+        "BuildId": "OPM8.190605.005",
+        "BuildDisplay": "OPM8.190605.005 release-keys",
+        "BuildProduct": "hikay960lite_springer",
+        "BuildDevice": "hikay960lite",
+        "BuildBoard": "hikay960lite",
+        "BuildHardware": "hikay960",
+        "BuildSupportedAbis": "arm64-v8a,armeabi-v7a,armeabi",
+        "BuildSupportedAbis32": "armeabi-v7a,armeabi",
+        "BuildSupportedAbis64": "arm64-v8a",
+        "BuildType": "user",
+        "BuildTags": "release-keys",
+        "BuildFingerPrint": "MCI\/hikay960lite_springer\/hikay960lite:8.1.0\/OPM8.190605.005\/root12061141:user\/release-keys",
+        "BuildRadioVersion": "CBP8.2,21.258.08.00.030",
+        "BuildIncremental": "eng.root.20211206.114127",
+        "BuildSecurityPatch": "2019-06-05",
+        "BuildPreviewSdkInt": "0",
+        "BuildSdkInt": "27",
+        "BuildCodename": "REL",
+        "ETDM": {
+            "BatteryStatus": "4",
+            "BatteryHealth": "2",
+            "BatteryLevel": "51",
+            "BatteryScale": "100",
+            "BatteryPlugged": "0",
+            "BatteryTechnology": "Li-poly"
+        }
+    }
+}
