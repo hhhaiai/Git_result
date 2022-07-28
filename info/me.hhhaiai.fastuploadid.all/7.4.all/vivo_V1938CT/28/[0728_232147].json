@@ -1,0 +1,320 @@
+{
+    "Unknow": {
+        "App-Count": 269,
+        "com.ss.android.article.news": 1659021536000,
+        "com.ss.android.article.news-cache": 1659021536000,
+        "com.ss.android.article.news-files": 1659021595000,
+        "com.ss.android.article.video": 1659021596000,
+        "com.ss.android.article.video-cache": 1659021596000,
+        "com.ss.android.article.video-files": 1659021607000,
+        "com.vivo.globalsearch": 1659021599000,
+        "com.vivo.favorite": 1659021574000,
+        "com.vivo.favorite-cache": 1659021571000,
+        "Research-Count": 10
+    },
+    "屏幕信息": {
+        "widthPixels": 2310,
+        "heightPixels": 1080,
+        "density": 3,
+        "scaledDensity": 3,
+        "densityDpi": 480,
+        "xdpi": 409.432,
+        "ydpi": 409.127,
+        "widthPixels1": 2400,
+        "heightPixels1": 1080,
+        "density1": 3,
+        "scaledDensity1": 3,
+        "densityDpi1": 480,
+        "xdpi1": 409.432,
+        "ydpi1": 409.127,
+        "widthPixels2": 2310,
+        "heightPixels2": 1080,
+        "density2": 3,
+        "scaledDensity2": 3,
+        "densityDpi2": 480,
+        "xdpi2": 409.432,
+        "ydpi2": 409.127,
+        "t-width": 770,
+        "t-height": 360,
+        "t-w": 2400,
+        "t-h": 1080
+    },
+    "设备信息": {
+        "SystemName": "Android",
+        "SystemVersion": "9",
+        "DeviceBrand": "vivo",
+        "DeviceModel": "V1938CT",
+        "SerialNumber": "0000018d8ed8704e",
+        "IMEIS": "984316486500010|350695200123951|02119843164865",
+        "ApplicationChannel": "CHANNEL-vivo",
+        "ApplicationKey": "APPKE",
+        "APILevel": "28",
+        "UA": "Mozilla\/5.0 (Linux; Android 9; V1938CT Build\/PPR1.180610.011; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/68.0.3440.91 Mobile Safari\/537.36",
+        "TargetSdkVersion": "31",
+        "BootTimeMilliseconds": "1659010271287",
+        "Simulator": "0",
+        "Debug": "0",
+        "Hijack": "0",
+        "SDK--utdid": "XRlNHPF5nq4DAMmIxMmb0JLB",
+        "IsRoot": "0",
+        "SystemFontSize": "0",
+        "SystemHour": "12",
+        "SystemLanguage": "zh",
+        "SystemArea": "CN",
+        "TimeZone": "GMT+08:00",
+        "SenSorModuleName": [
+            {
+                "SenSorName": "TCS3701 Proximity Sensor",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "AMS",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "TCS3701 Light Sensor",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "AMS",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "LSM6DSM accelerometer",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "ST",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "LSM6DSM accelerometer (uncalibrated)",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "ST",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "LSM6DSM gyroscope",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "ST",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "LSM6DSM gyroscope (uncalibrated)",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "ST",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "AKM09918 magnetometer",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "AKM",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "AKM09918 magnetometer (uncalibrated)",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "AKM",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "Orientation",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "VIVO",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "Step detector",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "VIVO",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "Step counter",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "VIVO",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "Significant motion",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "Samsung",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "Any motion",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "Samsung",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "Gravity",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "VIVO",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "Linear Acceleration",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "VIVO",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "Rotation Vector",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "VIVO",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "Geomagnetic Rotation Vector",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "VIVO",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "Game Rotation Vector",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "VIVO",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "Device Orientation",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "Google",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "Raiseup detect",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "VIVO",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "Putdown detect",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "VIVO",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "ambient light scene",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "VIVO",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "vivomotion",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "VIVO",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "smartprox detect",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "VIVO",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "Window Orientation",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "VIVO",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "angle judge",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "VIVO",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "algo-prox",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "vivo",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.009999999776482582
+            },
+            {
+                "SenSorName": "Proximity Sensor",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "vivo",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.5
+            }
+        ],
+        "CPUModel": "arm64-v8a:",
+        "BuildId": "PPR1.180610.011",
+        "BuildDisplay": "PPR1.180610.011 release-keys",
+        "BuildProduct": "PD1938C",
+        "BuildDevice": "PD1938",
+        "BuildBoard": "erd9630",
+        "BuildHardware": "exynos980",
+        "BuildSupportedAbis": "arm64-v8a,armeabi-v7a,armeabi",
+        "BuildSupportedAbis32": "armeabi-v7a,armeabi",
+        "BuildSupportedAbis64": "arm64-v8a",
+        "BuildType": "user",
+        "BuildTags": "release-keys",
+        "BuildFingerPrint": "vivo\/PD1938C\/PD1938:9\/PPR1.180610.011\/compiler07271826:user\/release-keys",
+        "BuildRadioVersion": "cp_200227_PD1938_A_1.19.15,cp_200227_PD1938_A_1.19.15",
+        "BuildIncremental": "eng.compil.20200727.182733",
+        "BuildSecurityPatch": "2020-05-01",
+        "BuildPreviewSdkInt": "0",
+        "BuildSdkInt": "28",
+        "BuildCodename": "REL",
+        "IDFA": "0702c804-ab6b-4b9c-ae4b-c0ba8c583c66",
+        "ETDM": {
+            "BatteryStatus": "2",
+            "BatteryHealth": "2",
+            "BatteryLevel": "41",
+            "BatteryScale": "100",
+            "BatteryPlugged": "2",
+            "BatteryTechnology": "Li-poly"
+        }
+    }
+}
