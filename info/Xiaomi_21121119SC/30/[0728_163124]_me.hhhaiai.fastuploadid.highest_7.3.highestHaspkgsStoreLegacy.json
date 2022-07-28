@@ -1,0 +1,290 @@
+{
+    "Unknow": {
+        "com.miui.gallery": 1658995999000,
+        "com.miui.gallery-cache": 1658995999000,
+        "com.miui.gallery-files": 1658995999000,
+        "com.android.browser": 1658997083000,
+        "com.android.browser-cache": 1658997083000,
+        "com.android.browser-files": 1658997083000,
+        "com.android.camera": 1658994139000,
+        "com.android.camera-cache": 1658994139000,
+        "com.android.camera-files": 1658994139000,
+        "com.xiaomi.market": 1658995998000,
+        "com.xiaomi.market-files": 1658996232000,
+        "com.miui.powerkeeper": 1658994942000,
+        "com.miui.powerkeeper-files": 1658994942000,
+        "com.xiaomi.account": 1658995487000,
+        "com.xiaomi.account-files": 1658995487000,
+        "com.miui.systemAdSolution": 1658995045000,
+        "com.miui.systemAdSolution-files": 1658995454000,
+        "com.miui.daemon": 1658994139000,
+        "com.miui.daemon-files": 1658995454000,
+        "com.xiaomi.xmsf": 1658994162000,
+        "com.xiaomi.xmsf-files": 1658994942000,
+        "com.xiaomi.finddevice": 1658994323000,
+        "com.xiaomi.finddevice-files": 1658994943000,
+        "com.miui.newhome": 1658997068000,
+        "com.miui.newhome-cache": 1658997068000,
+        "com.miui.newhome-files": 1658997066000,
+        "com.xiaomi.misettings": 1658994139000,
+        "com.xiaomi.misettings-files": 1658994139000,
+        "com.miui.cloudservice": 1658995454000,
+        "com.miui.cloudservice-files": 1658995927000,
+        "Count": 30
+    },
+    "屏幕信息": {
+        "widthPixels": 1080,
+        "heightPixels": 2167,
+        "density": 2.75,
+        "scaledDensity": 2.75,
+        "densityDpi": 440,
+        "xdpi": 405.103,
+        "ydpi": 405.103,
+        "widthPixels1": 1080,
+        "heightPixels1": 2400,
+        "density1": 2.75,
+        "scaledDensity1": 2.75,
+        "densityDpi1": 440,
+        "xdpi1": 405.103,
+        "ydpi1": 405.103,
+        "widthPixels2": 1080,
+        "heightPixels2": 2167,
+        "density2": 2.75,
+        "scaledDensity2": 2.75,
+        "densityDpi2": 440,
+        "xdpi2": 405.103,
+        "ydpi2": 405.103,
+        "t-width": 392.72726,
+        "t-height": 788,
+        "t-w": 1080,
+        "t-h": 2400
+    },
+    "设备信息": {
+        "SystemName": "Android",
+        "SystemVersion": "11",
+        "DeviceBrand": "Redmi",
+        "UM-OAID": "67ec8b9fbfdb1ea9",
+        "DeviceModel": "21121119SC",
+        "ApplicationChannel": "CHANNEL-Xiaomi",
+        "ApplicationKey": "APPKE",
+        "APILevel": "30",
+        "UA": "Mozilla\/5.0 (Linux; Android 11; 21121119SC Build\/RP1A.200720.011; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/94.0.4606.85 Mobile Safari\/537.36",
+        "TargetSdkVersion": "31",
+        "BootTimeMilliseconds": "1658993086289",
+        "Simulator": "0",
+        "Debug": "0",
+        "Hijack": "0",
+        "SDK--utdid": "YuJJXFg8k0sDABBGHrxBb4qj",
+        "IsRoot": "0",
+        "SystemFontSize": "0",
+        "SystemHour": "12",
+        "SystemLanguage": "zh",
+        "SystemArea": "CN",
+        "TimeZone": "GMT+08:00",
+        "SenSorModuleName": [
+            {
+                "SenSorName": "lis2hh12",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "ST",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "akm09918",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "AKM",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "ORIENTATION",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "MTK",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "virtual_gyro",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "ST",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "tmd2755_l",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "AMS",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "tmd2755_p",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "AMS",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "GRAVITY",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "MTK",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "LINEARACCEL",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "MTK",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "ROTATION_VECTOR",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "MTK",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "GAME_ROTATION_VECTOR",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "MTK",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "SIGNIFICANT_MOTION",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "MTK",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "STEP_DETECTOR",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "MTK",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "STEP_COUNTER",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "MTK",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "GEOMAGNETIC_ROTATION_VECTOR",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "MTK",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "TILT_DETECTOR",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "MTK",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "GLANCE_GESTURE",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "MTK",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "pickup  Wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "xiaomi",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "DEVICE_ORIENTATION",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "MTK",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "STATIONARY_DETECT",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "MTK",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "MOTION_DETECT",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "MTK",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "UNCALI_ACC",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "MTK",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "STEP_DETECTOR_WAKEUP",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "MTK",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.0010000000474974513
+            }
+        ],
+        "CPUModel": "arm64-v8a:",
+        "BuildId": "RP1A.200720.011",
+        "BuildDisplay": "AL5186-selene-build-20220411180847",
+        "BuildProduct": "selene",
+        "BuildDevice": "selene",
+        "BuildBoard": "selene",
+        "BuildHardware": "mt6768",
+        "BuildSupportedAbis": "arm64-v8a,armeabi-v7a,armeabi",
+        "BuildSupportedAbis32": "armeabi-v7a,armeabi",
+        "BuildSupportedAbis64": "arm64-v8a",
+        "BuildType": "user",
+        "BuildTags": "release-keys",
+        "BuildFingerPrint": "Redmi\/selene\/selene:11\/RP1A.200720.011\/V12.5.12.0.RKUCNXM:user\/release-keys",
+        "BuildRadioVersion": "MOLY.LR12A.R3.MP.V153.11.P98,MOLY.LR12A.R3.MP.V153.11.P98",
+        "BuildIncremental": "V12.5.12.0.RKUCNXM",
+        "BuildSecurityPatch": "2022-04-01",
+        "BuildPreviewSdkInt": "0",
+        "BuildSdkInt": "30",
+        "BuildCodename": "REL",
+        "ETDM": {
+            "BatteryStatus": "5",
+            "BatteryHealth": "2",
+            "BatteryLevel": "100",
+            "BatteryScale": "100",
+            "BatteryPlugged": "1",
+            "BatteryTechnology": "Li-poly"
+        }
+    }
+}
