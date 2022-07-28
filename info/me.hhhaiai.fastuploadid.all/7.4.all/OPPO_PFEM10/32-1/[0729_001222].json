@@ -1,0 +1,391 @@
+{
+    "Unknow": {
+        "App-Count": 390,
+        "com.oplus.videoeditor": 1658320636000,
+        "com.coloros.backuprestore": 1640966540000,
+        "com.heytap.cloud": 1640966522000,
+        "com.heytap.health": 1640966533000,
+        "com.heytap.music": 1640966519000,
+        "com.coloros.phonemanager": 1640967790000,
+        "com.finshell.wallet": 1640966525000,
+        "cn.com.langeasy.LangEasyLexis": 1658310704000,
+        "com.ss.android.ugc.aweme.lite": 1658492625000,
+        "com.oplus.vip": 1655383075000,
+        "com.heytap.market": 1640966528000,
+        "com.baidu.searchbox": 1658887389000,
+        "com.android.contacts": 1640966546000,
+        "tv.danmaku.bili": 1658902578000,
+        "com.android.mms": 1640966517000,
+        "com.ss.android.ugc.aweme": 1658383516000,
+        "com.heytap.speechassist": 1640966533000,
+        "com.nearme.gamecenter": 1640966577000,
+        "com.heytap.yoli": 1658199627000,
+        "com.coloros.note": 1640966529000,
+        "com.sina.weibo": 1658931355000,
+        "com.oplus.autotest.appcrawler": 1658137204000,
+        "com.eg.android.AlipayGphone": 1658321948000,
+        "com.heytap.browser": 1640966528000,
+        "com.taobao.taobao": 1658812954000,
+        "com.coloros.soundrecorder": 1640966529000,
+        "com.android.email": 1640966534000,
+        "com.heytap.themestore": 1640966607000,
+        "com.oplus.camera": 1640967602000,
+        "com.coloros.gallery3d": 1658317090000,
+        "com.heytap.pictorial": 1640966523000,
+        "com.oplus.location": 1640966516000,
+        "com.oplus.onetrace": 1640966532000,
+        "com.coloros.activation": 1640966525000,
+        "com.nearme.instant.platform": 1640966727000,
+        "com.sohu.inputmethod.sogouoem": 1640966519000,
+        "com.iflytek.speechsuite": 1658292505000,
+        "com.heytap.accessory": 1640966516000,
+        "com.oplus.linker": 1640966516000,
+        "com.qti.ltebc": 1640966537000,
+        "com.oplus.sau": 1655428511000,
+        "com.oplus.appdetail": 1640967789000,
+        "com.ted.number": 1640966524000,
+        "com.coloros.operationManual": 1655382977000,
+        "com.google.android.gms": 1640967761000,
+        "com.android.packageinstaller": 1655383527000,
+        "com.oplus.omoji": 1640966525000,
+        "com.oplus.logkit": 1658136986000,
+        "com.heytap.quicksearchbox": 1640966540000,
+        "com.oplus.uxdesign": 1640966530000,
+        "com.opos.ads": 1655383070000,
+        "Research-Count": 52
+    },
+    "屏幕信息": {
+        "widthPixels": 1080,
+        "heightPixels": 2268,
+        "density": 3,
+        "scaledDensity": 3,
+        "densityDpi": 480,
+        "xdpi": 391.885,
+        "ydpi": 392.723,
+        "widthPixels1": 1080,
+        "heightPixels1": 2412,
+        "density1": 3,
+        "scaledDensity1": 3,
+        "densityDpi1": 480,
+        "xdpi1": 391.885,
+        "ydpi1": 392.723,
+        "widthPixels2": 1080,
+        "heightPixels2": 2268,
+        "density2": 3,
+        "scaledDensity2": 3,
+        "densityDpi2": 480,
+        "xdpi2": 391.885,
+        "ydpi2": 392.723,
+        "t-width": 360,
+        "t-height": 756,
+        "t-w": 1080,
+        "t-h": 2412
+    },
+    "设备信息": {
+        "SystemName": "Android",
+        "SystemVersion": "13",
+        "DeviceBrand": "OPPO",
+        "DeviceModel": "PFEM10",
+        "ApplicationChannel": "CHANNEL-OPPO",
+        "ApplicationKey": "APPKE",
+        "APILevel": "32",
+        "UA": "Mozilla\/5.0 (Linux; Android 13; Build\/SKQ1.211113.001; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/101.0.4951.15 Mobile Safari\/537.36",
+        "TargetSdkVersion": "31",
+        "BootTimeMilliseconds": "1655383377662",
+        "Simulator": "0",
+        "Debug": "0",
+        "Hijack": "0",
+        "SDK--utdid": "YuK1ViPAWWgDADPy58gzrDri",
+        "IsRoot": "0",
+        "SystemFontSize": "0",
+        "SystemHour": "12",
+        "SystemLanguage": "zh",
+        "SystemArea": "CN",
+        "TimeZone": "GMT+08:00",
+        "SenSorModuleName": [
+            {
+                "SenSorName": "icm4x6xx Accelerometer Non-wakeup",
+                "SenSorVersion": "309",
+                "SenSorManufacturer": "TDK-Invensense",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.23999999463558197
+            },
+            {
+                "SenSorName": "ak0991x Magnetometer Non-wakeup",
+                "SenSorVersion": "146953",
+                "SenSorManufacturer": "akm",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 1.100000023841858
+            },
+            {
+                "SenSorName": "Rotation Vector  Non-wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 1.4149999618530273
+            },
+            {
+                "SenSorName": "icm4x6xx Gyroscope Non-wakeup",
+                "SenSorVersion": "309",
+                "SenSorManufacturer": "TDK-Invensense",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.5699999928474426
+            },
+            {
+                "SenSorName": "tcs3701 Ambient Light Sensor Non-wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "oplus",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.07999999821186066
+            },
+            {
+                "SenSorName": "tcs3701 Proximity Sensor Wakeup",
+                "SenSorVersion": "205",
+                "SenSorManufacturer": "oplus",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.10000000149011612
+            },
+            {
+                "SenSorName": "gravity  Non-wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.5149999856948853
+            },
+            {
+                "SenSorName": "linear_acceleration",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.5149999856948853
+            },
+            {
+                "SenSorName": "Rotation Vector  Non-wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 1.4149999618530273
+            },
+            {
+                "SenSorName": "ak0991x Magnetometer-Uncalibrated Non-wakeup",
+                "SenSorVersion": "146953",
+                "SenSorManufacturer": "akm",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 1.100000023841858
+            },
+            {
+                "SenSorName": "Game Rotation Vector  Non-wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.5149999856948853
+            },
+            {
+                "SenSorName": "icm4x6xx Gyroscope-Uncalibrated Non-wakeup",
+                "SenSorVersion": "309",
+                "SenSorManufacturer": "TDK-Invensense",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.5699999928474426
+            },
+            {
+                "SenSorName": "sns_smd  Wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.02500000037252903
+            },
+            {
+                "SenSorName": "pedometer  Non-wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "oplus",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "pedometer  Non-wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "oplus",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "sns_geomag_rv  Non-wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 1.0499999523162842
+            },
+            {
+                "SenSorName": "pick_up_motion  Wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "oplus",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "device_orient  Non-wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "oplus",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "stationary_detect",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.02500000037252903
+            },
+            {
+                "SenSorName": "motion_detect",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.02500000037252903
+            },
+            {
+                "SenSorName": "icm4x6xx Accelerometer-Uncalibrated Non-wakeup",
+                "SenSorVersion": "309",
+                "SenSorManufacturer": "TDK-Invensense",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.23999999463558197
+            },
+            {
+                "SenSorName": "tcs3701 RGB Sensor Non-wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "oplus",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.07999999821186066
+            },
+            {
+                "SenSorName": "sensor_logger  Non-wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "oplus",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "lux_aod  Wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "oplus",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "pedometer_minute  Wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "oplus",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "elevator_detect  Wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "oplus",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "oplus_activity_recognition  Wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "oplus",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "as7352 RGB Sensor Rear Non-wakeup",
+                "SenSorVersion": "16",
+                "SenSorManufacturer": "oplus",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.07999999821186066
+            },
+            {
+                "SenSorName": "as7352 Flicker Sensor Rear Non-wakeup",
+                "SenSorVersion": "16",
+                "SenSorManufacturer": "oplus",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.07999999821186066
+            },
+            {
+                "SenSorName": "as7352 Ambient Light Sensor Rear Non-wakeup",
+                "SenSorVersion": "16",
+                "SenSorManufacturer": "oplus",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.07999999821186066
+            },
+            {
+                "SenSorName": "as7352 SPECTRAL Sensor Rear Non-wakeup",
+                "SenSorVersion": "16",
+                "SenSorManufacturer": "oplus",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.07999999821186066
+            },
+            {
+                "SenSorName": "camera_protect  Wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "oplus",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.0010000000474974513
+            }
+        ],
+        "CPUModel": "arm64-v8a:",
+        "BuildId": "SKQ1.211113.001",
+        "BuildDisplay": "PFEM10_11_C.02",
+        "BuildProduct": "PFEM10",
+        "BuildDevice": "OP5209L1",
+        "BuildBoard": "taro",
+        "BuildHardware": "qcom",
+        "BuildSupportedAbis": "arm64-v8a,armeabi-v7a,armeabi",
+        "BuildSupportedAbis32": "armeabi-v7a,armeabi",
+        "BuildSupportedAbis64": "arm64-v8a",
+        "BuildType": "user",
+        "BuildTags": "release-keys",
+        "BuildFingerPrint": "OPPO\/PFEM10\/OP5209L1:13\/SKQ1.211113.001\/S.202206031546:user\/release-keys",
+        "BuildRadioVersion": "Q_V1_P14,Q_V1_P14",
+        "BuildIncremental": "S.202206031546",
+        "BuildSecurityPatch": "2022-05-05",
+        "BuildPreviewSdkInt": "1",
+        "BuildSdkInt": "32",
+        "BuildCodename": "Tiramisu",
+        "ETDM": {
+            "BatteryStatus": "5",
+            "BatteryHealth": "2",
+            "BatteryLevel": "100",
+            "BatteryScale": "100",
+            "BatteryPlugged": "2",
+            "BatteryTechnology": "7"
+        }
+    }
+}
