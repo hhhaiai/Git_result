@@ -1,0 +1,341 @@
+{
+    "Unknow": {
+        "App-Count": 313,
+        "com.android.mms": 1659022132000,
+        "com.android.mms-cache": 1659022132000,
+        "com.nearme.gamecenter": 1659022223000,
+        "com.nearme.gamecenter-cache": 1659022223000,
+        "com.nearme.gamecenter-files": 1659022223000,
+        "com.heytap.themestore": 1659022000000,
+        "com.heytap.themestore-cache": 1659022000000,
+        "com.heytap.themestore-files": 1659022001000,
+        "com.heytap.pictorial": 1659021920000,
+        "com.heytap.pictorial-files": 1659021920000,
+        "com.sohu.inputmethod.sogouoem": 1659022129000,
+        "com.sohu.inputmethod.sogouoem-cache": 1659022129000,
+        "com.sohu.inputmethod.sogouoem-files": 1659022129000,
+        "com.android.vending": 1659022237000,
+        "com.android.vending-files": 1659022237000,
+        "com.oplus.appdetail": 1659021991000,
+        "com.oplus.appdetail-files": 1659021991000,
+        "com.android.packageinstaller": 1659022000000,
+        "com.android.packageinstaller-cache": 1659022000000,
+        "com.opos.ads": 1659021991000,
+        "com.opos.ads-cache": 1659021991000,
+        "com.coloros.uxdesign": 1659022000000,
+        "com.coloros.uxdesign-cache": 1659022000000,
+        "Research-Count": 24
+    },
+    "屏幕信息": {
+        "widthPixels": 1080,
+        "heightPixels": 2264,
+        "density": 3.375,
+        "scaledDensity": 3.375,
+        "densityDpi": 540,
+        "xdpi": 397.565,
+        "ydpi": 401.594,
+        "widthPixels1": 1080,
+        "heightPixels1": 2340,
+        "density1": 3.375,
+        "scaledDensity1": 3.375,
+        "densityDpi1": 540,
+        "xdpi1": 397.565,
+        "ydpi1": 401.594,
+        "widthPixels2": 1080,
+        "heightPixels2": 2264,
+        "density2": 3.375,
+        "scaledDensity2": 3.375,
+        "densityDpi2": 540,
+        "xdpi2": 397.565,
+        "ydpi2": 401.594,
+        "t-width": 320,
+        "t-height": 670.8148,
+        "t-w": 1080,
+        "t-h": 2340
+    },
+    "设备信息": {
+        "SystemName": "Android",
+        "SystemVersion": "10",
+        "DeviceBrand": "OPPO",
+        "DeviceModel": "PBEM00",
+        "SerialNumber": "001808508901032000010896",
+        "ApplicationChannel": "CHANNEL-OPPO",
+        "ApplicationKey": "APPKE",
+        "APILevel": "29",
+        "UA": "Mozilla\/5.0 (Linux; Android 10; PBEM00 Build\/QKQ1.190918.001; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/77.0.3865.92 Mobile Safari\/537.36",
+        "TargetSdkVersion": "31",
+        "BootTimeMilliseconds": "1658972751623",
+        "Simulator": "0",
+        "Debug": "0",
+        "Hijack": "0",
+        "SDK--utdid": "XGwNMo1sIUIDABCz0r6Cjm8O",
+        "IsRoot": "0",
+        "SystemFontSize": "0",
+        "SystemHour": "12",
+        "SystemLanguage": "zh",
+        "SystemArea": "CN",
+        "TimeZone": "GMT+08:00",
+        "SenSorModuleName": [
+            {
+                "SenSorName": "gravity  Non-wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "qualcomm",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.5149999856948853
+            },
+            {
+                "SenSorName": "lsm6dsm  Non-wakeup",
+                "SenSorVersion": "345",
+                "SenSorManufacturer": "STMicro",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.024000000208616257
+            },
+            {
+                "SenSorName": "motion_detect",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "qualcomm",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.02500000037252903
+            },
+            {
+                "SenSorName": "pedometer  Non-wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "qualcomm",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.15000000596046448
+            },
+            {
+                "SenSorName": "free_fall  Wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "oppo",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "move_detect  Wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "oppo",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "lsm6dsm Accelerometer-Uncalibrated Non-wakeup",
+                "SenSorVersion": "345",
+                "SenSorManufacturer": "STMicro",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.15000000596046448
+            },
+            {
+                "SenSorName": "stationary_detect",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "qualcomm",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.02500000037252903
+            },
+            {
+                "SenSorName": "Device Orientation  Non-wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "qualcomm",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.02500000037252903
+            },
+            {
+                "SenSorName": "mmc3530kj Magnetometer Non-wakeup",
+                "SenSorVersion": "256",
+                "SenSorManufacturer": "MEMSIC",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.10000000149011612
+            },
+            {
+                "SenSorName": "tsl2540 Ambient Light Sensor Wakeup",
+                "SenSorVersion": "256",
+                "SenSorManufacturer": "ams AG",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.07999999821186066
+            },
+            {
+                "SenSorName": "tsl2540 Ambient Light Sensor Non-wakeup",
+                "SenSorVersion": "256",
+                "SenSorManufacturer": "ams AG",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.07999999821186066
+            },
+            {
+                "SenSorName": "sns_smd  Wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "qualcomm",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.02500000037252903
+            },
+            {
+                "SenSorName": "monitor monitor Sensor Non-wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "oppo",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "tp_gesture  Wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "oppo",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "mmc3530kj Magnetometer-Uncalibrated Non-wakeup",
+                "SenSorVersion": "256",
+                "SenSorManufacturer": "MEMSIC",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.10000000149011612
+            },
+            {
+                "SenSorName": "Rotation Vector  Non-wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "qualcomm",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 1.4149999618530273
+            },
+            {
+                "SenSorName": "stk_stk3x3x  Wakeup",
+                "SenSorVersion": "205",
+                "SenSorManufacturer": "sensortek",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.10000000149011612
+            },
+            {
+                "SenSorName": "linear_acceleration",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "qualcomm",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.5149999856948853
+            },
+            {
+                "SenSorName": "sensor_logger  Non-wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "oppo",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "pick_up_motion  Wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "oppo",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "sns_geomag_rv  Non-wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "qualcomm",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 1.0499999523162842
+            },
+            {
+                "SenSorName": "lsm6dsm Gyroscope-Uncalibrated Non-wakeup",
+                "SenSorVersion": "345",
+                "SenSorManufacturer": "STMicro",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.5550000071525574
+            },
+            {
+                "SenSorName": "Game Rotation Vector  Non-wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "qualcomm",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.5149999856948853
+            },
+            {
+                "SenSorName": "lsm6dsm Gyroscope Non-wakeup",
+                "SenSorVersion": "345",
+                "SenSorManufacturer": "STMicro",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.5550000071525574
+            },
+            {
+                "SenSorName": "Rotation Vector  Non-wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "qualcomm",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 1.4149999618530273
+            },
+            {
+                "SenSorName": "lsm6dsm Accelerometer Non-wakeup",
+                "SenSorVersion": "345",
+                "SenSorManufacturer": "STMicro",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.15000000596046448
+            },
+            {
+                "SenSorName": "tp_proximity",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "oppo",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 1
+            },
+            {
+                "SenSorName": "OPPO TP Proximity Sensor",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "OPPO",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.8050000071525574
+            }
+        ],
+        "CPUModel": "arm64-v8a:",
+        "BuildId": "QKQ1.190918.001",
+        "BuildDisplay": "PBEM00_11_F.25",
+        "BuildProduct": "PBEM00",
+        "BuildDevice": "PBEM00",
+        "BuildBoard": "sdm710",
+        "BuildHardware": "qcom",
+        "BuildSupportedAbis": "arm64-v8a,armeabi-v7a,armeabi",
+        "BuildSupportedAbis32": "armeabi-v7a,armeabi",
+        "BuildSupportedAbis64": "arm64-v8a",
+        "BuildType": "user",
+        "BuildTags": "release-keys",
+        "BuildFingerPrint": "OPPO\/PBEM00\/PBEM00:10\/QKQ1.190918.001\/2021060001:user\/release-keys",
+        "BuildRadioVersion": "Q_V1_P14,Q_V1_P14",
+        "BuildIncremental": "2021060001",
+        "BuildSecurityPatch": "2021-05-05",
+        "BuildPreviewSdkInt": "0",
+        "BuildSdkInt": "29",
+        "BuildCodename": "REL",
+        "IDFA": "149a9921-3127-4b29-babf-33ff3a083e05",
+        "ETDM": {
+            "BatteryStatus": "5",
+            "BatteryHealth": "2",
+            "BatteryLevel": "100",
+            "BatteryScale": "100",
+            "BatteryPlugged": "2",
+            "BatteryTechnology": "Li-ion"
+        }
+    }
+}
