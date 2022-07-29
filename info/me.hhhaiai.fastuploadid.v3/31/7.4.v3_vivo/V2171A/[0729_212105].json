@@ -1,0 +1,363 @@
+{
+    "Unknow": {
+        "App-Count": 381,
+        "com.tencent.mm": 1659100713000,
+        "com.wuba": 1659100308000,
+        "com.tencent.qqlive": 1658510635000,
+        "com.ss.android.article.news": 1652760147000,
+        "com.iqoo.secure": 1659100713000,
+        "com.ximalaya.ting.android": 1658846985000,
+        "com.autonavi.minimap": 1659057308000,
+        "ctrip.android.view": 1654103677000,
+        "com.sina.weibo": 1659098024000,
+        "com.smile.gifmaker": 1659059172000,
+        "com.ss.android.article.video": 1651821558000,
+        "com.taobao.taobao": 1659090406000,
+        "com.achievo.vipshop": 1658752382000,
+        "Research-Count": 14
+    },
+    "屏幕信息": {
+        "widthPixels": 1080,
+        "heightPixels": 2313,
+        "density": 3,
+        "scaledDensity": 3,
+        "densityDpi": 480,
+        "xdpi": 397.565,
+        "ydpi": 398.431,
+        "widthPixels1": 1080,
+        "heightPixels1": 2400,
+        "density1": 3,
+        "scaledDensity1": 3,
+        "densityDpi1": 480,
+        "xdpi1": 397.565,
+        "ydpi1": 398.431,
+        "widthPixels2": 1080,
+        "heightPixels2": 2313,
+        "density2": 3,
+        "scaledDensity2": 3,
+        "densityDpi2": 480,
+        "xdpi2": 397.565,
+        "ydpi2": 398.431,
+        "t-width": 360,
+        "t-height": 771,
+        "t-w": 1080,
+        "t-h": 2400
+    },
+    "设备信息": {
+        "SystemName": "Android",
+        "SystemVersion": "12",
+        "DeviceBrand": "vivo",
+        "UM-OAID": "87a6f669dc337b2427c5ab9fc9aa93d013a38b7a93f11fa34bccb3ecc46ccb6c",
+        "DeviceModel": "V2171A",
+        "ApplicationChannel": "CHANNEL-vivo",
+        "ApplicationKey": "APPKE",
+        "APILevel": "31",
+        "UA": "Mozilla\/5.0 (Linux; Android 12; V2171A Build\/SP1A.210812.003; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/95.0.4638.74 Mobile Safari\/537.36",
+        "TargetSdkVersion": "31",
+        "BootTimeMilliseconds": "1659057136588",
+        "Simulator": "0",
+        "Debug": "0",
+        "Hijack": "0",
+        "SDK--utdid": "YuPeOU0UcXoDAHMflMHhVekP",
+        "IsRoot": "0",
+        "SystemFontSize": "0",
+        "SystemHour": "12",
+        "SystemLanguage": "zh",
+        "SystemArea": "CN",
+        "TimeZone": "GMT+08:00",
+        "SenSorModuleName": [
+            {
+                "SenSorName": "icm4x6xx Accelerometer Non-wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "TDK-Invensense",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.23999999463558197
+            },
+            {
+                "SenSorName": "maglib_mag  Non-wakeup",
+                "SenSorVersion": "2",
+                "SenSorManufacturer": "vivo",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "orientation  Non-wakeup",
+                "SenSorVersion": "2",
+                "SenSorManufacturer": "vivo",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "vsen_gyro Gyroscope Non-wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "vivo",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "stk33735 Ambient Light Sensor Non-wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "vivo",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.09000000357627869
+            },
+            {
+                "SenSorName": "stk33735 Proximity Sensor Wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "vivo",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.09000000357627869
+            },
+            {
+                "SenSorName": "gravity  Non-wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.5149999856948853
+            },
+            {
+                "SenSorName": "rotation_vector  Non-wakeup",
+                "SenSorVersion": "2",
+                "SenSorManufacturer": "vivo",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "uncali_mag  Non-wakeup",
+                "SenSorVersion": "2",
+                "SenSorManufacturer": "vivo",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "Game Rotation Vector  Non-wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.5149999856948853
+            },
+            {
+                "SenSorName": "vsen_gyro Gyroscope-Uncalibrated Non-wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "vivo",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "sns_smd  Wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.02500000037252903
+            },
+            {
+                "SenSorName": "step_detect  Non-wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.15000000596046448
+            },
+            {
+                "SenSorName": "pedometer  Non-wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "vivo",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "sns_geomag_rv  Non-wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 1.0499999523162842
+            },
+            {
+                "SenSorName": "sns_tilt  Wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.02500000037252903
+            },
+            {
+                "SenSorName": "Device Orientation  Non-wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.02500000037252903
+            },
+            {
+                "SenSorName": "stationary_detect_wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.02500000037252903
+            },
+            {
+                "SenSorName": "motion_detect",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.02500000037252903
+            },
+            {
+                "SenSorName": "icm4x6xx Accelerometer-Uncalibrated Non-wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "TDK-Invensense",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.23999999463558197
+            },
+            {
+                "SenSorName": "amd  Wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.02500000037252903
+            },
+            {
+                "SenSorName": "win_orient  Non-wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "vivo",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "raiseup  Wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "vivo",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "putdown  Non-wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "vivo",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "vivomotion  Wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "vivo",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "angle_judge  Non-wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "vivo",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "lit_up  Wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "vivo",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "smartprox  Wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "vivo",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "drop_depth  Wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "vivo",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "icm4x6xx Sensor Temperature Sensor Non-wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "TDK-Invensense",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.23999999463558197
+            },
+            {
+                "SenSorName": "EDGE  Non-wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "vivo",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "elevator_detect  Non-wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "vivo",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "Linear Acceleration Sensor",
+                "SenSorVersion": "3",
+                "SenSorManufacturer": "AOSP",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.24199999868869781
+            }
+        ],
+        "CPUModel": "arm64-v8a:",
+        "BuildId": "SP1A.210812.003",
+        "BuildDisplay": "SP1A.210812.003 release-keys",
+        "BuildProduct": "PD2171",
+        "BuildDevice": "PD2171",
+        "BuildBoard": "taro",
+        "BuildHardware": "qcom",
+        "BuildSupportedAbis": "arm64-v8a,armeabi-v7a,armeabi",
+        "BuildSupportedAbis32": "armeabi-v7a,armeabi",
+        "BuildSupportedAbis64": "arm64-v8a",
+        "BuildType": "user",
+        "BuildTags": "release-keys",
+        "BuildFingerPrint": "vivo\/PD2171\/PD2171:12\/SP1A.210812.003\/compiler04191629:user\/release-keys",
+        "BuildRadioVersion": ".0.c3-00008-WAIPIO_GEN_PACK-1.3705.135.6403.2,.0.c3-00008-WAIPIO_GEN_PACK-1.3705.135.6403.2",
+        "BuildIncremental": "compiler04191629",
+        "BuildSecurityPatch": "2022-04-01",
+        "BuildPreviewSdkInt": "0",
+        "BuildSdkInt": "31",
+        "BuildCodename": "REL",
+        "IDFA": "acfcb40a-34ed-49fa-afbe-875c24672052",
+        "ETDM": {
+            "BatteryStatus": "2",
+            "BatteryHealth": "2",
+            "BatteryLevel": "75",
+            "BatteryScale": "100",
+            "BatteryPlugged": "2",
+            "BatteryTechnology": "Li-poly"
+        }
+    }
+}
