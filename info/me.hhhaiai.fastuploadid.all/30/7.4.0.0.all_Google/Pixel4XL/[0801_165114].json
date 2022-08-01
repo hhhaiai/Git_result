@@ -1,0 +1,407 @@
+{
+    "Unknow": {
+        "App-Count": 356,
+        "com.google.android.youtube": 1657084894000,
+        "com.google.android.youtube-cache": 1659343173000,
+        "com.google.android.youtube-files": 1657084893000,
+        "com.google.android.googlequicksearchbox": 1657084964000,
+        "com.google.android.googlequicksearchbox-files": 1659326605000,
+        "org.telegram.messenger": 1657614272000,
+        "org.telegram.messenger-cache": 1659325271000,
+        "org.telegram.messenger-files": 1657614272000,
+        "org.getlantern.lantern": 1657084902000,
+        "org.getlantern.lantern-cache": 1657084902000,
+        "org.getlantern.lantern-files": 1657084902000,
+        "io.va.exposed64": 1658476167000,
+        "io.va.exposed64-files": 1658474713000,
+        "com.minhui.networkcapture": 1657084937000,
+        "com.minhui.networkcapture-cache": 1657515653000,
+        "com.blackhole.network": 1657515121000,
+        "com.blackhole.network-files": 1657515121000,
+        "com.google.android.apps.messaging": 1657237426000,
+        "com.google.android.apps.messaging-files": 1657237426000,
+        "at.box": 1659327558000,
+        "at.box-files": 1659327559000,
+        "com.v2cross.proxy": 1657515653000,
+        "com.v2cross.proxy-cache": 1657515653000,
+        "com.v2cross.proxy-files": 1657515654000,
+        "com.v2ray.ang": 1659331774000,
+        "com.v2ray.ang-files": 1659331774000,
+        "me.b32": 1659336124000,
+        "me.b32-files": 1659336125000,
+        "com.android.vending": 1657167858000,
+        "com.android.vending-files": 1657167866000,
+        "com.csii_qzbank": 1658989486000,
+        "com.csii_qzbank-cache": 1658989486000,
+        "com.csii_qzbank-files": 1658989496000,
+        "com.qidian.QDReader": 1659324005000,
+        "com.qidian.QDReader-cache": 1659324005000,
+        "com.qidian.QDReader-files": 1659342163000,
+        "com.google.android.gm": 1657084924000,
+        "com.google.android.gm-cache": 1657084924000,
+        "com.google.android.apps.nbu.files": 1657084908000,
+        "com.google.android.apps.nbu.files-files": 1657084908000,
+        "com.google.android.apps.docs": 1657084905000,
+        "com.google.android.apps.docs-cache": 1657084905000,
+        "com.google.android.apps.maps": 1657084906000,
+        "com.google.android.apps.maps-cache": 1657084906000,
+        "com.google.android.apps.maps-files": 1657084906000,
+        "top.niunaijun.blackdexa": 1658992091000,
+        "top.niunaijun.blackdexa-cache": 1658992090000,
+        "top.niunaijun.blackdexa-files": 1658992091000,
+        "com.android.chrome": 1657084897000,
+        "com.android.chrome-files": 1657084897000,
+        "com.google.android.videos": 1657614446000,
+        "com.google.android.videos-files": 1657614446000,
+        "com.google.android.apps.photos": 1658044191000,
+        "com.google.android.apps.photos-files": 1658044191000,
+        "com.tencent.qqpinyin": 1659328392000,
+        "com.tencent.qqpinyin-cache": 1659328392000,
+        "com.tencent.qqpinyin-files": 1659328392000,
+        "com.google.android.projection.gearhead": 1657520877000,
+        "com.google.android.projection.gearhead-files": 1657520877000,
+        "com.guoshi.httpcanary": 1646050858000,
+        "com.guoshi.httpcanary-cache": 1657515348000,
+        "com.network.xfjsq": 1657084957000,
+        "com.network.xfjsq-cache": 1657084957000,
+        "com.google.android.apps.youtube.music": 1659328562000,
+        "com.google.android.apps.youtube.music-files": 1659328562000,
+        "com.google.android.gms": 1657084930000,
+        "com.google.android.gms-cache": 1657084930000,
+        "com.google.android.gms-files": 1657084893000,
+        "Research-Count": 69
+    },
+    "设备信息": {
+        "SystemName": "Android",
+        "SystemVersion": "11",
+        "DeviceBrand": "google",
+        "DeviceModel": "Pixel 4 XL",
+        "ApplicationChannel": "CHANNEL-Google",
+        "ApplicationKey": "APPKE",
+        "APILevel": "30",
+        "UA": "Mozilla\/5.0 (Linux; Android 11; Pixel 4 XL Build\/RQ3A.211001.001; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/103.0.5060.71 Mobile Safari\/537.36",
+        "TargetSdkVersion": "31",
+        "BootTimeMilliseconds": "1659324031945",
+        "Simulator": "0",
+        "Debug": "1",
+        "Hijack": "0",
+        "SDK--utdid": "YueQrh4H+XsDABtf\/mFmo2lT",
+        "IsRoot": "1",
+        "SystemFontSize": "0",
+        "SystemHour": "12",
+        "SystemLanguage": "zh",
+        "SystemArea": "CN",
+        "TimeZone": "GMT+08:00",
+        "SenSorModuleName": [
+            {
+                "SenSorName": "LSM6DSR Accelerometer",
+                "SenSorVersion": "142338",
+                "SenSorManufacturer": "STMicro",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.17000000178813934
+            },
+            {
+                "SenSorName": "LIS2MDL Magnetometer",
+                "SenSorVersion": "262",
+                "SenSorManufacturer": "STMicro",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.20000000298023224
+            },
+            {
+                "SenSorName": "LSM6DSR Gyroscope",
+                "SenSorVersion": "142338",
+                "SenSorManufacturer": "STMicro",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.550000011920929
+            },
+            {
+                "SenSorName": "TMD3702V Ambient Light Sensor",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "AMS",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "BMP380 Pressure Sensor",
+                "SenSorVersion": "8709",
+                "SenSorManufacturer": "Bosch",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.699999988079071
+            },
+            {
+                "SenSorName": "TMD3702V Proximity Sensor (wake-up)",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "AMS",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "LIS2MDL Magnetometer-Uncalibrated",
+                "SenSorVersion": "262",
+                "SenSorManufacturer": "STMicro",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.20000000298023224
+            },
+            {
+                "SenSorName": "LSM6DSR Gyroscope-Uncalibrated",
+                "SenSorVersion": "142338",
+                "SenSorManufacturer": "STMicro",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.550000011920929
+            },
+            {
+                "SenSorName": "LSM6DSR Accelerometer-Uncalibrated",
+                "SenSorVersion": "142338",
+                "SenSorManufacturer": "STMicro",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.17000000178813934
+            },
+            {
+                "SenSorName": "MAX11261 Edge-Detect Sensor",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "Maxim",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "LSM6DSR Temperature",
+                "SenSorVersion": "142338",
+                "SenSorManufacturer": "STMicro",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.23999999463558197
+            },
+            {
+                "SenSorName": "BMP380 Temperature",
+                "SenSorVersion": "8709",
+                "SenSorManufacturer": "Bosch",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.30000001192092896
+            },
+            {
+                "SenSorName": "LIS2MDL Temperature",
+                "SenSorVersion": "262",
+                "SenSorManufacturer": "STMicro",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "camera v-sync 0",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "Google",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "camera v-sync 1",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "Google",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "camera v-sync 2",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "Google",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "TMD3702V Color Sensor",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "AMS",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "VD6282 Rear Light",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "STMicro",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "Combo Light",
+                "SenSorVersion": "2",
+                "SenSorManufacturer": "Google",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "Binned Brightness",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "Google",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.20000000298023224
+            },
+            {
+                "SenSorName": "Device Pickup Sensor",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "Google",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.25
+            },
+            {
+                "SenSorName": "Proximity Gated Single Tap Gesture",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "Google",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "Double Twist",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "Google",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 1
+            },
+            {
+                "SenSorName": "Front Camera Light",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "Google",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.20000000298023224
+            },
+            {
+                "SenSorName": "Game Rotation Vector Sensor",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "Google",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 1
+            },
+            {
+                "SenSorName": "Geomagnetic Rotation Vector Sensor",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "Google",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 1
+            },
+            {
+                "SenSorName": "Gravity Sensor",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "Google",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 1
+            },
+            {
+                "SenSorName": "Linear Acceleration Sensor",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "Google",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 1
+            },
+            {
+                "SenSorName": "Orientation Sensor",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "Google",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 1
+            },
+            {
+                "SenSorName": "Rotation Vector Sensor",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "Google",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 1
+            },
+            {
+                "SenSorName": "Significant Motion",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "Google",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.25
+            },
+            {
+                "SenSorName": "Step Counter",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "Google",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.10000000149011612
+            },
+            {
+                "SenSorName": "Step Detector",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "Google",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.10000000149011612
+            },
+            {
+                "SenSorName": "Tilt Sensor",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "Google",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.25
+            },
+            {
+                "SenSorName": "Device Orientation",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "Google",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 1
+            }
+        ],
+        "CPUModel": "arm64-v8a:",
+        "BuildId": "RQ3A.211001.001",
+        "BuildDisplay": "RQ3A.211001.001",
+        "BuildProduct": "coral",
+        "BuildDevice": "coral",
+        "BuildBoard": "coral",
+        "BuildBootloader": "c2f2-0.3-7376653",
+        "BuildHardware": "coral",
+        "BuildSupportedAbis": "arm64-v8a,armeabi-v7a,armeabi",
+        "BuildSupportedAbis32": "armeabi-v7a,armeabi",
+        "BuildSupportedAbis64": "arm64-v8a",
+        "BuildType": "user",
+        "BuildTags": "release-keys",
+        "BuildFingerPrint": "google\/coral\/coral:11\/RQ3A.211001.001\/7641976:user\/release-keys",
+        "BuildRadioVersion": "g8150-00088-210507-B-7345963",
+        "BuildIncremental": "7641976",
+        "BuildSecurityPatch": "2021-10-01",
+        "BuildPreviewSdkInt": "0",
+        "BuildSdkInt": "30",
+        "BuildCodename": "REL",
+        "IDFA": "b0dbd917-dc74-43f4-bae3-71ceab8fd6de",
+        "ETDM": {
+            "BatteryStatus": "5",
+            "BatteryHealth": "2",
+            "BatteryLevel": "100",
+            "BatteryScale": "100",
+            "BatteryPlugged": "1",
+            "BatteryTechnology": "Li-ion"
+        }
+    }
+}
