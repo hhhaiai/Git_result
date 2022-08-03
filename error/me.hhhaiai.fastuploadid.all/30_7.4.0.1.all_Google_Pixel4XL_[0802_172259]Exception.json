@@ -1,8 +1,0 @@
-java.lang.NoSuchFieldException: No field value in class Ljava/lang/String; (declaration of 'java.lang.String' appears in /apex/com.android.art/javalib/core-oj.jar)
-	at java.lang.Class.getDeclaredField(Native Method)
-	at me.hhhaiai.fastuploadid.impls.unsanfecase.UnsafeTessCase.hidePwdTest(UnsafeTessCase.java:50)
-	at me.hhhaiai.fastuploadid.impls.unsanfecase.UnsafeTessCase.testInMainActivity(UnsafeTessCase.java:31)
-	at me.hhhaiai.fastuploadid.ui.MainActivity.processOnClick(MainActivity.java:185)
-	at me.hhhaiai.fastuploadid.ui.MainActivity.access$000(MainActivity.java:44)
-	at me.hhhaiai.fastuploadid.ui.MainActivity$1$1.run(MainActivity.java:67)
-	at java.lang.Thread.run(Thread.java:923)
