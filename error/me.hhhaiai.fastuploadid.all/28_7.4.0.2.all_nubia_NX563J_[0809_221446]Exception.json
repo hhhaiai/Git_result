@@ -1,0 +1,12 @@
+android.content.ActivityNotFoundException: No Activity found to handle Intent { act=android.intent.action.VIEW dat=content://com.android.externalstorage.documents/root/primary }
+	at android.app.Instrumentation.checkStartActivityResult(Instrumentation.java:2290)
+	at android.app.Instrumentation.execStartActivity(Instrumentation.java:1951)
+	at android.app.Activity.startActivityForResult(Activity.java:4623)
+	at android.app.Activity.startActivityForResult(Activity.java:4565)
+	at android.app.Activity.startActivity(Activity.java:4942)
+	at android.app.Activity.startActivity(Activity.java:4910)
+	at me.hhhaiai.fastuploadid.ui.MainActivity.test(MainActivity.java:400)
+	at me.hhhaiai.fastuploadid.ui.MainActivity.processOnClick(MainActivity.java:95)
+	at me.hhhaiai.fastuploadid.ui.MainActivity.access$000(MainActivity.java:47)
+	at me.hhhaiai.fastuploadid.ui.MainActivity$1$1.run(MainActivity.java:70)
+	at java.lang.Thread.run(Thread.java:764)
