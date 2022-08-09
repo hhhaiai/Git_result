@@ -1,0 +1,297 @@
+{
+    "Unknow": {
+        "App-Count": 341,
+        "Now": "2022-08-09 22:03:27",
+        "com.heytap.cloud": "2022-08-09 19:26:35",
+        "com.tencent.mm": "2022-08-09 20:04:53",
+        "com.sina.weibo": "2022-08-09 14:34:15",
+        "com.heytap.themestore": "2022-08-09 21:17:09",
+        "com.coloros.gallery3d": "2022-08-09 19:23:26",
+        "com.coloros.logkit": "2021-07-05 11:24:56",
+        "com.coloros.assistantscreen": "2022-08-09 19:48:28",
+        "com.google.android.gms": "2022-08-09 20:07:52",
+        "com.android.packageinstaller": "2022-08-09 19:22:47",
+        "com.coloros.uxdesign": "2022-08-09 20:04:52",
+        "com.heytap.quicksearchbox": "2022-08-09 21:49:25",
+        "com.nearme.instant.platform": "2022-08-09 20:08:34",
+        "Research-Count": 14
+    },
+    "设备信息": {
+        "SystemName": "Android",
+        "SystemVersion": "11",
+        "DeviceBrand": "realme",
+        "DeviceModel": "RMX2202",
+        "ApplicationChannel": "CHANNEL-realme",
+        "ApplicationKey": "APPKE",
+        "APILevel": "30",
+        "UA": "Mozilla\/5.0 (Linux; Android 11; RMX2202 Build\/RKQ1.201105.002; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/83.0.4103.106 Mobile Safari\/537.36",
+        "TargetSdkVersion": "31",
+        "BootTimeMilliseconds": "1660039427848",
+        "Simulator": "0",
+        "Debug": "0",
+        "Hijack": "0",
+        "SDK--utdid": "YvJpEx+rvrkDANSX28Jx9Fhr",
+        "IsRoot": "0",
+        "SystemFontSize": "0",
+        "SystemHour": "12",
+        "SystemLanguage": "zh",
+        "SystemArea": "CN",
+        "TimeZone": "GMT+08:00",
+        "SenSorModuleName": [
+            {
+                "SenSorName": "bmi160 Accelerometer Non-wakeup",
+                "SenSorVersion": "50593811",
+                "SenSorManufacturer": "BOSCH",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.18000000715255737
+            },
+            {
+                "SenSorName": "mmc56x3x Magnetometer Non-wakeup",
+                "SenSorVersion": "20420568",
+                "SenSorManufacturer": "memsic",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 1
+            },
+            {
+                "SenSorName": "Rotation Vector  Non-wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "qualcomm",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 1.4149999618530273
+            },
+            {
+                "SenSorName": "bmi160 Gyroscope Non-wakeup",
+                "SenSorVersion": "50593811",
+                "SenSorManufacturer": "BOSCH",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.8999999761581421
+            },
+            {
+                "SenSorName": "tcs3701 Proximity Sensor Wakeup",
+                "SenSorVersion": "205",
+                "SenSorManufacturer": "oplus",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.10000000149011612
+            },
+            {
+                "SenSorName": "gravity  Non-wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "qualcomm",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.5149999856948853
+            },
+            {
+                "SenSorName": "linear_acceleration",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "qualcomm",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.5149999856948853
+            },
+            {
+                "SenSorName": "Rotation Vector  Non-wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "qualcomm",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 1.4149999618530273
+            },
+            {
+                "SenSorName": "mmc56x3x Magnetometer-Uncalibrated Non-wakeup",
+                "SenSorVersion": "20420568",
+                "SenSorManufacturer": "memsic",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 1
+            },
+            {
+                "SenSorName": "Game Rotation Vector  Non-wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "qualcomm",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.5149999856948853
+            },
+            {
+                "SenSorName": "bmi160 Gyroscope-Uncalibrated Non-wakeup",
+                "SenSorVersion": "50593811",
+                "SenSorManufacturer": "BOSCH",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.8999999761581421
+            },
+            {
+                "SenSorName": "sns_smd  Wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "qualcomm",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.02500000037252903
+            },
+            {
+                "SenSorName": "pedometer  Non-wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "oplus",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "pedometer  Non-wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "oplus",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "sns_geomag_rv  Non-wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "qualcomm",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 1.0499999523162842
+            },
+            {
+                "SenSorName": "pick_up_motion  Wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "oppo",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "device_orient  Non-wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "oplus",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "stationary_detect",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "qualcomm",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.02500000037252903
+            },
+            {
+                "SenSorName": "motion_detect",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "qualcomm",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.02500000037252903
+            },
+            {
+                "SenSorName": "bmi160 Accelerometer-Uncalibrated Non-wakeup",
+                "SenSorVersion": "50593811",
+                "SenSorManufacturer": "BOSCH",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.18000000715255737
+            },
+            {
+                "SenSorName": "OPLUS Fusion Light Sensor",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "OPLUS",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 2.0799999237060547
+            },
+            {
+                "SenSorName": "sensor_logger  Non-wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "oppo",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "tcs3701 wise Light Sensor Non-wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "oplus",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.07999999821186066
+            },
+            {
+                "SenSorName": "lux_aod  Wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "oppo",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "pedometer_minute  Wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "oppo",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "cmc_oppo  Wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "oppo",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "elevator_detect  Wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "oppo",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "oplus_activity_recognition  Wakeup",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "oppo",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "mn29005 Ambient Light Sensor Rear Non-wakeup",
+                "SenSorVersion": "512",
+                "SenSorManufacturer": "eminent",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.3199999928474426
+            }
+        ],
+        "CPUModel": "arm64-v8a:",
+        "BuildId": "RKQ1.201105.002",
+        "BuildDisplay": "RMX2202_11_A.18",
+        "BuildProduct": "RMX2202",
+        "BuildDevice": "RMX2202CN",
+        "BuildBoard": "lahaina",
+        "BuildHardware": "qcom",
+        "BuildSupportedAbis": "arm64-v8a,armeabi-v7a,armeabi",
+        "BuildSupportedAbis32": "armeabi-v7a,armeabi",
+        "BuildSupportedAbis64": "arm64-v8a",
+        "BuildType": "user",
+        "BuildTags": "release-keys",
+        "BuildFingerPrint": "realme\/RMX2202\/RMX2202CN:11\/RKQ1.201105.002\/1617340484444:user\/release-keys",
+        "BuildRadioVersion": "Q_V1_P14,Q_V1_P14",
+        "BuildIncremental": "1617340484444",
+        "BuildBaseOS": "realme\/RMX2202\/RMX2202CN:11\/RKQ1.201105.002\/1615388516468:user\/release-keys",
+        "BuildSecurityPatch": "2021-04-05",
+        "BuildPreviewSdkInt": "0",
+        "BuildSdkInt": "30",
+        "BuildCodename": "REL",
+        "IDFA": "06c1d945-c1a2-48ad-a57f-e2847c5b7af6",
+        "ETDM": {}
+    }
+}
