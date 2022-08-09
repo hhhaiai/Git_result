@@ -1,0 +1,327 @@
+{
+    "Unknow": {
+        "App-Count": 310,
+        "Now": "2022-08-09 22:04:49",
+        "com.miui.gallery": "2022-08-09 21:53:22",
+        "com.miui.gallery-files": "2022-08-09 21:53:22",
+        "com.android.browser": "2022-08-09 22:04:11",
+        "com.android.browser-cache": "2022-08-09 22:04:11",
+        "com.android.browser-files": "2022-08-09 22:04:25",
+        "com.android.mms": "2022-08-09 19:20:57",
+        "com.android.mms-files": "2022-08-09 19:20:57",
+        "com.mfashiongallery.emag": "2022-08-09 20:36:27",
+        "com.mfashiongallery.emag-files": "2022-08-09 20:36:27",
+        "com.android.calendar": "2022-08-09 19:53:45",
+        "com.android.calendar-files": "2022-08-09 19:54:55",
+        "com.hunantv.imgo.activity": "2022-08-09 20:05:44",
+        "com.hunantv.imgo.activity-cache": "2022-08-09 20:05:47",
+        "com.hunantv.imgo.activity-files": "2022-08-09 20:06:16",
+        "com.xiaomi.market": "2022-08-09 16:56:00",
+        "com.xiaomi.market-cache": "2022-08-09 16:56:00",
+        "com.xiaomi.market-files": "2022-08-09 20:05:25",
+        "com.dragon.read": "2022-08-09 17:19:05",
+        "com.dragon.read-files": "2022-08-09 19:48:13",
+        "com.android.deskclock": "2022-08-09 20:04:22",
+        "com.android.deskclock-files": "2022-08-09 20:04:23",
+        "Research-Count": 23
+    },
+    "设备信息": {
+        "SystemName": "Android",
+        "SystemVersion": "10",
+        "DeviceBrand": "Xiaomi",
+        "UM-OAID": "c8bdbe3223edbbc9",
+        "DeviceModel": "Redmi 8A",
+        "ApplicationChannel": "CHANNEL-Xiaomi",
+        "ApplicationKey": "APPKE",
+        "APILevel": "29",
+        "UA": "Mozilla\/5.0 (Linux; Android 10; Redmi 8A Build\/QKQ1.191014.001; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/87.0.4280.101 Mobile Safari\/537.36",
+        "TargetSdkVersion": "31",
+        "BootTimeMilliseconds": "1660007899342",
+        "Simulator": "0",
+        "Debug": "0",
+        "Hijack": "0",
+        "SDK--utdid": "YO6lj7P3LDgDALoHGADHlVAS",
+        "IsRoot": "0",
+        "SystemFontSize": "0",
+        "SystemHour": "12",
+        "SystemLanguage": "zh",
+        "SystemArea": "CN",
+        "TimeZone": "GMT+08:00",
+        "SenSorModuleName": [
+            {
+                "SenSorName": "BMA4 Accelerometer",
+                "SenSorVersion": "10415",
+                "SenSorManufacturer": "BOSCH",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.15000000596046448
+            },
+            {
+                "SenSorName": "BMA4 Accelerometer Uncalibrated",
+                "SenSorVersion": "10415",
+                "SenSorManufacturer": "BOSCH",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.15000000596046448
+            },
+            {
+                "SenSorName": "AK09918 Magnetometer",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "AKM",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 1.100000023841858
+            },
+            {
+                "SenSorName": "AK09918 Magnetometer Uncalibrated",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "AKM",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 1.100000023841858
+            },
+            {
+                "SenSorName": "stk3x3x alsprx",
+                "SenSorVersion": "2",
+                "SenSorManufacturer": "Sensortek",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.10000000149011612
+            },
+            {
+                "SenSorName": "stk3x3x alsprx",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "Sensortek",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.09000000357627869
+            },
+            {
+                "SenSorName": "stk3x3x alsprx -Non Wakeup Secondary",
+                "SenSorVersion": "2",
+                "SenSorManufacturer": "Sensortek",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.10000000149011612
+            },
+            {
+                "SenSorName": "stk3x3x alsprx -Wakeup Secondary",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "Sensortek",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.09000000357627869
+            },
+            {
+                "SenSorName": "Gravity",
+                "SenSorVersion": "2",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 1.25885009765625
+            },
+            {
+                "SenSorName": "Linear Acceleration",
+                "SenSorVersion": "2",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 1.25885009765625
+            },
+            {
+                "SenSorName": "Rotation Vector",
+                "SenSorVersion": "2",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 1.25885009765625
+            },
+            {
+                "SenSorName": "Step Detector",
+                "SenSorVersion": "2",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.149993896484375
+            },
+            {
+                "SenSorName": "Step Counter",
+                "SenSorVersion": "2",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.149993896484375
+            },
+            {
+                "SenSorName": "Significant Motion Detector",
+                "SenSorVersion": "2",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.149993896484375
+            },
+            {
+                "SenSorName": "GeoMagnetic Rotation Vector",
+                "SenSorVersion": "2",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 1.25885009765625
+            },
+            {
+                "SenSorName": "Orientation",
+                "SenSorVersion": "2",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 1.25885009765625
+            },
+            {
+                "SenSorName": "Tilt Detector",
+                "SenSorVersion": "2",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.149993896484375
+            },
+            {
+                "SenSorName": "Pick Up Gesture",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.25
+            },
+            {
+                "SenSorName": "Pseudo Gyro",
+                "SenSorVersion": "2",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 1.0999908447265625
+            },
+            {
+                "SenSorName": "Step Detector -Wakeup Secondary",
+                "SenSorVersion": "2",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.149993896484375
+            },
+            {
+                "SenSorName": "Step Counter -Wakeup Secondary",
+                "SenSorVersion": "2",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.149993896484375
+            },
+            {
+                "SenSorName": "oem7 Pick Up Gesture",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "Xiaomi",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.25
+            },
+            {
+                "SenSorName": "AMD",
+                "SenSorVersion": "2",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.149993896484375
+            },
+            {
+                "SenSorName": "RMD",
+                "SenSorVersion": "2",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.149993896484375
+            },
+            {
+                "SenSorName": "Basic Gestures",
+                "SenSorVersion": "2",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.149993896484375
+            },
+            {
+                "SenSorName": "Facing",
+                "SenSorVersion": "2",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.149993896484375
+            },
+            {
+                "SenSorName": "Pedometer",
+                "SenSorVersion": "2",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.149993896484375
+            },
+            {
+                "SenSorName": "Motion Accel",
+                "SenSorVersion": "2",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.149993896484375
+            },
+            {
+                "SenSorName": "Coarse Motion Classifier",
+                "SenSorVersion": "3",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.149993896484375
+            },
+            {
+                "SenSorName": "SAR ADUX1050",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "Analog Devices Inc.",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 2.200000047683716
+            },
+            {
+                "SenSorName": "Game Rotation Vector Sensor",
+                "SenSorVersion": "3",
+                "SenSorManufacturer": "AOSP",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 2.3499908447265625
+            }
+        ],
+        "CPUModel": "armeabi-v7a:armeabi",
+        "BuildId": "QKQ1.191014.001",
+        "BuildDisplay": "QKQ1.191014.001 test-keys",
+        "BuildProduct": "olivelite",
+        "BuildDevice": "olivelite",
+        "BuildBoard": "QC_Reference_Phone",
+        "BuildHardware": "qcom",
+        "BuildSupportedAbis": "armeabi-v7a,armeabi",
+        "BuildSupportedAbis32": "armeabi-v7a,armeabi",
+        "BuildType": "user",
+        "BuildTags": "release-keys",
+        "BuildFingerPrint": "Xiaomi\/olivelite\/olivelite:10\/QKQ1.191014.001\/V12.0.3.0.QCPCNXM:user\/release-keys",
+        "BuildRadioVersion": "9_GENNS_PACK-2.372929.3.379151.2,9_GENNS_PACK-2.372929.3.379151.2",
+        "BuildIncremental": "V12.0.3.0.QCPCNXM",
+        "BuildSecurityPatch": "2021-05-01",
+        "BuildPreviewSdkInt": "0",
+        "BuildSdkInt": "29",
+        "BuildCodename": "REL",
+        "ETDM": {
+            "BatteryStatus": "5",
+            "BatteryHealth": "2",
+            "BatteryLevel": "100",
+            "BatteryScale": "100",
+            "BatteryPlugged": "1",
+            "BatteryTechnology": "Li-poly"
+        }
+    }
+}
