@@ -1,0 +1,22 @@
+java.lang.reflect.InvocationTargetException
+	at java.lang.reflect.Method.invoke(Native Method)
+	at org.lsposed.hiddenapibypass.HiddenApiBypass.invoke(HiddenApiBypass.java:183)
+	at me.hhhaiai.fastuploadid.ui.MainActivity.hook(MainActivity.java:269)
+	at me.hhhaiai.fastuploadid.ui.MainActivity.processOnClick(MainActivity.java:193)
+	at me.hhhaiai.fastuploadid.ui.MainActivity.access$000(MainActivity.java:47)
+	at me.hhhaiai.fastuploadid.ui.MainActivity$1$1.run(MainActivity.java:70)
+	at java.lang.Thread.run(Thread.java:764)
+Caused by: java.lang.SecurityException: uid 10315 does not have android.permission.MANAGE_APP_OPS_MODES.
+	at android.os.Parcel.createException(Parcel.java:1950)
+	at android.os.Parcel.readException(Parcel.java:1918)
+	at android.os.Parcel.readException(Parcel.java:1868)
+	at com.android.internal.app.IAppOpsService$Stub$Proxy.setMode(IAppOpsService.java:672)
+	at android.app.AppOpsManager.setMode(AppOpsManager.java:2089)
+	... 7 more
+Caused by: android.os.RemoteException: Remote stack trace:
+	at android.app.ContextImpl.enforce(ContextImpl.java:1830)
+	at android.app.ContextImpl.enforcePermission(ContextImpl.java:1839)
+	at com.android.server.AppOpsService.enforceManageAppOpsModes(AppOpsService.java:1270)
+	at com.android.server.AppOpsService.setMode(AppOpsService.java:1379)
+	at com.android.internal.app.IAppOpsService$Stub.onTransact(IAppOpsService.java:237)
+
