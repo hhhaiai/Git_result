@@ -1,0 +1,14 @@
+java.lang.reflect.InvocationTargetException
+	at java.lang.reflect.Method.invoke(Native Method)
+	at org.lsposed.hiddenapibypass.HiddenApiBypass.invoke(HiddenApiBypass.java:183)
+	at me.hhhaiai.fastuploadid.ui.MainActivity.hook(MainActivity.java:269)
+	at me.hhhaiai.fastuploadid.ui.MainActivity.processOnClick(MainActivity.java:193)
+	at me.hhhaiai.fastuploadid.ui.MainActivity.access$000(MainActivity.java:47)
+	at me.hhhaiai.fastuploadid.ui.MainActivity$1$1.run(MainActivity.java:70)
+	at java.lang.Thread.run(Thread.java:784)
+Caused by: java.lang.SecurityException: uid 12381 does not have android.permission.UPDATE_APP_OPS_STATS.
+	at android.os.Parcel.readException(Parcel.java:1954)
+	at android.os.Parcel.readException(Parcel.java:1900)
+	at com.android.internal.app.IAppOpsService$Stub$Proxy.setMode(IAppOpsService.java:616)
+	at android.app.AppOpsManager.setMode(AppOpsManager.java:1446)
+	... 7 more
