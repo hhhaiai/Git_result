@@ -1,8 +1,0 @@
-java.lang.ClassCastException: me.hhhaiai.fastuploadid.impls.unsanfecase.TestMs cannot be cast to me.hhhaiai.fastuploadid.impls.unsanfecase.TestMs
-	at me.hhhaiai.fastuploadid.impls.unsanfecase.UnsafeTessCase.unsafeCase(UnsafeTessCase.java:48)
-	at me.hhhaiai.fastuploadid.impls.unsanfecase.UnsafeTessCase.getInfo(UnsafeTessCase.java:24)
-	at me.hhhaiai.fastuploadid.impls.unsanfecase.UnsafeTessCase.testInMainActivity(UnsafeTessCase.java:59)
-	at me.hhhaiai.fastuploadid.ui.MainActivity.processOnClick(MainActivity.java:188)
-	at me.hhhaiai.fastuploadid.ui.MainActivity.access$000(MainActivity.java:47)
-	at me.hhhaiai.fastuploadid.ui.MainActivity$1$1.run(MainActivity.java:70)
-	at java.lang.Thread.run(Thread.java:764)
