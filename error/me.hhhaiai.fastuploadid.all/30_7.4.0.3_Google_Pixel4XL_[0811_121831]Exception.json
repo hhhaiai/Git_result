@@ -1,0 +1,6 @@
+java.lang.NoSuchMethodError: No static method getWrong(Ljava/lang/String;)Ljava/lang/String; in class Lme/hhhaiai/fastuploadid/impls/unsanfecase/models/FixModel; or its super classes (declaration of 'me.hhhaiai.fastuploadid.impls.unsanfecase.models.FixModel' appears in /data/app/~~nqOTq3K3_4g227SlJV9NfA==/me.hhhaiai.fastuploadid.all-JjisjpPHpgbXkO1Yw55xjA==/base.apk)
+	at me.hhhaiai.fastuploadid.impls.unsanfecase.fix.AndFixCases.testCase(AndFixCases.java:63)
+	at me.hhhaiai.fastuploadid.ui.MainActivity.processOnClick(MainActivity.java:240)
+	at me.hhhaiai.fastuploadid.ui.MainActivity.access$000(MainActivity.java:51)
+	at me.hhhaiai.fastuploadid.ui.MainActivity$1$1.run(MainActivity.java:74)
+	at java.lang.Thread.run(Thread.java:923)
