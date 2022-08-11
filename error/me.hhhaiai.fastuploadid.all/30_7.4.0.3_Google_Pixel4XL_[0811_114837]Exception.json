@@ -1,0 +1,8 @@
+java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.Class java.lang.Object.getClass()' on a null object reference
+	at me.hhhaiai.fastuploadid.impls.unsanfecase.MemoryHelper.getMethodAddress(MemoryHelper.java:82)
+	at me.hhhaiai.fastuploadid.impls.unsanfecase.fix.JAndFixhelper.replaceMethod(JAndFixhelper.java:19)
+	at me.hhhaiai.fastuploadid.impls.unsanfecase.fix.AndFixCases.testReplace(AndFixCases.java:50)
+	at me.hhhaiai.fastuploadid.ui.MainActivity.processOnClick(MainActivity.java:233)
+	at me.hhhaiai.fastuploadid.ui.MainActivity.access$000(MainActivity.java:51)
+	at me.hhhaiai.fastuploadid.ui.MainActivity$1$1.run(MainActivity.java:74)
+	at java.lang.Thread.run(Thread.java:923)
