@@ -1,0 +1,161 @@
+{
+    "Unsafe": {
+        "init[theUnsafe]": true,
+        "init[THE_ONE]": true,
+        "init[getUnsafe]": true,
+        "arrayIndexScale赋值Object数组大小": 4,
+        "is64Bit": true,
+        "me-adress": 317787168,
+        "me-hash": 899899971,
+        "me格式化-address": "12f10c20",
+        "me1-adress": 317787168,
+        "me1-hash": 899899971,
+        "me1格式化-address": "12f10c20",
+        "两个对象地址测试结果": true,
+        "两个对象测试结果": true
+    },
+    "Unknow": {
+        "App-Count": 77,
+        "Now": "2022-08-11 15:37:03",
+        "com.android.browser": "2022-08-11 15:35:56",
+        "com.android.browser-files": "2022-08-11 15:35:56",
+        "com.google.android.apps.maps": "2022-08-11 15:35:51",
+        "com.google.android.apps.maps-cache": "2022-08-11 15:35:51",
+        "com.google.android.gms": "2022-08-11 15:35:51",
+        "com.google.android.gms-files": "2022-08-11 15:35:51",
+        "Research-Count": 8
+    },
+    "屏幕信息": {
+        "widthPixels": 1080,
+        "heightPixels": 2208,
+        "density": 2.75,
+        "scaledDensity": 2.75,
+        "densityDpi": 440,
+        "xdpi": 440,
+        "ydpi": 440,
+        "widthPixels1": 1080,
+        "heightPixels1": 2340,
+        "density1": 2.75,
+        "scaledDensity1": 2.75,
+        "densityDpi1": 440,
+        "xdpi1": 440,
+        "ydpi1": 440,
+        "widthPixels2": 1080,
+        "heightPixels2": 2208,
+        "density2": 2.75,
+        "scaledDensity2": 2.75,
+        "densityDpi2": 440,
+        "xdpi2": 440,
+        "ydpi2": 440,
+        "t-width": 392.72726,
+        "t-height": 802.9091,
+        "t-w": 1080,
+        "t-h": 2340
+    },
+    "设备信息": {
+        "SystemName": "Android",
+        "SystemVersion": "5.1.1",
+        "DeviceBrand": "Android",
+        "DeviceModel": "Android SDK built for arm64",
+        "SerialNumber": "EMULATOR31X2X10X0",
+        "IMEIS": "358240051111110",
+        "IMSIS": "310260000000000",
+        "ApplicationChannel": "CHANNEL-unknown",
+        "ApplicationKey": "APPKE",
+        "APILevel": "22",
+        "UA": "Mozilla\/5.0 (Linux; Android 5.1.1; Android SDK built for arm64 Build\/LMY48X) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/39.0.0.0 Mobile Safari\/537.36",
+        "TargetSdkVersion": "31",
+        "BootTimeMilliseconds": "1660203338984",
+        "Simulator": "1",
+        "Debug": "1",
+        "Hijack": "0",
+        "SDK--utdid": "YvSxXva\/nq0DAER\/h\/Azk32N",
+        "IsRoot": "1",
+        "SystemFontSize": "0",
+        "SystemHour": "12",
+        "SystemLanguage": "en",
+        "SystemArea": "US",
+        "TimeZone": "GMT+08:00",
+        "SenSorModuleName": [
+            {
+                "SenSorName": "Goldfish 3-axis Accelerometer",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "The Android Open Source Project",
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 3
+            },
+            {
+                "SenSorName": "Goldfish 3-axis Magnetic field sensor",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "The Android Open Source Project",
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 6.699999809265137
+            },
+            {
+                "SenSorName": "Goldfish Orientation sensor",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "The Android Open Source Project",
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 9.699999809265137
+            },
+            {
+                "SenSorName": "Goldfish Temperature sensor",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "The Android Open Source Project",
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0
+            },
+            {
+                "SenSorName": "Goldfish Proximity sensor",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "The Android Open Source Project",
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 20
+            },
+            {
+                "SenSorName": "Goldfish Light sensor",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "The Android Open Source Project",
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 20
+            },
+            {
+                "SenSorName": "Goldfish Pressure sensor",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "The Android Open Source Project",
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 20
+            },
+            {
+                "SenSorName": "Goldfish Humidity sensor",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "The Android Open Source Project",
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 20
+            }
+        ],
+        "CPUModel": "arm64-v8a:",
+        "BuildId": "LMY48X",
+        "BuildDisplay": "sdk_google_phone_arm64-userdebug 5.1.1 LMY48X 8789835 test-keys",
+        "BuildProduct": "sdk_google_phone_arm64",
+        "BuildDevice": "generic_arm64",
+        "BuildHardware": "ranchu",
+        "BuildSupportedAbis": "arm64-v8a",
+        "BuildSupportedAbis64": "arm64-v8a",
+        "BuildType": "userdebug",
+        "BuildTags": "test-keys",
+        "BuildFingerPrint": "Android\/sdk_google_phone_arm64\/generic_arm64:5.1.1\/LMY48X\/8789835:userdebug\/test-keys",
+        "BuildIncremental": "8789835",
+        "BuildSdkInt": "22",
+        "BuildCodename": "REL",
+        "IDFA": "a0f35e30-3a67-4380-a47d-dc8aa65c7260",
+        "ETDM": {
+            "BatteryStatus": "2",
+            "BatteryHealth": "2",
+            "BatteryLevel": "100",
+            "BatteryScale": "100",
+            "BatteryPlugged": "1",
+            "BatteryTechnology": "Li-ion"
+        }
+    }
+}
