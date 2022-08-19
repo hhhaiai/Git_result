@@ -1,5 +1,0 @@
-java.lang.NoSuchMethodError: No virtual method helloWorld()V in class Lme/hhhaiai/fastuploadid/ui/MainActivity; or its super classes (declaration of 'me.hhhaiai.fastuploadid.ui.MainActivity' appears in /data/app/~~r5vh5tdBijlQfHFYfDf3cw==/me.hhhaiai.fastuploadid.all-oFJRNYsKqxRs0NUrqw9Ahw==/base.apk)
-	at me.hhhaiai.fastuploadid.ui.MainActivity.processOnClick(MainActivity.java:253)
-	at me.hhhaiai.fastuploadid.ui.MainActivity.access$000(MainActivity.java:54)
-	at me.hhhaiai.fastuploadid.ui.MainActivity$1$1.run(MainActivity.java:77)
-	at java.lang.Thread.run(Thread.java:923)

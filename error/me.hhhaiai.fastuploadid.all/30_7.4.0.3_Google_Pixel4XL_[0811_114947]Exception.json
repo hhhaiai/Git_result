@@ -1,8 +1,0 @@
-java.lang.NoSuchMethodException: me.hhhaiai.fastuploadid.impls.unsanfecase.models.FixModel.getWrong [class java.lang.String]
-	at java.lang.Class.getMethod(Class.java:2072)
-	at java.lang.Class.getMethod(Class.java:1693)
-	at me.hhhaiai.fastuploadid.impls.unsanfecase.fix.AndFixCases.testReplace(AndFixCases.java:50)
-	at me.hhhaiai.fastuploadid.ui.MainActivity.processOnClick(MainActivity.java:233)
-	at me.hhhaiai.fastuploadid.ui.MainActivity.access$000(MainActivity.java:51)
-	at me.hhhaiai.fastuploadid.ui.MainActivity$1$1.run(MainActivity.java:74)
-	at java.lang.Thread.run(Thread.java:923)
