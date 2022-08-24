@@ -1,0 +1,169 @@
+{
+    "HideAPI": {
+        "MinRefPlanA": 0,
+        "MinRefOneClass": 0
+    },
+    "Unsafe": {
+        "init[theUnsafe]": true,
+        "init[THE_ONE]": true,
+        "init[getUnsafe]": true,
+        "init[getUnsafeByAbstractQueuedSynchronizer]": true,
+        "arrayIndexScale赋值Object数组大小": 4,
+        "is64Bit": true,
+        "me-adress": 315133792,
+        "me-hash": 898816671,
+        "me格式化-address": "12c88f60",
+        "me1-adress": 315133792,
+        "me1-hash": 898816671,
+        "me1格式化-address": "12c88f60",
+        "两个对象地址测试结果": true,
+        "两个对象测试结果": true,
+        "supportsUnsafeArrayOperations": false,
+        "supportsUnsafeByteBufferOperations": false,
+        "byte[]_OFFSET": 12,
+        "byte[]_SCALE": 1,
+        "boolean[]_OFFSET": 12,
+        "boolean[]_SCALE": 1,
+        "int[]_OFFSET": 12,
+        "int[]_SCALE": 4,
+        "long[]_OFFSET": 16,
+        "long[]_SCALE": 8,
+        "float[]_OFFSET": 12,
+        "float[]_SCALE": 4,
+        "double[]_OFFSET": 16,
+        "double[]_SCALE": 8,
+        "Object[]_OFFSET": 12,
+        "Object[]_SCALE": 4,
+        "BUFFER_ADDRESS_OFFSET": 0,
+        "STRIDE_ALIGNMENT_MASK": 7,
+        "BYTE_ARRAY_ALIGNMENT": 4,
+        "IS_BIG_ENDIAN": false
+    },
+    "设备信息": {
+        "SystemName": "Android",
+        "SystemVersion": "5.1",
+        "DeviceBrand": "vivo",
+        "DeviceModel": "vivo X6D",
+        "SerialNumber": "95U4WWKFJBFURGMF",
+        "IMEIS": "860832035344352|860832035344345",
+        "ApplicationChannel": "CHANNEL-vivo",
+        "ApplicationKey": "APPKE",
+        "APILevel": "22",
+        "UA": "Mozilla\/5.0 (Linux; Android 5.1; vivo X6D Build\/LMY47I) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/39.0.0.0 Mobile Safari\/537.36",
+        "TargetSdkVersion": "31",
+        "BootTimeMilliseconds": "1661310826549",
+        "Simulator": "0",
+        "Debug": "0",
+        "Hijack": "0",
+        "SDK--utdid": "VKQdgeHmpsUDAPSAw5OOo8cH",
+        "IsRoot": "0",
+        "SystemFontSize": "0",
+        "SystemHour": "12",
+        "SystemLanguage": "zh",
+        "SystemArea": "CN",
+        "TimeZone": "GMT+08:00",
+        "SenSorModuleName": [
+            {
+                "SenSorName": "BBK-proxacross",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "BBK",
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.18000000715255737
+            },
+            {
+                "SenSorName": "AK8963 Gyroscope",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "Akm",
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.1599999964237213
+            },
+            {
+                "SenSorName": "AK8963 Orientation",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "Akm",
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.1599999964237213
+            },
+            {
+                "SenSorName": "lis3dh-accel",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "STMicroelectronics",
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 9.999999747378752E-5
+            },
+            {
+                "SenSorName": "AK8963 Gravity",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "Akm",
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.1599999964237213
+            },
+            {
+                "SenSorName": "AK8963 Linear Acceleration",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "Akm",
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.1599999964237213
+            },
+            {
+                "SenSorName": "AK8963 Rotation Vector",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "Akm",
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.1599999964237213
+            },
+            {
+                "SenSorName": "AK8963 Magnetic",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "Akm",
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.1599999964237213
+            },
+            {
+                "SenSorName": "TMD2771-light",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "Avago",
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.15000000596046448
+            },
+            {
+                "SenSorName": "TMD2771-proximity",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "Avago",
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.18000000715255737
+            },
+            {
+                "SenSorName": "Step Counter",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "mtk",
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.009999999776482582
+            }
+        ],
+        "CPUModel": "arm64-v8a:",
+        "BuildId": "LMY47I",
+        "BuildDisplay": "LMY47I release-keys",
+        "BuildProduct": "PD1415D",
+        "BuildDevice": "PD1415D",
+        "BuildHardware": "mt6752",
+        "BuildSupportedAbis": "arm64-v8a,armeabi-v7a,armeabi",
+        "BuildSupportedAbis32": "armeabi-v7a,armeabi",
+        "BuildSupportedAbis64": "arm64-v8a",
+        "BuildType": "user",
+        "BuildTags": "release-keys",
+        "BuildFingerPrint": "vivo\/PD1415D\/PD1415D:5.1\/LMY47I\/1484205558:user\/release-keys",
+        "BuildRadioVersion": "MOLY.LR9.W1444.MD.LWTG.CMCC.MP.V13.P117, 2016\/10\/09 21:18",
+        "BuildIncremental": "1484205558",
+        "BuildSdkInt": "22",
+        "BuildCodename": "REL",
+        "ETDM": {
+            "BatteryStatus": "2",
+            "BatteryHealth": "2",
+            "BatteryLevel": "91",
+            "BatteryScale": "100",
+            "BatteryPlugged": "2",
+            "BatteryTechnology": "Li-ion"
+        }
+    }
+}
