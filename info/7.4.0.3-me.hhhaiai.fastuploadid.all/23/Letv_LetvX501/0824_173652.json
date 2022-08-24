@@ -1,0 +1,149 @@
+{
+    "HideAPI": {
+        "MinRefPlanA": 0,
+        "MinRefOneClass": 0
+    },
+    "Unsafe": {
+        "init[theUnsafe]": true,
+        "init[THE_ONE]": true,
+        "init[getUnsafe]": true,
+        "init[getUnsafeByAbstractQueuedSynchronizer]": true,
+        "arrayIndexScale赋值Object数组大小": 4,
+        "is64Bit": true,
+        "me-adress": 317875424,
+        "me-hash": 184600927,
+        "me格式化-address": "12f264e0",
+        "me1-adress": 317875424,
+        "me1-hash": 184600927,
+        "me1格式化-address": "12f264e0",
+        "两个对象地址测试结果": true,
+        "两个对象测试结果": true,
+        "supportsUnsafeArrayOperations": false,
+        "supportsUnsafeByteBufferOperations": false,
+        "byte[]_OFFSET": 12,
+        "byte[]_SCALE": 1,
+        "boolean[]_OFFSET": 12,
+        "boolean[]_SCALE": 1,
+        "int[]_OFFSET": 12,
+        "int[]_SCALE": 4,
+        "long[]_OFFSET": 16,
+        "long[]_SCALE": 8,
+        "float[]_OFFSET": 12,
+        "float[]_SCALE": 4,
+        "double[]_OFFSET": 16,
+        "double[]_SCALE": 8,
+        "Object[]_OFFSET": 12,
+        "Object[]_SCALE": 4,
+        "BUFFER_ADDRESS_OFFSET": 0,
+        "STRIDE_ALIGNMENT_MASK": 7,
+        "BYTE_ARRAY_ALIGNMENT": 4,
+        "IS_BIG_ENDIAN": false
+    },
+    "设备信息": {
+        "SystemName": "Android",
+        "SystemVersion": "6.0",
+        "DeviceBrand": "Letv",
+        "DeviceModel": "Letv X501",
+        "SerialNumber": "UK7DTCDYBMSSOJV4",
+        "ApplicationChannel": "CHANNEL-Letv",
+        "ApplicationKey": "APPKE",
+        "APILevel": "23",
+        "UA": "Mozilla\/5.0 (Linux; Android 6.0; Letv X501 Build\/DBXCNOP5902605181S; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/49.0.2623.91 Mobile Safari\/537.36",
+        "TargetSdkVersion": "31",
+        "BootTimeMilliseconds": "1661304731731",
+        "Simulator": "0",
+        "Debug": "0",
+        "Hijack": "0",
+        "SDK--utdid": "XxQWDvRSzAsDADR7WG8e32wq",
+        "IsRoot": "1",
+        "SystemFontSize": "0",
+        "SystemHour": "12",
+        "SystemLanguage": "zh",
+        "SystemArea": "CN",
+        "TimeZone": "GMT+08:00",
+        "SenSorModuleName": [
+            {
+                "SenSorName": "ACCELEROMETER",
+                "SenSorVersion": "3",
+                "SenSorManufacturer": "MTK",
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.12999999523162842
+            },
+            {
+                "SenSorName": "PROXIMITY",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "MTK",
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.12999999523162842
+            },
+            {
+                "SenSorName": "LIGHT",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "MTK",
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.12999999523162842
+            },
+            {
+                "SenSorName": "ORIENTATION",
+                "SenSorVersion": "3",
+                "SenSorManufacturer": "MTK",
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.25
+            },
+            {
+                "SenSorName": "MAGNETOMETER",
+                "SenSorVersion": "3",
+                "SenSorManufacturer": "MTK",
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.25
+            },
+            {
+                "SenSorName": "Gravity Sensor",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "MTK",
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.12999999523162842
+            },
+            {
+                "SenSorName": "Linear Acceleration Sensor",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "MTK",
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.12999999523162842
+            },
+            {
+                "SenSorName": "Rotation Vector Sensor",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "MTK",
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.3799999952316284
+            }
+        ],
+        "CPUModel": "arm64-v8a:",
+        "BuildId": "DBXCNOP5902605181S",
+        "BuildDisplay": "DBXCNOP5902605181S release-keys",
+        "BuildProduct": "Le1s_CN",
+        "BuildDevice": "X3",
+        "BuildHardware": "mt6795",
+        "BuildSupportedAbis": "arm64-v8a,armeabi-v7a,armeabi",
+        "BuildSupportedAbis32": "armeabi-v7a,armeabi",
+        "BuildSupportedAbis64": "arm64-v8a",
+        "BuildType": "user",
+        "BuildTags": "release-keys",
+        "BuildFingerPrint": "Letv\/Le1s_CN\/X3:6.0\/DBXCNOP5902605181S\/1495093513:user\/release-keys",
+        "BuildRadioVersion": "MOLY.LR9.W1444.MD.LWTG.MP.V80.P17, 2017\/05\/18 15:43",
+        "BuildIncremental": "1495093513",
+        "BuildSecurityPatch": "2017-04-05",
+        "BuildPreviewSdkInt": "0",
+        "BuildSdkInt": "23",
+        "BuildCodename": "REL",
+        "ETDM": {
+            "BatteryStatus": "5",
+            "BatteryHealth": "2",
+            "BatteryLevel": "100",
+            "BatteryScale": "100",
+            "BatteryPlugged": "0",
+            "BatteryTechnology": "Li-poly"
+        }
+    }
+}
