@@ -1,0 +1,162 @@
+{
+    "HideAPI": {
+        "MinRefPlanA": 0
+    },
+    "Unsafe": {
+        "init[theUnsafe]": true,
+        "init[THE_ONE]": true,
+        "init[getUnsafe]": true,
+        "init[getUnsafeByAbstractQueuedSynchronizer]": true,
+        "arrayIndexScale赋值Object数组大小": 4,
+        "is64Bit": true,
+        "me-adress": 318987680,
+        "me-hash": 272796176,
+        "me格式化-address": "13035da0",
+        "me1-adress": 318987680,
+        "me1-hash": 272796176,
+        "me1格式化-address": "13035da0",
+        "两个对象地址测试结果": true,
+        "两个对象测试结果": true,
+        "supportsUnsafeArrayOperations": false,
+        "supportsUnsafeByteBufferOperations": false,
+        "byte[]_OFFSET": 12,
+        "byte[]_SCALE": 1,
+        "boolean[]_OFFSET": 12,
+        "boolean[]_SCALE": 1,
+        "int[]_OFFSET": 12,
+        "int[]_SCALE": 4,
+        "long[]_OFFSET": 16,
+        "long[]_SCALE": 8,
+        "float[]_OFFSET": 12,
+        "float[]_SCALE": 4,
+        "double[]_OFFSET": 16,
+        "double[]_SCALE": 8,
+        "Object[]_OFFSET": 12,
+        "Object[]_SCALE": 4,
+        "BUFFER_ADDRESS_OFFSET": 0,
+        "STRIDE_ALIGNMENT_MASK": 7,
+        "BYTE_ARRAY_ALIGNMENT": 4,
+        "IS_BIG_ENDIAN": false
+    },
+    "设备信息": {
+        "SystemName": "Android",
+        "SystemVersion": "5.1.1",
+        "DeviceBrand": "vivo",
+        "DeviceModel": "vivo Y51A",
+        "SerialNumber": "553c4ef",
+        "IMEIS": "864739032542555|864739032542548",
+        "ApplicationChannel": "CHANNEL-vivo",
+        "ApplicationKey": "APPKE",
+        "APILevel": "22",
+        "UA": "Mozilla\/5.0 (Linux; Android 5.1.1; vivo Y51A Build\/LMY47V) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/39.0.0.0 Mobile Safari\/537.36",
+        "TargetSdkVersion": "31",
+        "BootTimeMilliseconds": "1661328612673",
+        "Simulator": "0",
+        "Debug": "0",
+        "Hijack": "0",
+        "SDK--utdid": "YeElZM+OoQwDAKWG5kp7XO+F",
+        "IsRoot": "0",
+        "SystemFontSize": "0",
+        "SystemHour": "12",
+        "SystemLanguage": "zh",
+        "SystemArea": "CN",
+        "TimeZone": "GMT+08:00",
+        "SenSorModuleName": [
+            {
+                "SenSorName": "BBK-proxacross",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "BBK",
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.18000000715255737
+            },
+            {
+                "SenSorName": "lis3dh-accel",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "STMicroelectronics",
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.009999999776482582
+            },
+            {
+                "SenSorName": "yas533-mag",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "Yamaha",
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.4000000059604645
+            },
+            {
+                "SenSorName": "TMD277X-proximity",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "Taos",
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.18000000715255737
+            },
+            {
+                "SenSorName": "TMD277X-light",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "Taos",
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.15000000596046448
+            },
+            {
+                "SenSorName": "yas533-orientation",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "oem",
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 1
+            },
+            {
+                "SenSorName": "yas533-pseudo-gyro",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "oem",
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 1
+            },
+            {
+                "SenSorName": "yas533-linear-acceleration",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "oem",
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 1
+            },
+            {
+                "SenSorName": "yas533-rotation-vector",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "oem",
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 1
+            },
+            {
+                "SenSorName": "yas533-gravity",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "oem",
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 1
+            }
+        ],
+        "CPUModel": "armeabi-v7a:armeabi",
+        "BuildId": "LMY47V",
+        "BuildDisplay": "LMY47V release-keys",
+        "BuildProduct": "PD1510",
+        "BuildDevice": "PD1510",
+        "BuildBoard": "msm8916",
+        "BuildHardware": "qcom",
+        "BuildSupportedAbis": "armeabi-v7a,armeabi",
+        "BuildSupportedAbis32": "armeabi-v7a,armeabi",
+        "BuildType": "user",
+        "BuildTags": "release-keys",
+        "BuildFingerPrint": "vivo\/PD1510\/PD1510:5.1.1\/LMY47V\/compiler10231533:user\/release-keys",
+        "BuildRadioVersion": "8936FAAAANUZM-1.99775.1.101973.1",
+        "BuildIncremental": "eng.compiler.20181023",
+        "BuildSdkInt": "22",
+        "BuildCodename": "REL",
+        "IDFA": "7203a441-02c4-4ef2-b4fc-614898b16b58",
+        "ETDM": {
+            "BatteryStatus": "2",
+            "BatteryHealth": "2",
+            "BatteryLevel": "77",
+            "BatteryScale": "100",
+            "BatteryPlugged": "2",
+            "BatteryTechnology": "Li-ion"
+        }
+    }
+}
