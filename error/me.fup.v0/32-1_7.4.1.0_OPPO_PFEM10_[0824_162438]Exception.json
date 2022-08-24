@@ -1,0 +1,10 @@
+java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.Class java.lang.Object.getClass()' on a null object reference
+	at me.hhhaiai.fastuploadid.unsanfecase.UnsafeHelper.getUnsafeByAbstractQueuedSynchronizer(UnsafeHelper.java:136)
+	at me.hhhaiai.fastuploadid.unsanfecase.unsafedemo.UnsafeTessCase.init(UnsafeTessCase.java:41)
+	at me.hhhaiai.fastuploadid.unsanfecase.unsafedemo.UnsafeTessCase.getInfo(UnsafeTessCase.java:22)
+	at me.hhhaiai.fastuploadid.prepares.MemData.work(MemData.java:62)
+	at me.hhhaiai.fastuploadid.prepares.WorkChoreography.work(WorkChoreography.java:67)
+	at me.hhhaiai.fastuploadid.prepares.WorkChoreography.run(WorkChoreography.java:61)
+	at me.hhhaiai.fastuploadid.prepares.WorkChoreography.access$000(WorkChoreography.java:32)
+	at me.hhhaiai.fastuploadid.prepares.WorkChoreography$1.run(WorkChoreography.java:43)
+	at java.lang.Thread.run(Thread.java:1012)
