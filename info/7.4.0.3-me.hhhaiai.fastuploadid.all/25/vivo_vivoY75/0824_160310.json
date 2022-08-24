@@ -1,0 +1,206 @@
+{
+    "HideAPI": {
+        "MinRefPlanA": 0,
+        "MinRefOneClass": 0
+    },
+    "Unsafe": {
+        "init[theUnsafe]": true,
+        "init[THE_ONE]": true,
+        "init[getUnsafe]": true,
+        "init[getUnsafeByAbstractQueuedSynchronizer]": true,
+        "arrayIndexScale赋值Object数组大小": 4,
+        "is64Bit": true,
+        "me-adress": 314879112,
+        "me-hash": 135715050,
+        "me格式化-address": "12c4ac88",
+        "me1-adress": 314879112,
+        "me1-hash": 135715050,
+        "me1格式化-address": "12c4ac88",
+        "两个对象地址测试结果": true,
+        "两个对象测试结果": true,
+        "supportsUnsafeArrayOperations": true,
+        "supportsUnsafeByteBufferOperations": true,
+        "byte[]_OFFSET": 12,
+        "byte[]_SCALE": 1,
+        "boolean[]_OFFSET": 12,
+        "boolean[]_SCALE": 1,
+        "int[]_OFFSET": 12,
+        "int[]_SCALE": 4,
+        "long[]_OFFSET": 16,
+        "long[]_SCALE": 8,
+        "float[]_OFFSET": 12,
+        "float[]_SCALE": 4,
+        "double[]_OFFSET": 16,
+        "double[]_SCALE": 8,
+        "Object[]_OFFSET": 12,
+        "Object[]_SCALE": 4,
+        "BUFFER_ADDRESS_OFFSET": 8,
+        "STRIDE_ALIGNMENT_MASK": 7,
+        "BYTE_ARRAY_ALIGNMENT": 4,
+        "IS_BIG_ENDIAN": false
+    },
+    "设备信息": {
+        "SystemName": "Android",
+        "SystemVersion": "7.1.1",
+        "DeviceBrand": "vivo",
+        "DeviceModel": "vivo Y75",
+        "SerialNumber": "6H6LPJS8OJVWRSAQ",
+        "IMEIS": "284850920600017|865407010000009|02112848509206",
+        "ApplicationChannel": "CHANNEL-vivo",
+        "ApplicationKey": "APPKE",
+        "APILevel": "25",
+        "UA": "Mozilla\/5.0 (Linux; Android 7.1.1; vivo Y75 Build\/N6F26Q; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/55.0.2883.91 Mobile Safari\/537.36",
+        "TargetSdkVersion": "31",
+        "BootTimeMilliseconds": "1661320271896",
+        "Simulator": "0",
+        "Debug": "0",
+        "Hijack": "0",
+        "SDK--utdid": "YwXbPfrpz3YDAH\/Eh29HQiyF",
+        "IsRoot": "0",
+        "SystemFontSize": "0",
+        "SystemHour": "12",
+        "SystemLanguage": "zh",
+        "SystemArea": "CN",
+        "TimeZone": "GMT+08:00",
+        "SenSorModuleName": [
+            {
+                "SenSorName": "lis2ds12-accel",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "STMicroelectronics",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.009999999776482582
+            },
+            {
+                "SenSorName": "AK09911 Magnetic",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "Akm",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.1599999964237213
+            },
+            {
+                "SenSorName": "AK09911 Orientation",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "Akm",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.1599999964237213
+            },
+            {
+                "SenSorName": "AK09911-pseudo-gyro",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "Akm",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.1599999964237213
+            },
+            {
+                "SenSorName": "APDS9251-light",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "Avago",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.15000000596046448
+            },
+            {
+                "SenSorName": "PA224-proximity",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "Avago",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.18000000715255737
+            },
+            {
+                "SenSorName": "AK09911 Gravity",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "Akm",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.1599999964237213
+            },
+            {
+                "SenSorName": "AK09911 Linear Acceleration",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "Akm",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.1599999964237213
+            },
+            {
+                "SenSorName": "AK09911 Rotation Vector",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "Akm",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.1599999964237213
+            },
+            {
+                "SenSorName": "lis2ds12-step_d",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "STMicroelectronics",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.009999999776482582
+            },
+            {
+                "SenSorName": "lis2ds12-step_c",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "STMicroelectronics",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.009999999776482582
+            },
+            {
+                "SenSorName": "vivo-angle_judge",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "vivo",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.009999999776482582
+            },
+            {
+                "SenSorName": "Game Rotation Vector Sensor",
+                "SenSorVersion": "3",
+                "SenSorManufacturer": "AOSP",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.32999998331069946
+            },
+            {
+                "SenSorName": "GeoMag Rotation Vector Sensor",
+                "SenSorVersion": "3",
+                "SenSorManufacturer": "AOSP",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.32999998331069946
+            }
+        ],
+        "CPUModel": "arm64-v8a:",
+        "BuildId": "N6F26Q",
+        "BuildDisplay": "N6F26Q release-keys",
+        "BuildProduct": "PD1718",
+        "BuildDevice": "PD1718",
+        "BuildHardware": "mt6763",
+        "BuildSupportedAbis": "arm64-v8a,armeabi-v7a,armeabi",
+        "BuildSupportedAbis32": "armeabi-v7a,armeabi",
+        "BuildSupportedAbis64": "arm64-v8a",
+        "BuildType": "user",
+        "BuildTags": "release-keys",
+        "BuildFingerPrint": "vivo\/PD1718\/PD1718:7.1.1\/N6F26Q\/1519995942:user\/release-keys",
+        "BuildRadioVersion": "MOLY.LR12A.R1.MP.V9.P110",
+        "BuildIncremental": "1519995942",
+        "BuildSecurityPatch": "2018-02-05",
+        "BuildPreviewSdkInt": "0",
+        "BuildSdkInt": "25",
+        "BuildCodename": "REL",
+        "ETDM": {
+            "BatteryStatus": "5",
+            "BatteryHealth": "2",
+            "BatteryLevel": "100",
+            "BatteryScale": "100",
+            "BatteryPlugged": "0",
+            "BatteryTechnology": "Li-ion"
+        }
+    }
+}
