@@ -1,0 +1,194 @@
+{
+    "Unknow": {
+        "App-Count": 191,
+        "Now": "2022-08-24 18:54:12",
+        "com.google.android.apps.youtube.music": "2022-08-01 19:18:36",
+        "com.google.android.youtube": "2022-08-01 19:18:43",
+        "com.android.chrome": "2022-08-23 14:03:13",
+        "com.google.android.apps.maps": "2022-08-01 19:18:34",
+        "com.google.android.googlequicksearchbox": "2022-08-01 19:18:36",
+        "com.google.android.apps.docs": "2022-08-01 19:18:30",
+        "com.google.android.apps.photos": "2022-08-23 14:03:19",
+        "com.google.android.gms": "2022-08-01 19:18:28",
+        "Research-Count": 10
+    },
+    "设备信息": {
+        "SystemName": "Android",
+        "SystemVersion": "13",
+        "DeviceBrand": "google",
+        "DeviceModel": "sdk_gphone64_arm64",
+        "ApplicationChannel": "CHANNEL-Google",
+        "ApplicationKey": "APPKE",
+        "APILevel": "33",
+        "UA": "Mozilla\/5.0 (Linux; Android 13; sdk_gphone64_arm64 Build\/TPB4.220624.004; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/101.0.4951.74 Mobile Safari\/537.36",
+        "TargetSdkVersion": "31",
+        "BootTimeMilliseconds": "1661337998091",
+        "Simulator": "1",
+        "Debug": "1",
+        "Hijack": "0",
+        "SDK--utdid": "Yue2iAy8\/7QDAKEppyNXrVWm",
+        "IsRoot": "0",
+        "SystemFontSize": "0",
+        "SystemHour": "12",
+        "SystemLanguage": "en",
+        "SystemArea": "US",
+        "TimeZone": "GMT+08:00",
+        "SenSorModuleName": [
+            {
+                "SenSorName": "Goldfish 3-axis Accelerometer",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "The Android Open Source Project",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 3
+            },
+            {
+                "SenSorName": "Goldfish 3-axis Gyroscope",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "The Android Open Source Project",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 3
+            },
+            {
+                "SenSorName": "Goldfish 3-axis Magnetic field sensor",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "The Android Open Source Project",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 6.699999809265137
+            },
+            {
+                "SenSorName": "Goldfish Orientation sensor",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "The Android Open Source Project",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 9.699999809265137
+            },
+            {
+                "SenSorName": "Goldfish Ambient Temperature sensor",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "The Android Open Source Project",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.0010000000474974513
+            },
+            {
+                "SenSorName": "Goldfish Proximity sensor",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "The Android Open Source Project",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 20
+            },
+            {
+                "SenSorName": "Goldfish Light sensor",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "The Android Open Source Project",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 20
+            },
+            {
+                "SenSorName": "Goldfish Pressure sensor",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "The Android Open Source Project",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 20
+            },
+            {
+                "SenSorName": "Goldfish Humidity sensor",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "The Android Open Source Project",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 20
+            },
+            {
+                "SenSorName": "Goldfish 3-axis Magnetic field sensor (uncalibrated)",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "The Android Open Source Project",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 6.699999809265137
+            },
+            {
+                "SenSorName": "Game Rotation Vector Sensor",
+                "SenSorVersion": "3",
+                "SenSorManufacturer": "AOSP",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 12.699999809265137
+            },
+            {
+                "SenSorName": "GeoMag Rotation Vector Sensor",
+                "SenSorVersion": "3",
+                "SenSorManufacturer": "AOSP",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 12.699999809265137
+            },
+            {
+                "SenSorName": "Gravity Sensor",
+                "SenSorVersion": "3",
+                "SenSorManufacturer": "AOSP",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 12.699999809265137
+            },
+            {
+                "SenSorName": "Linear Acceleration Sensor",
+                "SenSorVersion": "3",
+                "SenSorManufacturer": "AOSP",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 12.699999809265137
+            },
+            {
+                "SenSorName": "Rotation Vector Sensor",
+                "SenSorVersion": "3",
+                "SenSorManufacturer": "AOSP",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 12.699999809265137
+            },
+            {
+                "SenSorName": "Orientation Sensor",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "AOSP",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 12.699999809265137
+            }
+        ],
+        "CPUModel": "arm64-v8a:",
+        "BuildId": "TPB4.220624.004",
+        "BuildDisplay": "sdk_gphone64_arm64-userdebug 13 TPB4.220624.004 8808248 dev-keys",
+        "BuildProduct": "sdk_gphone64_arm64",
+        "BuildDevice": "emu64a",
+        "BuildBoard": "goldfish_arm64",
+        "BuildHardware": "ranchu",
+        "BuildSupportedAbis": "arm64-v8a",
+        "BuildSupportedAbis64": "arm64-v8a",
+        "BuildType": "userdebug",
+        "BuildTags": "dev-keys",
+        "BuildFingerPrint": "google\/sdk_gphone64_arm64\/emu64a:13\/TPB4.220624.004\/8808248:userdebug\/dev-keys",
+        "BuildRadioVersion": "1.0.0.0",
+        "BuildIncremental": "8808248",
+        "BuildSecurityPatch": "2022-07-05",
+        "BuildPreviewSdkInt": "0",
+        "BuildSdkInt": "33",
+        "BuildCodename": "REL",
+        "IDFA": "90a2ee9c-c7cd-4a17-9099-58aa1994e341",
+        "ETDM": {
+            "BatteryStatus": "4",
+            "BatteryHealth": "2",
+            "BatteryLevel": "100",
+            "BatteryScale": "100",
+            "BatteryPlugged": "0",
+            "BatteryTechnology": "Li-ion"
+        }
+    }
+}
