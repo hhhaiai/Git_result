@@ -1,0 +1,407 @@
+{
+    "HideAPI": {
+        "MinRefPlanA": 0,
+        "MinRefOneClass": 0
+    },
+    "Unsafe": {
+        "init[theUnsafe]": true,
+        "init[THE_ONE]": true,
+        "init[getUnsafe]": true,
+        "init[getUnsafeByAbstractQueuedSynchronizer]": true,
+        "arrayIndexScale赋值Object数组大小": 4,
+        "is64Bit": true,
+        "me-adress": 316083504,
+        "me-hash": 217940359,
+        "me格式化-address": "12d70d30",
+        "me1-adress": 316083504,
+        "me1-hash": 217940359,
+        "me1格式化-address": "12d70d30",
+        "两个对象地址测试结果": true,
+        "两个对象测试结果": true,
+        "supportsUnsafeArrayOperations": true,
+        "supportsUnsafeByteBufferOperations": true,
+        "byte[]_OFFSET": 12,
+        "byte[]_SCALE": 1,
+        "boolean[]_OFFSET": 12,
+        "boolean[]_SCALE": 1,
+        "int[]_OFFSET": 12,
+        "int[]_SCALE": 4,
+        "long[]_OFFSET": 16,
+        "long[]_SCALE": 8,
+        "float[]_OFFSET": 12,
+        "float[]_SCALE": 4,
+        "double[]_OFFSET": 16,
+        "double[]_SCALE": 8,
+        "Object[]_OFFSET": 12,
+        "Object[]_SCALE": 4,
+        "BUFFER_ADDRESS_OFFSET": 8,
+        "STRIDE_ALIGNMENT_MASK": 7,
+        "BYTE_ARRAY_ALIGNMENT": 4,
+        "IS_BIG_ENDIAN": false
+    },
+    "设备信息": {
+        "SystemName": "Android",
+        "SystemVersion": "7.0",
+        "DeviceBrand": "Xiaomi",
+        "DeviceModel": "MI MAX",
+        "SerialNumber": "4f36c0f2",
+        "IMEIS": "869270029674180|869270029674198",
+        "ApplicationChannel": "CHANNEL-Xiaomi",
+        "ApplicationKey": "APPKE",
+        "APILevel": "24",
+        "UA": "Mozilla\/5.0 (Linux; Android 7.0; MI MAX Build\/NRD90M; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/64.0.3282.137 Mobile Safari\/537.36",
+        "TargetSdkVersion": "31",
+        "BootTimeMilliseconds": "1661297885981",
+        "Simulator": "0",
+        "Debug": "0",
+        "Hijack": "0",
+        "SDK--utdid": "W1mlNMskjyIDAPDmB\/2yH0+s",
+        "IsRoot": "0",
+        "SystemFontSize": "0",
+        "SystemHour": "12",
+        "SystemLanguage": "zh",
+        "SystemArea": "CN",
+        "TimeZone": "GMT+08:00",
+        "SenSorModuleName": [
+            {
+                "SenSorName": "BMI160 Accelerometer",
+                "SenSorVersion": "2062600",
+                "SenSorManufacturer": "BOSCH",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.18000000715255737
+            },
+            {
+                "SenSorName": "AK09916 Magnetometer",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "AKM",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 1.100000023841858
+            },
+            {
+                "SenSorName": "AK09916 Magnetometer Uncalibrated",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "AKM",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 1.100000023841858
+            },
+            {
+                "SenSorName": "BMI160 Gyroscope",
+                "SenSorVersion": "2062600",
+                "SenSorManufacturer": "BOSCH",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.8999999761581421
+            },
+            {
+                "SenSorName": "BMI160 Gyroscope Uncalibrated",
+                "SenSorVersion": "2062600",
+                "SenSorManufacturer": "BOSCH",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.8999999761581421
+            },
+            {
+                "SenSorName": "LTR579 ALSPS",
+                "SenSorVersion": "2",
+                "SenSorManufacturer": "LiteOn",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.0949999988079071
+            },
+            {
+                "SenSorName": "LTR579 ALSPS",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "LiteOn",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.10999999940395355
+            },
+            {
+                "SenSorName": "BMI160 Accelerometer -Wakeup Secondary",
+                "SenSorVersion": "2062600",
+                "SenSorManufacturer": "BOSCH",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.18000000715255737
+            },
+            {
+                "SenSorName": "AK09916 Magnetometer -Wakeup Secondary",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "AKM",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 1.100000023841858
+            },
+            {
+                "SenSorName": "AK09916 Magnetometer Uncalibrated -Wakeup Secondary",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "AKM",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 1.100000023841858
+            },
+            {
+                "SenSorName": "BMI160 Gyroscope -Wakeup Secondary",
+                "SenSorVersion": "2062600",
+                "SenSorManufacturer": "BOSCH",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.8999999761581421
+            },
+            {
+                "SenSorName": "BMI160 Gyroscope Uncalibrated -Wakeup Secondary",
+                "SenSorVersion": "2062600",
+                "SenSorManufacturer": "BOSCH",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.8999999761581421
+            },
+            {
+                "SenSorName": "LTR579 ALSPS -Non Wakeup Secondary",
+                "SenSorVersion": "2",
+                "SenSorManufacturer": "LiteOn",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.0949999988079071
+            },
+            {
+                "SenSorName": "LTR579 ALSPS -Wakeup Secondary",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "LiteOn",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.10999999940395355
+            },
+            {
+                "SenSorName": "Gravity",
+                "SenSorVersion": "2",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 1.079986572265625
+            },
+            {
+                "SenSorName": "Linear Acceleration",
+                "SenSorVersion": "2",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 1.079986572265625
+            },
+            {
+                "SenSorName": "Rotation Vector",
+                "SenSorVersion": "2",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 1.9999847412109375
+            },
+            {
+                "SenSorName": "Step Detector",
+                "SenSorVersion": "2",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.17999267578125
+            },
+            {
+                "SenSorName": "Step Counter",
+                "SenSorVersion": "2",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.17999267578125
+            },
+            {
+                "SenSorName": "Significant Motion Detector",
+                "SenSorVersion": "2",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.17999267578125
+            },
+            {
+                "SenSorName": "Game Rotation Vector",
+                "SenSorVersion": "2",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 1.079986572265625
+            },
+            {
+                "SenSorName": "GeoMagnetic Rotation Vector",
+                "SenSorVersion": "2",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 1.2799835205078125
+            },
+            {
+                "SenSorName": "Orientation",
+                "SenSorVersion": "2",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 1.9999847412109375
+            },
+            {
+                "SenSorName": "Tilt Detector",
+                "SenSorVersion": "2",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.17999267578125
+            },
+            {
+                "SenSorName": "Gravity -Wakeup Secondary",
+                "SenSorVersion": "2",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 1.079986572265625
+            },
+            {
+                "SenSorName": "Linear Acceleration -Wakeup Secondary",
+                "SenSorVersion": "2",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 1.079986572265625
+            },
+            {
+                "SenSorName": "Rotation Vector -Wakeup Secondary",
+                "SenSorVersion": "2",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 1.9999847412109375
+            },
+            {
+                "SenSorName": "Step Detector -Wakeup Secondary",
+                "SenSorVersion": "2",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.17999267578125
+            },
+            {
+                "SenSorName": "Step Counter -Wakeup Secondary",
+                "SenSorVersion": "2",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 0.17999267578125
+            },
+            {
+                "SenSorName": "Game Rotation Vector -Wakeup Secondary",
+                "SenSorVersion": "2",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 1.079986572265625
+            },
+            {
+                "SenSorName": "GeoMagnetic Rotation Vector -Wakeup Secondary",
+                "SenSorVersion": "2",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 1.2799835205078125
+            },
+            {
+                "SenSorName": "Orientation -Wakeup Secondary",
+                "SenSorVersion": "2",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 1.9999847412109375
+            },
+            {
+                "SenSorName": "AMD",
+                "SenSorVersion": "2",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.17999267578125
+            },
+            {
+                "SenSorName": "RMD",
+                "SenSorVersion": "2",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.17999267578125
+            },
+            {
+                "SenSorName": "Basic Gestures",
+                "SenSorVersion": "2",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.17999267578125
+            },
+            {
+                "SenSorName": "Facing",
+                "SenSorVersion": "2",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.17999267578125
+            },
+            {
+                "SenSorName": "Pedometer",
+                "SenSorVersion": "2",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.17999267578125
+            },
+            {
+                "SenSorName": "Motion Accel",
+                "SenSorVersion": "2",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.17999267578125
+            },
+            {
+                "SenSorName": "Coarse Motion Classifier",
+                "SenSorVersion": "3",
+                "SenSorManufacturer": "QTI",
+                "SenSorId": 0,
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.17999267578125
+            }
+        ],
+        "CPUModel": "arm64-v8a:",
+        "BuildId": "NRD90M",
+        "BuildDisplay": "NRD90M",
+        "BuildProduct": "hydrogen",
+        "BuildDevice": "hydrogen",
+        "BuildBoard": "msm8952",
+        "BuildHardware": "qcom",
+        "BuildSupportedAbis": "arm64-v8a,armeabi-v7a,armeabi",
+        "BuildSupportedAbis32": "armeabi-v7a,armeabi",
+        "BuildSupportedAbis64": "arm64-v8a",
+        "BuildType": "user",
+        "BuildTags": "release-keys",
+        "BuildFingerPrint": "Xiaomi\/hydrogen\/hydrogen:7.0\/NRD90M\/V10.2.2.0.NBCCNXM:user\/release-keys",
+        "BuildRadioVersion": "A.2.1.c4-00013-0304_1830_14bbde5",
+        "BuildIncremental": "V10.2.2.0.NBCCNXM",
+        "BuildSecurityPatch": "2018-04-01",
+        "BuildPreviewSdkInt": "0",
+        "BuildSdkInt": "24",
+        "BuildCodename": "REL",
+        "ETDM": {
+            "BatteryStatus": "5",
+            "BatteryHealth": "2",
+            "BatteryLevel": "100",
+            "BatteryScale": "100",
+            "BatteryPlugged": "0",
+            "BatteryTechnology": "Li-poly"
+        }
+    }
+}
