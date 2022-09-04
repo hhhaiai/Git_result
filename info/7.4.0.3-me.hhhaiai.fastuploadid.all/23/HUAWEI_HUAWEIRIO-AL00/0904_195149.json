@@ -1,0 +1,150 @@
+{
+    "HideAPI": {
+        "MinRefPlanA": 0,
+        "MinRefOneClass": 0
+    },
+    "Unsafe": {
+        "init[theUnsafe]": true,
+        "init[THE_ONE]": true,
+        "init[getUnsafe]": true,
+        "init[getUnsafeByAbstractQueuedSynchronizer]": true,
+        "arrayIndexScale赋值Object数组大小": 4,
+        "is64Bit": true,
+        "me-adress": 319915232,
+        "me-hash": 68189732,
+        "me格式化-address": "131184e0",
+        "me1-adress": 319915232,
+        "me1-hash": 68189732,
+        "me1格式化-address": "131184e0",
+        "两个对象地址测试结果": true,
+        "两个对象测试结果": true,
+        "supportsUnsafeArrayOperations": false,
+        "supportsUnsafeByteBufferOperations": false,
+        "byte[]_OFFSET": 12,
+        "byte[]_SCALE": 1,
+        "boolean[]_OFFSET": 12,
+        "boolean[]_SCALE": 1,
+        "int[]_OFFSET": 12,
+        "int[]_SCALE": 4,
+        "long[]_OFFSET": 16,
+        "long[]_SCALE": 8,
+        "float[]_OFFSET": 12,
+        "float[]_SCALE": 4,
+        "double[]_OFFSET": 16,
+        "double[]_SCALE": 8,
+        "Object[]_OFFSET": 12,
+        "Object[]_SCALE": 4,
+        "BUFFER_ADDRESS_OFFSET": 0,
+        "STRIDE_ALIGNMENT_MASK": 7,
+        "BYTE_ARRAY_ALIGNMENT": 4,
+        "IS_BIG_ENDIAN": false
+    },
+    "设备信息": {
+        "SystemName": "Android",
+        "SystemVersion": "6.0.1",
+        "DeviceBrand": "HUAWEI",
+        "DeviceModel": "HUAWEI RIO-AL00",
+        "SerialNumber": "PJQDU16305013533",
+        "ApplicationChannel": "CHANNEL-HUAWEI",
+        "ApplicationKey": "APPKE",
+        "APILevel": "23",
+        "UA": "Mozilla\/5.0 (Linux; Android 6.0.1; HUAWEI RIO-AL00 Build\/HuaweiRIO-AL00; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/55.0.2883.91 Mobile Safari\/537.36",
+        "TargetSdkVersion": "31",
+        "BootTimeMilliseconds": "1662247991791",
+        "Simulator": "0",
+        "Debug": "0",
+        "Hijack": "0",
+        "SDK--utdid": "XFAm9I5saoQDAKtIS\/V4WIN7",
+        "IsRoot": "1",
+        "SystemFontSize": "0",
+        "SystemHour": "12",
+        "SystemLanguage": "zh",
+        "SystemArea": "CN",
+        "TimeZone": "GMT+08:00",
+        "SenSorModuleName": [
+            {
+                "SenSorName": "ak8789-hall",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "AKMMicroelectronics",
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.0020000000949949026
+            },
+            {
+                "SenSorName": "akm09911-mag",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "Asahi Kasei Microde",
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.3499999940395355
+            },
+            {
+                "SenSorName": "pa2240-proximity",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "txc",
+                "SenSorWakeUpSensor": true,
+                "SenSorPower": 3
+            },
+            {
+                "SenSorName": "kx023-accel",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "KIONIXMicroelectron",
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.009999999776482582
+            },
+            {
+                "SenSorName": "bh1745-light",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "rohm",
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 0.20000000298023224
+            },
+            {
+                "SenSorName": "oem-orientation",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "oem",
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 1
+            },
+            {
+                "SenSorName": "oem-linear-acceleration",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "oem",
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 1
+            },
+            {
+                "SenSorName": "oem-gravity",
+                "SenSorVersion": "1",
+                "SenSorManufacturer": "oem",
+                "SenSorWakeUpSensor": false,
+                "SenSorPower": 1
+            }
+        ],
+        "CPUModel": "arm64-v8a:",
+        "BuildId": "HuaweiRIO-AL00",
+        "BuildDisplay": "RIO-AL00C00B392",
+        "BuildProduct": "RIO-AL00",
+        "BuildDevice": "hwRIO-AL00",
+        "BuildBoard": "RIO-AL00",
+        "BuildHardware": "qcom",
+        "BuildSupportedAbis": "arm64-v8a,armeabi-v7a,armeabi",
+        "BuildSupportedAbis32": "armeabi-v7a,armeabi",
+        "BuildSupportedAbis64": "arm64-v8a",
+        "BuildType": "user",
+        "BuildTags": "release-keys",
+        "BuildFingerPrint": "HUAWEI\/RIO-AL00\/hwRIO-AL00:6.0.1\/HuaweiRIO-AL00\/C00B392:user\/release-keys",
+        "BuildRadioVersion": "20234,20234",
+        "BuildIncremental": "C00B392",
+        "BuildSecurityPatch": "2017-02-01",
+        "BuildPreviewSdkInt": "0",
+        "BuildSdkInt": "23",
+        "BuildCodename": "REL",
+        "ETDM": {
+            "BatteryStatus": "5",
+            "BatteryHealth": "2",
+            "BatteryLevel": "100",
+            "BatteryScale": "100",
+            "BatteryPlugged": "0",
+            "BatteryTechnology": "Li-poly"
+        }
+    }
+}
