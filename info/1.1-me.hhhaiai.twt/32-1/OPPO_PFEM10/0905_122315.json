@@ -1,0 +1,12 @@
+{
+  "SDK_INT": "321",
+  "直反射_dalvik.system.VMDebug": true,
+  "直反射_dalvik.system.VMRuntime": true,
+  "直反射_setHiddenApiExemptions_false": false,
+  "直反射_allowHiddenApiReflectionFrom_true": true,
+  "直反射_getInstancesOfClasses_false": false,
+  "直反射_countInstancesOfClasses_false": false,
+  "直反射_getRuntimeStats_false": false,
+  "直反射_currentActivityThread_true": true,
+  "直反射_getInitialApplication_true": true
+}
