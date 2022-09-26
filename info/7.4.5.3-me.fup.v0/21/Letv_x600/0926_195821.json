@@ -1,0 +1,529 @@
+{
+  "LetMeSee": {
+    "com.letv.app.appstore": [
+      "\/sdcard\/Android\/data\/com.letv.app.appstore\/cache",
+      "\/data\/data\/com.letv.app.appstore\/files",
+      "\/data\/data\/com.letv.app.appstore\/cache",
+      "\/data\/data\/com.letv.app.appstore\/databases",
+      "\/data\/data\/com.letv.app.appstore\/shared_prefs"
+    ],
+    "com.letv.games": [
+      "\/sdcard\/Android\/data\/com.letv.games\/cache",
+      "\/data\/data\/com.letv.games\/files",
+      "\/data\/data\/com.letv.games\/cache",
+      "\/data\/data\/com.letv.games\/databases",
+      "\/data\/data\/com.letv.games\/shared_prefs"
+    ],
+    "com.baidu.input_letv": [
+      "\/data\/data\/com.baidu.input_letv\/files",
+      "\/data\/data\/com.baidu.input_letv\/files\/log",
+      "\/data\/data\/com.baidu.input_letv\/cache",
+      "\/data\/data\/com.baidu.input_letv\/shared_prefs"
+    ],
+    "com.android.gallery3d": [
+      "\/data\/data\/com.android.gallery3d\/cache",
+      "\/data\/data\/com.android.gallery3d\/databases",
+      "\/data\/data\/com.android.gallery3d\/shared_prefs"
+    ],
+    "com.android.calendar": [
+      "\/data\/data\/com.android.calendar\/files",
+      "\/data\/data\/com.android.calendar\/cache",
+      "\/data\/data\/com.android.calendar\/databases",
+      "\/data\/data\/com.android.calendar\/shared_prefs"
+    ],
+    "com.letv.android.ota": [
+      "\/data\/data\/com.letv.android.ota\/cache",
+      "\/data\/data\/com.letv.android.ota\/shared_prefs"
+    ],
+    "com.letv.android.account": [
+      "\/data\/data\/com.letv.android.account\/cache"
+    ],
+    "com.letv.android.note": [
+      "\/data\/data\/com.letv.android.note\/cache",
+      "\/data\/data\/com.letv.android.note\/databases",
+      "\/data\/data\/com.letv.android.note\/shared_prefs"
+    ],
+    "com.android.music": [
+      "\/data\/data\/com.android.music\/cache",
+      "\/data\/data\/com.android.music\/databases",
+      "\/data\/data\/com.android.music\/shared_prefs"
+    ],
+    "com.letv.android.recorder": [
+      "\/data\/data\/com.letv.android.recorder\/cache",
+      "\/data\/data\/com.letv.android.recorder\/databases",
+      "\/data\/data\/com.letv.android.recorder\/shared_prefs"
+    ],
+    "com.letv.android.client": [
+      "\/data\/data\/com.letv.android.client\/files",
+      "\/data\/data\/com.letv.android.client\/cache",
+      "\/data\/data\/com.letv.android.client\/databases",
+      "\/data\/data\/com.letv.android.client\/shared_prefs"
+    ],
+    "sina.mobile.tianqitongletv": [
+      "\/data\/data\/sina.mobile.tianqitongletv\/files",
+      "\/data\/data\/sina.mobile.tianqitongletv\/cache",
+      "\/data\/data\/sina.mobile.tianqitongletv\/databases",
+      "\/data\/data\/sina.mobile.tianqitongletv\/shared_prefs"
+    ],
+    "com.letv.android.remotecontrol": [
+      "\/data\/data\/com.letv.android.remotecontrol\/cache",
+      "\/data\/data\/com.letv.android.remotecontrol\/databases",
+      "\/data\/data\/com.letv.android.remotecontrol\/shared_prefs"
+    ],
+    "cn.testin.itestin": [
+      "\/data\/data\/cn.testin.itestin\/files",
+      "\/data\/data\/cn.testin.itestin\/cache",
+      "\/data\/data\/cn.testin.itestin\/databases",
+      "\/data\/data\/cn.testin.itestin\/shared_prefs"
+    ],
+    "com.letv.android.filemanager": [
+      "\/data\/data\/com.letv.android.filemanager\/cache",
+      "\/data\/data\/com.letv.android.filemanager\/databases",
+      "\/data\/data\/com.letv.android.filemanager\/shared_prefs"
+    ],
+    "com.android.email": [
+      "\/data\/data\/com.android.email\/files",
+      "\/data\/data\/com.android.email\/cache",
+      "\/data\/data\/com.android.email\/databases",
+      "\/data\/data\/com.android.email\/shared_prefs"
+    ],
+    "com.android.mms": [
+      "\/data\/data\/com.android.mms\/files",
+      "\/data\/data\/com.android.mms\/cache",
+      "\/data\/data\/com.android.mms\/shared_prefs"
+    ],
+    "com.android.dialer": [
+      "\/data\/data\/com.android.dialer\/cache",
+      "\/data\/data\/com.android.dialer\/databases",
+      "\/data\/data\/com.android.dialer\/shared_prefs"
+    ],
+    "com.letv.android.wallpaperonline": [
+      "\/data\/data\/com.letv.android.wallpaperonline\/cache",
+      "\/data\/data\/com.letv.android.wallpaperonline\/shared_prefs"
+    ],
+    "com.letv.android.bugreporter": [
+      "\/data\/data\/com.letv.android.bugreporter\/cache",
+      "\/data\/data\/com.letv.android.bugreporter\/databases",
+      "\/data\/data\/com.letv.android.bugreporter\/shared_prefs"
+    ],
+    "com.android.camera2": [
+      "\/data\/data\/com.android.camera2\/cache"
+    ],
+    "com.lesports.glivesports": [
+      "\/data\/data\/com.lesports.glivesports\/files",
+      "\/data\/data\/com.lesports.glivesports\/cache",
+      "\/data\/data\/com.lesports.glivesports\/databases",
+      "\/data\/data\/com.lesports.glivesports\/shared_prefs"
+    ],
+    "com.android.deskclock": [
+      "\/data\/data\/com.android.deskclock\/cache",
+      "\/data\/data\/com.android.deskclock\/databases",
+      "\/data\/data\/com.android.deskclock\/shared_prefs"
+    ],
+    "me.fup.v0": [
+      "\/data\/data\/me.fup.v0\/files",
+      "\/data\/data\/me.fup.v0\/cache",
+      "\/data\/data\/me.fup.v0\/databases",
+      "\/data\/data\/me.fup.v0\/shared_prefs"
+    ],
+    "com.android.packageinstaller": [
+      "\/data\/data\/com.android.packageinstaller\/cache"
+    ],
+    "com.android.providers.userdictionary": [
+      "\/data\/data\/com.android.providers.userdictionary\/databases"
+    ],
+    "com.android.externalstorage": [
+      "\/data\/data\/com.android.externalstorage\/cache"
+    ],
+    "com.mediatek.mtklogger": [
+      "\/data\/data\/com.mediatek.mtklogger\/files",
+      "\/data\/data\/com.mediatek.mtklogger\/cache",
+      "\/data\/data\/com.mediatek.mtklogger\/shared_prefs"
+    ],
+    "com.letv.android.accountinfo": [
+      "\/data\/data\/com.letv.android.accountinfo\/cache",
+      "\/data\/data\/com.letv.android.accountinfo\/shared_prefs"
+    ],
+    "com.letv.android.LetvShareProvider": [
+      "\/data\/data\/com.letv.android.LetvShareProvider\/cache",
+      "\/data\/data\/com.letv.android.LetvShareProvider\/databases"
+    ],
+    "com.mediatek.apst.target": [
+      "\/data\/data\/com.mediatek.apst.target\/cache"
+    ],
+    "com.letv.android.quicksearchbox": [
+      "\/data\/data\/com.letv.android.quicksearchbox\/files",
+      "\/data\/data\/com.letv.android.quicksearchbox\/cache",
+      "\/data\/data\/com.letv.android.quicksearchbox\/databases",
+      "\/data\/data\/com.letv.android.quicksearchbox\/shared_prefs"
+    ],
+    "com.mediatek.providers.drm": [
+      "\/data\/data\/com.mediatek.providers.drm\/cache"
+    ],
+    "com.android.managedprovisioning": [
+      "\/data\/data\/com.android.managedprovisioning\/cache"
+    ],
+    "com.stv.stvpush": [
+      "\/data\/data\/com.stv.stvpush\/files",
+      "\/data\/data\/com.stv.stvpush\/cache",
+      "\/data\/data\/com.stv.stvpush\/databases",
+      "\/data\/data\/com.stv.stvpush\/shared_prefs"
+    ],
+    "com.android.wallpaper.livepicker": [
+      "\/data\/data\/com.android.wallpaper.livepicker\/cache"
+    ],
+    "com.android.printspooler": [
+      "\/data\/data\/com.android.printspooler\/files",
+      "\/data\/data\/com.android.printspooler\/cache"
+    ],
+    "com.android.onetimeinitializer": [
+      "\/data\/data\/com.android.onetimeinitializer\/cache",
+      "\/data\/data\/com.android.onetimeinitializer\/shared_prefs"
+    ],
+    "com.android.contacts": [
+      "\/data\/data\/com.android.contacts\/cache",
+      "\/data\/data\/com.android.contacts\/shared_prefs"
+    ],
+    "com.android.vpndialogs": [
+      "\/data\/data\/com.android.vpndialogs\/cache"
+    ],
+    "com.letv.android.phonecontrol": [
+      "\/data\/data\/com.letv.android.phonecontrol\/cache",
+      "\/data\/data\/com.letv.android.phonecontrol\/shared_prefs"
+    ],
+    "com.letv.android.setupwizard": [
+      "\/data\/data\/com.letv.android.setupwizard\/cache",
+      "\/data\/data\/com.letv.android.setupwizard\/shared_prefs"
+    ],
+    "com.letv.android.freeflow": [
+      "\/data\/data\/com.letv.android.freeflow\/cache",
+      "\/data\/data\/com.letv.android.freeflow\/shared_prefs"
+    ],
+    "com.sohu.inputmethod.sogou.leshi": [
+      "\/data\/data\/com.sohu.inputmethod.sogou.leshi\/files",
+      "\/data\/data\/com.sohu.inputmethod.sogou.leshi\/cache",
+      "\/data\/data\/com.sohu.inputmethod.sogou.leshi\/shared_prefs"
+    ],
+    "com.mediatek.omacp": [
+      "\/data\/data\/com.mediatek.omacp\/cache",
+      "\/data\/data\/com.mediatek.omacp\/databases"
+    ],
+    "com.android.defcontainer": [
+      "\/data\/data\/com.android.defcontainer\/cache"
+    ],
+    "com.letv.bugpostbox": [
+      "\/data\/data\/com.letv.bugpostbox\/files",
+      "\/data\/data\/com.letv.bugpostbox\/cache",
+      "\/data\/data\/com.letv.bugpostbox\/databases"
+    ],
+    "com.android.systemui": [
+      "\/data\/data\/com.android.systemui\/files",
+      "\/data\/data\/com.android.systemui\/cache",
+      "\/data\/data\/com.android.systemui\/shared_prefs"
+    ],
+    "com.android.providers.calendar": [
+      "\/data\/data\/com.android.providers.calendar\/cache",
+      "\/data\/data\/com.android.providers.calendar\/databases",
+      "\/data\/data\/com.android.providers.calendar\/shared_prefs"
+    ],
+    "com.android.providers.downloads": [
+      "\/data\/data\/com.android.providers.downloads\/files",
+      "\/data\/data\/com.android.providers.downloads\/cache",
+      "\/data\/data\/com.android.providers.downloads\/databases"
+    ],
+    "com.uei.quicksetsdk.letv": [
+      "\/data\/data\/com.uei.quicksetsdk.letv\/files",
+      "\/data\/data\/com.uei.quicksetsdk.letv\/files\/data",
+      "\/data\/data\/com.uei.quicksetsdk.letv\/cache"
+    ],
+    "com.letv.android.cloudservice": [
+      "\/data\/data\/com.letv.android.cloudservice\/cache",
+      "\/data\/data\/com.letv.android.cloudservice\/shared_prefs"
+    ],
+    "com.letv.leui.schpwronoff": [
+      "\/data\/data\/com.letv.leui.schpwronoff\/cache",
+      "\/data\/data\/com.letv.leui.schpwronoff\/databases",
+      "\/data\/data\/com.letv.leui.schpwronoff\/shared_prefs"
+    ],
+    "com.letv.android.powercontroller": [
+      "\/data\/data\/com.letv.android.powercontroller\/databases",
+      "\/data\/data\/com.letv.android.powercontroller\/shared_prefs"
+    ],
+    "com.letv.android.usagestats": [
+      "\/data\/data\/com.letv.android.usagestats\/cache"
+    ],
+    "com.android.providers.contacts": [
+      "\/data\/data\/com.android.providers.contacts\/files",
+      "\/data\/data\/com.android.providers.contacts\/cache",
+      "\/data\/data\/com.android.providers.contacts\/databases",
+      "\/data\/data\/com.android.providers.contacts\/shared_prefs"
+    ],
+    "com.android.exchange": [
+      "\/data\/data\/com.android.exchange\/cache"
+    ],
+    "com.android.documentsui": [
+      "\/data\/data\/com.android.documentsui\/cache",
+      "\/data\/data\/com.android.documentsui\/databases"
+    ],
+    "com.svox.pico": [
+      "\/data\/data\/com.svox.pico\/cache"
+    ],
+    "com.mediatek.floatmenu": [
+      "\/data\/data\/com.mediatek.floatmenu\/cache"
+    ],
+    "com.letv.android.letvlive": [
+      "\/data\/data\/com.letv.android.letvlive\/files",
+      "\/data\/data\/com.letv.android.letvlive\/cache",
+      "\/data\/data\/com.letv.android.letvlive\/shared_prefs"
+    ],
+    "com.android.captiveportallogin": [
+      "\/data\/data\/com.android.captiveportallogin\/cache",
+      "\/data\/data\/com.android.captiveportallogin\/databases",
+      "\/data\/data\/com.android.captiveportallogin\/shared_prefs"
+    ],
+    "com.android.launcher3": [
+      "\/data\/data\/com.android.launcher3\/files",
+      "\/data\/data\/com.android.launcher3\/cache",
+      "\/data\/data\/com.android.launcher3\/databases",
+      "\/data\/data\/com.android.launcher3\/shared_prefs"
+    ],
+    "com.letv.lesophoneclient": [
+      "\/data\/data\/com.letv.lesophoneclient\/cache"
+    ],
+    "com.baidu.map.location": [
+      "\/data\/data\/com.baidu.map.location\/files",
+      "\/data\/data\/com.baidu.map.location\/cache"
+    ],
+    "com.letv.android.remotedevice": [
+      "\/data\/data\/com.letv.android.remotedevice\/cache"
+    ],
+    "com.letv.android.ecoProvider": [
+      "\/data\/data\/com.letv.android.ecoProvider\/cache",
+      "\/data\/data\/com.letv.android.ecoProvider\/databases",
+      "\/data\/data\/com.letv.android.ecoProvider\/shared_prefs"
+    ],
+    "com.android.providers.media": [
+      "\/data\/data\/com.android.providers.media\/cache",
+      "\/data\/data\/com.android.providers.media\/databases",
+      "\/data\/data\/com.android.providers.media\/shared_prefs"
+    ],
+    "com.android.musicfx": [
+      "\/data\/data\/com.android.musicfx\/cache"
+    ],
+    "com.mediatek.nlpservice": [
+      "\/data\/data\/com.mediatek.nlpservice\/cache"
+    ]
+  },
+  "设备信息": {
+    "java_version ": "0",
+    "java_runtime_version": "0.9",
+    "java_runtime_name": "Android Runtime",
+    "java_vm_version ": "2.1.0",
+    "SystemName": "Android",
+    "SystemVersion": "5.0.2",
+    "DeviceBrand": "Letv",
+    "DeviceModel": "x600",
+    "SerialNumber": "WW8DVSRGGYDAKJBE",
+    "IMEIS": "866479022677982",
+    "ApplicationChannel": "CHANNEL-Letv",
+    "ApplicationKey": "APPKE",
+    "APILevel": "21",
+    "UA": "Mozilla\/5.0 (Linux; Android 5.0.2; x600 Build\/ABXCNOP5501304131S) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/37.0.0.0 Mobile Safari\/537.36",
+    "TargetSdkVersion": "31",
+    "BootTimeMilliseconds": "1664186238328",
+    "Simulator": "0",
+    "Debug": "0",
+    "Hijack": "0",
+    "SDK--utdid": "XxkERVzyLq8DAFkLFa9xGY5W",
+    "IsRoot": "0",
+    "SystemFontSize": "0",
+    "SystemHour": "12",
+    "SystemLanguage": "zh",
+    "SystemArea": "CN",
+    "TimeZone": "GMT+08:00",
+    "SenSorModuleName": [
+      {
+        "SenSorName": "ACCELEROMETER",
+        "SenSorVersion": "3",
+        "SenSorManufacturer": "MTK",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.12999999523162842
+      },
+      {
+        "SenSorName": "PROXIMITY",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "MTK",
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.12999999523162842
+      },
+      {
+        "SenSorName": "LIGHT",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "MTK",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.12999999523162842
+      },
+      {
+        "SenSorName": "GESTURE",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "MTK",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.12999999523162842
+      },
+      {
+        "SenSorName": "GYROSCOPE",
+        "SenSorVersion": "3",
+        "SenSorManufacturer": "MTK",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 6.099999904632568
+      },
+      {
+        "SenSorName": "ORIENTATION",
+        "SenSorVersion": "3",
+        "SenSorManufacturer": "MTK",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.25
+      },
+      {
+        "SenSorName": "MAGNETOMETER",
+        "SenSorVersion": "3",
+        "SenSorManufacturer": "MTK",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.25
+      },
+      {
+        "SenSorName": "Rotation Vector Sensor",
+        "SenSorVersion": "3",
+        "SenSorManufacturer": "AOSP",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 6.480000019073486
+      },
+      {
+        "SenSorName": "Gravity Sensor",
+        "SenSorVersion": "3",
+        "SenSorManufacturer": "AOSP",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 6.480000019073486
+      },
+      {
+        "SenSorName": "Linear Acceleration Sensor",
+        "SenSorVersion": "3",
+        "SenSorManufacturer": "AOSP",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 6.480000019073486
+      }
+    ],
+    "CPUModel": "arm64-v8a:",
+    "BuildId": "ABXCNOP5501304131S",
+    "BuildDisplay": "ABXCNOP5501304131S release-keys",
+    "BuildProduct": "乐视超级手机1",
+    "BuildDevice": "x600",
+    "BuildHardware": "mt6795",
+    "BuildSupportedAbis": "arm64-v8a,armeabi-v7a,armeabi",
+    "BuildSupportedAbis32": "armeabi-v7a,armeabi",
+    "BuildSupportedAbis64": "arm64-v8a",
+    "BuildType": "user",
+    "BuildTags": "release-keys",
+    "BuildFingerPrint": "Letv\/乐视超级手机1\/x600:5.0.2\/ABXCNOP5501304131S\/67:user\/release-keys",
+    "BuildRadioVersion": "MOLY.LR9.W1423.MD.LWTG.MP.V19.P65, 2016\/04\/12 23:48",
+    "BuildIncremental": "67",
+    "BuildSdkInt": "21",
+    "BuildCodename": "REL",
+    "ETDM": {
+      "BatteryStatus": "5",
+      "BatteryHealth": "2",
+      "BatteryLevel": "100",
+      "BatteryScale": "100",
+      "BatteryPlugged": "2",
+      "BatteryTechnology": "Li-ion"
+    }
+  },
+  "Unsafe": {
+    "init[theUnsafe]": true,
+    "init[THE_ONE]": true,
+    "init[getUnsafe]": true,
+    "init[getUnsafeByAbstractQueuedSynchronizer]": true,
+    "arrayIndexScale赋值Object数组大小": 4,
+    "is64Bit": true,
+    "me-adress": 316706784,
+    "me-hash": 627319711,
+    "me格式化-address": "12e08fe0",
+    "me1-adress": 316706784,
+    "me1-hash": 627319711,
+    "me1格式化-address": "12e08fe0",
+    "两个对象地址测试结果": true,
+    "两个对象测试结果": true,
+    "byte[]_OFFSET": 12,
+    "byte[]_SCALE": 1,
+    "boolean[]_OFFSET": 12,
+    "boolean[]_SCALE": 1,
+    "int[]_OFFSET": 12,
+    "int[]_SCALE": 4,
+    "long[]_OFFSET": 16,
+    "long[]_SCALE": 8,
+    "float[]_OFFSET": 12,
+    "float[]_SCALE": 4,
+    "double[]_OFFSET": 16,
+    "double[]_SCALE": 8,
+    "Object[]_OFFSET": 12,
+    "Object[]_SCALE": 4,
+    "BUFFER_ADDRESS_OFFSET": 0,
+    "STRIDE_ALIGNMENT_MASK": 7,
+    "BYTE_ARRAY_ALIGNMENT": 4,
+    "IS_BIG_ENDIAN": false,
+    "objectFieldOffset(Field)": true,
+    "1_arrayBaseOffset(Class)": true,
+    "1_getArrayBaseOffsetForComponentType(Class)": true,
+    "2_arrayIndexScale(Class)": true,
+    "2_getArrayIndexScaleForComponentType(Class)": true,
+    "2_arrayIndexScale0(Class)": false,
+    "compareAndSwapInt(Object,long,int,int)": true,
+    "compareAndSwapLong(Object,long,long,long)": true,
+    "compareAndSwapObject(Object,long,Object,Object)": true,
+    "3_getInt(Object,long)": true,
+    "3_getIntVolatile(Object,long)": true,
+    "getInt(long)": false,
+    "4_putInt(Object,long,int)": true,
+    "4_putIntVolatile(Object,long,int)": true,
+    "putInt(long,int)": false,
+    "putOrderedInt(Object,long,int)": true,
+    "5_getLong(Object,long)": true,
+    "5_getLongVolatile(Object,long)": true,
+    "getLong(long)": false,
+    "putLong(Object,long,long)": true,
+    "getObject(Object,long)": true,
+    "putObject(Object,long,Object)": true,
+    "getByte(long)": false,
+    "getByte(Object,long)": false,
+    "putByte(long,byte)": false,
+    "putByte(Object,long,byte)": false,
+    "getBoolean(Object,long)": false,
+    "putBoolean(Object,long,boolean)": false,
+    "getFloat(Object,long)": false,
+    "putFloat(Object,long,float)": false,
+    "getDouble(Object,long)": false,
+    "putDouble(Object,long,double)": false,
+    "putLong(long,long)": false,
+    "copyMemory(long,long,long)": false,
+    "addressSize()": false,
+    "pageSize()": false,
+    "allocateInstance(Class)": true,
+    "allocateMemory(long)": false,
+    "copyMemoryToPrimitiveArray(long,Object,long,long)": false,
+    "copyMemoryFromPrimitiveArray(Object,long,long,long)": false,
+    "setMemory(long,long,byte)": false,
+    "freeMemory(long)": false,
+    "getAndAddInt(Object,long,int)": false,
+    "getAndSetInt(Object,long,int)": false,
+    "getAndAddLong(Object,long,long)": false,
+    "getAndSetLong(Object,long,long)": false,
+    "getAndSetObject(Object,long,Object)": false
+  },
+  "MAC": {
+    "java_mac": "84:73:03:0c:03:93",
+    "api_mac": "84:73:03:0c:03:93",
+    "file_mac": "",
+    "ip_address": "1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN \n    link\/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00\n    inet 127.0.0.1\/8 scope host lo\n       valid_lft forever preferred_lft forever\n    inet6 ::1\/128 scope host \n       valid_lft forever preferred_lft forever\n2: ccmni0: <NOARP> mtu 1500 qdisc noop state DOWN qlen 1000\n    link\/ether a6:64:a1:fb:66:33 brd ff:ff:ff:ff:ff:ff\n3: ccmni1: <NOARP> mtu 1500 qdisc noop state DOWN qlen 1000\n    link\/ether 3e:ca:be:cf:f2:c2 brd ff:ff:ff:ff:ff:ff\n4: ccmni2: <NOARP> mtu 1500 qdisc noop state DOWN qlen 1000\n    link\/ether 86:85:ed:45:83:c5 brd ff:ff:ff:ff:ff:ff\n5: ifb0: <BROADCAST,NOARP> mtu 1500 qdisc noop state DOWN qlen 32\n    link\/ether 66:7a:24:c6:b6:41 brd ff:ff:ff:ff:ff:ff\n6: ifb1: <BROADCAST,NOARP> mtu 1500 qdisc noop state DOWN qlen 32\n    link\/ether ba:e3:ce:21:92:80 brd ff:ff:ff:ff:ff:ff\n7: tunl0: <NOARP> mtu 0 qdisc noop state DOWN \n    link\/ipip 0.0.0.0 brd 0.0.0.0\n8: sit0: <NOARP> mtu 1480 qdisc noop state DOWN \n    link\/sit 0.0.0.0 brd 0.0.0.0\n9: ip6tnl0@NONE: <NOARP> mtu 1452 qdisc noop state DOWN \n    link\/tunnel6 :: brd ::\n10: wlan0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP qlen 1000\n    link\/ether 84:73:03:0c:03:93 brd ff:ff:ff:ff:ff:ff\n    inet 10.43.34.160\/23 brd 10.43.35.255 scope global wlan0\n       valid_lft forever preferred_lft forever\n    inet6 fe80::8673:3ff:fe0c:393\/64 scope link \n       valid_lft forever preferred_lft forever\n11: p2p0: <NO-CARRIER,BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state DORMANT qlen 1000\n    link\/ether 86:73:03:0c:03:93 brd ff:ff:ff:ff:ff:ff\n",
+    "ip_link": "1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN mode DEFAULT \n    link\/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00\n2: ccmni0: <NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 1000\n    link\/ether a6:64:a1:fb:66:33 brd ff:ff:ff:ff:ff:ff\n3: ccmni1: <NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 1000\n    link\/ether 3e:ca:be:cf:f2:c2 brd ff:ff:ff:ff:ff:ff\n4: ccmni2: <NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 1000\n    link\/ether 86:85:ed:45:83:c5 brd ff:ff:ff:ff:ff:ff\n5: ifb0: <BROADCAST,NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 32\n    link\/ether 66:7a:24:c6:b6:41 brd ff:ff:ff:ff:ff:ff\n6: ifb1: <BROADCAST,NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 32\n    link\/ether ba:e3:ce:21:92:80 brd ff:ff:ff:ff:ff:ff\n7: tunl0: <NOARP> mtu 0 qdisc noop state DOWN mode DEFAULT \n    link\/ipip 0.0.0.0 brd 0.0.0.0\n8: sit0: <NOARP> mtu 1480 qdisc noop state DOWN mode DEFAULT \n    link\/sit 0.0.0.0 brd 0.0.0.0\n9: ip6tnl0@NONE: <NOARP> mtu 1452 qdisc noop state DOWN mode DEFAULT \n    link\/tunnel6 :: brd ::\n10: wlan0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP mode DORMANT qlen 1000\n    link\/ether 84:73:03:0c:03:93 brd ff:ff:ff:ff:ff:ff\n11: p2p0: <NO-CARRIER,BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state DORMANT mode DORMANT qlen 1000\n    link\/ether 86:73:03:0c:03:93 brd ff:ff:ff:ff:ff:ff\n"
+  }
+}
