@@ -1,0 +1,533 @@
+{
+  "LetMeSee": {
+    "me.fup.v0": [
+      "\/data\/data\/me.fup.v0\/files",
+      "\/data\/data\/me.fup.v0\/cache",
+      "\/data\/data\/me.fup.v0\/code_cache",
+      "\/data\/data\/me.fup.v0\/databases",
+      "\/data\/data\/me.fup.v0\/shared_prefs"
+    ],
+    "com.google.android.gms": [
+      "\/data\/data\/com.google.android.gms\/files",
+      "\/data\/data\/com.google.android.gms\/cache",
+      "\/data\/data\/com.google.android.gms\/code_cache",
+      "\/data\/data\/com.google.android.gms\/databases",
+      "\/data\/data\/com.google.android.gms\/shared_prefs"
+    ]
+  },
+  "设备信息": {
+    "java_version ": "0",
+    "java_runtime_version": "0.9",
+    "java_runtime_name": "Android Runtime",
+    "java_vm_version ": "2.1.0",
+    "SystemName": "Android",
+    "SystemVersion": "11",
+    "DeviceBrand": "OPPO",
+    "UM-OAID": "0B65B612145947708E8F936A174F97B51f12e8fdc4d4c3eec5b263fa1b4d1277",
+    "DeviceModel": "PEUM00",
+    "ApplicationChannel": "CHANNEL-OPPO",
+    "ApplicationKey": "APPKE",
+    "APILevel": "30",
+    "UA": "Mozilla\/5.0 (Linux; Android 11; PEUM00 Build\/RKQ1.211119.001; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/83.0.4103.106 Mobile Safari\/537.36",
+    "TargetSdkVersion": "31",
+    "BootTimeMilliseconds": "1664169132956",
+    "Simulator": "0",
+    "Debug": "0",
+    "Hijack": "0",
+    "SDK--utdid": "YzGP2IzrCJADAHMcBMR2cqNm",
+    "IsRoot": "0",
+    "SystemFontSize": "0",
+    "SystemHour": "12",
+    "SystemLanguage": "zh",
+    "SystemArea": "CN",
+    "TimeZone": "GMT+08:00",
+    "SenSorModuleName": [
+      {
+        "SenSorName": "lsm6dso Accelerometer Non-wakeup",
+        "SenSorVersion": "142870",
+        "SenSorManufacturer": "STMicro",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.17000000178813934
+      },
+      {
+        "SenSorName": "ak0991x Magnetometer Non-wakeup",
+        "SenSorVersion": "146966",
+        "SenSorManufacturer": "akm",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 1.100000023841858
+      },
+      {
+        "SenSorName": "Rotation Vector  Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "qualcomm",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 1.4149999618530273
+      },
+      {
+        "SenSorName": "lsm6dso Gyroscope Non-wakeup",
+        "SenSorVersion": "142870",
+        "SenSorManufacturer": "STMicro",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.550000011920929
+      },
+      {
+        "SenSorName": "stk33705 Proximity Sensor Wakeup",
+        "SenSorVersion": "205",
+        "SenSorManufacturer": "oplus",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.10000000149011612
+      },
+      {
+        "SenSorName": "gravity  Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "qualcomm",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.5149999856948853
+      },
+      {
+        "SenSorName": "linear_acceleration",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "qualcomm",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.5149999856948853
+      },
+      {
+        "SenSorName": "Rotation Vector  Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "qualcomm",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 1.4149999618530273
+      },
+      {
+        "SenSorName": "ak0991x Magnetometer-Uncalibrated Non-wakeup",
+        "SenSorVersion": "146966",
+        "SenSorManufacturer": "akm",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 1.100000023841858
+      },
+      {
+        "SenSorName": "Game Rotation Vector  Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "qualcomm",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.5149999856948853
+      },
+      {
+        "SenSorName": "lsm6dso Gyroscope-Uncalibrated Non-wakeup",
+        "SenSorVersion": "142870",
+        "SenSorManufacturer": "STMicro",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.550000011920929
+      },
+      {
+        "SenSorName": "sns_smd  Wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "qualcomm",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.02500000037252903
+      },
+      {
+        "SenSorName": "pedometer  Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "oplus",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "pedometer  Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "oplus",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "sns_geomag_rv  Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "qualcomm",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 1.0499999523162842
+      },
+      {
+        "SenSorName": "pick_up_motion  Wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "oplus",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "device_orient  Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "oplus",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "stationary_detect",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "qualcomm",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.02500000037252903
+      },
+      {
+        "SenSorName": "motion_detect",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "qualcomm",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.02500000037252903
+      },
+      {
+        "SenSorName": "lsm6dso Accelerometer-Uncalibrated Non-wakeup",
+        "SenSorVersion": "142870",
+        "SenSorManufacturer": "STMicro",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.17000000178813934
+      },
+      {
+        "SenSorName": "OPLUS First Pad Fusion Light Sensor",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "OPLUS",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 1.8199999332427979
+      },
+      {
+        "SenSorName": "OPLUS Second Pad Fusion Light Sensor",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "OPLUS",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 1.8199999332427979
+      },
+      {
+        "SenSorName": "OPLUS Side Panel Fusion Light Sensor",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "OPLUS",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 1.8199999332427979
+      },
+      {
+        "SenSorName": "OPLUS Multi-Fusion Light Sensor",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "OPLUS",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 1.8199999332427979
+      },
+      {
+        "SenSorName": "mxm1120 Hall Effect Sensor Wakeup",
+        "SenSorVersion": "66304",
+        "SenSorManufacturer": "haechitech",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.004999999888241291
+      },
+      {
+        "SenSorName": "ak0997x Angle Hall Sensor Non-wakeup",
+        "SenSorVersion": "65542",
+        "SenSorManufacturer": "akm",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.24400000274181366
+      },
+      {
+        "SenSorName": "free_fall  Wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "oplus",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "sensor_logger  Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "oplus",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "stk33705 wise Light Sensor Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "oplus",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.07999999821186066
+      },
+      {
+        "SenSorName": "tcs3701 Pad ALS Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "oplus",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.07999999821186066
+      },
+      {
+        "SenSorName": "tcs3701 Vice Pad ALS Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "oplus",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.07999999821186066
+      },
+      {
+        "SenSorName": "lux_aod  Wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "oplus",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "pedometer_minute  Wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "oplus",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "cmc_oplus  Wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "oplus",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "elevator_detect  Wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "oplus",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "oplus_activity_recognition  Wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "oplus",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "hinge_detect hinge detect Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "oplus",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "stk37600 RGB Sensor Rear Non-wakeup",
+        "SenSorVersion": "16",
+        "SenSorManufacturer": "oplus",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.07999999821186066
+      },
+      {
+        "SenSorName": "stk37600 Flicker Sensor Rear Non-wakeup",
+        "SenSorVersion": "16",
+        "SenSorManufacturer": "oplus",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.07999999821186066
+      },
+      {
+        "SenSorName": "stk37600 Ambient Light Sensor Rear Non-wakeup",
+        "SenSorVersion": "16",
+        "SenSorManufacturer": "oplus",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.07999999821186066
+      },
+      {
+        "SenSorName": "mxm1120 trestle_hall Non-wakeup",
+        "SenSorVersion": "66304",
+        "SenSorManufacturer": "haechitech",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.004999999888241291
+      },
+      {
+        "SenSorName": "lsm6dso QTI-Accelerometer Non-wakeup",
+        "SenSorVersion": "142870",
+        "SenSorManufacturer": "STMicro",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.17000000178813934
+      },
+      {
+        "SenSorName": "lsm6dso QTI-Gyroscope Non-wakeup",
+        "SenSorVersion": "142870",
+        "SenSorManufacturer": "STMicro",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.550000011920929
+      },
+      {
+        "SenSorName": "lsm6dso QTI-Gyroscope-Uncalibrated Non-wakeup",
+        "SenSorVersion": "142870",
+        "SenSorManufacturer": "STMicro",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.550000011920929
+      },
+      {
+        "SenSorName": "sub_device_orient  Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "oplus",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "lsm6dso QTI-Accelerometer-Uncalibrated Non-wakeup",
+        "SenSorVersion": "142870",
+        "SenSorManufacturer": "STMicro",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.17000000178813934
+      }
+    ],
+    "CPUModel": "arm64-v8a:",
+    "BuildId": "RKQ1.211119.001",
+    "BuildDisplay": "PEUM00_11_A.23",
+    "BuildProduct": "PEUM00",
+    "BuildDevice": "OP4E75L1",
+    "BuildBoard": "lahaina",
+    "BuildHardware": "qcom",
+    "BuildSupportedAbis": "arm64-v8a,armeabi-v7a,armeabi",
+    "BuildSupportedAbis32": "armeabi-v7a,armeabi",
+    "BuildSupportedAbis64": "arm64-v8a",
+    "BuildType": "user",
+    "BuildTags": "release-keys",
+    "BuildFingerPrint": "OPPO\/PEUM00\/OP4E75L1:11\/RKQ1.211119.001\/1660743375903:user\/release-keys",
+    "BuildRadioVersion": "Q_V1_P14,Q_V1_P14",
+    "BuildIncremental": "1660743375903",
+    "BuildBaseOS": "OPPO\/PEUM00\/OP4E75L1:11\/RKQ1.210907.001\/1641836344478:user\/release-keys",
+    "BuildSecurityPatch": "2022-08-05",
+    "BuildPreviewSdkInt": "0",
+    "BuildSdkInt": "30",
+    "BuildCodename": "REL",
+    "IDFA": "0a676054-18eb-4b8d-9335-7b773a51ef85",
+    "ETDM": {
+      "BatteryStatus": "5",
+      "BatteryHealth": "2",
+      "BatteryLevel": "100",
+      "BatteryScale": "100",
+      "BatteryPlugged": "2",
+      "BatteryTechnology": "NiCd"
+    }
+  },
+  "Unsafe": {
+    "init[theUnsafe]": true,
+    "init[THE_ONE]": true,
+    "init[getUnsafe]": true,
+    "init[getUnsafeByAbstractQueuedSynchronizer]": true,
+    "arrayIndexScale赋值Object数组大小": 4,
+    "is64Bit": true,
+    "me-adress": 350426064,
+    "me-hash": 208063274,
+    "me格式化-address": "14e313d0",
+    "me1-adress": 350426064,
+    "me1-hash": 208063274,
+    "me1格式化-address": "14e313d0",
+    "两个对象地址测试结果": true,
+    "两个对象测试结果": true,
+    "byte[]_OFFSET": 12,
+    "byte[]_SCALE": 1,
+    "boolean[]_OFFSET": 12,
+    "boolean[]_SCALE": 1,
+    "int[]_OFFSET": 12,
+    "int[]_SCALE": 4,
+    "long[]_OFFSET": 16,
+    "long[]_SCALE": 8,
+    "float[]_OFFSET": 12,
+    "float[]_SCALE": 4,
+    "double[]_OFFSET": 16,
+    "double[]_SCALE": 8,
+    "Object[]_OFFSET": 12,
+    "Object[]_SCALE": 4,
+    "BUFFER_ADDRESS_OFFSET": 8,
+    "STRIDE_ALIGNMENT_MASK": 7,
+    "BYTE_ARRAY_ALIGNMENT": 4,
+    "IS_BIG_ENDIAN": false,
+    "objectFieldOffset(Field)": true,
+    "1_arrayBaseOffset(Class)": true,
+    "1_getArrayBaseOffsetForComponentType(Class)": true,
+    "2_arrayIndexScale(Class)": true,
+    "2_getArrayIndexScaleForComponentType(Class)": true,
+    "2_arrayIndexScale0(Class)": false,
+    "compareAndSwapInt(Object,long,int,int)": true,
+    "compareAndSwapLong(Object,long,long,long)": true,
+    "compareAndSwapObject(Object,long,Object,Object)": true,
+    "3_getInt(Object,long)": true,
+    "3_getIntVolatile(Object,long)": true,
+    "getInt(long)": true,
+    "4_putInt(Object,long,int)": true,
+    "4_putIntVolatile(Object,long,int)": true,
+    "putInt(long,int)": true,
+    "putOrderedInt(Object,long,int)": true,
+    "5_getLong(Object,long)": true,
+    "5_getLongVolatile(Object,long)": true,
+    "getLong(long)": true,
+    "putLong(Object,long,long)": true,
+    "getObject(Object,long)": true,
+    "putObject(Object,long,Object)": true,
+    "getByte(long)": true,
+    "getByte(Object,long)": true,
+    "putByte(long,byte)": false,
+    "putByte(Object,long,byte)": true,
+    "getBoolean(Object,long)": true,
+    "putBoolean(Object,long,boolean)": true,
+    "getFloat(Object,long)": true,
+    "putFloat(Object,long,float)": true,
+    "getDouble(Object,long)": true,
+    "putDouble(Object,long,double)": true,
+    "bufferAddressField": "long java.nio.Buffer.address",
+    "putLong(long,long)": true,
+    "copyMemory(long,long,long)": true,
+    "addressSize()": true,
+    "pageSize()": true,
+    "allocateInstance(Class)": true,
+    "allocateMemory(long)": true,
+    "copyMemoryToPrimitiveArray(long,Object,long,long)": true,
+    "copyMemoryFromPrimitiveArray(Object,long,long,long)": true,
+    "setMemory(long,long,byte)": true,
+    "freeMemory(long)": true,
+    "getAndAddInt(Object,long,int)": true,
+    "getAndSetInt(Object,long,int)": true,
+    "getAndAddLong(Object,long,long)": true,
+    "getAndSetLong(Object,long,long)": true,
+    "getAndSetObject(Object,long,Object)": true
+  },
+  "MAC": {
+    "java_mac": "02:00:00:00:00:00",
+    "api_mac": "02:00:00:00:00:00",
+    "file_mac": "",
+    "ip_address": "",
+    "ip_link": ""
+  }
+}
