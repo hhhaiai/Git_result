@@ -1,0 +1,871 @@
+{
+  "LetMeSee": {
+    "com.android.browser": [
+      "\/sdcard\/Android\/data\/com.android.browser\/files",
+      "\/sdcard\/Android\/data\/com.android.browser\/files\/perf",
+      "\/sdcard\/Android\/data\/com.android.browser\/files\/perfUploading",
+      "\/sdcard\/Android\/data\/com.android.browser\/files\/push_cdata.lock",
+      "\/sdcard\/Android\/data\/com.android.browser\/files\/push_cdata.data",
+      "\/sdcard\/Android\/data\/com.android.browser\/cache",
+      "\/data\/data\/com.android.browser\/files",
+      "\/data\/data\/com.android.browser\/files\/data",
+      "\/data\/data\/com.android.browser\/cache",
+      "\/data\/data\/com.android.browser\/code_cache",
+      "\/data\/data\/com.android.browser\/databases",
+      "\/data\/data\/com.android.browser\/shared_prefs"
+    ],
+    "com.tencent.mobileqq": [
+      "\/sdcard\/Android\/data\/com.tencent.mobileqq\/files",
+      "\/data\/data\/com.tencent.mobileqq\/files",
+      "\/data\/data\/com.tencent.mobileqq\/files\/data",
+      "\/data\/data\/com.tencent.mobileqq\/cache",
+      "\/data\/data\/com.tencent.mobileqq\/code_cache",
+      "\/data\/data\/com.tencent.mobileqq\/databases",
+      "\/data\/data\/com.tencent.mobileqq\/shared_prefs"
+    ],
+    "com.miui.video": [
+      "\/sdcard\/Android\/data\/com.miui.video\/files",
+      "\/sdcard\/Android\/data\/com.miui.video\/cache",
+      "\/data\/data\/com.miui.video\/files",
+      "\/data\/data\/com.miui.video\/cache",
+      "\/data\/data\/com.miui.video\/cache\/app",
+      "\/data\/data\/com.miui.video\/code_cache",
+      "\/data\/data\/com.miui.video\/databases",
+      "\/data\/data\/com.miui.video\/shared_prefs"
+    ],
+    "com.xiaomi.market": [
+      "\/sdcard\/Android\/data\/com.xiaomi.market\/files",
+      "\/sdcard\/Android\/data\/com.xiaomi.market\/files\/perf",
+      "\/sdcard\/Android\/data\/com.xiaomi.market\/files\/perfUploading",
+      "\/sdcard\/Android\/data\/com.xiaomi.market\/files\/MiPushLog",
+      "\/data\/data\/com.xiaomi.market\/files",
+      "\/data\/data\/com.xiaomi.market\/cache",
+      "\/data\/data\/com.xiaomi.market\/code_cache",
+      "\/data\/data\/com.xiaomi.market\/databases",
+      "\/data\/data\/com.xiaomi.market\/shared_prefs"
+    ],
+    "com.miui.weather2": [
+      "\/sdcard\/Android\/data\/com.miui.weather2\/files",
+      "\/sdcard\/Android\/data\/com.miui.weather2\/files\/push_cdata.lock",
+      "\/sdcard\/Android\/data\/com.miui.weather2\/files\/push_cdata.data",
+      "\/data\/data\/com.miui.weather2\/files",
+      "\/data\/data\/com.miui.weather2\/cache",
+      "\/data\/data\/com.miui.weather2\/code_cache",
+      "\/data\/data\/com.miui.weather2\/databases",
+      "\/data\/data\/com.miui.weather2\/shared_prefs"
+    ],
+    "com.duokan.reader": [
+      "\/sdcard\/Android\/data\/com.duokan.reader\/files",
+      "\/sdcard\/Android\/data\/com.duokan.reader\/files\/MiPushLog",
+      "\/data\/data\/com.duokan.reader\/files",
+      "\/data\/data\/com.duokan.reader\/cache",
+      "\/data\/data\/com.duokan.reader\/code_cache",
+      "\/data\/data\/com.duokan.reader\/databases",
+      "\/data\/data\/com.duokan.reader\/shared_prefs"
+    ],
+    "com.android.quicksearchbox": [
+      "\/sdcard\/Android\/data\/com.android.quicksearchbox\/files",
+      "\/sdcard\/Android\/data\/com.android.quicksearchbox\/cache",
+      "\/data\/data\/com.android.quicksearchbox\/files",
+      "\/data\/data\/com.android.quicksearchbox\/files\/data",
+      "\/data\/data\/com.android.quicksearchbox\/cache",
+      "\/data\/data\/com.android.quicksearchbox\/code_cache",
+      "\/data\/data\/com.android.quicksearchbox\/databases",
+      "\/data\/data\/com.android.quicksearchbox\/shared_prefs"
+    ],
+    "com.miui.userguide": [
+      "\/sdcard\/Android\/data\/com.miui.userguide\/files",
+      "\/sdcard\/Android\/data\/com.miui.userguide\/files\/perf",
+      "\/sdcard\/Android\/data\/com.miui.userguide\/files\/perfUploading",
+      "\/data\/data\/com.miui.userguide\/files",
+      "\/data\/data\/com.miui.userguide\/cache",
+      "\/data\/data\/com.miui.userguide\/code_cache",
+      "\/data\/data\/com.miui.userguide\/databases",
+      "\/data\/data\/com.miui.userguide\/shared_prefs"
+    ],
+    "com.android.systemui": [
+      "\/sdcard\/Android\/data\/com.android.systemui\/files",
+      "\/sdcard\/Android\/data\/com.android.systemui\/files\/push_cdata.lock",
+      "\/sdcard\/Android\/data\/com.android.systemui\/files\/push_cdata.data"
+    ],
+    "com.miui.hybrid": [
+      "\/sdcard\/Android\/data\/com.miui.hybrid\/files",
+      "\/sdcard\/Android\/data\/com.miui.hybrid\/files\/perf",
+      "\/sdcard\/Android\/data\/com.miui.hybrid\/files\/perfUploading",
+      "\/data\/data\/com.miui.hybrid\/files",
+      "\/data\/data\/com.miui.hybrid\/cache",
+      "\/data\/data\/com.miui.hybrid\/code_cache",
+      "\/data\/data\/com.miui.hybrid\/databases",
+      "\/data\/data\/com.miui.hybrid\/shared_prefs"
+    ],
+    "com.miui.personalassistant": [
+      "\/sdcard\/Android\/data\/com.miui.personalassistant\/cache",
+      "\/data\/data\/com.miui.personalassistant\/files",
+      "\/data\/data\/com.miui.personalassistant\/cache",
+      "\/data\/data\/com.miui.personalassistant\/code_cache",
+      "\/data\/data\/com.miui.personalassistant\/databases",
+      "\/data\/data\/com.miui.personalassistant\/shared_prefs"
+    ],
+    "com.xiaomi.finddevice": [
+      "\/sdcard\/Android\/data\/com.xiaomi.finddevice\/files",
+      "\/sdcard\/Android\/data\/com.xiaomi.finddevice\/files\/push_cdata.lock",
+      "\/sdcard\/Android\/data\/com.xiaomi.finddevice\/files\/push_cdata.data"
+    ],
+    "com.xiaomi.vipaccount": [
+      "\/data\/data\/com.xiaomi.vipaccount\/files",
+      "\/data\/data\/com.xiaomi.vipaccount\/cache",
+      "\/data\/data\/com.xiaomi.vipaccount\/code_cache",
+      "\/data\/data\/com.xiaomi.vipaccount\/databases",
+      "\/data\/data\/com.xiaomi.vipaccount\/shared_prefs"
+    ],
+    "com.miui.gallery": [
+      "\/data\/data\/com.miui.gallery\/files",
+      "\/data\/data\/com.miui.gallery\/cache",
+      "\/data\/data\/com.miui.gallery\/code_cache",
+      "\/data\/data\/com.miui.gallery\/databases",
+      "\/data\/data\/com.miui.gallery\/shared_prefs"
+    ],
+    "cn.testin.itestin": [
+      "\/data\/data\/cn.testin.itestin\/files",
+      "\/data\/data\/cn.testin.itestin\/cache",
+      "\/data\/data\/cn.testin.itestin\/code_cache",
+      "\/data\/data\/cn.testin.itestin\/shared_prefs"
+    ],
+    "com.android.soundrecorder": [
+      "\/data\/data\/com.android.soundrecorder\/files",
+      "\/data\/data\/com.android.soundrecorder\/cache",
+      "\/data\/data\/com.android.soundrecorder\/code_cache",
+      "\/data\/data\/com.android.soundrecorder\/databases",
+      "\/data\/data\/com.android.soundrecorder\/shared_prefs"
+    ],
+    "com.android.providers.downloads.ui": [
+      "\/data\/data\/com.android.providers.downloads.ui\/files",
+      "\/data\/data\/com.android.providers.downloads.ui\/cache",
+      "\/data\/data\/com.android.providers.downloads.ui\/code_cache",
+      "\/data\/data\/com.android.providers.downloads.ui\/databases",
+      "\/data\/data\/com.android.providers.downloads.ui\/shared_prefs"
+    ],
+    "com.android.contacts": [
+      "\/data\/data\/com.android.contacts\/files",
+      "\/data\/data\/com.android.contacts\/cache",
+      "\/data\/data\/com.android.contacts\/code_cache",
+      "\/data\/data\/com.android.contacts\/databases",
+      "\/data\/data\/com.android.contacts\/shared_prefs"
+    ],
+    "com.android.mms": [
+      "\/data\/data\/com.android.mms\/files",
+      "\/data\/data\/com.android.mms\/cache",
+      "\/data\/data\/com.android.mms\/code_cache",
+      "\/data\/data\/com.android.mms\/databases",
+      "\/data\/data\/com.android.mms\/shared_prefs"
+    ],
+    "com.mfashiongallery.emag": [
+      "\/data\/data\/com.mfashiongallery.emag\/files",
+      "\/data\/data\/com.mfashiongallery.emag\/cache",
+      "\/data\/data\/com.mfashiongallery.emag\/code_cache",
+      "\/data\/data\/com.mfashiongallery.emag\/databases",
+      "\/data\/data\/com.mfashiongallery.emag\/shared_prefs"
+    ],
+    "com.miui.player": [
+      "\/data\/data\/com.miui.player\/files",
+      "\/data\/data\/com.miui.player\/cache",
+      "\/data\/data\/com.miui.player\/code_cache",
+      "\/data\/data\/com.miui.player\/databases",
+      "\/data\/data\/com.miui.player\/shared_prefs"
+    ],
+    "com.android.calendar": [
+      "\/data\/data\/com.android.calendar\/files",
+      "\/data\/data\/com.android.calendar\/cache",
+      "\/data\/data\/com.android.calendar\/code_cache",
+      "\/data\/data\/com.android.calendar\/databases",
+      "\/data\/data\/com.android.calendar\/shared_prefs"
+    ],
+    "com.miui.virtualsim": [
+      "\/data\/data\/com.miui.virtualsim\/files",
+      "\/data\/data\/com.miui.virtualsim\/cache",
+      "\/data\/data\/com.miui.virtualsim\/code_cache",
+      "\/data\/data\/com.miui.virtualsim\/databases",
+      "\/data\/data\/com.miui.virtualsim\/shared_prefs"
+    ],
+    "com.miui.compass": [
+      "\/data\/data\/com.miui.compass\/files",
+      "\/data\/data\/com.miui.compass\/cache",
+      "\/data\/data\/com.miui.compass\/code_cache",
+      "\/data\/data\/com.miui.compass\/shared_prefs"
+    ],
+    "com.android.fileexplorer": [
+      "\/data\/data\/com.android.fileexplorer\/files",
+      "\/data\/data\/com.android.fileexplorer\/cache",
+      "\/data\/data\/com.android.fileexplorer\/code_cache",
+      "\/data\/data\/com.android.fileexplorer\/databases",
+      "\/data\/data\/com.android.fileexplorer\/shared_prefs"
+    ],
+    "com.mipay.wallet": [
+      "\/data\/data\/com.mipay.wallet\/files",
+      "\/data\/data\/com.mipay.wallet\/cache",
+      "\/data\/data\/com.mipay.wallet\/code_cache",
+      "\/data\/data\/com.mipay.wallet\/databases",
+      "\/data\/data\/com.mipay.wallet\/shared_prefs"
+    ],
+    "com.android.camera": [
+      "\/data\/data\/com.android.camera\/files",
+      "\/data\/data\/com.android.camera\/cache",
+      "\/data\/data\/com.android.camera\/code_cache",
+      "\/data\/data\/com.android.camera\/databases",
+      "\/data\/data\/com.android.camera\/shared_prefs"
+    ],
+    "com.miui.notes": [
+      "\/data\/data\/com.miui.notes\/files",
+      "\/data\/data\/com.miui.notes\/cache",
+      "\/data\/data\/com.miui.notes\/code_cache",
+      "\/data\/data\/com.miui.notes\/databases",
+      "\/data\/data\/com.miui.notes\/shared_prefs"
+    ],
+    "com.xiaomi.gamecenter": [
+      "\/data\/data\/com.xiaomi.gamecenter\/files",
+      "\/data\/data\/com.xiaomi.gamecenter\/cache",
+      "\/data\/data\/com.xiaomi.gamecenter\/code_cache",
+      "\/data\/data\/com.xiaomi.gamecenter\/databases",
+      "\/data\/data\/com.xiaomi.gamecenter\/shared_prefs"
+    ],
+    "com.xiaomi.scanner": [
+      "\/data\/data\/com.xiaomi.scanner\/files",
+      "\/data\/data\/com.xiaomi.scanner\/cache",
+      "\/data\/data\/com.xiaomi.scanner\/code_cache",
+      "\/data\/data\/com.xiaomi.scanner\/databases",
+      "\/data\/data\/com.xiaomi.scanner\/shared_prefs"
+    ],
+    "me.fup.v0": [
+      "\/data\/data\/me.fup.v0\/files",
+      "\/data\/data\/me.fup.v0\/cache",
+      "\/data\/data\/me.fup.v0\/code_cache",
+      "\/data\/data\/me.fup.v0\/databases",
+      "\/data\/data\/me.fup.v0\/shared_prefs"
+    ],
+    "com.android.email": [
+      "\/data\/data\/com.android.email\/files",
+      "\/data\/data\/com.android.email\/cache",
+      "\/data\/data\/com.android.email\/code_cache",
+      "\/data\/data\/com.android.email\/databases",
+      "\/data\/data\/com.android.email\/shared_prefs"
+    ],
+    "com.miui.voiceassist": [
+      "\/data\/data\/com.miui.voiceassist\/files",
+      "\/data\/data\/com.miui.voiceassist\/cache",
+      "\/data\/data\/com.miui.voiceassist\/code_cache",
+      "\/data\/data\/com.miui.voiceassist\/databases",
+      "\/data\/data\/com.miui.voiceassist\/shared_prefs"
+    ],
+    "com.android.deskclock": [
+      "\/data\/data\/com.android.deskclock\/files",
+      "\/data\/data\/com.android.deskclock\/cache",
+      "\/data\/data\/com.android.deskclock\/code_cache",
+      "\/data\/data\/com.android.deskclock\/databases",
+      "\/data\/data\/com.android.deskclock\/shared_prefs"
+    ],
+    "com.miui.contentextension": [
+      "\/data\/data\/com.miui.contentextension\/files",
+      "\/data\/data\/com.miui.contentextension\/cache",
+      "\/data\/data\/com.miui.contentextension\/code_cache",
+      "\/data\/data\/com.miui.contentextension\/databases",
+      "\/data\/data\/com.miui.contentextension\/shared_prefs"
+    ],
+    "com.mediatek.selfregister": [
+      "\/data\/data\/com.mediatek.selfregister\/files",
+      "\/data\/data\/com.mediatek.selfregister\/cache",
+      "\/data\/data\/com.mediatek.selfregister\/code_cache",
+      "\/data\/data\/com.mediatek.selfregister\/shared_prefs"
+    ],
+    "com.android.providers.calendar": [
+      "\/data\/data\/com.android.providers.calendar\/files",
+      "\/data\/data\/com.android.providers.calendar\/cache",
+      "\/data\/data\/com.android.providers.calendar\/code_cache",
+      "\/data\/data\/com.android.providers.calendar\/databases",
+      "\/data\/data\/com.android.providers.calendar\/shared_prefs"
+    ],
+    "com.android.providers.media": [
+      "\/data\/data\/com.android.providers.media\/cache",
+      "\/data\/data\/com.android.providers.media\/code_cache",
+      "\/data\/data\/com.android.providers.media\/databases",
+      "\/data\/data\/com.android.providers.media\/shared_prefs"
+    ],
+    "com.milink.service": [
+      "\/data\/data\/com.milink.service\/cache",
+      "\/data\/data\/com.milink.service\/code_cache",
+      "\/data\/data\/com.milink.service\/databases",
+      "\/data\/data\/com.milink.service\/shared_prefs"
+    ],
+    "com.mobiletools.systemhelper": [
+      "\/data\/data\/com.mobiletools.systemhelper\/cache",
+      "\/data\/data\/com.mobiletools.systemhelper\/code_cache",
+      "\/data\/data\/com.mobiletools.systemhelper\/shared_prefs"
+    ],
+    "com.xiaomi.account": [
+      "\/data\/data\/com.xiaomi.account\/files",
+      "\/data\/data\/com.xiaomi.account\/cache",
+      "\/data\/data\/com.xiaomi.account\/code_cache",
+      "\/data\/data\/com.xiaomi.account\/databases",
+      "\/data\/data\/com.xiaomi.account\/shared_prefs"
+    ],
+    "com.xiaomi.micloud.sdk": [
+      "\/data\/data\/com.xiaomi.micloud.sdk\/cache",
+      "\/data\/data\/com.xiaomi.micloud.sdk\/code_cache",
+      "\/data\/data\/com.xiaomi.micloud.sdk\/shared_prefs"
+    ],
+    "com.android.updater": [
+      "\/data\/data\/com.android.updater\/files",
+      "\/data\/data\/com.android.updater\/cache",
+      "\/data\/data\/com.android.updater\/code_cache",
+      "\/data\/data\/com.android.updater\/databases",
+      "\/data\/data\/com.android.updater\/shared_prefs"
+    ],
+    "com.android.documentsui": [
+      "\/data\/data\/com.android.documentsui\/cache",
+      "\/data\/data\/com.android.documentsui\/code_cache",
+      "\/data\/data\/com.android.documentsui\/databases"
+    ],
+    "com.android.externalstorage": [
+      "\/data\/data\/com.android.externalstorage\/cache",
+      "\/data\/data\/com.android.externalstorage\/code_cache"
+    ],
+    "com.xiaomi.gamecenter.sdk.service": [
+      "\/data\/data\/com.xiaomi.gamecenter.sdk.service\/files",
+      "\/data\/data\/com.xiaomi.gamecenter.sdk.service\/files\/cache",
+      "\/data\/data\/com.xiaomi.gamecenter.sdk.service\/cache",
+      "\/data\/data\/com.xiaomi.gamecenter.sdk.service\/code_cache",
+      "\/data\/data\/com.xiaomi.gamecenter.sdk.service\/databases",
+      "\/data\/data\/com.xiaomi.gamecenter.sdk.service\/shared_prefs"
+    ],
+    "com.miui.securityadd": [
+      "\/data\/data\/com.miui.securityadd\/files",
+      "\/data\/data\/com.miui.securityadd\/cache",
+      "\/data\/data\/com.miui.securityadd\/code_cache",
+      "\/data\/data\/com.miui.securityadd\/databases",
+      "\/data\/data\/com.miui.securityadd\/shared_prefs"
+    ],
+    "com.android.providers.downloads": [
+      "\/data\/data\/com.android.providers.downloads\/files",
+      "\/data\/data\/com.android.providers.downloads\/cache",
+      "\/data\/data\/com.android.providers.downloads\/code_cache",
+      "\/data\/data\/com.android.providers.downloads\/databases",
+      "\/data\/data\/com.android.providers.downloads\/shared_prefs"
+    ],
+    "com.xiaomi.payment": [
+      "\/data\/data\/com.xiaomi.payment\/files",
+      "\/data\/data\/com.xiaomi.payment\/cache",
+      "\/data\/data\/com.xiaomi.payment\/code_cache",
+      "\/data\/data\/com.xiaomi.payment\/databases",
+      "\/data\/data\/com.xiaomi.payment\/shared_prefs"
+    ],
+    "com.mediatek.omacp": [
+      "\/data\/data\/com.mediatek.omacp\/cache",
+      "\/data\/data\/com.mediatek.omacp\/code_cache",
+      "\/data\/data\/com.mediatek.omacp\/databases"
+    ],
+    "com.miui.systemAdSolution": [
+      "\/data\/data\/com.miui.systemAdSolution\/files",
+      "\/data\/data\/com.miui.systemAdSolution\/files\/log",
+      "\/data\/data\/com.miui.systemAdSolution\/cache",
+      "\/data\/data\/com.miui.systemAdSolution\/code_cache",
+      "\/data\/data\/com.miui.systemAdSolution\/databases",
+      "\/data\/data\/com.miui.systemAdSolution\/shared_prefs"
+    ],
+    "com.android.defcontainer": [
+      "\/data\/data\/com.android.defcontainer\/cache",
+      "\/data\/data\/com.android.defcontainer\/code_cache"
+    ],
+    "com.miui.guardprovider": [
+      "\/data\/data\/com.miui.guardprovider\/files",
+      "\/data\/data\/com.miui.guardprovider\/cache",
+      "\/data\/data\/com.miui.guardprovider\/code_cache",
+      "\/data\/data\/com.miui.guardprovider\/databases",
+      "\/data\/data\/com.miui.guardprovider\/shared_prefs"
+    ],
+    "com.miui.backup": [
+      "\/data\/data\/com.miui.backup\/files",
+      "\/data\/data\/com.miui.backup\/cache",
+      "\/data\/data\/com.miui.backup\/code_cache",
+      "\/data\/data\/com.miui.backup\/databases",
+      "\/data\/data\/com.miui.backup\/shared_prefs"
+    ],
+    "com.miui.micloudsync": [
+      "\/data\/data\/com.miui.micloudsync\/files",
+      "\/data\/data\/com.miui.micloudsync\/cache",
+      "\/data\/data\/com.miui.micloudsync\/code_cache",
+      "\/data\/data\/com.miui.micloudsync\/shared_prefs"
+    ],
+    "com.xiaomi.ab": [
+      "\/data\/data\/com.xiaomi.ab\/files",
+      "\/data\/data\/com.xiaomi.ab\/cache",
+      "\/data\/data\/com.xiaomi.ab\/code_cache",
+      "\/data\/data\/com.xiaomi.ab\/databases",
+      "\/data\/data\/com.xiaomi.ab\/shared_prefs"
+    ],
+    "com.android.certinstaller": [
+      "\/data\/data\/com.android.certinstaller\/cache",
+      "\/data\/data\/com.android.certinstaller\/code_cache"
+    ],
+    "com.android.carrierconfig": [
+      "\/data\/data\/com.android.carrierconfig\/cache",
+      "\/data\/data\/com.android.carrierconfig\/code_cache"
+    ],
+    "com.xiaomi.simactivate.service": [
+      "\/data\/data\/com.xiaomi.simactivate.service\/files",
+      "\/data\/data\/com.xiaomi.simactivate.service\/cache",
+      "\/data\/data\/com.xiaomi.simactivate.service\/code_cache",
+      "\/data\/data\/com.xiaomi.simactivate.service\/databases",
+      "\/data\/data\/com.xiaomi.simactivate.service\/shared_prefs"
+    ],
+    "com.android.statementservice": [
+      "\/data\/data\/com.android.statementservice\/cache",
+      "\/data\/data\/com.android.statementservice\/code_cache"
+    ],
+    "com.mediatek.floatmenu": [
+      "\/data\/data\/com.mediatek.floatmenu\/cache",
+      "\/data\/data\/com.mediatek.floatmenu\/code_cache"
+    ],
+    "com.mediatek.providers.drm": [
+      "\/data\/data\/com.mediatek.providers.drm\/cache",
+      "\/data\/data\/com.mediatek.providers.drm\/code_cache"
+    ],
+    "com.android.midrive": [
+      "\/data\/data\/com.android.midrive\/files",
+      "\/data\/data\/com.android.midrive\/cache",
+      "\/data\/data\/com.android.midrive\/code_cache",
+      "\/data\/data\/com.android.midrive\/databases",
+      "\/data\/data\/com.android.midrive\/shared_prefs"
+    ],
+    "com.android.sharedstoragebackup": [
+      "\/data\/data\/com.android.sharedstoragebackup\/cache",
+      "\/data\/data\/com.android.sharedstoragebackup\/code_cache"
+    ],
+    "com.android.printspooler": [
+      "\/data\/data\/com.android.printspooler\/files",
+      "\/data\/data\/com.android.printspooler\/cache",
+      "\/data\/data\/com.android.printspooler\/code_cache"
+    ],
+    "com.android.incallui": [
+      "\/data\/data\/com.android.incallui\/files",
+      "\/data\/data\/com.android.incallui\/cache",
+      "\/data\/data\/com.android.incallui\/code_cache",
+      "\/data\/data\/com.android.incallui\/databases",
+      "\/data\/data\/com.android.incallui\/shared_prefs"
+    ],
+    "com.android.musicfx": [
+      "\/data\/data\/com.android.musicfx\/cache",
+      "\/data\/data\/com.android.musicfx\/code_cache"
+    ],
+    "com.miui.cloudbackup": [
+      "\/data\/data\/com.miui.cloudbackup\/files",
+      "\/data\/data\/com.miui.cloudbackup\/cache",
+      "\/data\/data\/com.miui.cloudbackup\/code_cache",
+      "\/data\/data\/com.miui.cloudbackup\/databases",
+      "\/data\/data\/com.miui.cloudbackup\/shared_prefs"
+    ],
+    "com.android.onetimeinitializer": [
+      "\/data\/data\/com.android.onetimeinitializer\/cache",
+      "\/data\/data\/com.android.onetimeinitializer\/code_cache",
+      "\/data\/data\/com.android.onetimeinitializer\/shared_prefs"
+    ],
+    "com.xiaomi.pass": [
+      "\/data\/data\/com.xiaomi.pass\/files",
+      "\/data\/data\/com.xiaomi.pass\/cache",
+      "\/data\/data\/com.xiaomi.pass\/code_cache",
+      "\/data\/data\/com.xiaomi.pass\/databases",
+      "\/data\/data\/com.xiaomi.pass\/shared_prefs"
+    ],
+    "com.xiaomi.xmsf": [
+      "\/data\/data\/com.xiaomi.xmsf\/files",
+      "\/data\/data\/com.xiaomi.xmsf\/cache",
+      "\/data\/data\/com.xiaomi.xmsf\/code_cache",
+      "\/data\/data\/com.xiaomi.xmsf\/databases",
+      "\/data\/data\/com.xiaomi.xmsf\/shared_prefs"
+    ],
+    "com.google.android.packageinstaller": [
+      "\/data\/data\/com.google.android.packageinstaller\/cache",
+      "\/data\/data\/com.google.android.packageinstaller\/code_cache"
+    ],
+    "com.svox.pico": [
+      "\/data\/data\/com.svox.pico\/cache",
+      "\/data\/data\/com.svox.pico\/code_cache"
+    ],
+    "com.xiaomi.midrop": [
+      "\/data\/data\/com.xiaomi.midrop\/files",
+      "\/data\/data\/com.xiaomi.midrop\/cache",
+      "\/data\/data\/com.xiaomi.midrop\/code_cache",
+      "\/data\/data\/com.xiaomi.midrop\/databases",
+      "\/data\/data\/com.xiaomi.midrop\/shared_prefs"
+    ],
+    "com.miui.translationservice": [
+      "\/data\/data\/com.miui.translationservice\/cache",
+      "\/data\/data\/com.miui.translationservice\/code_cache"
+    ],
+    "com.miui.cloudservice": [
+      "\/data\/data\/com.miui.cloudservice\/files",
+      "\/data\/data\/com.miui.cloudservice\/cache",
+      "\/data\/data\/com.miui.cloudservice\/code_cache",
+      "\/data\/data\/com.miui.cloudservice\/databases",
+      "\/data\/data\/com.miui.cloudservice\/shared_prefs"
+    ],
+    "com.android.managedprovisioning": [
+      "\/data\/data\/com.android.managedprovisioning\/cache",
+      "\/data\/data\/com.android.managedprovisioning\/code_cache"
+    ],
+    "com.miui.hybrid.accessory": [
+      "\/data\/data\/com.miui.hybrid.accessory\/files",
+      "\/data\/data\/com.miui.hybrid.accessory\/cache",
+      "\/data\/data\/com.miui.hybrid.accessory\/code_cache",
+      "\/data\/data\/com.miui.hybrid.accessory\/shared_prefs"
+    ],
+    "com.sohu.inputmethod.sogou.xiaomi": [
+      "\/data\/data\/com.sohu.inputmethod.sogou.xiaomi\/files",
+      "\/data\/data\/com.sohu.inputmethod.sogou.xiaomi\/cache",
+      "\/data\/data\/com.sohu.inputmethod.sogou.xiaomi\/code_cache",
+      "\/data\/data\/com.sohu.inputmethod.sogou.xiaomi\/databases",
+      "\/data\/data\/com.sohu.inputmethod.sogou.xiaomi\/shared_prefs"
+    ],
+    "com.xiaomi.providers.appindex": [
+      "\/data\/data\/com.xiaomi.providers.appindex\/cache",
+      "\/data\/data\/com.xiaomi.providers.appindex\/code_cache",
+      "\/data\/data\/com.xiaomi.providers.appindex\/databases",
+      "\/data\/data\/com.xiaomi.providers.appindex\/shared_prefs"
+    ],
+    "com.android.wallpaper.livepicker": [
+      "\/data\/data\/com.android.wallpaper.livepicker\/cache",
+      "\/data\/data\/com.android.wallpaper.livepicker\/code_cache"
+    ],
+    "com.jeejen.family.miui": [
+      "\/data\/data\/com.jeejen.family.miui\/files",
+      "\/data\/data\/com.jeejen.family.miui\/cache",
+      "\/data\/data\/com.jeejen.family.miui\/code_cache",
+      "\/data\/data\/com.jeejen.family.miui\/databases",
+      "\/data\/data\/com.jeejen.family.miui\/shared_prefs"
+    ],
+    "com.xiaomi.metoknlp": [
+      "\/data\/data\/com.xiaomi.metoknlp\/files",
+      "\/data\/data\/com.xiaomi.metoknlp\/files\/data",
+      "\/data\/data\/com.xiaomi.metoknlp\/cache",
+      "\/data\/data\/com.xiaomi.metoknlp\/code_cache",
+      "\/data\/data\/com.xiaomi.metoknlp\/databases",
+      "\/data\/data\/com.xiaomi.metoknlp\/shared_prefs"
+    ],
+    "com.miui.analytics": [
+      "\/data\/data\/com.miui.analytics\/files",
+      "\/data\/data\/com.miui.analytics\/cache",
+      "\/data\/data\/com.miui.analytics\/code_cache",
+      "\/data\/data\/com.miui.analytics\/databases",
+      "\/data\/data\/com.miui.analytics\/shared_prefs"
+    ],
+    "com.miui.yellowpage": [
+      "\/data\/data\/com.miui.yellowpage\/files",
+      "\/data\/data\/com.miui.yellowpage\/cache",
+      "\/data\/data\/com.miui.yellowpage\/code_cache",
+      "\/data\/data\/com.miui.yellowpage\/databases",
+      "\/data\/data\/com.miui.yellowpage\/shared_prefs"
+    ],
+    "com.android.vpndialogs": [
+      "\/data\/data\/com.android.vpndialogs\/files",
+      "\/data\/data\/com.android.vpndialogs\/cache",
+      "\/data\/data\/com.android.vpndialogs\/code_cache"
+    ],
+    "com.android.shell": [
+      "\/data\/data\/com.android.shell\/files",
+      "\/data\/data\/com.android.shell\/cache",
+      "\/data\/data\/com.android.shell\/code_cache"
+    ],
+    "com.miui.providers.weather": [
+      "\/data\/data\/com.miui.providers.weather\/cache",
+      "\/data\/data\/com.miui.providers.weather\/code_cache"
+    ],
+    "com.miui.smsextra": [
+      "\/data\/data\/com.miui.smsextra\/files",
+      "\/data\/data\/com.miui.smsextra\/cache",
+      "\/data\/data\/com.miui.smsextra\/code_cache",
+      "\/data\/data\/com.miui.smsextra\/databases",
+      "\/data\/data\/com.miui.smsextra\/shared_prefs"
+    ],
+    "com.mediatek.mtklogger": [
+      "\/data\/data\/com.mediatek.mtklogger\/files",
+      "\/data\/data\/com.mediatek.mtklogger\/cache",
+      "\/data\/data\/com.mediatek.mtklogger\/code_cache",
+      "\/data\/data\/com.mediatek.mtklogger\/shared_prefs"
+    ],
+    "com.lbe.security.miui": [
+      "\/data\/data\/com.lbe.security.miui\/files",
+      "\/data\/data\/com.lbe.security.miui\/cache",
+      "\/data\/data\/com.lbe.security.miui\/code_cache",
+      "\/data\/data\/com.lbe.security.miui\/databases",
+      "\/data\/data\/com.lbe.security.miui\/shared_prefs"
+    ],
+    "com.android.providers.contacts": [
+      "\/data\/data\/com.android.providers.contacts\/files",
+      "\/data\/data\/com.android.providers.contacts\/cache",
+      "\/data\/data\/com.android.providers.contacts\/code_cache",
+      "\/data\/data\/com.android.providers.contacts\/databases",
+      "\/data\/data\/com.android.providers.contacts\/shared_prefs"
+    ],
+    "com.miui.core": [
+      "\/data\/data\/com.miui.core\/files",
+      "\/data\/data\/com.miui.core\/cache",
+      "\/data\/data\/com.miui.core\/code_cache",
+      "\/data\/data\/com.miui.core\/databases",
+      "\/data\/data\/com.miui.core\/shared_prefs"
+    ],
+    "com.miui.home": [
+      "\/data\/data\/com.miui.home\/files",
+      "\/data\/data\/com.miui.home\/cache",
+      "\/data\/data\/com.miui.home\/code_cache",
+      "\/data\/data\/com.miui.home\/databases",
+      "\/data\/data\/com.miui.home\/shared_prefs"
+    ],
+    "com.miui.packageinstaller": [
+      "\/data\/data\/com.miui.packageinstaller\/files",
+      "\/data\/data\/com.miui.packageinstaller\/cache",
+      "\/data\/data\/com.miui.packageinstaller\/code_cache",
+      "\/data\/data\/com.miui.packageinstaller\/databases",
+      "\/data\/data\/com.miui.packageinstaller\/shared_prefs"
+    ]
+  },
+  "设备信息": {
+    "java_version ": "0",
+    "java_runtime_version": "0.9",
+    "java_runtime_name": "Android Runtime",
+    "java_vm_version ": "2.1.0",
+    "SystemName": "Android",
+    "SystemVersion": "6.0",
+    "DeviceBrand": "Xiaomi",
+    "DeviceModel": "Redmi Note 4",
+    "SerialNumber": "RC75Q8TWHM4DGQ55",
+    "IMEIS": "862805030184203|862805030295942",
+    "ApplicationChannel": "CHANNEL-Xiaomi",
+    "ApplicationKey": "APPKE",
+    "APILevel": "23",
+    "UA": "Mozilla\/5.0 (Linux; Android 6.0; Redmi Note 4 Build\/MRA58K; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/64.0.3282.123 Mobile Safari\/537.36",
+    "TargetSdkVersion": "31",
+    "BootTimeMilliseconds": "1664149096763",
+    "Simulator": "0",
+    "Debug": "0",
+    "Hijack": "0",
+    "SDK--utdid": "W25XemyJX4cDAM\/4A8zMapdy",
+    "IsRoot": "0",
+    "SystemFontSize": "0",
+    "SystemHour": "12",
+    "SystemLanguage": "zh",
+    "SystemArea": "CN",
+    "TimeZone": "GMT+08:00",
+    "SenSorModuleName": [
+      {
+        "SenSorName": "BOSCH Accelerometer Sensor ",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "Bosch Sensortec GmbH",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.12999999523162842
+      },
+      {
+        "SenSorName": "BOSCH Magnetic Field Sensor",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "Bosch Sensortec GmbH",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.5
+      },
+      {
+        "SenSorName": "BOSCH Orientation Sensor",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "Bosch Sensortec GmbH",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.6299999952316284
+      },
+      {
+        "SenSorName": "BOSCH Gyroscope Sensor",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "Bosch Sensortec GmbH",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 5
+      },
+      {
+        "SenSorName": "BOSCH Gravity Sensor",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "Bosch Sensortec GmbH",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 5.630000114440918
+      },
+      {
+        "SenSorName": "BOSCH Linear Acceleration Sensor",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "Bosch Sensortec GmbH",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 5.630000114440918
+      },
+      {
+        "SenSorName": "BOSCH Rotation Vector Sensor",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "Bosch Sensortec GmbH",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 5.630000114440918
+      },
+      {
+        "SenSorName": "BOSCH Magnetic Field Uncalibrated Sensor",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "Bosch Sensortec GmbH",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.5
+      },
+      {
+        "SenSorName": "BOSCH Game Rotation Vector Sensor",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "Bosch Sensortec GmbH",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 5.630000114440918
+      },
+      {
+        "SenSorName": "BOSCH Gyroscope Uncalibrated Sensor",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "Bosch Sensortec GmbH",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 5
+      },
+      {
+        "SenSorName": "BOSCH Geomagnetic Rotation Vector Sensor",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "Bosch Sensortec GmbH",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 5.630000114440918
+      },
+      {
+        "SenSorName": "LIGHT",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "MTK",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.12999999523162842
+      },
+      {
+        "SenSorName": "PROXIMITY",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "MTK",
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.12999999523162842
+      },
+      {
+        "SenSorName": "SIGNIFICANT_MOTION",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "MTK",
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.5
+      }
+    ],
+    "CPUModel": "arm64-v8a:",
+    "BuildId": "MRA58K",
+    "BuildDisplay": "MRA58K",
+    "BuildProduct": "nikel",
+    "BuildDevice": "nikel",
+    "BuildHardware": "mt6797",
+    "BuildSupportedAbis": "arm64-v8a,armeabi-v7a,armeabi",
+    "BuildSupportedAbis32": "armeabi-v7a,armeabi",
+    "BuildSupportedAbis64": "arm64-v8a",
+    "BuildType": "user",
+    "BuildTags": "release-keys",
+    "BuildFingerPrint": "Xiaomi\/nikel\/nikel:6.0\/MRA58K\/V9.6.2.0.MBFCNFD:user\/release-keys",
+    "BuildRadioVersion": "MOLY.LR11.W1603.MD.MP.V13.18.P87, 2018\/03\/01 16:13",
+    "BuildIncremental": "V9.6.2.0.MBFCNFD",
+    "BuildSecurityPatch": "2018-05-05",
+    "BuildPreviewSdkInt": "0",
+    "BuildSdkInt": "23",
+    "BuildCodename": "REL",
+    "ETDM": {
+      "BatteryStatus": "5",
+      "BatteryHealth": "2",
+      "BatteryLevel": "84",
+      "BatteryScale": "100",
+      "BatteryPlugged": "0",
+      "BatteryTechnology": "Li-poly"
+    }
+  },
+  "Unsafe": {
+    "init[theUnsafe]": true,
+    "init[THE_ONE]": true,
+    "init[getUnsafe]": true,
+    "init[getUnsafeByAbstractQueuedSynchronizer]": true,
+    "arrayIndexScale赋值Object数组大小": 4,
+    "is64Bit": true,
+    "me-adress": 315155776,
+    "me-hash": 8896651,
+    "me格式化-address": "12c8e540",
+    "me1-adress": 315155776,
+    "me1-hash": 8896651,
+    "me1格式化-address": "12c8e540",
+    "两个对象地址测试结果": true,
+    "两个对象测试结果": true,
+    "byte[]_OFFSET": 12,
+    "byte[]_SCALE": 1,
+    "boolean[]_OFFSET": 12,
+    "boolean[]_SCALE": 1,
+    "int[]_OFFSET": 12,
+    "int[]_SCALE": 4,
+    "long[]_OFFSET": 16,
+    "long[]_SCALE": 8,
+    "float[]_OFFSET": 12,
+    "float[]_SCALE": 4,
+    "double[]_OFFSET": 16,
+    "double[]_SCALE": 8,
+    "Object[]_OFFSET": 12,
+    "Object[]_SCALE": 4,
+    "BUFFER_ADDRESS_OFFSET": 0,
+    "STRIDE_ALIGNMENT_MASK": 7,
+    "BYTE_ARRAY_ALIGNMENT": 4,
+    "IS_BIG_ENDIAN": false,
+    "objectFieldOffset(Field)": true,
+    "1_arrayBaseOffset(Class)": true,
+    "1_getArrayBaseOffsetForComponentType(Class)": true,
+    "2_arrayIndexScale(Class)": true,
+    "2_getArrayIndexScaleForComponentType(Class)": true,
+    "2_arrayIndexScale0(Class)": false,
+    "compareAndSwapInt(Object,long,int,int)": true,
+    "compareAndSwapLong(Object,long,long,long)": true,
+    "compareAndSwapObject(Object,long,Object,Object)": true,
+    "3_getInt(Object,long)": true,
+    "3_getIntVolatile(Object,long)": true,
+    "getInt(long)": false,
+    "4_putInt(Object,long,int)": true,
+    "4_putIntVolatile(Object,long,int)": true,
+    "putInt(long,int)": false,
+    "putOrderedInt(Object,long,int)": true,
+    "5_getLong(Object,long)": true,
+    "5_getLongVolatile(Object,long)": true,
+    "getLong(long)": false,
+    "putLong(Object,long,long)": true,
+    "getObject(Object,long)": true,
+    "putObject(Object,long,Object)": true,
+    "getByte(long)": false,
+    "getByte(Object,long)": false,
+    "putByte(long,byte)": false,
+    "putByte(Object,long,byte)": false,
+    "getBoolean(Object,long)": false,
+    "putBoolean(Object,long,boolean)": false,
+    "getFloat(Object,long)": false,
+    "putFloat(Object,long,float)": false,
+    "getDouble(Object,long)": false,
+    "putDouble(Object,long,double)": false,
+    "putLong(long,long)": false,
+    "copyMemory(long,long,long)": false,
+    "addressSize()": false,
+    "pageSize()": false,
+    "allocateInstance(Class)": true,
+    "allocateMemory(long)": false,
+    "copyMemoryToPrimitiveArray(long,Object,long,long)": false,
+    "copyMemoryFromPrimitiveArray(Object,long,long,long)": false,
+    "setMemory(long,long,byte)": false,
+    "freeMemory(long)": false,
+    "getAndAddInt(Object,long,int)": false,
+    "getAndSetInt(Object,long,int)": false,
+    "getAndAddLong(Object,long,long)": false,
+    "getAndSetLong(Object,long,long)": false,
+    "getAndSetObject(Object,long,Object)": false
+  },
+  "MAC": {
+    "java_mac": "ac:c1:ee:dc:44:fb",
+    "api_mac": "02:00:00:00:00:00",
+    "file_mac": "",
+    "ip_address": "1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN \n    link\/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00\n    inet 127.0.0.1\/8 scope host lo\n       valid_lft forever preferred_lft forever\n    inet6 ::1\/128 scope host \n       valid_lft forever preferred_lft forever\n2: ccmni0: <NOARP> mtu 1500 qdisc noop state DOWN qlen 1000\n    link\/ether 16:95:5f:dc:6d:62 brd ff:ff:ff:ff:ff:ff\n3: ccmni1: <NOARP> mtu 1500 qdisc noop state DOWN qlen 1000\n    link\/ether 96:e4:24:60:24:4b brd ff:ff:ff:ff:ff:ff\n4: ccmni2: <NOARP> mtu 1500 qdisc noop state DOWN qlen 1000\n    link\/ether b2:60:1a:98:b9:8e brd ff:ff:ff:ff:ff:ff\n5: ccmni3: <NOARP> mtu 1500 qdisc noop state DOWN qlen 1000\n    link\/ether f2:8c:3c:58:b3:2e brd ff:ff:ff:ff:ff:ff\n6: ccmni4: <NOARP> mtu 1500 qdisc noop state DOWN qlen 1000\n    link\/ether e2:30:e7:ba:e1:c5 brd ff:ff:ff:ff:ff:ff\n7: ccmni5: <NOARP> mtu 1500 qdisc noop state DOWN qlen 1000\n    link\/ether 1a:40:2b:6d:4b:ca brd ff:ff:ff:ff:ff:ff\n8: ccmni6: <NOARP> mtu 1500 qdisc noop state DOWN qlen 1000\n    link\/ether 6e:7e:61:ed:60:84 brd ff:ff:ff:ff:ff:ff\n9: ccmni7: <NOARP> mtu 1500 qdisc noop state DOWN qlen 1000\n    link\/ether 5a:ce:a9:cf:12:dd brd ff:ff:ff:ff:ff:ff\n10: cc3mni0: <NOARP> mtu 1500 qdisc noop state DOWN qlen 1000\n    link\/ether a6:d8:1b:76:1d:fe brd ff:ff:ff:ff:ff:ff\n11: cc3mni1: <NOARP> mtu 1500 qdisc noop state DOWN qlen 1000\n    link\/ether 26:d1:c5:87:fd:41 brd ff:ff:ff:ff:ff:ff\n12: cc3mni2: <NOARP> mtu 1500 qdisc noop state DOWN qlen 1000\n    link\/ether da:22:c7:64:f4:2c brd ff:ff:ff:ff:ff:ff\n13: cc3mni3: <NOARP> mtu 1500 qdisc noop state DOWN qlen 1000\n    link\/ether 96:a5:69:6b:50:91 brd ff:ff:ff:ff:ff:ff\n14: cc3mni4: <NOARP> mtu 1500 qdisc noop state DOWN qlen 1000\n    link\/ether 16:f0:a7:16:cb:f1 brd ff:ff:ff:ff:ff:ff\n15: cc3mni5: <NOARP> mtu 1500 qdisc noop state DOWN qlen 1000\n    link\/ether 76:88:4c:31:6e:87 brd ff:ff:ff:ff:ff:ff\n16: cc3mni6: <NOARP> mtu 1500 qdisc noop state DOWN qlen 1000\n    link\/ether c2:b6:f3:fb:b0:4f brd ff:ff:ff:ff:ff:ff\n17: cc3mni7: <NOARP> mtu 1500 qdisc noop state DOWN qlen 1000\n    link\/ether 0a:85:7a:86:16:8b brd ff:ff:ff:ff:ff:ff\n18: ifb0: <BROADCAST,NOARP> mtu 1500 qdisc noop state DOWN qlen 32\n    link\/ether ba:41:06:09:a1:ab brd ff:ff:ff:ff:ff:ff\n19: ifb1: <BROADCAST,NOARP> mtu 1500 qdisc noop state DOWN qlen 32\n    link\/ether 1a:ef:d3:5c:f3:b2 brd ff:ff:ff:ff:ff:ff\n20: tunl0@NONE: <NOARP> mtu 1480 qdisc noop state DOWN \n    link\/ipip 0.0.0.0 brd 0.0.0.0\n21: sit0@NONE: <NOARP> mtu 1480 qdisc noop state DOWN \n    link\/sit 0.0.0.0 brd 0.0.0.0\n22: ip6tnl0@NONE: <NOARP> mtu 1452 qdisc noop state DOWN \n    link\/tunnel6 :: brd ::\n23: wlan0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP qlen 1000\n    link\/ether ac:c1:ee:dc:44:fb brd ff:ff:ff:ff:ff:ff\n    inet 10.43.51.193\/23 brd 10.43.51.255 scope global wlan0\n       valid_lft forever preferred_lft forever\n    inet6 fe80::aec1:eeff:fedc:44fb\/64 scope link \n       valid_lft forever preferred_lft forever\n24: p2p0: <NO-CARRIER,BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state DORMANT qlen 1000\n    link\/ether ae:c1:ee:dc:44:fb brd ff:ff:ff:ff:ff:ff\n",
+    "ip_link": "1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN mode DEFAULT \n    link\/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00\n2: ccmni0: <NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 1000\n    link\/ether 16:95:5f:dc:6d:62 brd ff:ff:ff:ff:ff:ff\n3: ccmni1: <NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 1000\n    link\/ether 96:e4:24:60:24:4b brd ff:ff:ff:ff:ff:ff\n4: ccmni2: <NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 1000\n    link\/ether b2:60:1a:98:b9:8e brd ff:ff:ff:ff:ff:ff\n5: ccmni3: <NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 1000\n    link\/ether f2:8c:3c:58:b3:2e brd ff:ff:ff:ff:ff:ff\n6: ccmni4: <NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 1000\n    link\/ether e2:30:e7:ba:e1:c5 brd ff:ff:ff:ff:ff:ff\n7: ccmni5: <NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 1000\n    link\/ether 1a:40:2b:6d:4b:ca brd ff:ff:ff:ff:ff:ff\n8: ccmni6: <NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 1000\n    link\/ether 6e:7e:61:ed:60:84 brd ff:ff:ff:ff:ff:ff\n9: ccmni7: <NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 1000\n    link\/ether 5a:ce:a9:cf:12:dd brd ff:ff:ff:ff:ff:ff\n10: cc3mni0: <NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 1000\n    link\/ether a6:d8:1b:76:1d:fe brd ff:ff:ff:ff:ff:ff\n11: cc3mni1: <NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 1000\n    link\/ether 26:d1:c5:87:fd:41 brd ff:ff:ff:ff:ff:ff\n12: cc3mni2: <NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 1000\n    link\/ether da:22:c7:64:f4:2c brd ff:ff:ff:ff:ff:ff\n13: cc3mni3: <NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 1000\n    link\/ether 96:a5:69:6b:50:91 brd ff:ff:ff:ff:ff:ff\n14: cc3mni4: <NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 1000\n    link\/ether 16:f0:a7:16:cb:f1 brd ff:ff:ff:ff:ff:ff\n15: cc3mni5: <NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 1000\n    link\/ether 76:88:4c:31:6e:87 brd ff:ff:ff:ff:ff:ff\n16: cc3mni6: <NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 1000\n    link\/ether c2:b6:f3:fb:b0:4f brd ff:ff:ff:ff:ff:ff\n17: cc3mni7: <NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 1000\n    link\/ether 0a:85:7a:86:16:8b brd ff:ff:ff:ff:ff:ff\n18: ifb0: <BROADCAST,NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 32\n    link\/ether ba:41:06:09:a1:ab brd ff:ff:ff:ff:ff:ff\n19: ifb1: <BROADCAST,NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 32\n    link\/ether 1a:ef:d3:5c:f3:b2 brd ff:ff:ff:ff:ff:ff\n20: tunl0@NONE: <NOARP> mtu 1480 qdisc noop state DOWN mode DEFAULT \n    link\/ipip 0.0.0.0 brd 0.0.0.0\n21: sit0@NONE: <NOARP> mtu 1480 qdisc noop state DOWN mode DEFAULT \n    link\/sit 0.0.0.0 brd 0.0.0.0\n22: ip6tnl0@NONE: <NOARP> mtu 1452 qdisc noop state DOWN mode DEFAULT \n    link\/tunnel6 :: brd ::\n23: wlan0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP mode DORMANT qlen 1000\n    link\/ether ac:c1:ee:dc:44:fb brd ff:ff:ff:ff:ff:ff\n24: p2p0: <NO-CARRIER,BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state DORMANT mode DORMANT qlen 1000\n    link\/ether ae:c1:ee:dc:44:fb brd ff:ff:ff:ff:ff:ff\n"
+  }
+}
