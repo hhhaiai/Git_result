@@ -1,0 +1,710 @@
+{
+  "LetMeSee": {
+    "cn.nubia.neostore": [
+      "\/sdcard\/Android\/data\/cn.nubia.neostore\/files",
+      "\/sdcard\/Android\/data\/cn.nubia.neostore\/cache",
+      "\/data\/data\/cn.nubia.neostore\/files",
+      "\/data\/data\/cn.nubia.neostore\/cache",
+      "\/data\/data\/cn.nubia.neostore\/code_cache",
+      "\/data\/data\/cn.nubia.neostore\/databases",
+      "\/data\/data\/cn.nubia.neostore\/shared_prefs"
+    ],
+    "cn.nubia.hybrid": [
+      "\/sdcard\/Android\/data\/cn.nubia.hybrid\/files",
+      "\/sdcard\/Android\/data\/cn.nubia.hybrid\/cache"
+    ],
+    "cn.nubia.browser": [
+      "\/data\/data\/cn.nubia.browser\/files",
+      "\/data\/data\/cn.nubia.browser\/cache",
+      "\/data\/data\/cn.nubia.browser\/code_cache",
+      "\/data\/data\/cn.nubia.browser\/databases",
+      "\/data\/data\/cn.nubia.browser\/shared_prefs"
+    ],
+    "cn.testin.itestin": [
+      "\/data\/data\/cn.testin.itestin\/files",
+      "\/data\/data\/cn.testin.itestin\/cache",
+      "\/data\/data\/cn.testin.itestin\/code_cache",
+      "\/data\/data\/cn.testin.itestin\/databases",
+      "\/data\/data\/cn.testin.itestin\/shared_prefs"
+    ],
+    "cn.nubia.deskclock.preset": [
+      "\/data\/data\/cn.nubia.deskclock.preset\/files",
+      "\/data\/data\/cn.nubia.deskclock.preset\/cache",
+      "\/data\/data\/cn.nubia.deskclock.preset\/code_cache",
+      "\/data\/data\/cn.nubia.deskclock.preset\/databases",
+      "\/data\/data\/cn.nubia.deskclock.preset\/shared_prefs"
+    ],
+    "cn.nubia.voiceassist": [
+      "\/data\/data\/cn.nubia.voiceassist\/cache",
+      "\/data\/data\/cn.nubia.voiceassist\/code_cache",
+      "\/data\/data\/cn.nubia.voiceassist\/shared_prefs"
+    ],
+    "cn.nubia.myfile": [
+      "\/data\/data\/cn.nubia.myfile\/cache",
+      "\/data\/data\/cn.nubia.myfile\/code_cache",
+      "\/data\/data\/cn.nubia.myfile\/databases",
+      "\/data\/data\/cn.nubia.myfile\/shared_prefs"
+    ],
+    "com.android.im": [
+      "\/data\/data\/com.android.im\/files",
+      "\/data\/data\/com.android.im\/cache",
+      "\/data\/data\/com.android.im\/code_cache",
+      "\/data\/data\/com.android.im\/shared_prefs"
+    ],
+    "cn.nubia.thememanager": [
+      "\/data\/data\/cn.nubia.thememanager\/files",
+      "\/data\/data\/cn.nubia.thememanager\/cache",
+      "\/data\/data\/cn.nubia.thememanager\/code_cache",
+      "\/data\/data\/cn.nubia.thememanager\/databases",
+      "\/data\/data\/cn.nubia.thememanager\/shared_prefs"
+    ],
+    "cn.nubia.mms": [
+      "\/data\/data\/cn.nubia.mms\/files",
+      "\/data\/data\/cn.nubia.mms\/files\/download",
+      "\/data\/data\/cn.nubia.mms\/cache",
+      "\/data\/data\/cn.nubia.mms\/code_cache",
+      "\/data\/data\/cn.nubia.mms\/databases",
+      "\/data\/data\/cn.nubia.mms\/shared_prefs"
+    ],
+    "com.android.camera": [
+      "\/data\/data\/com.android.camera\/files",
+      "\/data\/data\/com.android.camera\/cache",
+      "\/data\/data\/com.android.camera\/code_cache",
+      "\/data\/data\/com.android.camera\/shared_prefs"
+    ],
+    "cn.testin": [
+      "\/data\/data\/cn.testin\/cache",
+      "\/data\/data\/cn.testin\/code_cache"
+    ],
+    "me.fup.v0": [
+      "\/data\/data\/me.fup.v0\/files",
+      "\/data\/data\/me.fup.v0\/cache",
+      "\/data\/data\/me.fup.v0\/databases",
+      "\/data\/data\/me.fup.v0\/shared_prefs"
+    ],
+    "cn.nubia.calendar.preset": [
+      "\/data\/data\/cn.nubia.calendar.preset\/files",
+      "\/data\/data\/cn.nubia.calendar.preset\/cache",
+      "\/data\/data\/cn.nubia.calendar.preset\/code_cache",
+      "\/data\/data\/cn.nubia.calendar.preset\/databases",
+      "\/data\/data\/cn.nubia.calendar.preset\/shared_prefs"
+    ],
+    "com.yulore.framework": [
+      "\/data\/data\/com.yulore.framework\/files",
+      "\/data\/data\/com.yulore.framework\/cache",
+      "\/data\/data\/com.yulore.framework\/code_cache",
+      "\/data\/data\/com.yulore.framework\/databases",
+      "\/data\/data\/com.yulore.framework\/shared_prefs"
+    ],
+    "com.qrd.omadownload": [
+      "\/data\/data\/com.qrd.omadownload\/cache",
+      "\/data\/data\/com.qrd.omadownload\/code_cache"
+    ],
+    "com.mobiletools.systemhelper": [
+      "\/data\/data\/com.mobiletools.systemhelper\/cache",
+      "\/data\/data\/com.mobiletools.systemhelper\/code_cache",
+      "\/data\/data\/com.mobiletools.systemhelper\/shared_prefs"
+    ],
+    "cn.nubia.cloud": [
+      "\/data\/data\/cn.nubia.cloud\/files",
+      "\/data\/data\/cn.nubia.cloud\/cache",
+      "\/data\/data\/cn.nubia.cloud\/code_cache",
+      "\/data\/data\/cn.nubia.cloud\/databases",
+      "\/data\/data\/cn.nubia.cloud\/shared_prefs"
+    ],
+    "com.android.wallpapercropper": [
+      "\/data\/data\/com.android.wallpapercropper\/cache",
+      "\/data\/data\/com.android.wallpapercropper\/code_cache"
+    ],
+    "cn.nubia.musicpicker.preset": [
+      "\/data\/data\/cn.nubia.musicpicker.preset\/cache",
+      "\/data\/data\/cn.nubia.musicpicker.preset\/code_cache"
+    ],
+    "com.SRSTruMedia": [
+      "\/data\/data\/com.SRSTruMedia\/cache",
+      "\/data\/data\/com.SRSTruMedia\/code_cache",
+      "\/data\/data\/com.SRSTruMedia\/shared_prefs"
+    ],
+    "com.vlife.nubia.wallpaper": [
+      "\/data\/data\/com.vlife.nubia.wallpaper\/files",
+      "\/data\/data\/com.vlife.nubia.wallpaper\/cache",
+      "\/data\/data\/com.vlife.nubia.wallpaper\/code_cache",
+      "\/data\/data\/com.vlife.nubia.wallpaper\/databases",
+      "\/data\/data\/com.vlife.nubia.wallpaper\/shared_prefs"
+    ],
+    "com.qapp.secprotect": [
+      "\/data\/data\/com.qapp.secprotect\/cache",
+      "\/data\/data\/com.qapp.secprotect\/code_cache"
+    ],
+    "cn.nubia.databackup": [
+      "\/data\/data\/cn.nubia.databackup\/files",
+      "\/data\/data\/cn.nubia.databackup\/cache",
+      "\/data\/data\/cn.nubia.databackup\/code_cache",
+      "\/data\/data\/cn.nubia.databackup\/databases",
+      "\/data\/data\/cn.nubia.databackup\/shared_prefs"
+    ],
+    "cn.nubia.usercenter": [
+      "\/data\/data\/cn.nubia.usercenter\/cache",
+      "\/data\/data\/cn.nubia.usercenter\/code_cache",
+      "\/data\/data\/cn.nubia.usercenter\/databases",
+      "\/data\/data\/cn.nubia.usercenter\/shared_prefs"
+    ],
+    "com.ibimuyu.lockscreen": [
+      "\/data\/data\/com.ibimuyu.lockscreen\/cache",
+      "\/data\/data\/com.ibimuyu.lockscreen\/code_cache"
+    ],
+    "cn.nubia.accounts": [
+      "\/data\/data\/cn.nubia.accounts\/files",
+      "\/data\/data\/cn.nubia.accounts\/cache",
+      "\/data\/data\/cn.nubia.accounts\/code_cache",
+      "\/data\/data\/cn.nubia.accounts\/databases",
+      "\/data\/data\/cn.nubia.accounts\/shared_prefs"
+    ],
+    "cn.nubia.aftersale": [
+      "\/data\/data\/cn.nubia.aftersale\/files",
+      "\/data\/data\/cn.nubia.aftersale\/cache",
+      "\/data\/data\/cn.nubia.aftersale\/code_cache",
+      "\/data\/data\/cn.nubia.aftersale\/shared_prefs"
+    ],
+    "cn.nubia.jobdispatcher": [
+      "\/data\/data\/cn.nubia.jobdispatcher\/files",
+      "\/data\/data\/cn.nubia.jobdispatcher\/cache",
+      "\/data\/data\/cn.nubia.jobdispatcher\/code_cache",
+      "\/data\/data\/cn.nubia.jobdispatcher\/databases",
+      "\/data\/data\/cn.nubia.jobdispatcher\/shared_prefs"
+    ],
+    "com.android.inputmethod.latin": [
+      "\/data\/data\/com.android.inputmethod.latin\/cache",
+      "\/data\/data\/com.android.inputmethod.latin\/code_cache"
+    ],
+    "cn.nubia.minilauncher": [
+      "\/data\/data\/cn.nubia.minilauncher\/files",
+      "\/data\/data\/cn.nubia.minilauncher\/cache",
+      "\/data\/data\/cn.nubia.minilauncher\/code_cache"
+    ],
+    "cn.nubia.upgradeservice": [
+      "\/data\/data\/cn.nubia.upgradeservice\/cache",
+      "\/data\/data\/cn.nubia.upgradeservice\/code_cache",
+      "\/data\/data\/cn.nubia.upgradeservice\/shared_prefs"
+    ],
+    "cn.nubia.edge": [
+      "\/data\/data\/cn.nubia.edge\/files",
+      "\/data\/data\/cn.nubia.edge\/files\/download",
+      "\/data\/data\/cn.nubia.edge\/cache",
+      "\/data\/data\/cn.nubia.edge\/code_cache",
+      "\/data\/data\/cn.nubia.edge\/databases",
+      "\/data\/data\/cn.nubia.edge\/shared_prefs",
+      "\/data\/data\/cn.nubia.edge\/download"
+    ],
+    "com.android.dreams.phototable": [
+      "\/data\/data\/com.android.dreams.phototable\/cache",
+      "\/data\/data\/com.android.dreams.phototable\/code_cache"
+    ],
+    "cn.nubia.clock.widget.preset": [
+      "\/data\/data\/cn.nubia.clock.widget.preset\/cache",
+      "\/data\/data\/cn.nubia.clock.widget.preset\/code_cache"
+    ],
+    "cn.nubia.harassintercept": [
+      "\/data\/data\/cn.nubia.harassintercept\/files",
+      "\/data\/data\/cn.nubia.harassintercept\/cache",
+      "\/data\/data\/cn.nubia.harassintercept\/code_cache",
+      "\/data\/data\/cn.nubia.harassintercept\/databases",
+      "\/data\/data\/cn.nubia.harassintercept\/shared_prefs"
+    ],
+    "cn.nubia.quicksearchbox": [
+      "\/data\/data\/cn.nubia.quicksearchbox\/files",
+      "\/data\/data\/cn.nubia.quicksearchbox\/cache",
+      "\/data\/data\/cn.nubia.quicksearchbox\/code_cache",
+      "\/data\/data\/cn.nubia.quicksearchbox\/databases",
+      "\/data\/data\/cn.nubia.quicksearchbox\/shared_prefs"
+    ],
+    "cn.nubia.error.dialog": [
+      "\/data\/data\/cn.nubia.error.dialog\/cache",
+      "\/data\/data\/cn.nubia.error.dialog\/code_cache"
+    ],
+    "cn.nubia.launcher": [
+      "\/data\/data\/cn.nubia.launcher\/files",
+      "\/data\/data\/cn.nubia.launcher\/cache",
+      "\/data\/data\/cn.nubia.launcher\/code_cache",
+      "\/data\/data\/cn.nubia.launcher\/databases",
+      "\/data\/data\/cn.nubia.launcher\/shared_prefs"
+    ],
+    "cn.nubia.yulorepage": [
+      "\/data\/data\/cn.nubia.yulorepage\/cache",
+      "\/data\/data\/cn.nubia.yulorepage\/code_cache"
+    ],
+    "cn.nubia.appsettingsinfoproviders": [
+      "\/data\/data\/cn.nubia.appsettingsinfoproviders\/cache",
+      "\/data\/data\/cn.nubia.appsettingsinfoproviders\/code_cache",
+      "\/data\/data\/cn.nubia.appsettingsinfoproviders\/databases"
+    ],
+    "cn.nubia.paycomponent": [
+      "\/data\/data\/cn.nubia.paycomponent\/files",
+      "\/data\/data\/cn.nubia.paycomponent\/files\/log",
+      "\/data\/data\/cn.nubia.paycomponent\/cache",
+      "\/data\/data\/cn.nubia.paycomponent\/code_cache",
+      "\/data\/data\/cn.nubia.paycomponent\/databases",
+      "\/data\/data\/cn.nubia.paycomponent\/shared_prefs"
+    ],
+    "com.powermo.smartshow.activity": [
+      "\/data\/data\/com.powermo.smartshow.activity\/cache",
+      "\/data\/data\/com.powermo.smartshow.activity\/code_cache"
+    ],
+    "com.tencent.android.location": [
+      "\/data\/data\/com.tencent.android.location\/files",
+      "\/data\/data\/com.tencent.android.location\/files\/data",
+      "\/data\/data\/com.tencent.android.location\/cache",
+      "\/data\/data\/com.tencent.android.location\/code_cache",
+      "\/data\/data\/com.tencent.android.location\/databases",
+      "\/data\/data\/com.tencent.android.location\/shared_prefs"
+    ],
+    "com.sohu.inputmethod.sogou.nubia": [
+      "\/data\/data\/com.sohu.inputmethod.sogou.nubia\/files",
+      "\/data\/data\/com.sohu.inputmethod.sogou.nubia\/cache",
+      "\/data\/data\/com.sohu.inputmethod.sogou.nubia\/code_cache",
+      "\/data\/data\/com.sohu.inputmethod.sogou.nubia\/databases",
+      "\/data\/data\/com.sohu.inputmethod.sogou.nubia\/shared_prefs"
+    ]
+  },
+  "设备信息": {
+    "java_version ": "0",
+    "java_runtime_version": "0.9",
+    "java_runtime_name": "Android Runtime",
+    "java_vm_version ": "2.1.0",
+    "SystemName": "Android",
+    "SystemVersion": "7.1.1",
+    "DeviceBrand": "nubia",
+    "DeviceModel": "NX589J",
+    "SerialNumber": "f60dd9a",
+    "ApplicationChannel": "CHANNEL-nubia",
+    "ApplicationKey": "APPKE",
+    "APILevel": "25",
+    "UA": "Mozilla\/5.0 (Linux; Android 7.1.1; NX589J Build\/NMF26F; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/56.0.2924.87 Mobile Safari\/537.36",
+    "TargetSdkVersion": "31",
+    "BootTimeMilliseconds": "1664177885929",
+    "Simulator": "0",
+    "Debug": "0",
+    "Hijack": "0",
+    "SDK--utdid": "XHdee6bBQ2sDAOlw32WiWifZ",
+    "IsRoot": "0",
+    "SystemFontSize": "0",
+    "SystemHour": "12",
+    "SystemLanguage": "zh",
+    "SystemArea": "CN",
+    "TimeZone": "GMT+08:00",
+    "SenSorModuleName": [
+      {
+        "SenSorName": "BMI160 Accelerometer",
+        "SenSorVersion": "2062200",
+        "SenSorManufacturer": "BOSCH",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.18000000715255737
+      },
+      {
+        "SenSorName": "AK09916 Magnetometer",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "AKM",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 1.100000023841858
+      },
+      {
+        "SenSorName": "AK09916 Magnetometer Uncalibrated",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "AKM",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 1.100000023841858
+      },
+      {
+        "SenSorName": "BMI160 Gyroscope",
+        "SenSorVersion": "2062200",
+        "SenSorManufacturer": "BOSCH",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.8999999761581421
+      },
+      {
+        "SenSorName": "BMI160 Gyroscope Uncalibrated",
+        "SenSorVersion": "2062200",
+        "SenSorManufacturer": "BOSCH",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.8999999761581421
+      },
+      {
+        "SenSorName": "BMI160 Accelerometer -Wakeup Secondary",
+        "SenSorVersion": "2062200",
+        "SenSorManufacturer": "BOSCH",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.18000000715255737
+      },
+      {
+        "SenSorName": "AK09916 Magnetometer -Wakeup Secondary",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "AKM",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 1.100000023841858
+      },
+      {
+        "SenSorName": "AK09916 Magnetometer Uncalibrated -Wakeup Secondary",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "AKM",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 1.100000023841858
+      },
+      {
+        "SenSorName": "BMI160 Gyroscope -Wakeup Secondary",
+        "SenSorVersion": "2062200",
+        "SenSorManufacturer": "BOSCH",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.8999999761581421
+      },
+      {
+        "SenSorName": "BMI160 Gyroscope Uncalibrated -Wakeup Secondary",
+        "SenSorVersion": "2062200",
+        "SenSorManufacturer": "BOSCH",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.8999999761581421
+      },
+      {
+        "SenSorName": "Gravity",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 1.079986572265625
+      },
+      {
+        "SenSorName": "Linear Acceleration",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 1.079986572265625
+      },
+      {
+        "SenSorName": "Rotation Vector",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 1.9999847412109375
+      },
+      {
+        "SenSorName": "Step Detector",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.17999267578125
+      },
+      {
+        "SenSorName": "Step Counter",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.17999267578125
+      },
+      {
+        "SenSorName": "Significant Motion Detector",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.17999267578125
+      },
+      {
+        "SenSorName": "Game Rotation Vector",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 1.079986572265625
+      },
+      {
+        "SenSorName": "GeoMagnetic Rotation Vector",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 1.2890625
+      },
+      {
+        "SenSorName": "Orientation",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 1.9999847412109375
+      },
+      {
+        "SenSorName": "Tilt Detector",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.17999267578125
+      },
+      {
+        "SenSorName": "Gravity -Wakeup Secondary",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 1.079986572265625
+      },
+      {
+        "SenSorName": "Linear Acceleration -Wakeup Secondary",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 1.079986572265625
+      },
+      {
+        "SenSorName": "Rotation Vector -Wakeup Secondary",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 1.9999847412109375
+      },
+      {
+        "SenSorName": "Step Detector -Wakeup Secondary",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.17999267578125
+      },
+      {
+        "SenSorName": "Step Counter -Wakeup Secondary",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.17999267578125
+      },
+      {
+        "SenSorName": "Game Rotation Vector -Wakeup Secondary",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 1.079986572265625
+      },
+      {
+        "SenSorName": "GeoMagnetic Rotation Vector -Wakeup Secondary",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 1.2890625
+      },
+      {
+        "SenSorName": "Orientation -Wakeup Secondary",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 1.9999847412109375
+      },
+      {
+        "SenSorName": "AMD",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.17999267578125
+      },
+      {
+        "SenSorName": "RMD",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.17999267578125
+      },
+      {
+        "SenSorName": "Basic Gestures",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.17999267578125
+      },
+      {
+        "SenSorName": "Facing",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.17999267578125
+      },
+      {
+        "SenSorName": "Pedometer",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.17999267578125
+      },
+      {
+        "SenSorName": "Motion Accel",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.17999267578125
+      },
+      {
+        "SenSorName": "Coarse Motion Classifier",
+        "SenSorVersion": "3",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.17999267578125
+      },
+      {
+        "SenSorName": "Light sensor",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "nubia",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.12999999523162842
+      },
+      {
+        "SenSorName": "Proximity sensor",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "nubia",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.3499999940395355
+      }
+    ],
+    "CPUModel": "arm64-v8a:",
+    "BuildId": "NMF26F",
+    "BuildDisplay": "NX589J_CNCommon_V316",
+    "BuildProduct": "NX589J",
+    "BuildDevice": "NX589J",
+    "BuildBoard": "msm8952",
+    "BuildHardware": "qcom",
+    "BuildSupportedAbis": "arm64-v8a,armeabi-v7a,armeabi",
+    "BuildSupportedAbis32": "armeabi-v7a,armeabi",
+    "BuildSupportedAbis64": "arm64-v8a",
+    "BuildType": "user",
+    "BuildTags": "release-keys",
+    "BuildFingerPrint": "nubia\/NX589J\/NX589J:7.1.1\/NMF26F\/eng.nubia.20171020.213115:user\/release-keys",
+    "BuildRadioVersion": "NX589J_Z0_CN_UJH1N_V316",
+    "BuildIncremental": "eng.nubia.20190923.183850",
+    "BuildSecurityPatch": "2017-04-01",
+    "BuildPreviewSdkInt": "0",
+    "BuildSdkInt": "25",
+    "BuildCodename": "REL",
+    "ETDM": {
+      "BatteryStatus": "5",
+      "BatteryHealth": "2",
+      "BatteryLevel": "100",
+      "BatteryScale": "100",
+      "BatteryPlugged": "0",
+      "BatteryTechnology": "Li-ion"
+    }
+  },
+  "Unsafe": {
+    "init[theUnsafe]": true,
+    "init[THE_ONE]": true,
+    "init[getUnsafe]": true,
+    "init[getUnsafeByAbstractQueuedSynchronizer]": true,
+    "arrayIndexScale赋值Object数组大小": 4,
+    "is64Bit": true,
+    "me-adress": 314728352,
+    "me-hash": 132736884,
+    "me格式化-address": "12c25fa0",
+    "me1-adress": 314728352,
+    "me1-hash": 132736884,
+    "me1格式化-address": "12c25fa0",
+    "两个对象地址测试结果": true,
+    "两个对象测试结果": true,
+    "byte[]_OFFSET": 12,
+    "byte[]_SCALE": 1,
+    "boolean[]_OFFSET": 12,
+    "boolean[]_SCALE": 1,
+    "int[]_OFFSET": 12,
+    "int[]_SCALE": 4,
+    "long[]_OFFSET": 16,
+    "long[]_SCALE": 8,
+    "float[]_OFFSET": 12,
+    "float[]_SCALE": 4,
+    "double[]_OFFSET": 16,
+    "double[]_SCALE": 8,
+    "Object[]_OFFSET": 12,
+    "Object[]_SCALE": 4,
+    "BUFFER_ADDRESS_OFFSET": 8,
+    "STRIDE_ALIGNMENT_MASK": 7,
+    "BYTE_ARRAY_ALIGNMENT": 4,
+    "IS_BIG_ENDIAN": false,
+    "objectFieldOffset(Field)": true,
+    "1_arrayBaseOffset(Class)": true,
+    "1_getArrayBaseOffsetForComponentType(Class)": true,
+    "2_arrayIndexScale(Class)": true,
+    "2_getArrayIndexScaleForComponentType(Class)": true,
+    "2_arrayIndexScale0(Class)": false,
+    "compareAndSwapInt(Object,long,int,int)": true,
+    "compareAndSwapLong(Object,long,long,long)": true,
+    "compareAndSwapObject(Object,long,Object,Object)": true,
+    "3_getInt(Object,long)": true,
+    "3_getIntVolatile(Object,long)": true,
+    "getInt(long)": true,
+    "4_putInt(Object,long,int)": true,
+    "4_putIntVolatile(Object,long,int)": true,
+    "putInt(long,int)": true,
+    "putOrderedInt(Object,long,int)": true,
+    "5_getLong(Object,long)": true,
+    "5_getLongVolatile(Object,long)": true,
+    "getLong(long)": true,
+    "putLong(Object,long,long)": true,
+    "getObject(Object,long)": true,
+    "putObject(Object,long,Object)": true,
+    "getByte(long)": true,
+    "getByte(Object,long)": true,
+    "putByte(long,byte)": false,
+    "putByte(Object,long,byte)": true,
+    "getBoolean(Object,long)": true,
+    "putBoolean(Object,long,boolean)": true,
+    "getFloat(Object,long)": true,
+    "putFloat(Object,long,float)": true,
+    "getDouble(Object,long)": true,
+    "putDouble(Object,long,double)": true,
+    "bufferAddressField": "long java.nio.Buffer.address",
+    "putLong(long,long)": true,
+    "copyMemory(long,long,long)": true,
+    "addressSize()": true,
+    "pageSize()": true,
+    "allocateInstance(Class)": true,
+    "allocateMemory(long)": true,
+    "copyMemoryToPrimitiveArray(long,Object,long,long)": true,
+    "copyMemoryFromPrimitiveArray(Object,long,long,long)": true,
+    "setMemory(long,long,byte)": true,
+    "freeMemory(long)": true,
+    "getAndAddInt(Object,long,int)": true,
+    "getAndSetInt(Object,long,int)": true,
+    "getAndAddLong(Object,long,long)": true,
+    "getAndSetLong(Object,long,long)": true,
+    "getAndSetObject(Object,long,Object)": true
+  },
+  "MAC": {
+    "java_mac": "dc:f0:90:9f:c2:ee",
+    "api_mac": "02:00:00:00:00:00",
+    "file_mac": "",
+    "ip_address": "1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default \n    link\/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00\n    inet 127.0.0.1\/8 scope host lo\n       valid_lft forever preferred_lft forever\n    inet6 ::1\/128 scope host \n       valid_lft forever preferred_lft forever\n2: dummy0: <BROADCAST,NOARP,UP,LOWER_UP> mtu 1500 qdisc noqueue state UNKNOWN group default \n    link\/ether c2:38:57:0e:66:f3 brd ff:ff:ff:ff:ff:ff\n    inet6 fe80::c038:57ff:fe0e:66f3\/64 scope link \n       valid_lft forever preferred_lft forever\n3: sit0: <NOARP> mtu 1480 qdisc noop state DOWN group default \n    link\/sit 0.0.0.0 brd 0.0.0.0\n4: rmnet_ipa0: <UP,LOWER_UP> mtu 2000 qdisc pfifo_fast state UNKNOWN group default qlen 1000\n    link\/[530] \n5: rmnet_data0: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n6: rmnet_data1: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n7: rmnet_data2: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n8: rmnet_data3: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n9: rmnet_data4: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n10: rmnet_data5: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n11: rmnet_data6: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n12: rmnet_data7: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n13: r_rmnet_data0: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n14: r_rmnet_data1: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n15: r_rmnet_data2: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n16: r_rmnet_data3: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n17: r_rmnet_data4: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n18: r_rmnet_data5: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n19: r_rmnet_data6: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n20: r_rmnet_data7: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n21: r_rmnet_data8: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n22: wlan0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 1000\n    link\/ether dc:f0:90:9f:c2:ee brd ff:ff:ff:ff:ff:ff\n    inet 10.43.51.189\/23 brd 10.43.51.255 scope global wlan0\n       valid_lft forever preferred_lft forever\n    inet6 fe80::def0:90ff:fe9f:c2ee\/64 scope link \n       valid_lft forever preferred_lft forever\n23: p2p0: <NO-CARRIER,BROADCAST,MULTICAST,UP> mtu 1500 qdisc mq state DOWN group default qlen 1000\n    link\/ether de:f0:90:9f:c2:ee brd ff:ff:ff:ff:ff:ff\n",
+    "ip_link": "1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN mode DEFAULT group default \n    link\/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00\n2: dummy0: <BROADCAST,NOARP,UP,LOWER_UP> mtu 1500 qdisc noqueue state UNKNOWN mode DEFAULT group default \n    link\/ether c2:38:57:0e:66:f3 brd ff:ff:ff:ff:ff:ff\n3: sit0: <NOARP> mtu 1480 qdisc noop state DOWN mode DEFAULT group default \n    link\/sit 0.0.0.0 brd 0.0.0.0\n4: rmnet_ipa0: <UP,LOWER_UP> mtu 2000 qdisc pfifo_fast state UNKNOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n5: rmnet_data0: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n6: rmnet_data1: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n7: rmnet_data2: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n8: rmnet_data3: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n9: rmnet_data4: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n10: rmnet_data5: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n11: rmnet_data6: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n12: rmnet_data7: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n13: r_rmnet_data0: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n14: r_rmnet_data1: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n15: r_rmnet_data2: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n16: r_rmnet_data3: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n17: r_rmnet_data4: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n18: r_rmnet_data5: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n19: r_rmnet_data6: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n20: r_rmnet_data7: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n21: r_rmnet_data8: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n22: wlan0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP mode DORMANT group default qlen 1000\n    link\/ether dc:f0:90:9f:c2:ee brd ff:ff:ff:ff:ff:ff\n23: p2p0: <NO-CARRIER,BROADCAST,MULTICAST,UP> mtu 1500 qdisc mq state DOWN mode DORMANT group default qlen 1000\n    link\/ether de:f0:90:9f:c2:ee brd ff:ff:ff:ff:ff:ff\n"
+  }
+}
