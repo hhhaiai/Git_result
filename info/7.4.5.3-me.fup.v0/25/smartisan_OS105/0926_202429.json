@@ -1,0 +1,816 @@
+{
+  "LetMeSee": {
+    "com.smartisanos.appstore": [
+      "\/data\/data\/com.smartisanos.appstore\/files",
+      "\/data\/data\/com.smartisanos.appstore\/files\/logs",
+      "\/data\/data\/com.smartisanos.appstore\/cache",
+      "\/data\/data\/com.smartisanos.appstore\/code_cache",
+      "\/data\/data\/com.smartisanos.appstore\/databases",
+      "\/data\/data\/com.smartisanos.appstore\/shared_prefs"
+    ],
+    "com.smartisanos.clock": [
+      "\/data\/data\/com.smartisanos.clock\/cache",
+      "\/data\/data\/com.smartisanos.clock\/code_cache",
+      "\/data\/data\/com.smartisanos.clock\/databases",
+      "\/data\/data\/com.smartisanos.clock\/shared_prefs"
+    ],
+    "com.smartisanos.music": [
+      "\/data\/data\/com.smartisanos.music\/files",
+      "\/data\/data\/com.smartisanos.music\/cache",
+      "\/data\/data\/com.smartisanos.music\/code_cache",
+      "\/data\/data\/com.smartisanos.music\/databases",
+      "\/data\/data\/com.smartisanos.music\/shared_prefs"
+    ],
+    "cn.testin.itestin": [
+      "\/data\/data\/cn.testin.itestin\/files",
+      "\/data\/data\/cn.testin.itestin\/cache",
+      "\/data\/data\/cn.testin.itestin\/code_cache",
+      "\/data\/data\/cn.testin.itestin\/databases",
+      "\/data\/data\/cn.testin.itestin\/shared_prefs"
+    ],
+    "com.android.browser": [
+      "\/data\/data\/com.android.browser\/files",
+      "\/data\/data\/com.android.browser\/cache",
+      "\/data\/data\/com.android.browser\/code_cache",
+      "\/data\/data\/com.android.browser\/databases",
+      "\/data\/data\/com.android.browser\/shared_prefs"
+    ],
+    "com.android.contacts": [
+      "\/data\/data\/com.android.contacts\/files",
+      "\/data\/data\/com.android.contacts\/cache",
+      "\/data\/data\/com.android.contacts\/code_cache",
+      "\/data\/data\/com.android.contacts\/shared_prefs"
+    ],
+    "com.android.camera2": [
+      "\/data\/data\/com.android.camera2\/files",
+      "\/data\/data\/com.android.camera2\/cache",
+      "\/data\/data\/com.android.camera2\/code_cache",
+      "\/data\/data\/com.android.camera2\/shared_prefs"
+    ],
+    "com.android.mms": [
+      "\/data\/data\/com.android.mms\/files",
+      "\/data\/data\/com.android.mms\/cache",
+      "\/data\/data\/com.android.mms\/code_cache",
+      "\/data\/data\/com.android.mms\/databases",
+      "\/data\/data\/com.android.mms\/shared_prefs"
+    ],
+    "com.smartisanos.filemanager": [
+      "\/data\/data\/com.smartisanos.filemanager\/files",
+      "\/data\/data\/com.smartisanos.filemanager\/cache",
+      "\/data\/data\/com.smartisanos.filemanager\/code_cache",
+      "\/data\/data\/com.smartisanos.filemanager\/databases",
+      "\/data\/data\/com.smartisanos.filemanager\/shared_prefs"
+    ],
+    "com.android.gallery3d": [
+      "\/data\/data\/com.android.gallery3d\/files",
+      "\/data\/data\/com.android.gallery3d\/cache",
+      "\/data\/data\/com.android.gallery3d\/code_cache",
+      "\/data\/data\/com.android.gallery3d\/databases",
+      "\/data\/data\/com.android.gallery3d\/shared_prefs"
+    ],
+    "com.smartisanos.sara": [
+      "\/data\/data\/com.smartisanos.sara\/files",
+      "\/data\/data\/com.smartisanos.sara\/cache",
+      "\/data\/data\/com.smartisanos.sara\/code_cache",
+      "\/data\/data\/com.smartisanos.sara\/databases",
+      "\/data\/data\/com.smartisanos.sara\/shared_prefs"
+    ],
+    "com.smartisanos.smartfolder.aoa": [
+      "\/data\/data\/com.smartisanos.smartfolder.aoa\/cache",
+      "\/data\/data\/com.smartisanos.smartfolder.aoa\/code_cache",
+      "\/data\/data\/com.smartisanos.smartfolder.aoa\/databases",
+      "\/data\/data\/com.smartisanos.smartfolder.aoa\/shared_prefs"
+    ],
+    "me.fup.v0": [
+      "\/data\/data\/me.fup.v0\/files",
+      "\/data\/data\/me.fup.v0\/cache",
+      "\/data\/data\/me.fup.v0\/code_cache",
+      "\/data\/data\/me.fup.v0\/databases",
+      "\/data\/data\/me.fup.v0\/shared_prefs"
+    ],
+    "com.smartisanos.cloudsync": [
+      "\/data\/data\/com.smartisanos.cloudsync\/files",
+      "\/data\/data\/com.smartisanos.cloudsync\/cache",
+      "\/data\/data\/com.smartisanos.cloudsync\/code_cache",
+      "\/data\/data\/com.smartisanos.cloudsync\/databases",
+      "\/data\/data\/com.smartisanos.cloudsync\/shared_prefs"
+    ],
+    "com.smartisanos.setupwizard": [
+      "\/data\/data\/com.smartisanos.setupwizard\/files",
+      "\/data\/data\/com.smartisanos.setupwizard\/cache",
+      "\/data\/data\/com.smartisanos.setupwizard\/code_cache",
+      "\/data\/data\/com.smartisanos.setupwizard\/databases",
+      "\/data\/data\/com.smartisanos.setupwizard\/shared_prefs"
+    ],
+    "com.mobiletools.systemhelper": [
+      "\/data\/data\/com.mobiletools.systemhelper\/cache",
+      "\/data\/data\/com.mobiletools.systemhelper\/code_cache",
+      "\/data\/data\/com.mobiletools.systemhelper\/shared_prefs"
+    ],
+    "com.smartisanos.theme.ochikuri": [
+      "\/data\/data\/com.smartisanos.theme.ochikuri\/cache",
+      "\/data\/data\/com.smartisanos.theme.ochikuri\/code_cache"
+    ],
+    "com.smartisanos.theme.sekichiku": [
+      "\/data\/data\/com.smartisanos.theme.sekichiku\/cache",
+      "\/data\/data\/com.smartisanos.theme.sekichiku\/code_cache"
+    ],
+    "com.smartisanos.drive": [
+      "\/data\/data\/com.smartisanos.drive\/cache",
+      "\/data\/data\/com.smartisanos.drive\/code_cache",
+      "\/data\/data\/com.smartisanos.drive\/shared_prefs"
+    ],
+    "com.smartisanos.updater": [
+      "\/data\/data\/com.smartisanos.updater\/files",
+      "\/data\/data\/com.smartisanos.updater\/cache",
+      "\/data\/data\/com.smartisanos.updater\/code_cache",
+      "\/data\/data\/com.smartisanos.updater\/databases",
+      "\/data\/data\/com.smartisanos.updater\/shared_prefs"
+    ],
+    "com.smartisanos.filepreview": [
+      "\/data\/data\/com.smartisanos.filepreview\/cache",
+      "\/data\/data\/com.smartisanos.filepreview\/code_cache"
+    ],
+    "com.smartisanos.theme.karekusak": [
+      "\/data\/data\/com.smartisanos.theme.karekusak\/cache",
+      "\/data\/data\/com.smartisanos.theme.karekusak\/code_cache"
+    ],
+    "com.android.launcher3": [
+      "\/data\/data\/com.android.launcher3\/files",
+      "\/data\/data\/com.android.launcher3\/cache",
+      "\/data\/data\/com.android.launcher3\/code_cache",
+      "\/data\/data\/com.android.launcher3\/databases",
+      "\/data\/data\/com.android.launcher3\/shared_prefs"
+    ],
+    "com.smartisanos.launcher.theme.strip": [
+      "\/data\/data\/com.smartisanos.launcher.theme.strip\/cache",
+      "\/data\/data\/com.smartisanos.launcher.theme.strip\/code_cache"
+    ],
+    "com.smartisanos.launcher.theme.trans": [
+      "\/data\/data\/com.smartisanos.launcher.theme.trans\/cache",
+      "\/data\/data\/com.smartisanos.launcher.theme.trans\/code_cache"
+    ],
+    "com.goodix.gftest": [
+      "\/data\/data\/com.goodix.gftest\/cache",
+      "\/data\/data\/com.goodix.gftest\/code_cache"
+    ],
+    "com.smartisanos.theme.yanagisusutakecya": [
+      "\/data\/data\/com.smartisanos.theme.yanagisusutakecya\/cache",
+      "\/data\/data\/com.smartisanos.theme.yanagisusutakecya\/code_cache"
+    ],
+    "com.smartisanos.launcher.theme.aero": [
+      "\/data\/data\/com.smartisanos.launcher.theme.aero\/cache",
+      "\/data\/data\/com.smartisanos.launcher.theme.aero\/code_cache"
+    ],
+    "com.smartisanos.phone_number_assistant": [
+      "\/data\/data\/com.smartisanos.phone_number_assistant\/files",
+      "\/data\/data\/com.smartisanos.phone_number_assistant\/files\/data",
+      "\/data\/data\/com.smartisanos.phone_number_assistant\/files\/download",
+      "\/data\/data\/com.smartisanos.phone_number_assistant\/cache",
+      "\/data\/data\/com.smartisanos.phone_number_assistant\/code_cache",
+      "\/data\/data\/com.smartisanos.phone_number_assistant\/databases",
+      "\/data\/data\/com.smartisanos.phone_number_assistant\/shared_prefs"
+    ],
+    "com.smartisanos.cloudagent": [
+      "\/data\/data\/com.smartisanos.cloudagent\/cache",
+      "\/data\/data\/com.smartisanos.cloudagent\/code_cache",
+      "\/data\/data\/com.smartisanos.cloudagent\/shared_prefs"
+    ],
+    "com.android.webview": [
+      "\/data\/data\/com.android.webview\/cache",
+      "\/data\/data\/com.android.webview\/code_cache"
+    ],
+    "com.smartisanos.expandservice": [
+      "\/data\/data\/com.smartisanos.expandservice\/files",
+      "\/data\/data\/com.smartisanos.expandservice\/cache",
+      "\/data\/data\/com.smartisanos.expandservice\/code_cache",
+      "\/data\/data\/com.smartisanos.expandservice\/databases",
+      "\/data\/data\/com.smartisanos.expandservice\/shared_prefs"
+    ],
+    "com.cootek.smartdialer_oem": [
+      "\/data\/data\/com.cootek.smartdialer_oem\/cache",
+      "\/data\/data\/com.cootek.smartdialer_oem\/code_cache"
+    ],
+    "com.android.musicfx": [
+      "\/data\/data\/com.android.musicfx\/cache",
+      "\/data\/data\/com.android.musicfx\/code_cache",
+      "\/data\/data\/com.android.musicfx\/shared_prefs"
+    ],
+    "com.smartisanos.theme.orange": [
+      "\/data\/data\/com.smartisanos.theme.orange\/cache",
+      "\/data\/data\/com.smartisanos.theme.orange\/code_cache"
+    ],
+    "com.smartisanos.theme.purple": [
+      "\/data\/data\/com.smartisanos.theme.purple\/cache",
+      "\/data\/data\/com.smartisanos.theme.purple\/code_cache"
+    ],
+    "com.iflytek.inputmethod.smartisan": [
+      "\/data\/data\/com.iflytek.inputmethod.smartisan\/files",
+      "\/data\/data\/com.iflytek.inputmethod.smartisan\/cache",
+      "\/data\/data\/com.iflytek.inputmethod.smartisan\/code_cache",
+      "\/data\/data\/com.iflytek.inputmethod.smartisan\/databases",
+      "\/data\/data\/com.iflytek.inputmethod.smartisan\/shared_prefs"
+    ],
+    "com.smartisanos.theme.yellow": [
+      "\/data\/data\/com.smartisanos.theme.yellow\/cache",
+      "\/data\/data\/com.smartisanos.theme.yellow\/code_cache"
+    ],
+    "com.smartisanos.theme.sabiseiji": [
+      "\/data\/data\/com.smartisanos.theme.sabiseiji\/cache",
+      "\/data\/data\/com.smartisanos.theme.sabiseiji\/code_cache"
+    ],
+    "com.android.inputmethod.latin": [
+      "\/data\/data\/com.android.inputmethod.latin\/cache",
+      "\/data\/data\/com.android.inputmethod.latin\/code_cache"
+    ],
+    "com.smartisanos.theme.ensyunezumi": [
+      "\/data\/data\/com.smartisanos.theme.ensyunezumi\/cache",
+      "\/data\/data\/com.smartisanos.theme.ensyunezumi\/code_cache"
+    ],
+    "com.smartisanos.theme.cyan": [
+      "\/data\/data\/com.smartisanos.theme.cyan\/cache",
+      "\/data\/data\/com.smartisanos.theme.cyan\/code_cache"
+    ],
+    "com.smartisanos.theme.souh": [
+      "\/data\/data\/com.smartisanos.theme.souh\/cache",
+      "\/data\/data\/com.smartisanos.theme.souh\/code_cache"
+    ],
+    "com.smartisanos.recharge": [
+      "\/data\/data\/com.smartisanos.recharge\/files",
+      "\/data\/data\/com.smartisanos.recharge\/cache",
+      "\/data\/data\/com.smartisanos.recharge\/code_cache",
+      "\/data\/data\/com.smartisanos.recharge\/databases",
+      "\/data\/data\/com.smartisanos.recharge\/shared_prefs"
+    ],
+    "com.android.dreams.phototable": [
+      "\/data\/data\/com.android.dreams.phototable\/cache",
+      "\/data\/data\/com.android.dreams.phototable\/code_cache"
+    ],
+    "com.bizport.xiaoyuan": [
+      "\/data\/data\/com.bizport.xiaoyuan\/cache",
+      "\/data\/data\/com.bizport.xiaoyuan\/code_cache"
+    ],
+    "com.smartisanos.theme.hatobamurasaki": [
+      "\/data\/data\/com.smartisanos.theme.hatobamurasaki\/cache",
+      "\/data\/data\/com.smartisanos.theme.hatobamurasaki\/code_cache"
+    ],
+    "com.android.providers.weather": [
+      "\/data\/data\/com.android.providers.weather\/files",
+      "\/data\/data\/com.android.providers.weather\/cache",
+      "\/data\/data\/com.android.providers.weather\/code_cache",
+      "\/data\/data\/com.android.providers.weather\/databases",
+      "\/data\/data\/com.android.providers.weather\/shared_prefs"
+    ],
+    "com.smartisan.crashreport": [
+      "\/data\/data\/com.smartisan.crashreport\/files",
+      "\/data\/data\/com.smartisan.crashreport\/cache",
+      "\/data\/data\/com.smartisan.crashreport\/code_cache",
+      "\/data\/data\/com.smartisan.crashreport\/databases",
+      "\/data\/data\/com.smartisan.crashreport\/shared_prefs"
+    ],
+    "com.smartisanos.launcher.theme.lightblue": [
+      "\/data\/data\/com.smartisanos.launcher.theme.lightblue\/cache",
+      "\/data\/data\/com.smartisanos.launcher.theme.lightblue\/code_cache"
+    ],
+    "com.smartisanos.launcher.theme.lightgold": [
+      "\/data\/data\/com.smartisanos.launcher.theme.lightgold\/cache",
+      "\/data\/data\/com.smartisanos.launcher.theme.lightgold\/code_cache"
+    ],
+    "com.smartisanos.theme.green": [
+      "\/data\/data\/com.smartisanos.theme.green\/cache",
+      "\/data\/data\/com.smartisanos.theme.green\/code_cache"
+    ],
+    "com.smartisanos.cloudgallery": [
+      "\/data\/data\/com.smartisanos.cloudgallery\/cache",
+      "\/data\/data\/com.smartisanos.cloudgallery\/code_cache",
+      "\/data\/data\/com.smartisanos.cloudgallery\/databases"
+    ],
+    "com.smartisanos.theme.default": [
+      "\/data\/data\/com.smartisanos.theme.default\/cache",
+      "\/data\/data\/com.smartisanos.theme.default\/code_cache"
+    ],
+    "com.smartisanos.launcher.themes": [
+      "\/data\/data\/com.smartisanos.launcher.themes\/cache",
+      "\/data\/data\/com.smartisanos.launcher.themes\/code_cache"
+    ],
+    "com.smartisanos.powersaving.launcher": [
+      "\/data\/data\/com.smartisanos.powersaving.launcher\/cache",
+      "\/data\/data\/com.smartisanos.powersaving.launcher\/code_cache"
+    ],
+    "com.android.exchange": [
+      "\/data\/data\/com.android.exchange\/cache",
+      "\/data\/data\/com.android.exchange\/code_cache",
+      "\/data\/data\/com.android.exchange\/shared_prefs"
+    ],
+    "com.amap.android.location": [
+      "\/data\/data\/com.amap.android.location\/cache",
+      "\/data\/data\/com.amap.android.location\/code_cache",
+      "\/data\/data\/com.amap.android.location\/databases",
+      "\/data\/data\/com.amap.android.location\/shared_prefs"
+    ],
+    "com.smartisanos.manual": [
+      "\/data\/data\/com.smartisanos.manual\/files",
+      "\/data\/data\/com.smartisanos.manual\/files\/video",
+      "\/data\/data\/com.smartisanos.manual\/cache",
+      "\/data\/data\/com.smartisanos.manual\/code_cache"
+    ],
+    "com.smartisanos.launcher.theme.winered": [
+      "\/data\/data\/com.smartisanos.launcher.theme.winered\/cache",
+      "\/data\/data\/com.smartisanos.launcher.theme.winered\/code_cache"
+    ],
+    "com.smartisanos.share.browser": [
+      "\/data\/data\/com.smartisanos.share.browser\/cache",
+      "\/data\/data\/com.smartisanos.share.browser\/code_cache"
+    ]
+  },
+  "设备信息": {
+    "java_version ": "0",
+    "java_runtime_version": "0.9",
+    "java_runtime_name": "Android Runtime",
+    "java_vm_version ": "2.1.0",
+    "SystemName": "Android",
+    "SystemVersion": "7.1.1",
+    "DeviceBrand": "SMARTISAN",
+    "DeviceModel": "OS105",
+    "SerialNumber": "e7e1a81c",
+    "IMEIS": "866341030785472|866341031785471",
+    "ApplicationChannel": "CHANNEL-smartisan",
+    "ApplicationKey": "APPKE",
+    "APILevel": "25",
+    "UA": "Mozilla\/5.0 (Linux; Android 7.1.1; OS105 Build\/NGI77B; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/62.0.3202.84 Mobile Safari\/537.36",
+    "TargetSdkVersion": "31",
+    "BootTimeMilliseconds": "1663717086695",
+    "Simulator": "0",
+    "Debug": "0",
+    "Hijack": "0",
+    "SDK--utdid": "XCMYyruBIkoDAPA2efAnZf8p",
+    "IsRoot": "0",
+    "SystemFontSize": "0",
+    "SystemHour": "12",
+    "SystemLanguage": "zh",
+    "SystemArea": "CN",
+    "TimeZone": "GMT+08:00",
+    "SenSorModuleName": [
+      {
+        "SenSorName": "BMI160 Accelerometer",
+        "SenSorVersion": "2062701",
+        "SenSorManufacturer": "BOSCH",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.18000000715255737
+      },
+      {
+        "SenSorName": "AK09918 Magnetometer",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "AKM",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 1.100000023841858
+      },
+      {
+        "SenSorName": "AK09918 Magnetometer Uncalibrated",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "AKM",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 1.100000023841858
+      },
+      {
+        "SenSorName": "BMI160 Gyroscope",
+        "SenSorVersion": "2062701",
+        "SenSorManufacturer": "BOSCH",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.8999999761581421
+      },
+      {
+        "SenSorName": "BMI160 Gyroscope Uncalibrated",
+        "SenSorVersion": "2062701",
+        "SenSorManufacturer": "BOSCH",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.8999999761581421
+      },
+      {
+        "SenSorName": "STK342X Proximity",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "SENSORTEK",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.10000000149011612
+      },
+      {
+        "SenSorName": "STK342X Ambient light",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "SENSORTEK",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0
+      },
+      {
+        "SenSorName": "BMI160 Accelerometer -Wakeup Secondary",
+        "SenSorVersion": "2062701",
+        "SenSorManufacturer": "BOSCH",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.18000000715255737
+      },
+      {
+        "SenSorName": "AK09918 Magnetometer -Wakeup Secondary",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "AKM",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 1.100000023841858
+      },
+      {
+        "SenSorName": "AK09918 Magnetometer Uncalibrated -Wakeup Secondary",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "AKM",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 1.100000023841858
+      },
+      {
+        "SenSorName": "BMI160 Gyroscope -Wakeup Secondary",
+        "SenSorVersion": "2062701",
+        "SenSorManufacturer": "BOSCH",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.8999999761581421
+      },
+      {
+        "SenSorName": "BMI160 Gyroscope Uncalibrated -Wakeup Secondary",
+        "SenSorVersion": "2062701",
+        "SenSorManufacturer": "BOSCH",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.8999999761581421
+      },
+      {
+        "SenSorName": "STK342X Proximity -Non Wakeup Secondary",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "SENSORTEK",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.10000000149011612
+      },
+      {
+        "SenSorName": "STK342X Ambient light -Wakeup Secondary",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "SENSORTEK",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0
+      },
+      {
+        "SenSorName": "Gravity",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 1.079986572265625
+      },
+      {
+        "SenSorName": "Linear Acceleration",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 1.079986572265625
+      },
+      {
+        "SenSorName": "Rotation Vector",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 1.9999847412109375
+      },
+      {
+        "SenSorName": "Step Detector",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.17999267578125
+      },
+      {
+        "SenSorName": "Step Counter",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.17999267578125
+      },
+      {
+        "SenSorName": "Significant Motion Detector",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.17999267578125
+      },
+      {
+        "SenSorName": "Game Rotation Vector",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 1.079986572265625
+      },
+      {
+        "SenSorName": "GeoMagnetic Rotation Vector",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 1.2799835205078125
+      },
+      {
+        "SenSorName": "Orientation",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 1.9999847412109375
+      },
+      {
+        "SenSorName": "Tilt Detector",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.17999267578125
+      },
+      {
+        "SenSorName": "DeviceOrientation",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.17999267578125
+      },
+      {
+        "SenSorName": "Android Stationary Detector",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.17999267578125
+      },
+      {
+        "SenSorName": "Android Motion Detector",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.17999267578125
+      },
+      {
+        "SenSorName": "Gravity -Wakeup Secondary",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 1.079986572265625
+      },
+      {
+        "SenSorName": "Linear Acceleration -Wakeup Secondary",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 1.079986572265625
+      },
+      {
+        "SenSorName": "Rotation Vector -Wakeup Secondary",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 1.9999847412109375
+      },
+      {
+        "SenSorName": "Step Detector -Wakeup Secondary",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.17999267578125
+      },
+      {
+        "SenSorName": "Step Counter -Wakeup Secondary",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.17999267578125
+      },
+      {
+        "SenSorName": "Game Rotation Vector -Wakeup Secondary",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 1.079986572265625
+      },
+      {
+        "SenSorName": "GeoMagnetic Rotation Vector -Wakeup Secondary",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 1.2799835205078125
+      },
+      {
+        "SenSorName": "Orientation -Wakeup Secondary",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 1.9999847412109375
+      },
+      {
+        "SenSorName": "DeviceOrientation -Wakeup Secondary",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.17999267578125
+      },
+      {
+        "SenSorName": "AMD",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.17999267578125
+      },
+      {
+        "SenSorName": "RMD",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.17999267578125
+      },
+      {
+        "SenSorName": "Pedometer",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.17999267578125
+      },
+      {
+        "SenSorName": "Motion Accel",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.17999267578125
+      },
+      {
+        "SenSorName": "BU52272NUZ ROHM_Hall_Effect",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "ROHM_SEMICONDUCTOR",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.004000000189989805
+      },
+      {
+        "SenSorName": "Persistent Motion Detector",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.17999267578125
+      },
+      {
+        "SenSorName": "INVN Pick Up Gesture",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "SMTS",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.17999267578125
+      }
+    ],
+    "CPUModel": "arm64-v8a:",
+    "BuildId": "NGI77B",
+    "BuildDisplay": "NGI77B dev-keys",
+    "BuildProduct": "osborn",
+    "BuildDevice": "osborn",
+    "BuildBoard": "sdm660",
+    "BuildHardware": "qcom",
+    "BuildSupportedAbis": "arm64-v8a,armeabi-v7a,armeabi",
+    "BuildSupportedAbis32": "armeabi-v7a,armeabi",
+    "BuildSupportedAbis64": "arm64-v8a",
+    "BuildType": "user",
+    "BuildTags": "dev-keys",
+    "BuildFingerPrint": "Android\/osborn\/osborn:7.1.1\/NGI77B\/1611038565:user\/dev-keys",
+    "BuildRadioVersion": "MPSS.AT.2.3.c8-00070-SDM660_GEN_PACK-1.147145.1.156824.1",
+    "BuildIncremental": "1",
+    "BuildSecurityPatch": "2020-07-10",
+    "BuildPreviewSdkInt": "0",
+    "BuildSdkInt": "25",
+    "BuildCodename": "REL",
+    "ETDM": {
+      "BatteryStatus": "5",
+      "BatteryHealth": "2",
+      "BatteryLevel": "100",
+      "BatteryScale": "100",
+      "BatteryPlugged": "0",
+      "BatteryTechnology": "Li-ion"
+    }
+  },
+  "Unsafe": {
+    "init[theUnsafe]": true,
+    "init[THE_ONE]": true,
+    "init[getUnsafe]": true,
+    "init[getUnsafeByAbstractQueuedSynchronizer]": true,
+    "arrayIndexScale赋值Object数组大小": 4,
+    "is64Bit": true,
+    "me-adress": 318374552,
+    "me-hash": 193178059,
+    "me格式化-address": "12fa0298",
+    "me1-adress": 318374552,
+    "me1-hash": 193178059,
+    "me1格式化-address": "12fa0298",
+    "两个对象地址测试结果": true,
+    "两个对象测试结果": true,
+    "byte[]_OFFSET": 12,
+    "byte[]_SCALE": 1,
+    "boolean[]_OFFSET": 12,
+    "boolean[]_SCALE": 1,
+    "int[]_OFFSET": 12,
+    "int[]_SCALE": 4,
+    "long[]_OFFSET": 16,
+    "long[]_SCALE": 8,
+    "float[]_OFFSET": 12,
+    "float[]_SCALE": 4,
+    "double[]_OFFSET": 16,
+    "double[]_SCALE": 8,
+    "Object[]_OFFSET": 12,
+    "Object[]_SCALE": 4,
+    "BUFFER_ADDRESS_OFFSET": 8,
+    "STRIDE_ALIGNMENT_MASK": 7,
+    "BYTE_ARRAY_ALIGNMENT": 4,
+    "IS_BIG_ENDIAN": false,
+    "objectFieldOffset(Field)": true,
+    "1_arrayBaseOffset(Class)": true,
+    "1_getArrayBaseOffsetForComponentType(Class)": true,
+    "2_arrayIndexScale(Class)": true,
+    "2_getArrayIndexScaleForComponentType(Class)": true,
+    "2_arrayIndexScale0(Class)": false,
+    "compareAndSwapInt(Object,long,int,int)": true,
+    "compareAndSwapLong(Object,long,long,long)": true,
+    "compareAndSwapObject(Object,long,Object,Object)": true,
+    "3_getInt(Object,long)": true,
+    "3_getIntVolatile(Object,long)": true,
+    "getInt(long)": true,
+    "4_putInt(Object,long,int)": true,
+    "4_putIntVolatile(Object,long,int)": true,
+    "putInt(long,int)": true,
+    "putOrderedInt(Object,long,int)": true,
+    "5_getLong(Object,long)": true,
+    "5_getLongVolatile(Object,long)": true,
+    "getLong(long)": true,
+    "putLong(Object,long,long)": true,
+    "getObject(Object,long)": true,
+    "putObject(Object,long,Object)": true,
+    "getByte(long)": true,
+    "getByte(Object,long)": true,
+    "putByte(long,byte)": false,
+    "putByte(Object,long,byte)": true,
+    "getBoolean(Object,long)": true,
+    "putBoolean(Object,long,boolean)": true,
+    "getFloat(Object,long)": true,
+    "putFloat(Object,long,float)": true,
+    "getDouble(Object,long)": true,
+    "putDouble(Object,long,double)": true,
+    "bufferAddressField": "long java.nio.Buffer.address",
+    "putLong(long,long)": true,
+    "copyMemory(long,long,long)": true,
+    "addressSize()": true,
+    "pageSize()": true,
+    "allocateInstance(Class)": true,
+    "allocateMemory(long)": true,
+    "copyMemoryToPrimitiveArray(long,Object,long,long)": true,
+    "copyMemoryFromPrimitiveArray(Object,long,long,long)": true,
+    "setMemory(long,long,byte)": true,
+    "freeMemory(long)": true,
+    "getAndAddInt(Object,long,int)": true,
+    "getAndSetInt(Object,long,int)": true,
+    "getAndAddLong(Object,long,long)": true,
+    "getAndSetLong(Object,long,long)": true,
+    "getAndSetObject(Object,long,Object)": true
+  },
+  "MAC": {
+    "java_mac": "b4:0b:44:ec:83:c3",
+    "api_mac": "02:00:00:00:00:00",
+    "file_mac": "",
+    "ip_address": "1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1\n    link\/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00\n    inet 127.0.0.1\/8 scope host lo\n       valid_lft forever preferred_lft forever\n    inet6 ::1\/128 scope host \n       valid_lft forever preferred_lft forever\n2: bond0: <BROADCAST,MULTICAST,MASTER> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/ether 5a:6c:2f:59:e1:a0 brd ff:ff:ff:ff:ff:ff\n3: dummy0: <BROADCAST,NOARP,UP,LOWER_UP> mtu 1500 qdisc noqueue state UNKNOWN group default qlen 1000\n    link\/ether e6:c0:5f:36:62:c0 brd ff:ff:ff:ff:ff:ff\n    inet6 fe80::e4c0:5fff:fe36:62c0\/64 scope link \n       valid_lft forever preferred_lft forever\n4: sit0@NONE: <NOARP> mtu 1480 qdisc noop state DOWN group default qlen 1\n    link\/sit 0.0.0.0 brd 0.0.0.0\n5: rmnet_ipa0: <UP,LOWER_UP> mtu 2000 qdisc pfifo_fast state UNKNOWN group default qlen 1000\n    link\/[530] \n6: rmnet_data0: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n7: rmnet_data1: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n8: rmnet_data2: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n9: rmnet_data3: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n10: rmnet_data4: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n11: rmnet_data5: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n12: rmnet_data6: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n13: rmnet_data7: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n14: r_rmnet_data0: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n15: r_rmnet_data1: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n16: r_rmnet_data2: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n17: r_rmnet_data3: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n18: r_rmnet_data4: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n19: r_rmnet_data5: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n20: r_rmnet_data6: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n21: r_rmnet_data7: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n22: r_rmnet_data8: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n23: wlan0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 3000\n    link\/ether b4:0b:44:ec:83:c3 brd ff:ff:ff:ff:ff:ff\n    inet 10.43.55.217\/23 brd 10.43.55.255 scope global wlan0\n       valid_lft forever preferred_lft forever\n    inet6 fe80::b60b:44ff:feec:83c3\/64 scope link \n       valid_lft forever preferred_lft forever\n24: p2p0: <NO-CARRIER,BROADCAST,MULTICAST,UP> mtu 1500 qdisc mq state DOWN group default qlen 3000\n    link\/ether b6:0b:44:ec:83:c3 brd ff:ff:ff:ff:ff:ff\n",
+    "ip_link": "1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN mode DEFAULT group default qlen 1\n    link\/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00\n2: bond0: <BROADCAST,MULTICAST,MASTER> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/ether 5a:6c:2f:59:e1:a0 brd ff:ff:ff:ff:ff:ff\n3: dummy0: <BROADCAST,NOARP,UP,LOWER_UP> mtu 1500 qdisc noqueue state UNKNOWN mode DEFAULT group default qlen 1000\n    link\/ether e6:c0:5f:36:62:c0 brd ff:ff:ff:ff:ff:ff\n4: sit0@NONE: <NOARP> mtu 1480 qdisc noop state DOWN mode DEFAULT group default qlen 1\n    link\/sit 0.0.0.0 brd 0.0.0.0\n5: rmnet_ipa0: <UP,LOWER_UP> mtu 2000 qdisc pfifo_fast state UNKNOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n6: rmnet_data0: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n7: rmnet_data1: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n8: rmnet_data2: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n9: rmnet_data3: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n10: rmnet_data4: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n11: rmnet_data5: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n12: rmnet_data6: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n13: rmnet_data7: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n14: r_rmnet_data0: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n15: r_rmnet_data1: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n16: r_rmnet_data2: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n17: r_rmnet_data3: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n18: r_rmnet_data4: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n19: r_rmnet_data5: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n20: r_rmnet_data6: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n21: r_rmnet_data7: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n22: r_rmnet_data8: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n23: wlan0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP mode DORMANT group default qlen 3000\n    link\/ether b4:0b:44:ec:83:c3 brd ff:ff:ff:ff:ff:ff\n24: p2p0: <NO-CARRIER,BROADCAST,MULTICAST,UP> mtu 1500 qdisc mq state DOWN mode DORMANT group default qlen 3000\n    link\/ether b6:0b:44:ec:83:c3 brd ff:ff:ff:ff:ff:ff\n"
+  }
+}
