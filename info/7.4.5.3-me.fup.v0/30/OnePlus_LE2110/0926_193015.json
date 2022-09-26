@@ -1,0 +1,440 @@
+{
+  "LetMeSee": {
+    "com.xindong.rocket": [
+      "\/sdcard\/Android\/data\/com.xindong.rocket\/files",
+      "\/sdcard\/Android\/data\/com.xindong.rocket\/files\/tencent",
+      "\/sdcard\/Android\/data\/com.xindong.rocket\/files\/Tencent",
+      "\/sdcard\/Android\/data\/com.xindong.rocket\/files\/Download",
+      "\/sdcard\/Android\/data\/com.xindong.rocket\/files\/TTCache",
+      "\/sdcard\/Android\/data\/com.xindong.rocket\/files\/bddownload",
+      "\/sdcard\/Android\/data\/com.xindong.rocket\/files\/download",
+      "\/sdcard\/Android\/data\/com.xindong.rocket\/cache"
+    ],
+    "me.fup.v0": [
+      "\/data\/data\/me.fup.v0\/files",
+      "\/data\/data\/me.fup.v0\/cache",
+      "\/data\/data\/me.fup.v0\/code_cache",
+      "\/data\/data\/me.fup.v0\/databases",
+      "\/data\/data\/me.fup.v0\/shared_prefs"
+    ],
+    "com.google.android.gms": [
+      "\/data\/data\/com.google.android.gms\/files",
+      "\/data\/data\/com.google.android.gms\/files\/backup",
+      "\/data\/data\/com.google.android.gms\/cache",
+      "\/data\/data\/com.google.android.gms\/code_cache",
+      "\/data\/data\/com.google.android.gms\/databases",
+      "\/data\/data\/com.google.android.gms\/shared_prefs"
+    ]
+  },
+  "设备信息": {
+    "java_version ": "0",
+    "java_runtime_version": "0.9",
+    "java_runtime_name": "Android Runtime",
+    "java_vm_version ": "2.1.0",
+    "SystemName": "Android",
+    "SystemVersion": "11",
+    "DeviceBrand": "OnePlus",
+    "UM-OAID": "BA90BB1510E24EAD94472D550DC68F5E3812d2621a801b50865b5918043f6144",
+    "DeviceModel": "LE2110",
+    "ApplicationChannel": "CHANNEL-OnePlus",
+    "ApplicationKey": "APPKE",
+    "APILevel": "30",
+    "UA": "Mozilla\/5.0 (Linux; Android 11; LE2110 Build\/RKQ1.201105.002; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/105.0.5195.136 Mobile Safari\/537.36",
+    "TargetSdkVersion": "31",
+    "BootTimeMilliseconds": "1663932699917",
+    "Simulator": "0",
+    "Debug": "0",
+    "Hijack": "0",
+    "SDK--utdid": "YkQKmc\/2Hv8DAFZfnMyyfDrB",
+    "IsRoot": "0",
+    "SystemFontSize": "0",
+    "SystemHour": "12",
+    "SystemLanguage": "zh",
+    "SystemArea": "CN",
+    "TimeZone": "GMT+08:00",
+    "SenSorModuleName": [
+      {
+        "SenSorName": "icm4x6xx Accelerometer Non-wakeup",
+        "SenSorVersion": "78849",
+        "SenSorManufacturer": "TDK-Invensense",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.23999999463558197
+      },
+      {
+        "SenSorName": "mmc56x3x Magnetometer Non-wakeup",
+        "SenSorVersion": "20420568",
+        "SenSorManufacturer": "memsic",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 1
+      },
+      {
+        "SenSorName": "Rotation Vector  Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "qualcomm",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 1.4149999618530273
+      },
+      {
+        "SenSorName": "icm4x6xx Gyroscope Non-wakeup",
+        "SenSorVersion": "78849",
+        "SenSorManufacturer": "TDK-Invensense",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.5699999928474426
+      },
+      {
+        "SenSorName": "tcs3701 Ambient Light Sensor Non-wakeup",
+        "SenSorVersion": "256",
+        "SenSorManufacturer": "ams AG",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.09000000357627869
+      },
+      {
+        "SenSorName": "stk33502 Proximity Sensor Wakeup",
+        "SenSorVersion": "205",
+        "SenSorManufacturer": "oplus",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.10000000149011612
+      },
+      {
+        "SenSorName": "gravity  Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "qualcomm",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.5149999856948853
+      },
+      {
+        "SenSorName": "linear_acceleration",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "qualcomm",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.5149999856948853
+      },
+      {
+        "SenSorName": "Rotation Vector  Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "qualcomm",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 1.4149999618530273
+      },
+      {
+        "SenSorName": "mmc56x3x Magnetometer-Uncalibrated Non-wakeup",
+        "SenSorVersion": "20420568",
+        "SenSorManufacturer": "memsic",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 1
+      },
+      {
+        "SenSorName": "Game Rotation Vector  Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "qualcomm",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.5149999856948853
+      },
+      {
+        "SenSorName": "icm4x6xx Gyroscope-Uncalibrated Non-wakeup",
+        "SenSorVersion": "78849",
+        "SenSorManufacturer": "TDK-Invensense",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.5699999928474426
+      },
+      {
+        "SenSorName": "sns_smd  Wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "qualcomm",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.02500000037252903
+      },
+      {
+        "SenSorName": "pedometer  Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "oplus",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "pedometer  Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "oplus",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "sns_geomag_rv  Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "qualcomm",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 1.0499999523162842
+      },
+      {
+        "SenSorName": "pick_up_motion  Wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "oppo",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "device_orient  Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "oplus",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "stationary_detect",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "qualcomm",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.02500000037252903
+      },
+      {
+        "SenSorName": "motion_detect",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "qualcomm",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.02500000037252903
+      },
+      {
+        "SenSorName": "icm4x6xx Accelerometer-Uncalibrated Non-wakeup",
+        "SenSorVersion": "78849",
+        "SenSorManufacturer": "TDK-Invensense",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.23999999463558197
+      },
+      {
+        "SenSorName": "TCS3701_RGB RGB Sensor Non-wakeup",
+        "SenSorVersion": "256",
+        "SenSorManufacturer": "ams AG",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.07999999821186066
+      },
+      {
+        "SenSorName": "sensor_logger  Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "oppo",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "sx932x  Non-wakeup",
+        "SenSorVersion": "4096",
+        "SenSorManufacturer": "Semtech",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.30000001192092896
+      },
+      {
+        "SenSorName": "sx932x_down  Non-wakeup",
+        "SenSorVersion": "4096",
+        "SenSorManufacturer": "Semtech",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.30000001192092896
+      },
+      {
+        "SenSorName": "lux_aod  Wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "oppo",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "pedometer_minute  Wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "oppo",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "cmc_oppo  Wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "oppo",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "elevator_detect  Wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "oppo",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "oplus_activity_recognition  Wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "oppo",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "tcs3408 RGB Sensor Rear Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "oplus",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.07999999821186066
+      },
+      {
+        "SenSorName": "tcs3408 Flicker Sensor Rear Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "oplus",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.07999999821186066
+      },
+      {
+        "SenSorName": "tcs3408 Ambient Light Sensor Rear Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "oplus",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.07999999821186066
+      }
+    ],
+    "CPUModel": "arm64-v8a:",
+    "BuildId": "RKQ1.201105.002",
+    "BuildDisplay": "LE2110_11_A.13",
+    "BuildProduct": "OnePlus9_CH",
+    "BuildDevice": "OnePlus9",
+    "BuildBoard": "lahaina",
+    "BuildHardware": "qcom",
+    "BuildSupportedAbis": "arm64-v8a,armeabi-v7a,armeabi",
+    "BuildSupportedAbis32": "armeabi-v7a,armeabi",
+    "BuildSupportedAbis64": "arm64-v8a",
+    "BuildType": "user",
+    "BuildTags": "release-keys",
+    "BuildFingerPrint": "OnePlus\/OnePlus9_CH\/OnePlus9:11\/RKQ1.201105.002\/1638246256358:user\/release-keys",
+    "BuildRadioVersion": "Q_V1_P14,Q_V1_P14",
+    "BuildIncremental": "1638246256358",
+    "BuildBaseOS": "OnePlus\/OnePlus9_CH\/OnePlus9:11\/RKQ1.201105.002\/1637306811138:user\/release-keys",
+    "BuildSecurityPatch": "2021-10-05",
+    "BuildPreviewSdkInt": "0",
+    "BuildSdkInt": "30",
+    "BuildCodename": "REL",
+    "IDFA": "0201fa04-e581-4ec7-9ac7-76e683de73b6",
+    "ETDM": {
+      "BatteryStatus": "5",
+      "BatteryHealth": "2",
+      "BatteryLevel": "100",
+      "BatteryScale": "100",
+      "BatteryPlugged": "2",
+      "BatteryTechnology": "Li-ion"
+    }
+  },
+  "Unsafe": {
+    "init[theUnsafe]": true,
+    "init[THE_ONE]": true,
+    "init[getUnsafe]": true,
+    "init[getUnsafeByAbstractQueuedSynchronizer]": true,
+    "arrayIndexScale赋值Object数组大小": 4,
+    "is64Bit": true,
+    "me-adress": 315855968,
+    "me-hash": 113204230,
+    "me格式化-address": "12d39460",
+    "me1-adress": 315855968,
+    "me1-hash": 113204230,
+    "me1格式化-address": "12d39460",
+    "两个对象地址测试结果": true,
+    "两个对象测试结果": true,
+    "byte[]_OFFSET": 12,
+    "byte[]_SCALE": 1,
+    "boolean[]_OFFSET": 12,
+    "boolean[]_SCALE": 1,
+    "int[]_OFFSET": 12,
+    "int[]_SCALE": 4,
+    "long[]_OFFSET": 16,
+    "long[]_SCALE": 8,
+    "float[]_OFFSET": 12,
+    "float[]_SCALE": 4,
+    "double[]_OFFSET": 16,
+    "double[]_SCALE": 8,
+    "Object[]_OFFSET": 12,
+    "Object[]_SCALE": 4,
+    "BUFFER_ADDRESS_OFFSET": 8,
+    "STRIDE_ALIGNMENT_MASK": 7,
+    "BYTE_ARRAY_ALIGNMENT": 4,
+    "IS_BIG_ENDIAN": false,
+    "objectFieldOffset(Field)": true,
+    "1_arrayBaseOffset(Class)": true,
+    "1_getArrayBaseOffsetForComponentType(Class)": true,
+    "2_arrayIndexScale(Class)": true,
+    "2_getArrayIndexScaleForComponentType(Class)": true,
+    "2_arrayIndexScale0(Class)": false,
+    "compareAndSwapInt(Object,long,int,int)": true,
+    "compareAndSwapLong(Object,long,long,long)": true,
+    "compareAndSwapObject(Object,long,Object,Object)": true,
+    "3_getInt(Object,long)": true,
+    "3_getIntVolatile(Object,long)": true,
+    "getInt(long)": true,
+    "4_putInt(Object,long,int)": true,
+    "4_putIntVolatile(Object,long,int)": true,
+    "putInt(long,int)": true,
+    "putOrderedInt(Object,long,int)": true,
+    "5_getLong(Object,long)": true,
+    "5_getLongVolatile(Object,long)": true,
+    "getLong(long)": true,
+    "putLong(Object,long,long)": true,
+    "getObject(Object,long)": true,
+    "putObject(Object,long,Object)": true,
+    "getByte(long)": true,
+    "getByte(Object,long)": true,
+    "putByte(long,byte)": false,
+    "putByte(Object,long,byte)": true,
+    "getBoolean(Object,long)": true,
+    "putBoolean(Object,long,boolean)": true,
+    "getFloat(Object,long)": true,
+    "putFloat(Object,long,float)": true,
+    "getDouble(Object,long)": true,
+    "putDouble(Object,long,double)": true,
+    "bufferAddressField": "long java.nio.Buffer.address",
+    "putLong(long,long)": true,
+    "copyMemory(long,long,long)": true,
+    "addressSize()": true,
+    "pageSize()": true,
+    "allocateInstance(Class)": true,
+    "allocateMemory(long)": true,
+    "copyMemoryToPrimitiveArray(long,Object,long,long)": true,
+    "copyMemoryFromPrimitiveArray(Object,long,long,long)": true,
+    "setMemory(long,long,byte)": true,
+    "freeMemory(long)": true,
+    "getAndAddInt(Object,long,int)": true,
+    "getAndSetInt(Object,long,int)": true,
+    "getAndAddLong(Object,long,long)": true,
+    "getAndSetLong(Object,long,long)": true,
+    "getAndSetObject(Object,long,Object)": true
+  },
+  "MAC": {
+    "java_mac": "02:00:00:00:00:00",
+    "api_mac": "02:00:00:00:00:00",
+    "file_mac": "",
+    "ip_address": "",
+    "ip_link": ""
+  }
+}
