@@ -1,0 +1,493 @@
+{
+  "LetMeSee": {
+    "com.heytap.cloud": [
+      "\/sdcard\/Android\/data\/com.heytap.cloud\/cache"
+    ],
+    "com.heytap.speechassist": [
+      "\/sdcard\/Android\/data\/com.heytap.speechassist\/files",
+      "\/sdcard\/Android\/data\/com.heytap.speechassist\/cache"
+    ],
+    "com.coloros.sau": [
+      "\/sdcard\/Android\/data\/com.coloros.sau\/files"
+    ],
+    "com.coloros.activation": [
+      "\/sdcard\/Android\/data\/com.coloros.activation\/files"
+    ],
+    "com.coloros.uxdesign": [
+      "\/sdcard\/Android\/data\/com.coloros.uxdesign\/cache"
+    ],
+    "com.sohu.inputmethod.sogouoem": [
+      "\/sdcard\/Android\/data\/com.sohu.inputmethod.sogouoem\/files",
+      "\/sdcard\/Android\/data\/com.sohu.inputmethod.sogouoem\/cache"
+    ],
+    "com.iflytek.speechsuite": [
+      "\/sdcard\/Android\/data\/com.iflytek.speechsuite\/files"
+    ],
+    "com.oplus.ovoicemanager": [
+      "\/sdcard\/Android\/data\/com.oplus.ovoicemanager\/cache"
+    ],
+    "com.android.vending": [
+      "\/sdcard\/Android\/data\/com.android.vending\/files"
+    ],
+    "com.oplus.appdetail": [
+      "\/sdcard\/Android\/data\/com.oplus.appdetail\/files"
+    ],
+    "com.coloros.assistantscreen": [
+      "\/sdcard\/Android\/data\/com.coloros.assistantscreen\/cache"
+    ],
+    "com.oppo.launcher": [
+      "\/sdcard\/Android\/data\/com.oppo.launcher\/cache"
+    ],
+    "com.google.android.gms": [
+      "\/sdcard\/Android\/data\/com.google.android.gms\/files",
+      "\/data\/data\/com.google.android.gms\/files",
+      "\/data\/data\/com.google.android.gms\/cache",
+      "\/data\/data\/com.google.android.gms\/code_cache",
+      "\/data\/data\/com.google.android.gms\/databases",
+      "\/data\/data\/com.google.android.gms\/shared_prefs"
+    ],
+    "com.coloros.sceneservice": [
+      "\/sdcard\/Android\/data\/com.coloros.sceneservice\/cache"
+    ],
+    "com.heytap.datamigration": [
+      "\/sdcard\/Android\/data\/com.heytap.datamigration\/files"
+    ],
+    "com.coloros.personalassistant": [
+      "\/sdcard\/Android\/data\/com.coloros.personalassistant\/cache"
+    ],
+    "com.coloros.wifisecuredetect": [
+      "\/sdcard\/Android\/data\/com.coloros.wifisecuredetect\/files"
+    ],
+    "com.coloros.directui": [
+      "\/sdcard\/Android\/data\/com.coloros.directui\/cache"
+    ],
+    "com.heytap.quicksearchbox": [
+      "\/sdcard\/Android\/data\/com.heytap.quicksearchbox\/files",
+      "\/sdcard\/Android\/data\/com.heytap.quicksearchbox\/cache"
+    ],
+    "com.nearme.instant.platform": [
+      "\/sdcard\/Android\/data\/com.nearme.instant.platform\/files",
+      "\/sdcard\/Android\/data\/com.nearme.instant.platform\/files\/cache",
+      "\/sdcard\/Android\/data\/com.nearme.instant.platform\/cache"
+    ],
+    "com.android.systemui": [
+      "\/sdcard\/Android\/data\/com.android.systemui\/cache"
+    ],
+    "com.qti.ltebc": [
+      "\/sdcard\/Android\/data\/com.qti.ltebc\/files"
+    ],
+    "com.coloros.operationManual": [
+      "\/sdcard\/Android\/data\/com.coloros.operationManual\/files",
+      "\/sdcard\/Android\/data\/com.coloros.operationManual\/files\/Download",
+      "\/sdcard\/Android\/data\/com.coloros.operationManual\/files\/download"
+    ],
+    "com.hipu.yidian": [
+      "\/data\/data\/com.hipu.yidian\/cache",
+      "\/data\/data\/com.hipu.yidian\/code_cache"
+    ],
+    "com.xunmeng.pinduoduo": [
+      "\/data\/data\/com.xunmeng.pinduoduo\/cache",
+      "\/data\/data\/com.xunmeng.pinduoduo\/code_cache"
+    ],
+    "com.autonavi.minimap": [
+      "\/data\/data\/com.autonavi.minimap\/files",
+      "\/data\/data\/com.autonavi.minimap\/cache",
+      "\/data\/data\/com.autonavi.minimap\/code_cache",
+      "\/data\/data\/com.autonavi.minimap\/shared_prefs"
+    ],
+    "me.fup.v0": [
+      "\/data\/data\/me.fup.v0\/files",
+      "\/data\/data\/me.fup.v0\/cache",
+      "\/data\/data\/me.fup.v0\/code_cache",
+      "\/data\/data\/me.fup.v0\/databases",
+      "\/data\/data\/me.fup.v0\/shared_prefs"
+    ],
+    "cn.wps.moffice_eng": [
+      "\/data\/data\/cn.wps.moffice_eng\/cache",
+      "\/data\/data\/cn.wps.moffice_eng\/code_cache"
+    ],
+    "com.oppo.nw": [
+      "\/data\/data\/com.oppo.nw\/cache",
+      "\/data\/data\/com.oppo.nw\/code_cache"
+    ]
+  },
+  "设备信息": {
+    "java_version ": "0",
+    "java_runtime_version": "0.9",
+    "java_runtime_name": "Android Runtime",
+    "java_vm_version ": "2.1.0",
+    "SystemName": "Android",
+    "SystemVersion": "10",
+    "DeviceBrand": "OPPO",
+    "UM-OAID": "CD11172388064753913782F07038F772fcf8829af07152233ad0c9015aea7e1a",
+    "DeviceModel": "PBDM00",
+    "SerialNumber": "001818108929032100007555",
+    "ApplicationChannel": "CHANNEL-OPPO",
+    "ApplicationKey": "APPKE",
+    "APILevel": "29",
+    "UA": "Mozilla\/5.0 (Linux; Android 10; PBDM00 Build\/QKQ1.190918.001; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/77.0.3865.92 Mobile Safari\/537.36",
+    "TargetSdkVersion": "31",
+    "BootTimeMilliseconds": "1664039006543",
+    "Simulator": "0",
+    "Debug": "0",
+    "Hijack": "0",
+    "SDK--utdid": "Yy1WBhQ4LWoDAMY1BFlH86+9",
+    "IsRoot": "0",
+    "SystemFontSize": "0",
+    "SystemHour": "12",
+    "SystemLanguage": "zh",
+    "SystemArea": "CN",
+    "TimeZone": "GMT+08:00",
+    "SenSorModuleName": [
+      {
+        "SenSorName": "sns_geomag_rv  Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "qualcomm",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 1.0499999523162842
+      },
+      {
+        "SenSorName": "Device Orientation  Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "qualcomm",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.02500000037252903
+      },
+      {
+        "SenSorName": "motion_detect",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "qualcomm",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.02500000037252903
+      },
+      {
+        "SenSorName": "linear_acceleration",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "qualcomm",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.5149999856948853
+      },
+      {
+        "SenSorName": "ak0991x Magnetometer-Uncalibrated Non-wakeup",
+        "SenSorVersion": "10058",
+        "SenSorManufacturer": "akm",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 1.100000023841858
+      },
+      {
+        "SenSorName": "ak0991x Magnetometer Non-wakeup",
+        "SenSorVersion": "10058",
+        "SenSorManufacturer": "akm",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 1.100000023841858
+      },
+      {
+        "SenSorName": "Rotation Vector  Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "qualcomm",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 1.4149999618530273
+      },
+      {
+        "SenSorName": "monitor monitor Sensor Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "oppo",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "gravity  Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "qualcomm",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.5149999856948853
+      },
+      {
+        "SenSorName": "sns_smd  Wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "qualcomm",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.02500000037252903
+      },
+      {
+        "SenSorName": "stk_stk3x3x  Wakeup",
+        "SenSorVersion": "205",
+        "SenSorManufacturer": "sensortek",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.10000000149011612
+      },
+      {
+        "SenSorName": "Rotation Vector  Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "qualcomm",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 1.4149999618530273
+      },
+      {
+        "SenSorName": "stationary_detect",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "qualcomm",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.02500000037252903
+      },
+      {
+        "SenSorName": "lsm6dsm Gyroscope Non-wakeup",
+        "SenSorVersion": "345",
+        "SenSorManufacturer": "STMicro",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.5550000071525574
+      },
+      {
+        "SenSorName": "free_fall  Wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "oppo",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "pedometer  Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "qualcomm",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.15000000596046448
+      },
+      {
+        "SenSorName": "lsm6dsm Gyroscope-Uncalibrated Non-wakeup",
+        "SenSorVersion": "345",
+        "SenSorManufacturer": "STMicro",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.5550000071525574
+      },
+      {
+        "SenSorName": "move_detect  Wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "oppo",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "lsm6dsm Accelerometer-Uncalibrated Non-wakeup",
+        "SenSorVersion": "345",
+        "SenSorManufacturer": "STMicro",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.15000000596046448
+      },
+      {
+        "SenSorName": "lsm6dsm Accelerometer Non-wakeup",
+        "SenSorVersion": "345",
+        "SenSorManufacturer": "STMicro",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.15000000596046448
+      },
+      {
+        "SenSorName": "sensor_logger  Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "oppo",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "pick_up_motion  Wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "oppo",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "tp_gesture  Wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "oppo",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "lsm6dsm  Non-wakeup",
+        "SenSorVersion": "345",
+        "SenSorManufacturer": "STMicro",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.024000000208616257
+      },
+      {
+        "SenSorName": "tsl2540 Ambient Light Sensor Wakeup",
+        "SenSorVersion": "256",
+        "SenSorManufacturer": "ams AG",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.07999999821186066
+      },
+      {
+        "SenSorName": "tsl2540 Ambient Light Sensor Non-wakeup",
+        "SenSorVersion": "256",
+        "SenSorManufacturer": "ams AG",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.07999999821186066
+      },
+      {
+        "SenSorName": "Game Rotation Vector  Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "qualcomm",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.5149999856948853
+      },
+      {
+        "SenSorName": "tp_proximity",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "oppo",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 1
+      },
+      {
+        "SenSorName": "OPPO TP Proximity Sensor",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "OPPO",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 1.8050000667572021
+      }
+    ],
+    "CPUModel": "arm64-v8a:",
+    "BuildId": "QKQ1.190918.001",
+    "BuildDisplay": "PBDM00_11_F.21",
+    "BuildProduct": "PBDM00",
+    "BuildDevice": "PBDM00",
+    "BuildBoard": "sdm710",
+    "BuildHardware": "qcom",
+    "BuildSupportedAbis": "arm64-v8a,armeabi-v7a,armeabi",
+    "BuildSupportedAbis32": "armeabi-v7a,armeabi",
+    "BuildSupportedAbis64": "arm64-v8a",
+    "BuildType": "user",
+    "BuildTags": "release-keys",
+    "BuildFingerPrint": "OPPO\/PBDM00\/PBDM00:10\/QKQ1.190918.001\/2021050003:user\/release-keys",
+    "BuildRadioVersion": "Q_V1_P14,Q_V1_P14",
+    "BuildIncremental": "2021050003",
+    "BuildSecurityPatch": "2021-05-05",
+    "BuildPreviewSdkInt": "0",
+    "BuildSdkInt": "29",
+    "BuildCodename": "REL",
+    "IDFA": "60f1f877-21eb-4c26-8067-be020064f6f6",
+    "ETDM": {
+      "BatteryStatus": "5",
+      "BatteryHealth": "2",
+      "BatteryLevel": "100",
+      "BatteryScale": "100",
+      "BatteryPlugged": "2",
+      "BatteryTechnology": "Li-ion"
+    }
+  },
+  "Unsafe": {
+    "init[theUnsafe]": true,
+    "init[THE_ONE]": true,
+    "init[getUnsafe]": true,
+    "init[getUnsafeByAbstractQueuedSynchronizer]": true,
+    "arrayIndexScale赋值Object数组大小": 4,
+    "is64Bit": true,
+    "me-adress": 320832592,
+    "me-hash": 27973709,
+    "me格式化-address": "131f8450",
+    "me1-adress": 320832592,
+    "me1-hash": 27973709,
+    "me1格式化-address": "131f8450",
+    "两个对象地址测试结果": true,
+    "两个对象测试结果": true,
+    "byte[]_OFFSET": 12,
+    "byte[]_SCALE": 1,
+    "boolean[]_OFFSET": 12,
+    "boolean[]_SCALE": 1,
+    "int[]_OFFSET": 12,
+    "int[]_SCALE": 4,
+    "long[]_OFFSET": 16,
+    "long[]_SCALE": 8,
+    "float[]_OFFSET": 12,
+    "float[]_SCALE": 4,
+    "double[]_OFFSET": 16,
+    "double[]_SCALE": 8,
+    "Object[]_OFFSET": 12,
+    "Object[]_SCALE": 4,
+    "BUFFER_ADDRESS_OFFSET": 8,
+    "STRIDE_ALIGNMENT_MASK": 7,
+    "BYTE_ARRAY_ALIGNMENT": 4,
+    "IS_BIG_ENDIAN": false,
+    "objectFieldOffset(Field)": true,
+    "1_arrayBaseOffset(Class)": true,
+    "1_getArrayBaseOffsetForComponentType(Class)": true,
+    "2_arrayIndexScale(Class)": true,
+    "2_getArrayIndexScaleForComponentType(Class)": true,
+    "2_arrayIndexScale0(Class)": false,
+    "compareAndSwapInt(Object,long,int,int)": true,
+    "compareAndSwapLong(Object,long,long,long)": true,
+    "compareAndSwapObject(Object,long,Object,Object)": true,
+    "3_getInt(Object,long)": true,
+    "3_getIntVolatile(Object,long)": true,
+    "getInt(long)": true,
+    "4_putInt(Object,long,int)": true,
+    "4_putIntVolatile(Object,long,int)": true,
+    "putInt(long,int)": true,
+    "putOrderedInt(Object,long,int)": true,
+    "5_getLong(Object,long)": true,
+    "5_getLongVolatile(Object,long)": true,
+    "getLong(long)": true,
+    "putLong(Object,long,long)": true,
+    "getObject(Object,long)": true,
+    "putObject(Object,long,Object)": true,
+    "getByte(long)": true,
+    "getByte(Object,long)": true,
+    "putByte(long,byte)": false,
+    "putByte(Object,long,byte)": true,
+    "getBoolean(Object,long)": true,
+    "putBoolean(Object,long,boolean)": true,
+    "getFloat(Object,long)": true,
+    "putFloat(Object,long,float)": true,
+    "getDouble(Object,long)": true,
+    "putDouble(Object,long,double)": true,
+    "bufferAddressField": "long java.nio.Buffer.address",
+    "putLong(long,long)": true,
+    "copyMemory(long,long,long)": true,
+    "addressSize()": true,
+    "pageSize()": true,
+    "allocateInstance(Class)": true,
+    "allocateMemory(long)": true,
+    "copyMemoryToPrimitiveArray(long,Object,long,long)": true,
+    "copyMemoryFromPrimitiveArray(Object,long,long,long)": true,
+    "setMemory(long,long,byte)": true,
+    "freeMemory(long)": true,
+    "getAndAddInt(Object,long,int)": true,
+    "getAndSetInt(Object,long,int)": true,
+    "getAndAddLong(Object,long,long)": true,
+    "getAndSetLong(Object,long,long)": true,
+    "getAndSetObject(Object,long,Object)": true
+  },
+  "MAC": {
+    "java_mac": "9c:0c:df:6c:d3:41",
+    "api_mac": "02:00:00:00:00:00",
+    "file_mac": "",
+    "ip_address": "1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1\n    link\/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00\n    inet 127.0.0.1\/8 scope host lo\n       valid_lft forever preferred_lft forever\n    inet6 ::1\/128 scope host \n       valid_lft forever preferred_lft forever\n2: bond0: <BROADCAST,MULTICAST,MASTER> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/ether da:10:8e:e7:8c:4c brd ff:ff:ff:ff:ff:ff\n3: dummy0: <BROADCAST,NOARP,UP,LOWER_UP> mtu 1500 qdisc noqueue state UNKNOWN group default qlen 1000\n    link\/ether 0a:1c:9b:7e:98:d3 brd ff:ff:ff:ff:ff:ff\n    inet6 fe80::81c:9bff:fe7e:98d3\/64 scope link \n       valid_lft forever preferred_lft forever\n4: imq0: <NOARP> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/void \n5: imq1: <NOARP> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/void \n6: ip_vti0@NONE: <NOARP> mtu 1480 qdisc noop state DOWN group default qlen 1\n    link\/ipip 0.0.0.0 brd 0.0.0.0\n7: ip6_vti0@NONE: <NOARP> mtu 1500 qdisc noop state DOWN group default qlen 1\n    link\/tunnel6 :: brd ::\n8: sit0@NONE: <NOARP> mtu 1480 qdisc noop state DOWN group default qlen 1\n    link\/sit 0.0.0.0 brd 0.0.0.0\n9: ip6tnl0@NONE: <NOARP> mtu 1452 qdisc noop state DOWN group default qlen 1\n    link\/tunnel6 :: brd ::\n10: rmnet_ipa0: <UP,LOWER_UP> mtu 2000 qdisc pfifo_fast state UNKNOWN group default qlen 1000\n    link\/[530] \n11: rmnet_data0: <UP,LOWER_UP> mtu 2000 qdisc pfifo_fast state UNKNOWN group default qlen 1000\n    link\/[530] \n    inet6 fe80::630b:59c0:f4e5:6d7c\/64 scope link \n       valid_lft forever preferred_lft forever\n12: rmnet_data1: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n13: rmnet_data2: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n14: rmnet_data3: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n15: rmnet_data4: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n16: rmnet_data5: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n17: rmnet_data6: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n18: rmnet_data7: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n19: rmnet_data8: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n20: rmnet_data9: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n21: rmnet_data10: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n22: r_rmnet_data0: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n23: r_rmnet_data1: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n24: r_rmnet_data2: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n25: r_rmnet_data3: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n26: r_rmnet_data4: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n27: r_rmnet_data5: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n28: r_rmnet_data6: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n29: r_rmnet_data7: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n30: r_rmnet_data8: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n32: wlan0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1460 qdisc mq state UP group default qlen 3000\n    link\/ether 9c:0c:df:e6:d3:41 brd ff:ff:ff:ff:ff:ff\n    inet 10.100.211.188\/19 brd 10.100.223.255 scope global wlan0\n       valid_lft forever preferred_lft forever\n    inet6 fe80::83cb:eb0d:1ed:e47a\/64 scope link stable-privacy \n       valid_lft forever preferred_lft forever\n33: wlan1: <BROADCAST,MULTICAST> mtu 1500 qdisc noop state DOWN group default qlen 3000\n    link\/ether 9c:0c:df:6c:d3:41 brd ff:ff:ff:ff:ff:ff\n34: p2p0: <BROADCAST,MULTICAST> mtu 1500 qdisc noop state DOWN group default qlen 3000\n    link\/ether 9e:0c:df:6d:d3:41 brd ff:ff:ff:ff:ff:ff\n",
+    "ip_link": "1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN mode DEFAULT group default qlen 1\n    link\/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00\n2: bond0: <BROADCAST,MULTICAST,MASTER> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/ether da:10:8e:e7:8c:4c brd ff:ff:ff:ff:ff:ff\n3: dummy0: <BROADCAST,NOARP,UP,LOWER_UP> mtu 1500 qdisc noqueue state UNKNOWN mode DEFAULT group default qlen 1000\n    link\/ether 0a:1c:9b:7e:98:d3 brd ff:ff:ff:ff:ff:ff\n4: imq0: <NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/void \n5: imq1: <NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/void \n6: ip_vti0@NONE: <NOARP> mtu 1480 qdisc noop state DOWN mode DEFAULT group default qlen 1\n    link\/ipip 0.0.0.0 brd 0.0.0.0\n7: ip6_vti0@NONE: <NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1\n    link\/tunnel6 :: brd ::\n8: sit0@NONE: <NOARP> mtu 1480 qdisc noop state DOWN mode DEFAULT group default qlen 1\n    link\/sit 0.0.0.0 brd 0.0.0.0\n9: ip6tnl0@NONE: <NOARP> mtu 1452 qdisc noop state DOWN mode DEFAULT group default qlen 1\n    link\/tunnel6 :: brd ::\n10: rmnet_ipa0: <UP,LOWER_UP> mtu 2000 qdisc pfifo_fast state UNKNOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n11: rmnet_data0: <UP,LOWER_UP> mtu 2000 qdisc pfifo_fast state UNKNOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n12: rmnet_data1: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n13: rmnet_data2: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n14: rmnet_data3: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n15: rmnet_data4: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n16: rmnet_data5: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n17: rmnet_data6: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n18: rmnet_data7: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n19: rmnet_data8: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n20: rmnet_data9: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n21: rmnet_data10: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n22: r_rmnet_data0: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n23: r_rmnet_data1: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n24: r_rmnet_data2: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n25: r_rmnet_data3: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n26: r_rmnet_data4: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n27: r_rmnet_data5: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n28: r_rmnet_data6: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n29: r_rmnet_data7: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n30: r_rmnet_data8: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n32: wlan0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1460 qdisc mq state UP mode DORMANT group default qlen 3000\n    link\/ether 9c:0c:df:e6:d3:41 brd ff:ff:ff:ff:ff:ff\n33: wlan1: <BROADCAST,MULTICAST> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 3000\n    link\/ether 9c:0c:df:6c:d3:41 brd ff:ff:ff:ff:ff:ff\n34: p2p0: <BROADCAST,MULTICAST> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 3000\n    link\/ether 9e:0c:df:6d:d3:41 brd ff:ff:ff:ff:ff:ff\n"
+  }
+}
