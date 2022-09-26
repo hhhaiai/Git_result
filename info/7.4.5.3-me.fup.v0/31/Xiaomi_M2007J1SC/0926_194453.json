@@ -1,0 +1,769 @@
+{
+  "LetMeSee": {
+    "com.miui.securitycenter": [
+      "\/sdcard\/Android\/data\/com.miui.securitycenter\/cache"
+    ],
+    "com.miui.gallery": [
+      "\/sdcard\/Android\/data\/com.miui.gallery\/files",
+      "\/sdcard\/Android\/data\/com.miui.gallery\/files\/perf",
+      "\/sdcard\/Android\/data\/com.miui.gallery\/files\/perfUploading",
+      "\/sdcard\/Android\/data\/com.miui.gallery\/files\/push_cdata.lock",
+      "\/sdcard\/Android\/data\/com.miui.gallery\/cache"
+    ],
+    "com.android.browser": [
+      "\/sdcard\/Android\/data\/com.android.browser\/files",
+      "\/sdcard\/Android\/data\/com.android.browser\/files\/perf",
+      "\/sdcard\/Android\/data\/com.android.browser\/files\/perfUploading",
+      "\/sdcard\/Android\/data\/com.android.browser\/files\/push_cdata.lock",
+      "\/sdcard\/Android\/data\/com.android.browser\/files\/push_cdata.data",
+      "\/sdcard\/Android\/data\/com.android.browser\/cache"
+    ],
+    "com.android.vending": [
+      "\/sdcard\/Android\/data\/com.android.vending\/files"
+    ],
+    "com.mi.health": [
+      "\/sdcard\/Android\/data\/com.mi.health\/files",
+      "\/sdcard\/Android\/data\/com.mi.health\/files\/log"
+    ],
+    "com.android.mms": [
+      "\/sdcard\/Android\/data\/com.android.mms\/files",
+      "\/sdcard\/Android\/data\/com.android.mms\/files\/perf",
+      "\/sdcard\/Android\/data\/com.android.mms\/files\/perfUploading",
+      "\/sdcard\/Android\/data\/com.android.mms\/files\/push_cdata.lock",
+      "\/sdcard\/Android\/data\/com.android.mms\/files\/push_cdata.data",
+      "\/sdcard\/Android\/data\/com.android.mms\/cache"
+    ],
+    "com.android.camera": [
+      "\/sdcard\/Android\/data\/com.android.camera\/files",
+      "\/sdcard\/Android\/data\/com.android.camera\/cache"
+    ],
+    "com.miui.notes": [
+      "\/sdcard\/Android\/data\/com.miui.notes\/files",
+      "\/sdcard\/Android\/data\/com.miui.notes\/cache"
+    ],
+    "com.xiaomi.market": [
+      "\/sdcard\/Android\/data\/com.xiaomi.market\/files",
+      "\/sdcard\/Android\/data\/com.xiaomi.market\/files\/perf",
+      "\/sdcard\/Android\/data\/com.xiaomi.market\/files\/perfUploading",
+      "\/sdcard\/Android\/data\/com.xiaomi.market\/files\/push_cdata.lock",
+      "\/sdcard\/Android\/data\/com.xiaomi.market\/files\/push_cdata.data",
+      "\/sdcard\/Android\/data\/com.xiaomi.market\/files\/MiPushLog"
+    ],
+    "com.miui.voiceassist": [
+      "\/sdcard\/Android\/data\/com.miui.voiceassist\/files",
+      "\/sdcard\/Android\/data\/com.miui.voiceassist\/files\/perf",
+      "\/sdcard\/Android\/data\/com.miui.voiceassist\/files\/perfUploading",
+      "\/sdcard\/Android\/data\/com.miui.voiceassist\/cache"
+    ],
+    "com.miui.powerkeeper": [
+      "\/sdcard\/Android\/data\/com.miui.powerkeeper\/files",
+      "\/sdcard\/Android\/data\/com.miui.powerkeeper\/files\/perf",
+      "\/sdcard\/Android\/data\/com.miui.powerkeeper\/files\/perfUploading"
+    ],
+    "com.android.providers.calendar": [
+      "\/sdcard\/Android\/data\/com.android.providers.calendar\/files"
+    ],
+    "com.milink.service": [
+      "\/sdcard\/Android\/data\/com.milink.service\/files"
+    ],
+    "com.miui.daemon": [
+      "\/sdcard\/Android\/data\/com.miui.daemon\/files"
+    ],
+    "com.xiaomi.account": [
+      "\/sdcard\/Android\/data\/com.xiaomi.account\/files",
+      "\/sdcard\/Android\/data\/com.xiaomi.account\/files\/perf",
+      "\/sdcard\/Android\/data\/com.xiaomi.account\/files\/perfUploading",
+      "\/sdcard\/Android\/data\/com.xiaomi.account\/files\/MiPushLog"
+    ],
+    "com.xiaomi.misettings": [
+      "\/sdcard\/Android\/data\/com.xiaomi.misettings\/files"
+    ],
+    "com.android.quicksearchbox": [
+      "\/sdcard\/Android\/data\/com.android.quicksearchbox\/files",
+      "\/sdcard\/Android\/data\/com.android.quicksearchbox\/files\/perf",
+      "\/sdcard\/Android\/data\/com.android.quicksearchbox\/files\/perfUploading",
+      "\/sdcard\/Android\/data\/com.android.quicksearchbox\/cache"
+    ],
+    "com.xiaomi.aiasst.service": [
+      "\/sdcard\/Android\/data\/com.xiaomi.aiasst.service\/files",
+      "\/sdcard\/Android\/data\/com.xiaomi.aiasst.service\/cache"
+    ],
+    "com.miui.systemAdSolution": [
+      "\/sdcard\/Android\/data\/com.miui.systemAdSolution\/files",
+      "\/sdcard\/Android\/data\/com.miui.systemAdSolution\/files\/perf",
+      "\/sdcard\/Android\/data\/com.miui.systemAdSolution\/files\/perfUploading",
+      "\/sdcard\/Android\/data\/com.miui.systemAdSolution\/files\/MiPushLog"
+    ],
+    "com.xiaomi.bluetooth": [
+      "\/sdcard\/Android\/data\/com.xiaomi.bluetooth\/files",
+      "\/sdcard\/Android\/data\/com.xiaomi.bluetooth\/files\/perf",
+      "\/sdcard\/Android\/data\/com.xiaomi.bluetooth\/files\/perfUploading"
+    ],
+    "com.miui.hybrid": [
+      "\/sdcard\/Android\/data\/com.miui.hybrid\/files",
+      "\/sdcard\/Android\/data\/com.miui.hybrid\/files\/perf",
+      "\/sdcard\/Android\/data\/com.miui.hybrid\/files\/perfUploading",
+      "\/sdcard\/Android\/data\/com.miui.hybrid\/cache"
+    ],
+    "com.miui.personalassistant": [
+      "\/sdcard\/Android\/data\/com.miui.personalassistant\/files",
+      "\/sdcard\/Android\/data\/com.miui.personalassistant\/files\/perf",
+      "\/sdcard\/Android\/data\/com.miui.personalassistant\/files\/perfUploading"
+    ],
+    "com.xiaomi.xmsf": [
+      "\/sdcard\/Android\/data\/com.xiaomi.xmsf\/files",
+      "\/sdcard\/Android\/data\/com.xiaomi.xmsf\/files\/perf",
+      "\/sdcard\/Android\/data\/com.xiaomi.xmsf\/files\/perfUploading"
+    ],
+    "com.google.android.gms": [
+      "\/sdcard\/Android\/data\/com.google.android.gms\/files",
+      "\/sdcard\/Android\/data\/com.google.android.gms\/cache",
+      "\/data\/data\/com.google.android.gms\/files",
+      "\/data\/data\/com.google.android.gms\/cache",
+      "\/data\/data\/com.google.android.gms\/code_cache",
+      "\/data\/data\/com.google.android.gms\/databases",
+      "\/data\/data\/com.google.android.gms\/shared_prefs"
+    ],
+    "com.xiaomi.finddevice": [
+      "\/sdcard\/Android\/data\/com.xiaomi.finddevice\/files",
+      "\/sdcard\/Android\/data\/com.xiaomi.finddevice\/files\/perf",
+      "\/sdcard\/Android\/data\/com.xiaomi.finddevice\/files\/perfUploading",
+      "\/sdcard\/Android\/data\/com.xiaomi.finddevice\/files\/push_cdata.lock",
+      "\/sdcard\/Android\/data\/com.xiaomi.finddevice\/files\/push_cdata.data"
+    ],
+    "com.miui.newhome": [
+      "\/sdcard\/Android\/data\/com.miui.newhome\/files",
+      "\/sdcard\/Android\/data\/com.miui.newhome\/files\/Download",
+      "\/sdcard\/Android\/data\/com.miui.newhome\/files\/TTCache",
+      "\/sdcard\/Android\/data\/com.miui.newhome\/files\/perf",
+      "\/sdcard\/Android\/data\/com.miui.newhome\/files\/perfUploading",
+      "\/sdcard\/Android\/data\/com.miui.newhome\/files\/MiPushLog",
+      "\/sdcard\/Android\/data\/com.miui.newhome\/files\/download",
+      "\/sdcard\/Android\/data\/com.miui.newhome\/cache",
+      "\/sdcard\/Android\/data\/com.miui.newhome\/cache\/playable"
+    ],
+    "com.miui.cloudservice": [
+      "\/sdcard\/Android\/data\/com.miui.cloudservice\/files"
+    ],
+    "com.miui.core": [
+      "\/sdcard\/Android\/data\/com.miui.core\/files"
+    ],
+    "me.fup.v0": [
+      "\/data\/data\/me.fup.v0\/files",
+      "\/data\/data\/me.fup.v0\/cache",
+      "\/data\/data\/me.fup.v0\/code_cache",
+      "\/data\/data\/me.fup.v0\/databases",
+      "\/data\/data\/me.fup.v0\/shared_prefs"
+    ]
+  },
+  "设备信息": {
+    "java_version ": "0",
+    "java_runtime_version": "0.9",
+    "java_runtime_name": "Android Runtime",
+    "java_vm_version ": "2.1.0",
+    "SystemName": "Android",
+    "SystemVersion": "12",
+    "DeviceBrand": "Xiaomi",
+    "UM-OAID": "a54dfb5ed8887013",
+    "DeviceModel": "M2007J1SC",
+    "ApplicationChannel": "CHANNEL-Xiaomi",
+    "ApplicationKey": "APPKE",
+    "APILevel": "31",
+    "UA": "Mozilla\/5.0 (Linux; Android 12; M2007J1SC Build\/SKQ1.211006.001; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/96.0.4664.104 Mobile Safari\/537.36",
+    "TargetSdkVersion": "31",
+    "BootTimeMilliseconds": "1664163343213",
+    "Simulator": "0",
+    "Debug": "0",
+    "Hijack": "0",
+    "SDK--utdid": "YzGQtGxjWQ8DAGK37dhfHyiO",
+    "IsRoot": "0",
+    "SystemFontSize": "0",
+    "SystemHour": "12",
+    "SystemLanguage": "zh",
+    "SystemArea": "CN",
+    "TimeZone": "GMT+08:00",
+    "SenSorModuleName": [
+      {
+        "SenSorName": "vl53l3_tof  Non-wakeup",
+        "SenSorVersion": "256",
+        "SenSorManufacturer": "ST micro",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 20
+      },
+      {
+        "SenSorName": "pedometer  Wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "qualcomm",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.15000000596046448
+      },
+      {
+        "SenSorName": "pedometer  Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "qualcomm",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.15000000596046448
+      },
+      {
+        "SenSorName": "pedometer  Wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "qualcomm",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.15000000596046448
+      },
+      {
+        "SenSorName": "pedometer  Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "qualcomm",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.15000000596046448
+      },
+      {
+        "SenSorName": "stationary_detect_wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "qualcomm",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.02500000037252903
+      },
+      {
+        "SenSorName": "stationary_detect",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "qualcomm",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.02500000037252903
+      },
+      {
+        "SenSorName": "sns_smd  Wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "qualcomm",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.02500000037252903
+      },
+      {
+        "SenSorName": "ccd_tilt  Wakeup",
+        "SenSorVersion": "256",
+        "SenSorManufacturer": "qualcomm",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.024000000208616257
+      },
+      {
+        "SenSorName": "Rotation Vector  Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "qualcomm",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 1.4149999618530273
+      },
+      {
+        "SenSorName": "orientation  Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "xiaomi",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "oem5  Wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "XiaoMi",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "oem5  Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "XiaoMi",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "NonUi  Wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "XiaoMi",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "NonUi  Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "XiaoMi",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "pickup  Wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "XiaoMi",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "pickup  Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "XiaoMi",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "oem13_light_smd  Wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "XiaoMi",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "oem13_light_smd  Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "XiaoMi",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "3d_signature  Wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "XiaoMi",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "3d_signature  Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "XiaoMi",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "motion_detect_wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "qualcomm",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.02500000037252903
+      },
+      {
+        "SenSorName": "motion_detect",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "qualcomm",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.02500000037252903
+      },
+      {
+        "SenSorName": "tcs3701  Non-wakeup",
+        "SenSorVersion": "257",
+        "SenSorManufacturer": "ams AG",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.09000000357627869
+      },
+      {
+        "SenSorName": "ak0991x Magnetometer-Uncalibrated Non-wakeup",
+        "SenSorVersion": "146965",
+        "SenSorManufacturer": "akm",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 1.100000023841858
+      },
+      {
+        "SenSorName": "ak0991x Magnetometer Non-wakeup",
+        "SenSorVersion": "146965",
+        "SenSorManufacturer": "akm",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 1.100000023841858
+      },
+      {
+        "SenSorName": "eqm_wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "xiaomi",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "eqm",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "xiaomi",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "linear_acceleration",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "qualcomm",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.5149999856948853
+      },
+      {
+        "SenSorName": "har_wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "xiaomi",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "har",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "xiaomi",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "gravity  Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "qualcomm",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.5149999856948853
+      },
+      {
+        "SenSorName": "lsm6dso  Non-wakeup",
+        "SenSorVersion": "142604",
+        "SenSorManufacturer": "STMicro",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.550000011920929
+      },
+      {
+        "SenSorName": "sns_geomag_rv  Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "qualcomm",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 1.0499999523162842
+      },
+      {
+        "SenSorName": "Game Rotation Vector  Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "qualcomm",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.5149999856948853
+      },
+      {
+        "SenSorName": "tcs3408 FLICKER Sensor Wakeup",
+        "SenSorVersion": "256",
+        "SenSorManufacturer": "ams AG",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.09000000357627869
+      },
+      {
+        "SenSorName": "tcs3408 FLICKER Sensor Non-wakeup",
+        "SenSorVersion": "256",
+        "SenSorManufacturer": "ams AG",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.09000000357627869
+      },
+      {
+        "SenSorName": "lsm6dso Gyroscope Non-wakeup",
+        "SenSorVersion": "142854",
+        "SenSorManufacturer": "STMicro",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.550000011920929
+      },
+      {
+        "SenSorName": "Aod  Wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "XiaoMi",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "Aod  Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "XiaoMi",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "device_orient  Wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "xiaomi",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "device_orient  Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "xiaomi",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "dbtap  Wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "XiaoMi",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "dbtap  Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "XiaoMi",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "lsm6dso  Non-wakeup",
+        "SenSorVersion": "142604",
+        "SenSorManufacturer": "STMicro",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.17000000178813934
+      },
+      {
+        "SenSorName": "tcs3701 Ambient Light Sensor Wakeup",
+        "SenSorVersion": "257",
+        "SenSorManufacturer": "ams AG",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.09000000357627869
+      },
+      {
+        "SenSorName": "tcs3701 Ambient Light Sensor Non-wakeup",
+        "SenSorVersion": "257",
+        "SenSorManufacturer": "ams AG",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.09000000357627869
+      },
+      {
+        "SenSorName": "bosch_bmp285 Pressure Sensor Non-wakeup",
+        "SenSorVersion": "8728",
+        "SenSorManufacturer": "Bosch",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.7200000286102295
+      },
+      {
+        "SenSorName": "tcs3408  Wakeup",
+        "SenSorVersion": "256",
+        "SenSorManufacturer": "ams AG",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.09000000357627869
+      },
+      {
+        "SenSorName": "tcs3408  Non-wakeup",
+        "SenSorVersion": "256",
+        "SenSorManufacturer": "ams AG",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.09000000357627869
+      },
+      {
+        "SenSorName": "tcs3408  Non-wakeup",
+        "SenSorVersion": "256",
+        "SenSorManufacturer": "ams AG",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.09000000357627869
+      },
+      {
+        "SenSorName": "lsm6dso Accelerometer-Uncalibrated Non-wakeup",
+        "SenSorVersion": "142854",
+        "SenSorManufacturer": "STMicro",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.17000000178813934
+      },
+      {
+        "SenSorName": "lsm6dso Gyroscope-Uncalibrated Non-wakeup",
+        "SenSorVersion": "142854",
+        "SenSorManufacturer": "STMicro",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.550000011920929
+      },
+      {
+        "SenSorName": "fod  Wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "XiaoMi",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "fod  Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "XiaoMi",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "lsm6dso Accelerometer Non-wakeup",
+        "SenSorVersion": "142854",
+        "SenSorManufacturer": "STMicro",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.17000000178813934
+      },
+      {
+        "SenSorName": "Touch Sensor",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "xiaomi",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.009999999776482582
+      },
+      {
+        "SenSorName": "Xiaomi Proximity",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "Xiaomi",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.5
+      }
+    ],
+    "CPUModel": "arm64-v8a:",
+    "BuildId": "SKQ1.211006.001",
+    "BuildDisplay": "SKQ1.211006.001 test-keys",
+    "BuildProduct": "cas",
+    "BuildDevice": "cas",
+    "BuildBoard": "cas",
+    "BuildHardware": "qcom",
+    "BuildSupportedAbis": "arm64-v8a,armeabi-v7a,armeabi",
+    "BuildSupportedAbis32": "armeabi-v7a,armeabi",
+    "BuildSupportedAbis64": "arm64-v8a",
+    "BuildType": "user",
+    "BuildTags": "release-keys",
+    "BuildFingerPrint": "Xiaomi\/cas\/cas:12\/SKQ1.211006.001\/V13.0.4.0.SJJCNXM:user\/release-keys",
+    "BuildRadioVersion": "2.5.c1-7.1-4393.23-0523_2254_01b89f018f,2.5.c1-7.1-4393.23-0523_2254_01b89f018f",
+    "BuildIncremental": "V13.0.4.0.SJJCNXM",
+    "BuildSecurityPatch": "2022-05-01",
+    "BuildPreviewSdkInt": "0",
+    "BuildSdkInt": "31",
+    "BuildCodename": "REL",
+    "IDFA": "1d0e39fd-3693-4416-8c95-0e897cfca2bc",
+    "ETDM": {
+      "BatteryStatus": "5",
+      "BatteryHealth": "2",
+      "BatteryLevel": "100",
+      "BatteryScale": "100",
+      "BatteryPlugged": "1",
+      "BatteryTechnology": "Li-poly"
+    }
+  },
+  "Unsafe": {
+    "init[theUnsafe]": true,
+    "init[THE_ONE]": true,
+    "init[getUnsafe]": true,
+    "init[getUnsafeByAbstractQueuedSynchronizer]": true,
+    "arrayIndexScale赋值Object数组大小": 4,
+    "is64Bit": true,
+    "me-adress": 328966392,
+    "me-hash": 176409261,
+    "me格式化-address": "139ba0f8",
+    "me1-adress": 328966392,
+    "me1-hash": 176409261,
+    "me1格式化-address": "139ba0f8",
+    "两个对象地址测试结果": true,
+    "两个对象测试结果": true,
+    "byte[]_OFFSET": 12,
+    "byte[]_SCALE": 1,
+    "boolean[]_OFFSET": 12,
+    "boolean[]_SCALE": 1,
+    "int[]_OFFSET": 12,
+    "int[]_SCALE": 4,
+    "long[]_OFFSET": 16,
+    "long[]_SCALE": 8,
+    "float[]_OFFSET": 12,
+    "float[]_SCALE": 4,
+    "double[]_OFFSET": 16,
+    "double[]_SCALE": 8,
+    "Object[]_OFFSET": 12,
+    "Object[]_SCALE": 4,
+    "BUFFER_ADDRESS_OFFSET": 8,
+    "STRIDE_ALIGNMENT_MASK": 7,
+    "BYTE_ARRAY_ALIGNMENT": 4,
+    "IS_BIG_ENDIAN": false,
+    "objectFieldOffset(Field)": true,
+    "1_arrayBaseOffset(Class)": true,
+    "1_getArrayBaseOffsetForComponentType(Class)": true,
+    "2_arrayIndexScale(Class)": true,
+    "2_getArrayIndexScaleForComponentType(Class)": true,
+    "2_arrayIndexScale0(Class)": false,
+    "compareAndSwapInt(Object,long,int,int)": true,
+    "compareAndSwapLong(Object,long,long,long)": true,
+    "compareAndSwapObject(Object,long,Object,Object)": true,
+    "3_getInt(Object,long)": true,
+    "3_getIntVolatile(Object,long)": true,
+    "getInt(long)": true,
+    "4_putInt(Object,long,int)": true,
+    "4_putIntVolatile(Object,long,int)": true,
+    "putInt(long,int)": true,
+    "putOrderedInt(Object,long,int)": true,
+    "5_getLong(Object,long)": true,
+    "5_getLongVolatile(Object,long)": true,
+    "getLong(long)": true,
+    "putLong(Object,long,long)": true,
+    "getObject(Object,long)": true,
+    "putObject(Object,long,Object)": true,
+    "getByte(long)": true,
+    "getByte(Object,long)": true,
+    "putByte(long,byte)": false,
+    "putByte(Object,long,byte)": true,
+    "getBoolean(Object,long)": true,
+    "putBoolean(Object,long,boolean)": true,
+    "getFloat(Object,long)": true,
+    "putFloat(Object,long,float)": true,
+    "getDouble(Object,long)": true,
+    "putDouble(Object,long,double)": true,
+    "bufferAddressField": "long java.nio.Buffer.address",
+    "putLong(long,long)": true,
+    "copyMemory(long,long,long)": true,
+    "addressSize()": true,
+    "pageSize()": true,
+    "allocateInstance(Class)": true,
+    "allocateMemory(long)": true,
+    "copyMemoryToPrimitiveArray(long,Object,long,long)": true,
+    "copyMemoryFromPrimitiveArray(Object,long,long,long)": true,
+    "setMemory(long,long,byte)": true,
+    "freeMemory(long)": true,
+    "getAndAddInt(Object,long,int)": true,
+    "getAndSetInt(Object,long,int)": true,
+    "getAndAddLong(Object,long,long)": true,
+    "getAndSetLong(Object,long,long)": true,
+    "getAndSetObject(Object,long,Object)": true
+  },
+  "MAC": {
+    "java_mac": "02:00:00:00:00:00",
+    "api_mac": "02:00:00:00:00:00",
+    "file_mac": "",
+    "ip_address": "",
+    "ip_link": ""
+  }
+}
