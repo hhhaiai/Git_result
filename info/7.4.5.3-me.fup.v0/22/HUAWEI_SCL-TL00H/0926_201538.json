@@ -1,0 +1,435 @@
+{
+  "LetMeSee": {
+    "com.huawei.hwid": [
+      "\/sdcard\/Android\/data\/com.huawei.hwid\/files",
+      "\/sdcard\/Android\/data\/com.huawei.hwid\/files\/log",
+      "\/data\/data\/com.huawei.hwid\/files",
+      "\/data\/data\/com.huawei.hwid\/cache",
+      "\/data\/data\/com.huawei.hwid\/databases",
+      "\/data\/data\/com.huawei.hwid\/shared_prefs"
+    ],
+    "com.huawei.camera": [
+      "\/data\/data\/com.huawei.camera\/cache",
+      "\/data\/data\/com.huawei.camera\/shared_prefs"
+    ],
+    "com.android.mediacenter": [
+      "\/data\/data\/com.android.mediacenter\/files",
+      "\/data\/data\/com.android.mediacenter\/cache",
+      "\/data\/data\/com.android.mediacenter\/databases",
+      "\/data\/data\/com.android.mediacenter\/shared_prefs"
+    ],
+    "com.huawei.hidisk": [
+      "\/data\/data\/com.huawei.hidisk\/cache",
+      "\/data\/data\/com.huawei.hidisk\/databases",
+      "\/data\/data\/com.huawei.hidisk\/shared_prefs"
+    ],
+    "com.huawei.android.thememanager": [
+      "\/data\/data\/com.huawei.android.thememanager\/files",
+      "\/data\/data\/com.huawei.android.thememanager\/cache",
+      "\/data\/data\/com.huawei.android.thememanager\/databases",
+      "\/data\/data\/com.huawei.android.thememanager\/shared_prefs"
+    ],
+    "com.huawei.appmarket": [
+      "\/data\/data\/com.huawei.appmarket\/files",
+      "\/data\/data\/com.huawei.appmarket\/cache",
+      "\/data\/data\/com.huawei.appmarket\/databases",
+      "\/data\/data\/com.huawei.appmarket\/shared_prefs"
+    ],
+    "com.huawei.wallet": [
+      "\/data\/data\/com.huawei.wallet\/cache",
+      "\/data\/data\/com.huawei.wallet\/shared_prefs"
+    ],
+    "com.huawei.android.totemweather": [
+      "\/data\/data\/com.huawei.android.totemweather\/files",
+      "\/data\/data\/com.huawei.android.totemweather\/cache",
+      "\/data\/data\/com.huawei.android.totemweather\/databases",
+      "\/data\/data\/com.huawei.android.totemweather\/shared_prefs"
+    ],
+    "com.huawei.phoneservice": [
+      "\/data\/data\/com.huawei.phoneservice\/cache",
+      "\/data\/data\/com.huawei.phoneservice\/databases"
+    ],
+    "cn.testin.itestin": [
+      "\/data\/data\/cn.testin.itestin\/files",
+      "\/data\/data\/cn.testin.itestin\/cache",
+      "\/data\/data\/cn.testin.itestin\/shared_prefs"
+    ],
+    "com.android.browser": [
+      "\/data\/data\/com.android.browser\/files",
+      "\/data\/data\/com.android.browser\/files\/data",
+      "\/data\/data\/com.android.browser\/cache",
+      "\/data\/data\/com.android.browser\/shared_prefs"
+    ],
+    "com.huawei.hwvplayer": [
+      "\/data\/data\/com.huawei.hwvplayer\/cache",
+      "\/data\/data\/com.huawei.hwvplayer\/databases",
+      "\/data\/data\/com.huawei.hwvplayer\/shared_prefs"
+    ],
+    "com.android.contacts": [
+      "\/data\/data\/com.android.contacts\/files",
+      "\/data\/data\/com.android.contacts\/cache",
+      "\/data\/data\/com.android.contacts\/databases",
+      "\/data\/data\/com.android.contacts\/shared_prefs"
+    ],
+    "com.android.calendar": [
+      "\/data\/data\/com.android.calendar\/cache",
+      "\/data\/data\/com.android.calendar\/shared_prefs"
+    ],
+    "com.example.android.notepad": [
+      "\/data\/data\/com.example.android.notepad\/cache",
+      "\/data\/data\/com.example.android.notepad\/databases"
+    ],
+    "com.android.gallery3d": [
+      "\/data\/data\/com.android.gallery3d\/cache",
+      "\/data\/data\/com.android.gallery3d\/shared_prefs"
+    ],
+    "com.tencent.mobileqq": [
+      "\/data\/data\/com.tencent.mobileqq\/files",
+      "\/data\/data\/com.tencent.mobileqq\/cache",
+      "\/data\/data\/com.tencent.mobileqq\/shared_prefs"
+    ],
+    "com.huawei.android.hwouc": [
+      "\/data\/data\/com.huawei.android.hwouc\/cache",
+      "\/data\/data\/com.huawei.android.hwouc\/databases",
+      "\/data\/data\/com.huawei.android.hwouc\/shared_prefs"
+    ],
+    "com.autonavi.minimap": [
+      "\/data\/data\/com.autonavi.minimap\/cache"
+    ],
+    "me.fup.v0": [
+      "\/data\/data\/me.fup.v0\/files",
+      "\/data\/data\/me.fup.v0\/cache",
+      "\/data\/data\/me.fup.v0\/databases",
+      "\/data\/data\/me.fup.v0\/shared_prefs"
+    ],
+    "com.android.email": [
+      "\/data\/data\/com.android.email\/files",
+      "\/data\/data\/com.android.email\/cache",
+      "\/data\/data\/com.android.email\/databases",
+      "\/data\/data\/com.android.email\/shared_prefs"
+    ],
+    "com.huawei.gamecenter": [
+      "\/data\/data\/com.huawei.gamecenter\/files",
+      "\/data\/data\/com.huawei.gamecenter\/cache",
+      "\/data\/data\/com.huawei.gamecenter\/databases",
+      "\/data\/data\/com.huawei.gamecenter\/shared_prefs"
+    ],
+    "com.android.deskclock": [
+      "\/data\/data\/com.android.deskclock\/cache",
+      "\/data\/data\/com.android.deskclock\/databases",
+      "\/data\/data\/com.android.deskclock\/shared_prefs"
+    ],
+    "com.huawei.android.launcher": [
+      "\/data\/data\/com.huawei.android.launcher\/files",
+      "\/data\/data\/com.huawei.android.launcher\/cache",
+      "\/data\/data\/com.huawei.android.launcher\/databases",
+      "\/data\/data\/com.huawei.android.launcher\/shared_prefs"
+    ],
+    "com.android.providers.calendar": [
+      "\/data\/data\/com.android.providers.calendar\/cache",
+      "\/data\/data\/com.android.providers.calendar\/databases",
+      "\/data\/data\/com.android.providers.calendar\/shared_prefs"
+    ],
+    "com.huawei.bluetooth": [
+      "\/data\/data\/com.huawei.bluetooth\/cache"
+    ],
+    "com.android.providers.media": [
+      "\/data\/data\/com.android.providers.media\/cache",
+      "\/data\/data\/com.android.providers.media\/databases",
+      "\/data\/data\/com.android.providers.media\/shared_prefs"
+    ],
+    "com.qualcomm.shutdownlistner": [
+      "\/data\/data\/com.qualcomm.shutdownlistner\/cache"
+    ],
+    "com.huawei.intelligent": [
+      "\/data\/data\/com.huawei.intelligent\/cache",
+      "\/data\/data\/com.huawei.intelligent\/databases",
+      "\/data\/data\/com.huawei.intelligent\/shared_prefs"
+    ],
+    "com.huawei.motionservice": [
+      "\/data\/data\/com.huawei.motionservice\/cache",
+      "\/data\/data\/com.huawei.motionservice\/databases"
+    ],
+    "org.simalliance.openmobileapi.service": [
+      "\/data\/data\/org.simalliance.openmobileapi.service\/files",
+      "\/data\/data\/org.simalliance.openmobileapi.service\/cache"
+    ],
+    "com.android.documentsui": [
+      "\/data\/data\/com.android.documentsui\/cache",
+      "\/data\/data\/com.android.documentsui\/databases"
+    ],
+    "com.android.externalstorage": [
+      "\/data\/data\/com.android.externalstorage\/cache"
+    ],
+    "com.android.providers.downloads": [
+      "\/data\/data\/com.android.providers.downloads\/files",
+      "\/data\/data\/com.android.providers.downloads\/cache",
+      "\/data\/data\/com.android.providers.downloads\/databases"
+    ],
+    "com.nuance.swype.emui": [
+      "\/data\/data\/com.nuance.swype.emui\/files",
+      "\/data\/data\/com.nuance.swype.emui\/cache",
+      "\/data\/data\/com.nuance.swype.emui\/databases",
+      "\/data\/data\/com.nuance.swype.emui\/shared_prefs"
+    ],
+    "com.android.defcontainer": [
+      "\/data\/data\/com.android.defcontainer\/cache"
+    ],
+    "com.baidu.input_huawei": [
+      "\/data\/data\/com.baidu.input_huawei\/files",
+      "\/data\/data\/com.baidu.input_huawei\/files\/log",
+      "\/data\/data\/com.baidu.input_huawei\/cache",
+      "\/data\/data\/com.baidu.input_huawei\/shared_prefs"
+    ],
+    "com.google.android.marvin.talkback": [
+      "\/data\/data\/com.google.android.marvin.talkback\/cache"
+    ],
+    "com.huawei.remoteassistant": [
+      "\/data\/data\/com.huawei.remoteassistant\/cache",
+      "\/data\/data\/com.huawei.remoteassistant\/databases",
+      "\/data\/data\/com.huawei.remoteassistant\/shared_prefs"
+    ],
+    "com.android.printspooler": [
+      "\/data\/data\/com.android.printspooler\/files",
+      "\/data\/data\/com.android.printspooler\/cache"
+    ],
+    "com.android.musicfx": [
+      "\/data\/data\/com.android.musicfx\/cache",
+      "\/data\/data\/com.android.musicfx\/shared_prefs"
+    ],
+    "com.cootek.smartdialer_oem_module": [
+      "\/data\/data\/com.cootek.smartdialer_oem_module\/files",
+      "\/data\/data\/com.cootek.smartdialer_oem_module\/cache",
+      "\/data\/data\/com.cootek.smartdialer_oem_module\/shared_prefs"
+    ],
+    "com.huawei.hwstartupguide": [
+      "\/data\/data\/com.huawei.hwstartupguide\/cache",
+      "\/data\/data\/com.huawei.hwstartupguide\/shared_prefs"
+    ],
+    "com.android.packageinstaller": [
+      "\/data\/data\/com.android.packageinstaller\/files",
+      "\/data\/data\/com.android.packageinstaller\/cache",
+      "\/data\/data\/com.android.packageinstaller\/shared_prefs"
+    ],
+    "com.svox.pico": [
+      "\/data\/data\/com.svox.pico\/cache"
+    ],
+    "com.android.managedprovisioning": [
+      "\/data\/data\/com.android.managedprovisioning\/cache"
+    ],
+    "com.android.smspush": [
+      "\/data\/data\/com.android.smspush\/cache"
+    ],
+    "com.huawei.android.wfdft": [
+      "\/data\/data\/com.huawei.android.wfdft\/cache",
+      "\/data\/data\/com.huawei.android.wfdft\/databases"
+    ],
+    "com.android.wallpaper.livepicker": [
+      "\/data\/data\/com.android.wallpaper.livepicker\/cache"
+    ],
+    "com.baidu.map.location": [
+      "\/data\/data\/com.baidu.map.location\/files",
+      "\/data\/data\/com.baidu.map.location\/cache"
+    ],
+    "com.huawei.android.pushagent": [
+      "\/data\/data\/com.huawei.android.pushagent\/cache",
+      "\/data\/data\/com.huawei.android.pushagent\/shared_prefs"
+    ],
+    "com.android.vpndialogs": [
+      "\/data\/data\/com.android.vpndialogs\/cache"
+    ],
+    "com.android.exchange": [
+      "\/data\/data\/com.android.exchange\/cache"
+    ],
+    "com.huawei.ca": [
+      "\/data\/data\/com.huawei.ca\/files",
+      "\/data\/data\/com.huawei.ca\/cache",
+      "\/data\/data\/com.huawei.ca\/databases",
+      "\/data\/data\/com.huawei.ca\/shared_prefs"
+    ],
+    "com.android.providers.contacts": [
+      "\/data\/data\/com.android.providers.contacts\/files",
+      "\/data\/data\/com.android.providers.contacts\/cache",
+      "\/data\/data\/com.android.providers.contacts\/databases",
+      "\/data\/data\/com.android.providers.contacts\/shared_prefs"
+    ]
+  },
+  "设备信息": {
+    "java_version ": "0",
+    "java_runtime_version": "0.9",
+    "java_runtime_name": "Android Runtime",
+    "java_vm_version ": "2.1.0",
+    "SystemName": "Android",
+    "SystemVersion": "5.1.1",
+    "DeviceBrand": "Honor",
+    "UM-OAID": "013d978e-d454-4f98-a594-f46ed184588d",
+    "DeviceModel": "SCL-TL00H",
+    "SerialNumber": "JTJ4C15B09000311",
+    "IMEIS": "869340022130363",
+    "ApplicationChannel": "CHANNEL-HUAWEI",
+    "ApplicationKey": "APPKE",
+    "APILevel": "22",
+    "UA": "Mozilla\/5.0 (Linux; Android 5.1.1; SCL-TL00H Build\/HonorSCL-TL00H) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/39.0.0.0 Mobile Safari\/537.36",
+    "TargetSdkVersion": "31",
+    "BootTimeMilliseconds": "1664192286909",
+    "Simulator": "0",
+    "Debug": "0",
+    "Hijack": "0",
+    "SDK--utdid": "YlT4IB75fO0DAB\/q\/5PNuDF8",
+    "IsRoot": "1",
+    "SystemFontSize": "0",
+    "SystemHour": "12",
+    "SystemLanguage": "zh",
+    "SystemArea": "CN",
+    "TimeZone": "GMT+08:00",
+    "SenSorModuleName": [
+      {
+        "SenSorName": "akm09911-mag",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "Asahi Kasei Microde",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.3499999940395355
+      },
+      {
+        "SenSorName": "apds9930-proximity",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "avago",
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 3
+      },
+      {
+        "SenSorName": "apds9930-light",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "avago",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.20000000298023224
+      },
+      {
+        "SenSorName": "kx023-accel",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "KIONIXMicroelectron",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.009999999776482582
+      },
+      {
+        "SenSorName": "oem-orientation",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "oem",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 1
+      }
+    ],
+    "CPUModel": "armeabi-v7a:armeabi",
+    "BuildId": "HonorSCL-TL00H",
+    "BuildDisplay": "SCL-TL00HC00B240",
+    "BuildProduct": "SCL-TL00H",
+    "BuildDevice": "hnSCL-Q",
+    "BuildBoard": "SCL-TL00H",
+    "BuildHardware": "qcom",
+    "BuildSupportedAbis": "armeabi-v7a,armeabi",
+    "BuildSupportedAbis32": "armeabi-v7a,armeabi",
+    "BuildType": "user",
+    "BuildTags": "release-keys",
+    "BuildFingerPrint": "Honor\/SCL-TL00H\/hnSCL-Q:5.1.1\/HonorSCL-TL00H\/C00B240:user\/release-keys",
+    "BuildRadioVersion": "11306101",
+    "BuildIncremental": "C00B240",
+    "BuildSdkInt": "22",
+    "BuildCodename": "REL",
+    "ETDM": {
+      "BatteryStatus": "5",
+      "BatteryHealth": "2",
+      "BatteryLevel": "100",
+      "BatteryScale": "100",
+      "BatteryPlugged": "1",
+      "BatteryTechnology": "Li-poly"
+    }
+  },
+  "Unsafe": {
+    "init[theUnsafe]": true,
+    "init[THE_ONE]": true,
+    "init[getUnsafe]": true,
+    "init[getUnsafeByAbstractQueuedSynchronizer]": true,
+    "arrayIndexScale赋值Object数组大小": 4,
+    "is64Bit": true,
+    "me-adress": 319978592,
+    "me-hash": 309770248,
+    "me格式化-address": "13127c60",
+    "me1-adress": 319978592,
+    "me1-hash": 309770248,
+    "me1格式化-address": "13127c60",
+    "两个对象地址测试结果": true,
+    "两个对象测试结果": true,
+    "byte[]_OFFSET": 12,
+    "byte[]_SCALE": 1,
+    "boolean[]_OFFSET": 12,
+    "boolean[]_SCALE": 1,
+    "int[]_OFFSET": 12,
+    "int[]_SCALE": 4,
+    "long[]_OFFSET": 16,
+    "long[]_SCALE": 8,
+    "float[]_OFFSET": 12,
+    "float[]_SCALE": 4,
+    "double[]_OFFSET": 16,
+    "double[]_SCALE": 8,
+    "Object[]_OFFSET": 12,
+    "Object[]_SCALE": 4,
+    "BUFFER_ADDRESS_OFFSET": 0,
+    "STRIDE_ALIGNMENT_MASK": 7,
+    "BYTE_ARRAY_ALIGNMENT": 4,
+    "IS_BIG_ENDIAN": false,
+    "objectFieldOffset(Field)": true,
+    "1_arrayBaseOffset(Class)": true,
+    "1_getArrayBaseOffsetForComponentType(Class)": true,
+    "2_arrayIndexScale(Class)": true,
+    "2_getArrayIndexScaleForComponentType(Class)": true,
+    "2_arrayIndexScale0(Class)": false,
+    "compareAndSwapInt(Object,long,int,int)": true,
+    "compareAndSwapLong(Object,long,long,long)": true,
+    "compareAndSwapObject(Object,long,Object,Object)": true,
+    "3_getInt(Object,long)": true,
+    "3_getIntVolatile(Object,long)": true,
+    "getInt(long)": false,
+    "4_putInt(Object,long,int)": true,
+    "4_putIntVolatile(Object,long,int)": true,
+    "putInt(long,int)": false,
+    "putOrderedInt(Object,long,int)": true,
+    "5_getLong(Object,long)": true,
+    "5_getLongVolatile(Object,long)": true,
+    "getLong(long)": false,
+    "putLong(Object,long,long)": true,
+    "getObject(Object,long)": true,
+    "putObject(Object,long,Object)": true,
+    "getByte(long)": false,
+    "getByte(Object,long)": false,
+    "putByte(long,byte)": false,
+    "putByte(Object,long,byte)": false,
+    "getBoolean(Object,long)": false,
+    "putBoolean(Object,long,boolean)": false,
+    "getFloat(Object,long)": false,
+    "putFloat(Object,long,float)": false,
+    "getDouble(Object,long)": false,
+    "putDouble(Object,long,double)": false,
+    "putLong(long,long)": false,
+    "copyMemory(long,long,long)": false,
+    "addressSize()": false,
+    "pageSize()": false,
+    "allocateInstance(Class)": true,
+    "allocateMemory(long)": false,
+    "copyMemoryToPrimitiveArray(long,Object,long,long)": false,
+    "copyMemoryFromPrimitiveArray(Object,long,long,long)": false,
+    "setMemory(long,long,byte)": false,
+    "freeMemory(long)": false,
+    "getAndAddInt(Object,long,int)": false,
+    "getAndSetInt(Object,long,int)": false,
+    "getAndAddLong(Object,long,long)": false,
+    "getAndSetLong(Object,long,long)": false,
+    "getAndSetObject(Object,long,Object)": false
+  },
+  "MAC": {
+    "java_mac": "24:df:6a:8d:9e:5f",
+    "api_mac": "24:df:6a:8d:9e:5f",
+    "file_mac": "",
+    "ip_address": "1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN \n    link\/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00\n    inet 127.0.0.1\/8 scope host lo\n       valid_lft forever preferred_lft forever\n    inet6 ::1\/128 scope host \n       valid_lft forever preferred_lft forever\n2: dummy0: <BROADCAST,NOARP> mtu 1500 qdisc noop state DOWN \n    link\/ether 3a:53:d5:c1:6c:8a brd ff:ff:ff:ff:ff:ff\n3: sit0: <NOARP> mtu 1480 qdisc noop state DOWN \n    link\/sit 0.0.0.0 brd 0.0.0.0\n4: rmnet0: <UP,LOWER_UP> mtu 2000 qdisc pfifo_fast state UNKNOWN qlen 1000\n    link\/[530] \n5: rmnet_data0: <> mtu 1500 qdisc noop state DOWN qlen 1000\n    link\/[530] \n6: rmnet_data1: <> mtu 1500 qdisc noop state DOWN qlen 1000\n    link\/[530] \n7: rmnet_data2: <> mtu 1500 qdisc noop state DOWN qlen 1000\n    link\/[530] \n8: rmnet_data3: <> mtu 1500 qdisc noop state DOWN qlen 1000\n    link\/[530] \n9: rmnet_data4: <> mtu 1500 qdisc noop state DOWN qlen 1000\n    link\/[530] \n10: rmnet_data5: <> mtu 1500 qdisc noop state DOWN qlen 1000\n    link\/[530] \n11: rmnet_data6: <> mtu 1500 qdisc noop state DOWN qlen 1000\n    link\/[530] \n12: rmnet_data7: <> mtu 1500 qdisc noop state DOWN qlen 1000\n    link\/[530] \n13: r_rmnet_data0: <> mtu 1500 qdisc noop state DOWN qlen 1000\n    link\/[530] \n14: r_rmnet_data1: <> mtu 1500 qdisc noop state DOWN qlen 1000\n    link\/[530] \n15: r_rmnet_data2: <> mtu 1500 qdisc noop state DOWN qlen 1000\n    link\/[530] \n16: r_rmnet_data3: <> mtu 1500 qdisc noop state DOWN qlen 1000\n    link\/[530] \n17: r_rmnet_data4: <> mtu 1500 qdisc noop state DOWN qlen 1000\n    link\/[530] \n18: r_rmnet_data5: <> mtu 1500 qdisc noop state DOWN qlen 1000\n    link\/[530] \n19: r_rmnet_data6: <> mtu 1500 qdisc noop state DOWN qlen 1000\n    link\/[530] \n20: r_rmnet_data7: <> mtu 1500 qdisc noop state DOWN qlen 1000\n    link\/[530] \n21: r_rmnet_data8: <> mtu 1500 qdisc noop state DOWN qlen 1000\n    link\/[530] \n22: wlan0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1400 qdisc mq state UP qlen 1000\n    link\/ether 24:df:6a:8d:9e:5f brd ff:ff:ff:ff:ff:ff\n    inet 10.43.55.92\/23 brd 10.43.55.255 scope global wlan0\n       valid_lft forever preferred_lft forever\n    inet6 fe80::26df:6aff:fe8d:9e5f\/64 scope link \n       valid_lft forever preferred_lft forever\n23: p2p0: <NO-CARRIER,BROADCAST,MULTICAST,UP> mtu 1500 qdisc mq state DOWN qlen 1000\n    link\/ether 26:df:6a:8d:9e:5f brd ff:ff:ff:ff:ff:ff\n",
+    "ip_link": "1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN mode DEFAULT \n    link\/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00\n2: dummy0: <BROADCAST,NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT \n    link\/ether 3a:53:d5:c1:6c:8a brd ff:ff:ff:ff:ff:ff\n3: sit0: <NOARP> mtu 1480 qdisc noop state DOWN mode DEFAULT \n    link\/sit 0.0.0.0 brd 0.0.0.0\n4: rmnet0: <UP,LOWER_UP> mtu 2000 qdisc pfifo_fast state UNKNOWN mode DEFAULT qlen 1000\n    link\/[530] \n5: rmnet_data0: <> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 1000\n    link\/[530] \n6: rmnet_data1: <> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 1000\n    link\/[530] \n7: rmnet_data2: <> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 1000\n    link\/[530] \n8: rmnet_data3: <> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 1000\n    link\/[530] \n9: rmnet_data4: <> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 1000\n    link\/[530] \n10: rmnet_data5: <> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 1000\n    link\/[530] \n11: rmnet_data6: <> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 1000\n    link\/[530] \n12: rmnet_data7: <> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 1000\n    link\/[530] \n13: r_rmnet_data0: <> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 1000\n    link\/[530] \n14: r_rmnet_data1: <> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 1000\n    link\/[530] \n15: r_rmnet_data2: <> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 1000\n    link\/[530] \n16: r_rmnet_data3: <> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 1000\n    link\/[530] \n17: r_rmnet_data4: <> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 1000\n    link\/[530] \n18: r_rmnet_data5: <> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 1000\n    link\/[530] \n19: r_rmnet_data6: <> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 1000\n    link\/[530] \n20: r_rmnet_data7: <> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 1000\n    link\/[530] \n21: r_rmnet_data8: <> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 1000\n    link\/[530] \n22: wlan0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1400 qdisc mq state UP mode DORMANT qlen 1000\n    link\/ether 24:df:6a:8d:9e:5f brd ff:ff:ff:ff:ff:ff\n23: p2p0: <NO-CARRIER,BROADCAST,MULTICAST,UP> mtu 1500 qdisc mq state DOWN mode DORMANT qlen 1000\n    link\/ether 26:df:6a:8d:9e:5f brd ff:ff:ff:ff:ff:ff\n"
+  }
+}
