@@ -1,0 +1,664 @@
+{
+  "LetMeSee": {
+    "gn.com.android.update": [
+      "\/sdcard\/Android\/data\/gn.com.android.update\/files",
+      "\/data\/data\/gn.com.android.update\/cache",
+      "\/data\/data\/gn.com.android.update\/databases",
+      "\/data\/data\/gn.com.android.update\/shared_prefs"
+    ],
+    "com.gionee.amisystem": [
+      "\/data\/data\/com.gionee.amisystem\/files",
+      "\/data\/data\/com.gionee.amisystem\/cache",
+      "\/data\/data\/com.gionee.amisystem\/databases",
+      "\/data\/data\/com.gionee.amisystem\/shared_prefs"
+    ],
+    "com.amigo.chameleon": [
+      "\/data\/data\/com.amigo.chameleon\/cache",
+      "\/data\/data\/com.amigo.chameleon\/databases",
+      "\/data\/data\/com.amigo.chameleon\/shared_prefs"
+    ],
+    "com.gionee.gallery": [
+      "\/data\/data\/com.gionee.gallery\/cache",
+      "\/data\/data\/com.gionee.gallery\/databases",
+      "\/data\/data\/com.gionee.gallery\/shared_prefs"
+    ],
+    "cn.testin.itestin": [
+      "\/data\/data\/cn.testin.itestin\/files",
+      "\/data\/data\/cn.testin.itestin\/cache",
+      "\/data\/data\/cn.testin.itestin\/shared_prefs"
+    ],
+    "com.android.deskclock": [
+      "\/data\/data\/com.android.deskclock\/cache",
+      "\/data\/data\/com.android.deskclock\/databases",
+      "\/data\/data\/com.android.deskclock\/shared_prefs"
+    ],
+    "com.gionee.softmanager": [
+      "\/data\/data\/com.gionee.softmanager\/cache",
+      "\/data\/data\/com.gionee.softmanager\/shared_prefs"
+    ],
+    "com.android.contacts": [
+      "\/data\/data\/com.android.contacts\/files",
+      "\/data\/data\/com.android.contacts\/cache",
+      "\/data\/data\/com.android.contacts\/databases",
+      "\/data\/data\/com.android.contacts\/shared_prefs"
+    ],
+    "com.android.settings": [
+      "\/data\/data\/com.android.settings\/cache",
+      "\/data\/data\/com.android.settings\/databases",
+      "\/data\/data\/com.android.settings\/shared_prefs"
+    ],
+    "com.android.mms": [
+      "\/data\/data\/com.android.mms\/files",
+      "\/data\/data\/com.android.mms\/cache",
+      "\/data\/data\/com.android.mms\/databases",
+      "\/data\/data\/com.android.mms\/shared_prefs"
+    ],
+    "com.chaozh.iReaderGionee": [
+      "\/data\/data\/com.chaozh.iReaderGionee\/cache"
+    ],
+    "com.android.calendar": [
+      "\/data\/data\/com.android.calendar\/files",
+      "\/data\/data\/com.android.calendar\/cache",
+      "\/data\/data\/com.android.calendar\/databases",
+      "\/data\/data\/com.android.calendar\/shared_prefs"
+    ],
+    "com.android.camera": [
+      "\/data\/data\/com.android.camera\/files",
+      "\/data\/data\/com.android.camera\/cache",
+      "\/data\/data\/com.android.camera\/databases",
+      "\/data\/data\/com.android.camera\/shared_prefs"
+    ],
+    "com.gionee.change": [
+      "\/data\/data\/com.gionee.change\/cache",
+      "\/data\/data\/com.gionee.change\/databases",
+      "\/data\/data\/com.gionee.change\/shared_prefs"
+    ],
+    "com.gionee.client": [
+      "\/data\/data\/com.gionee.client\/cache",
+      "\/data\/data\/com.gionee.client\/shared_prefs"
+    ],
+    "com.coolwind.weather": [
+      "\/data\/data\/com.coolwind.weather\/files",
+      "\/data\/data\/com.coolwind.weather\/cache",
+      "\/data\/data\/com.coolwind.weather\/shared_prefs"
+    ],
+    "com.gionee.note": [
+      "\/data\/data\/com.gionee.note\/cache",
+      "\/data\/data\/com.gionee.note\/databases"
+    ],
+    "com.gionee.aora.market": [
+      "\/data\/data\/com.gionee.aora.market\/files",
+      "\/data\/data\/com.gionee.aora.market\/cache",
+      "\/data\/data\/com.gionee.aora.market\/databases",
+      "\/data\/data\/com.gionee.aora.market\/shared_prefs"
+    ],
+    "com.gionee.wallet": [
+      "\/data\/data\/com.gionee.wallet\/cache",
+      "\/data\/data\/com.gionee.wallet\/databases",
+      "\/data\/data\/com.gionee.wallet\/shared_prefs"
+    ],
+    "me.fup.v0": [
+      "\/data\/data\/me.fup.v0\/files",
+      "\/data\/data\/me.fup.v0\/cache",
+      "\/data\/data\/me.fup.v0\/databases",
+      "\/data\/data\/me.fup.v0\/shared_prefs"
+    ],
+    "com.android.email": [
+      "\/data\/data\/com.android.email\/files",
+      "\/data\/data\/com.android.email\/cache",
+      "\/data\/data\/com.android.email\/databases",
+      "\/data\/data\/com.android.email\/shared_prefs"
+    ],
+    "com.android.music": [
+      "\/data\/data\/com.android.music\/files",
+      "\/data\/data\/com.android.music\/cache",
+      "\/data\/data\/com.android.music\/databases",
+      "\/data\/data\/com.android.music\/shared_prefs"
+    ],
+    "com.gionee.gnservice": [
+      "\/data\/data\/com.gionee.gnservice\/cache",
+      "\/data\/data\/com.gionee.gnservice\/shared_prefs"
+    ],
+    "gn.com.android.gamehall": [
+      "\/data\/data\/gn.com.android.gamehall\/cache",
+      "\/data\/data\/gn.com.android.gamehall\/databases",
+      "\/data\/data\/gn.com.android.gamehall\/shared_prefs"
+    ],
+    "com.gionee.filemanager": [
+      "\/data\/data\/com.gionee.filemanager\/cache",
+      "\/data\/data\/com.gionee.filemanager\/databases",
+      "\/data\/data\/com.gionee.filemanager\/shared_prefs"
+    ],
+    "com.yulore.framework": [
+      "\/data\/data\/com.yulore.framework\/files",
+      "\/data\/data\/com.yulore.framework\/cache",
+      "\/data\/data\/com.yulore.framework\/databases",
+      "\/data\/data\/com.yulore.framework\/shared_prefs"
+    ],
+    "com.android.providers.telephony": [
+      "\/data\/data\/com.android.providers.telephony\/databases"
+    ],
+    "com.gionee.cloud.gpe": [
+      "\/data\/data\/com.gionee.cloud.gpe\/cache",
+      "\/data\/data\/com.gionee.cloud.gpe\/databases"
+    ],
+    "com.android.providers.calendar": [
+      "\/data\/data\/com.android.providers.calendar\/cache",
+      "\/data\/data\/com.android.providers.calendar\/databases",
+      "\/data\/data\/com.android.providers.calendar\/shared_prefs"
+    ],
+    "com.android.providers.media": [
+      "\/data\/data\/com.android.providers.media\/cache",
+      "\/data\/data\/com.android.providers.media\/databases",
+      "\/data\/data\/com.android.providers.media\/shared_prefs"
+    ],
+    "com.mediatek.schpwronoff": [
+      "\/data\/data\/com.mediatek.schpwronoff\/cache",
+      "\/data\/data\/com.mediatek.schpwronoff\/databases",
+      "\/data\/data\/com.mediatek.schpwronoff\/shared_prefs"
+    ],
+    "com.gionee.telepath": [
+      "\/data\/data\/com.gionee.telepath\/cache",
+      "\/data\/data\/com.gionee.telepath\/shared_prefs"
+    ],
+    "org.simalliance.openmobileapi.service": [
+      "\/data\/data\/org.simalliance.openmobileapi.service\/files",
+      "\/data\/data\/org.simalliance.openmobileapi.service\/cache"
+    ],
+    "com.android.documentsui": [
+      "\/data\/data\/com.android.documentsui\/cache",
+      "\/data\/data\/com.android.documentsui\/databases"
+    ],
+    "com.android.externalstorage": [
+      "\/data\/data\/com.android.externalstorage\/cache"
+    ],
+    "com.android.providers.downloads": [
+      "\/data\/data\/com.android.providers.downloads\/cache",
+      "\/data\/data\/com.android.providers.downloads\/databases"
+    ],
+    "com.android.server.telecom": [
+      "\/data\/data\/com.android.server.telecom\/files",
+      "\/data\/data\/com.android.server.telecom\/cache"
+    ],
+    "com.fw.upgrade.sysoper": [
+      "\/data\/data\/com.fw.upgrade.sysoper\/files",
+      "\/data\/data\/com.fw.upgrade.sysoper\/cache",
+      "\/data\/data\/com.fw.upgrade.sysoper\/databases",
+      "\/data\/data\/com.fw.upgrade.sysoper\/shared_prefs"
+    ],
+    "com.amigo.search": [
+      "\/data\/data\/com.amigo.search\/cache",
+      "\/data\/data\/com.amigo.search\/databases"
+    ],
+    "com.android.providers.settings": [
+      "\/data\/data\/com.android.providers.settings\/databases"
+    ],
+    "com.amigo.server": [
+      "\/data\/data\/com.amigo.server\/cache"
+    ],
+    "com.gionee.floatingtouch": [
+      "\/data\/data\/com.gionee.floatingtouch\/cache"
+    ],
+    "com.gionee.anti.stolen": [
+      "\/data\/data\/com.gionee.anti.stolen\/cache",
+      "\/data\/data\/com.gionee.anti.stolen\/shared_prefs"
+    ],
+    "com.gionee.setting.adapter.wifi": [
+      "\/data\/data\/com.gionee.setting.adapter.wifi\/cache",
+      "\/data\/data\/com.gionee.setting.adapter.wifi\/shared_prefs"
+    ],
+    "com.mediatek.batterywarning": [
+      "\/data\/data\/com.mediatek.batterywarning\/cache",
+      "\/data\/data\/com.mediatek.batterywarning\/shared_prefs"
+    ],
+    "com.android.keychain": [
+      "\/data\/data\/com.android.keychain\/cache",
+      "\/data\/data\/com.android.keychain\/databases"
+    ],
+    "com.gionee.bluetooth": [
+      "\/data\/data\/com.gionee.bluetooth\/cache",
+      "\/data\/data\/com.gionee.bluetooth\/shared_prefs"
+    ],
+    "com.android.defcontainer": [
+      "\/data\/data\/com.android.defcontainer\/cache"
+    ],
+    "com.fingerprints.service": [
+      "\/data\/data\/com.fingerprints.service\/cache",
+      "\/data\/data\/com.fingerprints.service\/databases"
+    ],
+    "com.amigo.settings.providers": [
+      "\/data\/data\/com.amigo.settings.providers\/databases"
+    ],
+    "com.android.nfc": [
+      "\/data\/data\/com.android.nfc\/files",
+      "\/data\/data\/com.android.nfc\/cache",
+      "\/data\/data\/com.android.nfc\/shared_prefs"
+    ],
+    "ylneb.cegps.fdvzr": [
+      "\/data\/data\/ylneb.cegps.fdvzr\/cache",
+      "\/data\/data\/ylneb.cegps.fdvzr\/shared_prefs"
+    ],
+    "com.android.phone": [
+      "\/data\/data\/com.android.phone\/files",
+      "\/data\/data\/com.android.phone\/cache",
+      "\/data\/data\/com.android.phone\/shared_prefs"
+    ],
+    "com.mediatek.floatmenu": [
+      "\/data\/data\/com.mediatek.floatmenu\/cache"
+    ],
+    "com.android.gionee.nfctag": [
+      "\/data\/data\/com.android.gionee.nfctag\/cache",
+      "\/data\/data\/com.android.gionee.nfctag\/databases"
+    ],
+    "com.mediatek.providers.drm": [
+      "\/data\/data\/com.mediatek.providers.drm\/cache"
+    ],
+    "com.android.bluetooth": [
+      "\/data\/data\/com.android.bluetooth\/cache",
+      "\/data\/data\/com.android.bluetooth\/databases"
+    ],
+    "com.gionee.systemmanager": [
+      "\/data\/data\/com.gionee.systemmanager\/files",
+      "\/data\/data\/com.gionee.systemmanager\/cache",
+      "\/data\/data\/com.gionee.systemmanager\/shared_prefs"
+    ],
+    "com.android.printspooler": [
+      "\/data\/data\/com.android.printspooler\/files",
+      "\/data\/data\/com.android.printspooler\/cache"
+    ],
+    "com.android.incallui": [
+      "\/data\/data\/com.android.incallui\/cache",
+      "\/data\/data\/com.android.incallui\/shared_prefs"
+    ],
+    "gn.com.android.synchronizer": [
+      "\/data\/data\/gn.com.android.synchronizer\/files",
+      "\/data\/data\/gn.com.android.synchronizer\/cache",
+      "\/data\/data\/gn.com.android.synchronizer\/databases",
+      "\/data\/data\/gn.com.android.synchronizer\/shared_prefs"
+    ],
+    "com.android.onetimeinitializer": [
+      "\/data\/data\/com.android.onetimeinitializer\/cache",
+      "\/data\/data\/com.android.onetimeinitializer\/shared_prefs"
+    ],
+    "com.mediatek.nlpservice": [
+      "\/data\/data\/com.mediatek.nlpservice\/cache"
+    ],
+    "com.snowballtech.walletservice": [
+      "\/data\/data\/com.snowballtech.walletservice\/cache"
+    ],
+    "com.android.packageinstaller": [
+      "\/data\/data\/com.android.packageinstaller\/cache",
+      "\/data\/data\/com.android.packageinstaller\/shared_prefs"
+    ],
+    "com.svox.pico": [
+      "\/data\/data\/com.svox.pico\/cache"
+    ],
+    "com.android.inputmethod.latin": [
+      "\/data\/data\/com.android.inputmethod.latin\/files",
+      "\/data\/data\/com.android.inputmethod.latin\/cache",
+      "\/data\/data\/com.android.inputmethod.latin\/databases",
+      "\/data\/data\/com.android.inputmethod.latin\/shared_prefs"
+    ],
+    "gionee.com.WifiShare": [
+      "\/data\/data\/gionee.com.WifiShare\/cache"
+    ],
+    "com.gionee.setupwizard": [
+      "\/data\/data\/com.gionee.setupwizard\/cache",
+      "\/data\/data\/com.gionee.setupwizard\/shared_prefs"
+    ],
+    "com.android.managedprovisioning": [
+      "\/data\/data\/com.android.managedprovisioning\/cache"
+    ],
+    "com.android.wallpaper.livepicker": [
+      "\/data\/data\/com.android.wallpaper.livepicker\/cache"
+    ],
+    "gn.com.voice": [
+      "\/data\/data\/gn.com.voice\/cache"
+    ],
+    "com.baidu.map.location": [
+      "\/data\/data\/com.baidu.map.location\/files",
+      "\/data\/data\/com.baidu.map.location\/cache"
+    ],
+    "com.android.vpndialogs": [
+      "\/data\/data\/com.android.vpndialogs\/cache"
+    ],
+    "com.gionee.gsp": [
+      "\/data\/data\/com.gionee.gsp\/cache",
+      "\/data\/data\/com.gionee.gsp\/databases",
+      "\/data\/data\/com.gionee.gsp\/shared_prefs"
+    ],
+    "com.android.providers.userdictionary": [
+      "\/data\/data\/com.android.providers.userdictionary\/cache",
+      "\/data\/data\/com.android.providers.userdictionary\/databases"
+    ],
+    "com.android.systemui": [
+      "\/data\/data\/com.android.systemui\/files",
+      "\/data\/data\/com.android.systemui\/cache",
+      "\/data\/data\/com.android.systemui\/databases",
+      "\/data\/data\/com.android.systemui\/shared_prefs"
+    ],
+    "com.android.exchange": [
+      "\/data\/data\/com.android.exchange\/cache",
+      "\/data\/data\/com.android.exchange\/shared_prefs"
+    ],
+    "com.mediatek.mtklogger": [
+      "\/data\/data\/com.mediatek.mtklogger\/files",
+      "\/data\/data\/com.mediatek.mtklogger\/cache",
+      "\/data\/data\/com.mediatek.mtklogger\/shared_prefs"
+    ],
+    "com.android.providers.contacts": [
+      "\/data\/data\/com.android.providers.contacts\/files",
+      "\/data\/data\/com.android.providers.contacts\/cache",
+      "\/data\/data\/com.android.providers.contacts\/databases",
+      "\/data\/data\/com.android.providers.contacts\/shared_prefs"
+    ],
+    "com.gionee.account": [
+      "\/data\/data\/com.gionee.account\/cache",
+      "\/data\/data\/com.gionee.account\/databases",
+      "\/data\/data\/com.gionee.account\/shared_prefs"
+    ]
+  },
+  "设备信息": {
+    "java_version ": "0",
+    "java_runtime_version": "0.9",
+    "java_runtime_name": "Android Runtime",
+    "java_vm_version ": "2.1.0",
+    "SystemName": "Android",
+    "SystemVersion": "5.1",
+    "DeviceBrand": "GiONEE",
+    "DeviceModel": "GN9008",
+    "SerialNumber": "TGPRZLI7Y58DPNPF",
+    "IMEIS": "866472020191486",
+    "ApplicationChannel": "CHANNEL-GiONEE",
+    "ApplicationKey": "APPKE",
+    "APILevel": "22",
+    "UA": "Mozilla\/5.0 (Linux; Android 5.1; GN9008 Build\/LMY47I; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/43.0.2357.121 Mobile Safari\/537.36",
+    "TargetSdkVersion": "31",
+    "BootTimeMilliseconds": "1664149089889",
+    "Simulator": "0",
+    "Debug": "0",
+    "Hijack": "0",
+    "SDK--utdid": "YlT39YnuWT4DAPlGTk0itpn+",
+    "IsRoot": "1",
+    "SystemFontSize": "0",
+    "SystemHour": "12",
+    "SystemLanguage": "zh",
+    "SystemArea": "CN",
+    "TimeZone": "GMT+08:00",
+    "SenSorModuleName": [
+      {
+        "SenSorName": "Cywee Accelerometer Sensor",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "CyWee Group Ltd.",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.17000000178813934
+      },
+      {
+        "SenSorName": "Cywee Magnetic field Sensor",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "CyWee Group Ltd.",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 5
+      },
+      {
+        "SenSorName": "Cywee Gyroscope Sensor",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "CyWee Group Ltd.",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 6.099999904632568
+      },
+      {
+        "SenSorName": "Cywee Light Sensor",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "CyWee Group Ltd.",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.15000000596046448
+      },
+      {
+        "SenSorName": "Cywee Proximity Sensor",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "CyWee Group Ltd.",
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.15000000596046448
+      },
+      {
+        "SenSorName": "Cywee Proximity Gesture Sensor",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "CyWee Group Ltd.",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.15000000596046448
+      },
+      {
+        "SenSorName": "Cywee Orientation Sensor",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "CyWee Group Ltd.",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 11.270000457763672
+      },
+      {
+        "SenSorName": "Cywee Rotation Vector",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "CyWee Group Ltd.",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 11.270000457763672
+      },
+      {
+        "SenSorName": "Cywee Linear Acceleration",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "CyWee Group Ltd.",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 11.270000457763672
+      },
+      {
+        "SenSorName": "Cywee Gravity",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "CyWee Group Ltd.",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 11.270000457763672
+      },
+      {
+        "SenSorName": "Magnetic Uncalibrated",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "CyWee Group Ltd.",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 5
+      },
+      {
+        "SenSorName": "Gyroscope Uncalibrated",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "CyWee Group Ltd.",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 6.099999904632568
+      },
+      {
+        "SenSorName": "Game Rotation Vector",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "CyWee Group Ltd.",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 11.270000457763672
+      },
+      {
+        "SenSorName": "Geomagnetic Rotation Vector",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "CyWee Group Ltd.",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 11.270000457763672
+      },
+      {
+        "SenSorName": "Cywee Step Detector",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "CyWee Group Ltd.",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.17000000178813934
+      },
+      {
+        "SenSorName": "Cywee Step Counter",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "CyWee Group Ltd.",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.17000000178813934
+      },
+      {
+        "SenSorName": "Significant Motion",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "CyWee Group Ltd.",
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.17000000178813934
+      },
+      {
+        "SenSorName": "Cywee Private Sensor A",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "CyWee Group Ltd.",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 2
+      },
+      {
+        "SenSorName": "Cywee Pick Up",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "CyWee Group Ltd.",
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.17000000178813934
+      },
+      {
+        "SenSorName": "Cywee Brush",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "CyWee Group Ltd.",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.17000000178813934
+      },
+      {
+        "SenSorName": "Step Detector (WAKE_UP)",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "CyWee Group Ltd.",
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.17000000178813934
+      },
+      {
+        "SenSorName": "Step Counter (WAKE_UP)",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "CyWee Group Ltd.",
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.17000000178813934
+      },
+      {
+        "SenSorName": "Cywee Private Sensor A (WAKE_UP)",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "CyWee Group Ltd.",
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 2
+      }
+    ],
+    "CPUModel": "arm64-v8a:",
+    "BuildId": "LMY47I",
+    "BuildDisplay": "amigo3.1.1",
+    "BuildProduct": "GN9008",
+    "BuildDevice": "GiONEE_GN9008",
+    "BuildHardware": "mt6795",
+    "BuildSupportedAbis": "arm64-v8a,armeabi-v7a,armeabi",
+    "BuildSupportedAbis32": "armeabi-v7a,armeabi",
+    "BuildSupportedAbis64": "arm64-v8a",
+    "BuildType": "user",
+    "BuildTags": "release-keys",
+    "BuildFingerPrint": "GiONEE\/GN9008\/GiONEE_GN9008:5.1\/LMY47I\/1437202289:user\/release-keys",
+    "BuildRadioVersion": "MOLY.LR9.W1423.MD.LWTG.CMCC2.MP.V20.P13, 2015\/07\/21 19:49",
+    "BuildIncremental": "1438162773",
+    "BuildSdkInt": "22",
+    "BuildCodename": "REL",
+    "ETDM": {
+      "BatteryStatus": "5",
+      "BatteryHealth": "2",
+      "BatteryLevel": "100",
+      "BatteryScale": "100",
+      "BatteryPlugged": "2",
+      "BatteryTechnology": "Li-ion"
+    }
+  },
+  "Unsafe": {
+    "init[theUnsafe]": true,
+    "init[THE_ONE]": true,
+    "init[getUnsafe]": true,
+    "init[getUnsafeByAbstractQueuedSynchronizer]": true,
+    "arrayIndexScale赋值Object数组大小": 4,
+    "is64Bit": true,
+    "me-adress": 317356352,
+    "me-hash": 326813858,
+    "me格式化-address": "12ea7940",
+    "me1-adress": 317356352,
+    "me1-hash": 326813858,
+    "me1格式化-address": "12ea7940",
+    "两个对象地址测试结果": true,
+    "两个对象测试结果": true,
+    "byte[]_OFFSET": 12,
+    "byte[]_SCALE": 1,
+    "boolean[]_OFFSET": 12,
+    "boolean[]_SCALE": 1,
+    "int[]_OFFSET": 12,
+    "int[]_SCALE": 4,
+    "long[]_OFFSET": 16,
+    "long[]_SCALE": 8,
+    "float[]_OFFSET": 12,
+    "float[]_SCALE": 4,
+    "double[]_OFFSET": 16,
+    "double[]_SCALE": 8,
+    "Object[]_OFFSET": 12,
+    "Object[]_SCALE": 4,
+    "BUFFER_ADDRESS_OFFSET": 0,
+    "STRIDE_ALIGNMENT_MASK": 7,
+    "BYTE_ARRAY_ALIGNMENT": 4,
+    "IS_BIG_ENDIAN": false,
+    "objectFieldOffset(Field)": true,
+    "1_arrayBaseOffset(Class)": true,
+    "1_getArrayBaseOffsetForComponentType(Class)": true,
+    "2_arrayIndexScale(Class)": true,
+    "2_getArrayIndexScaleForComponentType(Class)": true,
+    "2_arrayIndexScale0(Class)": false,
+    "compareAndSwapInt(Object,long,int,int)": true,
+    "compareAndSwapLong(Object,long,long,long)": true,
+    "compareAndSwapObject(Object,long,Object,Object)": true,
+    "3_getInt(Object,long)": true,
+    "3_getIntVolatile(Object,long)": true,
+    "getInt(long)": false,
+    "4_putInt(Object,long,int)": true,
+    "4_putIntVolatile(Object,long,int)": true,
+    "putInt(long,int)": false,
+    "putOrderedInt(Object,long,int)": true,
+    "5_getLong(Object,long)": true,
+    "5_getLongVolatile(Object,long)": true,
+    "getLong(long)": false,
+    "putLong(Object,long,long)": true,
+    "getObject(Object,long)": true,
+    "putObject(Object,long,Object)": true,
+    "getByte(long)": false,
+    "getByte(Object,long)": false,
+    "putByte(long,byte)": false,
+    "putByte(Object,long,byte)": false,
+    "getBoolean(Object,long)": false,
+    "putBoolean(Object,long,boolean)": false,
+    "getFloat(Object,long)": false,
+    "putFloat(Object,long,float)": false,
+    "getDouble(Object,long)": false,
+    "putDouble(Object,long,double)": false,
+    "putLong(long,long)": false,
+    "copyMemory(long,long,long)": false,
+    "addressSize()": false,
+    "pageSize()": false,
+    "allocateInstance(Class)": true,
+    "allocateMemory(long)": false,
+    "copyMemoryToPrimitiveArray(long,Object,long,long)": false,
+    "copyMemoryFromPrimitiveArray(Object,long,long,long)": false,
+    "setMemory(long,long,byte)": false,
+    "freeMemory(long)": false,
+    "getAndAddInt(Object,long,int)": false,
+    "getAndSetInt(Object,long,int)": false,
+    "getAndAddLong(Object,long,long)": false,
+    "getAndSetLong(Object,long,long)": false,
+    "getAndSetObject(Object,long,Object)": false
+  },
+  "MAC": {
+    "java_mac": "5c:f7:c3:87:45:cd",
+    "api_mac": "5c:f7:c3:87:45:cd",
+    "file_mac": "",
+    "ip_address": "1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN \n    link\/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00\n    inet 127.0.0.1\/8 scope host lo\n       valid_lft forever preferred_lft forever\n    inet6 ::1\/128 scope host \n       valid_lft forever preferred_lft forever\n2: ccmni0: <NOARP> mtu 1500 qdisc noop state DOWN qlen 1000\n    link\/ether 7e:6b:15:01:cd:43 brd ff:ff:ff:ff:ff:ff\n3: ccmni1: <NOARP> mtu 1500 qdisc noop state DOWN qlen 1000\n    link\/ether 16:68:71:04:b9:43 brd ff:ff:ff:ff:ff:ff\n4: ccmni2: <NOARP> mtu 1500 qdisc noop state DOWN qlen 1000\n    link\/ether 7a:52:33:26:6e:f1 brd ff:ff:ff:ff:ff:ff\n5: ifb0: <BROADCAST,NOARP> mtu 1500 qdisc noop state DOWN qlen 32\n    link\/ether 7e:ac:8c:e5:a2:a8 brd ff:ff:ff:ff:ff:ff\n6: ifb1: <BROADCAST,NOARP> mtu 1500 qdisc noop state DOWN qlen 32\n    link\/ether 86:91:5e:d9:32:0e brd ff:ff:ff:ff:ff:ff\n7: tunl0: <NOARP> mtu 0 qdisc noop state DOWN \n    link\/ipip 0.0.0.0 brd 0.0.0.0\n8: sit0: <NOARP> mtu 1480 qdisc noop state DOWN \n    link\/sit 0.0.0.0 brd 0.0.0.0\n9: ip6tnl0@NONE: <NOARP> mtu 1452 qdisc noop state DOWN \n    link\/tunnel6 :: brd ::\n10: wlan0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP qlen 1000\n    link\/ether 5c:f7:c3:87:45:cd brd ff:ff:ff:ff:ff:ff\n    inet 10.43.50.187\/23 brd 10.43.51.255 scope global wlan0\n       valid_lft forever preferred_lft forever\n    inet6 fe80::5ef7:c3ff:fe87:45cd\/64 scope link \n       valid_lft forever preferred_lft forever\n11: p2p0: <NO-CARRIER,BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state DORMANT qlen 1000\n    link\/ether 5e:f7:c3:87:45:cd brd ff:ff:ff:ff:ff:ff\n",
+    "ip_link": "1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN mode DEFAULT \n    link\/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00\n2: ccmni0: <NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 1000\n    link\/ether 7e:6b:15:01:cd:43 brd ff:ff:ff:ff:ff:ff\n3: ccmni1: <NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 1000\n    link\/ether 16:68:71:04:b9:43 brd ff:ff:ff:ff:ff:ff\n4: ccmni2: <NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 1000\n    link\/ether 7a:52:33:26:6e:f1 brd ff:ff:ff:ff:ff:ff\n5: ifb0: <BROADCAST,NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 32\n    link\/ether 7e:ac:8c:e5:a2:a8 brd ff:ff:ff:ff:ff:ff\n6: ifb1: <BROADCAST,NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 32\n    link\/ether 86:91:5e:d9:32:0e brd ff:ff:ff:ff:ff:ff\n7: tunl0: <NOARP> mtu 0 qdisc noop state DOWN mode DEFAULT \n    link\/ipip 0.0.0.0 brd 0.0.0.0\n8: sit0: <NOARP> mtu 1480 qdisc noop state DOWN mode DEFAULT \n    link\/sit 0.0.0.0 brd 0.0.0.0\n9: ip6tnl0@NONE: <NOARP> mtu 1452 qdisc noop state DOWN mode DEFAULT \n    link\/tunnel6 :: brd ::\n10: wlan0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP mode DORMANT qlen 1000\n    link\/ether 5c:f7:c3:87:45:cd brd ff:ff:ff:ff:ff:ff\n11: p2p0: <NO-CARRIER,BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state DORMANT mode DORMANT qlen 1000\n    link\/ether 5e:f7:c3:87:45:cd brd ff:ff:ff:ff:ff:ff\n"
+  }
+}
