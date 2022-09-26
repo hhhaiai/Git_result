@@ -1,0 +1,402 @@
+{
+  "LetMeSee": {
+    "com.miui.securitycenter": [
+      "\/sdcard\/Android\/data\/com.miui.securitycenter\/cache"
+    ],
+    "com.miui.gallery": [
+      "\/sdcard\/Android\/data\/com.miui.gallery\/files",
+      "\/sdcard\/Android\/data\/com.miui.gallery\/files\/perf",
+      "\/sdcard\/Android\/data\/com.miui.gallery\/cache"
+    ],
+    "com.android.browser": [
+      "\/sdcard\/Android\/data\/com.android.browser\/files",
+      "\/sdcard\/Android\/data\/com.android.browser\/files\/perf",
+      "\/sdcard\/Android\/data\/com.android.browser\/cache"
+    ],
+    "com.mi.health": [
+      "\/sdcard\/Android\/data\/com.mi.health\/files",
+      "\/sdcard\/Android\/data\/com.mi.health\/files\/log"
+    ],
+    "com.android.camera": [
+      "\/sdcard\/Android\/data\/com.android.camera\/files",
+      "\/sdcard\/Android\/data\/com.android.camera\/cache"
+    ],
+    "com.xiaomi.market": [
+      "\/sdcard\/Android\/data\/com.xiaomi.market\/files",
+      "\/sdcard\/Android\/data\/com.xiaomi.market\/files\/MiPushLog"
+    ],
+    "com.miui.voiceassist": [
+      "\/sdcard\/Android\/data\/com.miui.voiceassist\/files",
+      "\/sdcard\/Android\/data\/com.miui.voiceassist\/cache"
+    ],
+    "tv.danmaku.bili": [
+      "\/sdcard\/Android\/data\/tv.danmaku.bili\/files",
+      "\/sdcard\/Android\/data\/tv.danmaku.bili\/cache"
+    ],
+    "com.miui.daemon": [
+      "\/sdcard\/Android\/data\/com.miui.daemon\/files"
+    ],
+    "com.xiaomi.misettings": [
+      "\/sdcard\/Android\/data\/com.xiaomi.misettings\/files"
+    ],
+    "com.xiaomi.account": [
+      "\/sdcard\/Android\/data\/com.xiaomi.account\/files",
+      "\/sdcard\/Android\/data\/com.xiaomi.account\/files\/MiPushLog"
+    ],
+    "com.miui.systemAdSolution": [
+      "\/sdcard\/Android\/data\/com.miui.systemAdSolution\/files",
+      "\/sdcard\/Android\/data\/com.miui.systemAdSolution\/files\/MiPushLog"
+    ],
+    "com.xiaomi.xmsf": [
+      "\/sdcard\/Android\/data\/com.xiaomi.xmsf\/files",
+      "\/sdcard\/Android\/data\/com.xiaomi.xmsf\/files\/perf"
+    ],
+    "com.xiaomi.finddevice": [
+      "\/sdcard\/Android\/data\/com.xiaomi.finddevice\/files",
+      "\/sdcard\/Android\/data\/com.xiaomi.finddevice\/files\/perf",
+      "\/sdcard\/Android\/data\/com.xiaomi.finddevice\/files\/perfUploading",
+      "\/sdcard\/Android\/data\/com.xiaomi.finddevice\/files\/push_cdata.lock",
+      "\/sdcard\/Android\/data\/com.xiaomi.finddevice\/files\/push_cdata.data"
+    ],
+    "com.miui.newhome": [
+      "\/sdcard\/Android\/data\/com.miui.newhome\/files",
+      "\/sdcard\/Android\/data\/com.miui.newhome\/files\/Download",
+      "\/sdcard\/Android\/data\/com.miui.newhome\/files\/TTCache",
+      "\/sdcard\/Android\/data\/com.miui.newhome\/files\/MiPushLog",
+      "\/sdcard\/Android\/data\/com.miui.newhome\/files\/download",
+      "\/sdcard\/Android\/data\/com.miui.newhome\/cache",
+      "\/sdcard\/Android\/data\/com.miui.newhome\/cache\/playable"
+    ],
+    "com.miui.cloudservice": [
+      "\/sdcard\/Android\/data\/com.miui.cloudservice\/files"
+    ],
+    "me.fup.v0": [
+      "\/data\/data\/me.fup.v0\/files",
+      "\/data\/data\/me.fup.v0\/cache",
+      "\/data\/data\/me.fup.v0\/code_cache",
+      "\/data\/data\/me.fup.v0\/databases",
+      "\/data\/data\/me.fup.v0\/shared_prefs"
+    ]
+  },
+  "设备信息": {
+    "java_version ": "0",
+    "java_runtime_version": "0.9",
+    "java_runtime_name": "Android Runtime",
+    "java_vm_version ": "2.1.0",
+    "SystemName": "Android",
+    "SystemVersion": "12",
+    "DeviceBrand": "Redmi",
+    "UM-OAID": "8de4ef63613a5502",
+    "DeviceModel": "21121119SC",
+    "ApplicationChannel": "CHANNEL-Xiaomi",
+    "ApplicationKey": "APPKE",
+    "APILevel": "31",
+    "UA": "Mozilla\/5.0 (Linux; Android 12; 21121119SC Build\/SP1A.210812.016; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/99.0.4844.88 Mobile Safari\/537.36",
+    "TargetSdkVersion": "31",
+    "BootTimeMilliseconds": "1664163489548",
+    "Simulator": "0",
+    "Debug": "0",
+    "Hijack": "0",
+    "SDK--utdid": "YzGQkBjkc2ADAL\/1sXsYCoV8",
+    "IsRoot": "0",
+    "SystemFontSize": "0",
+    "SystemHour": "12",
+    "SystemLanguage": "zh",
+    "SystemArea": "CN",
+    "TimeZone": "GMT+08:00",
+    "SenSorModuleName": [
+      {
+        "SenSorName": "lis2hh12",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "ST",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "akm09918",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "AKM",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "ORIENTATION",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "MTK",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "virtual_gyro",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "ST",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "tmd2755_l",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "AMS",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "tmd2755_p",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "AMS",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "GRAVITY",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "MTK",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "LINEARACCEL",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "MTK",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "ROTATION_VECTOR",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "MTK",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "GAME_ROTATION_VECTOR",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "MTK",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "SIGNIFICANT_MOTION",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "MTK",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "STEP_DETECTOR",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "MTK",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "STEP_COUNTER",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "MTK",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "GEOMAGNETIC_ROTATION_VECTOR",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "MTK",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "TILT_DETECTOR",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "MTK",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "GLANCE_GESTURE",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "MTK",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "pickup  Wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "xiaomi",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "DEVICE_ORIENTATION",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "MTK",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "STATIONARY_DETECT",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "MTK",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "MOTION_DETECT",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "MTK",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "UNCALI_ACC",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "MTK",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "STEP_DETECTOR_WAKEUP",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "MTK",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.0010000000474974513
+      }
+    ],
+    "CPUModel": "arm64-v8a:",
+    "BuildId": "SP1A.210812.016",
+    "BuildDisplay": "AL5186-selene-build-20220819143200",
+    "BuildProduct": "selene",
+    "BuildDevice": "selene",
+    "BuildBoard": "selene",
+    "BuildHardware": "mt6768",
+    "BuildSupportedAbis": "arm64-v8a,armeabi-v7a,armeabi",
+    "BuildSupportedAbis32": "armeabi-v7a,armeabi",
+    "BuildSupportedAbis64": "arm64-v8a",
+    "BuildType": "user",
+    "BuildTags": "release-keys",
+    "BuildFingerPrint": "Redmi\/selene\/selene:12\/SP1A.210812.016\/V13.0.3.0.SKUCNXM:user\/release-keys",
+    "BuildRadioVersion": "MOLY.LR12A.R3.MP.V153.12.P37,MOLY.LR12A.R3.MP.V153.12.P37",
+    "BuildIncremental": "V13.0.3.0.SKUCNXM",
+    "BuildSecurityPatch": "2022-08-01",
+    "BuildPreviewSdkInt": "0",
+    "BuildSdkInt": "31",
+    "BuildCodename": "REL",
+    "ETDM": {
+      "BatteryStatus": "5",
+      "BatteryHealth": "2",
+      "BatteryLevel": "100",
+      "BatteryScale": "100",
+      "BatteryPlugged": "1",
+      "BatteryTechnology": "Li-poly"
+    }
+  },
+  "Unsafe": {
+    "init[theUnsafe]": true,
+    "init[THE_ONE]": true,
+    "init[getUnsafe]": true,
+    "init[getUnsafeByAbstractQueuedSynchronizer]": true,
+    "arrayIndexScale赋值Object数组大小": 4,
+    "is64Bit": true,
+    "me-adress": 323263656,
+    "me-hash": 57079301,
+    "me格式化-address": "13449ca8",
+    "me1-adress": 323263656,
+    "me1-hash": 57079301,
+    "me1格式化-address": "13449ca8",
+    "两个对象地址测试结果": true,
+    "两个对象测试结果": true,
+    "byte[]_OFFSET": 12,
+    "byte[]_SCALE": 1,
+    "boolean[]_OFFSET": 12,
+    "boolean[]_SCALE": 1,
+    "int[]_OFFSET": 12,
+    "int[]_SCALE": 4,
+    "long[]_OFFSET": 16,
+    "long[]_SCALE": 8,
+    "float[]_OFFSET": 12,
+    "float[]_SCALE": 4,
+    "double[]_OFFSET": 16,
+    "double[]_SCALE": 8,
+    "Object[]_OFFSET": 12,
+    "Object[]_SCALE": 4,
+    "BUFFER_ADDRESS_OFFSET": 8,
+    "STRIDE_ALIGNMENT_MASK": 7,
+    "BYTE_ARRAY_ALIGNMENT": 4,
+    "IS_BIG_ENDIAN": false,
+    "objectFieldOffset(Field)": true,
+    "1_arrayBaseOffset(Class)": true,
+    "1_getArrayBaseOffsetForComponentType(Class)": true,
+    "2_arrayIndexScale(Class)": true,
+    "2_getArrayIndexScaleForComponentType(Class)": true,
+    "2_arrayIndexScale0(Class)": false,
+    "compareAndSwapInt(Object,long,int,int)": true,
+    "compareAndSwapLong(Object,long,long,long)": true,
+    "compareAndSwapObject(Object,long,Object,Object)": true,
+    "3_getInt(Object,long)": true,
+    "3_getIntVolatile(Object,long)": true,
+    "getInt(long)": true,
+    "4_putInt(Object,long,int)": true,
+    "4_putIntVolatile(Object,long,int)": true,
+    "putInt(long,int)": true,
+    "putOrderedInt(Object,long,int)": true,
+    "5_getLong(Object,long)": true,
+    "5_getLongVolatile(Object,long)": true,
+    "getLong(long)": true,
+    "putLong(Object,long,long)": true,
+    "getObject(Object,long)": true,
+    "putObject(Object,long,Object)": true,
+    "getByte(long)": true,
+    "getByte(Object,long)": true,
+    "putByte(long,byte)": false,
+    "putByte(Object,long,byte)": true,
+    "getBoolean(Object,long)": true,
+    "putBoolean(Object,long,boolean)": true,
+    "getFloat(Object,long)": true,
+    "putFloat(Object,long,float)": true,
+    "getDouble(Object,long)": true,
+    "putDouble(Object,long,double)": true,
+    "bufferAddressField": "long java.nio.Buffer.address",
+    "putLong(long,long)": true,
+    "copyMemory(long,long,long)": true,
+    "addressSize()": true,
+    "pageSize()": true,
+    "allocateInstance(Class)": true,
+    "allocateMemory(long)": true,
+    "copyMemoryToPrimitiveArray(long,Object,long,long)": true,
+    "copyMemoryFromPrimitiveArray(Object,long,long,long)": true,
+    "setMemory(long,long,byte)": true,
+    "freeMemory(long)": true,
+    "getAndAddInt(Object,long,int)": true,
+    "getAndSetInt(Object,long,int)": true,
+    "getAndAddLong(Object,long,long)": true,
+    "getAndSetLong(Object,long,long)": true,
+    "getAndSetObject(Object,long,Object)": true
+  },
+  "MAC": {
+    "java_mac": "02:00:00:00:00:00",
+    "api_mac": "02:00:00:00:00:00",
+    "file_mac": "",
+    "ip_address": "",
+    "ip_link": ""
+  }
+}
