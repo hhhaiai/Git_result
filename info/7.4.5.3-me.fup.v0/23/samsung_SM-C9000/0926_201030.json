@@ -1,0 +1,1332 @@
+{
+  "LetMeSee": {
+    "com.sec.android.app.sbrowser": [
+      "\/sdcard\/Android\/data\/com.sec.android.app.sbrowser\/files",
+      "\/data\/data\/com.sec.android.app.sbrowser\/files",
+      "\/data\/data\/com.sec.android.app.sbrowser\/cache",
+      "\/data\/data\/com.sec.android.app.sbrowser\/code_cache",
+      "\/data\/data\/com.sec.android.app.sbrowser\/databases",
+      "\/data\/data\/com.sec.android.app.sbrowser\/shared_prefs"
+    ],
+    "com.samsung.android.spay": [
+      "\/sdcard\/Android\/data\/com.samsung.android.spay\/cache",
+      "\/data\/data\/com.samsung.android.spay\/files",
+      "\/data\/data\/com.samsung.android.spay\/cache",
+      "\/data\/data\/com.samsung.android.spay\/code_cache",
+      "\/data\/data\/com.samsung.android.spay\/databases",
+      "\/data\/data\/com.samsung.android.spay\/shared_prefs"
+    ],
+    "com.google.android.gms": [
+      "\/sdcard\/Android\/data\/com.google.android.gms\/files",
+      "\/data\/data\/com.google.android.gms\/files",
+      "\/data\/data\/com.google.android.gms\/cache",
+      "\/data\/data\/com.google.android.gms\/code_cache",
+      "\/data\/data\/com.google.android.gms\/databases",
+      "\/data\/data\/com.google.android.gms\/shared_prefs"
+    ],
+    "com.sec.android.app.launcher": [
+      "\/sdcard\/Android\/data\/com.sec.android.app.launcher\/cache",
+      "\/data\/data\/com.sec.android.app.launcher\/files",
+      "\/data\/data\/com.sec.android.app.launcher\/cache",
+      "\/data\/data\/com.sec.android.app.launcher\/code_cache",
+      "\/data\/data\/com.sec.android.app.launcher\/databases",
+      "\/data\/data\/com.sec.android.app.launcher\/shared_prefs"
+    ],
+    "com.samsung.android.spayfw": [
+      "\/sdcard\/Android\/data\/com.samsung.android.spayfw\/cache"
+    ],
+    "com.samsung.android.coreapps": [
+      "\/sdcard\/Android\/data\/com.samsung.android.coreapps\/cache",
+      "\/data\/data\/com.samsung.android.coreapps\/cache",
+      "\/data\/data\/com.samsung.android.coreapps\/code_cache",
+      "\/data\/data\/com.samsung.android.coreapps\/databases",
+      "\/data\/data\/com.samsung.android.coreapps\/shared_prefs"
+    ],
+    "com.samsung.android.themestore": [
+      "\/data\/data\/com.samsung.android.themestore\/files",
+      "\/data\/data\/com.samsung.android.themestore\/cache",
+      "\/data\/data\/com.samsung.android.themestore\/code_cache",
+      "\/data\/data\/com.samsung.android.themestore\/shared_prefs"
+    ],
+    "com.samsung.android.calendar": [
+      "\/data\/data\/com.samsung.android.calendar\/files",
+      "\/data\/data\/com.samsung.android.calendar\/cache",
+      "\/data\/data\/com.samsung.android.calendar\/code_cache",
+      "\/data\/data\/com.samsung.android.calendar\/shared_prefs"
+    ],
+    "com.samsung.android.sm_cn": [
+      "\/data\/data\/com.samsung.android.sm_cn\/files",
+      "\/data\/data\/com.samsung.android.sm_cn\/cache",
+      "\/data\/data\/com.samsung.android.sm_cn\/code_cache",
+      "\/data\/data\/com.samsung.android.sm_cn\/databases",
+      "\/data\/data\/com.samsung.android.sm_cn\/shared_prefs"
+    ],
+    "cn.testin.itestin": [
+      "\/data\/data\/cn.testin.itestin\/files",
+      "\/data\/data\/cn.testin.itestin\/cache",
+      "\/data\/data\/cn.testin.itestin\/code_cache",
+      "\/data\/data\/cn.testin.itestin\/shared_prefs"
+    ],
+    "com.sec.android.app.samsungapps": [
+      "\/data\/data\/com.sec.android.app.samsungapps\/files",
+      "\/data\/data\/com.sec.android.app.samsungapps\/cache",
+      "\/data\/data\/com.sec.android.app.samsungapps\/code_cache",
+      "\/data\/data\/com.sec.android.app.samsungapps\/databases",
+      "\/data\/data\/com.sec.android.app.samsungapps\/shared_prefs"
+    ],
+    "com.samsung.android.game.gamehome": [
+      "\/data\/data\/com.samsung.android.game.gamehome\/files",
+      "\/data\/data\/com.samsung.android.game.gamehome\/cache",
+      "\/data\/data\/com.samsung.android.game.gamehome\/code_cache",
+      "\/data\/data\/com.samsung.android.game.gamehome\/databases",
+      "\/data\/data\/com.samsung.android.game.gamehome\/shared_prefs"
+    ],
+    "com.sec.android.app.clockpackagechina": [
+      "\/data\/data\/com.sec.android.app.clockpackagechina\/files",
+      "\/data\/data\/com.sec.android.app.clockpackagechina\/cache",
+      "\/data\/data\/com.sec.android.app.clockpackagechina\/code_cache",
+      "\/data\/data\/com.sec.android.app.clockpackagechina\/databases",
+      "\/data\/data\/com.sec.android.app.clockpackagechina\/shared_prefs"
+    ],
+    "com.tencent.mm": [
+      "\/data\/data\/com.tencent.mm\/files",
+      "\/data\/data\/com.tencent.mm\/files\/crash",
+      "\/data\/data\/com.tencent.mm\/cache",
+      "\/data\/data\/com.tencent.mm\/code_cache",
+      "\/data\/data\/com.tencent.mm\/databases",
+      "\/data\/data\/com.tencent.mm\/shared_prefs",
+      "\/data\/data\/com.tencent.mm\/MicroMsg"
+    ],
+    "com.android.settings": [
+      "\/data\/data\/com.android.settings\/files",
+      "\/data\/data\/com.android.settings\/cache",
+      "\/data\/data\/com.android.settings\/code_cache",
+      "\/data\/data\/com.android.settings\/databases",
+      "\/data\/data\/com.android.settings\/shared_prefs"
+    ],
+    "com.samsung.android.messaging": [
+      "\/data\/data\/com.samsung.android.messaging\/files",
+      "\/data\/data\/com.samsung.android.messaging\/cache",
+      "\/data\/data\/com.samsung.android.messaging\/code_cache",
+      "\/data\/data\/com.samsung.android.messaging\/databases",
+      "\/data\/data\/com.samsung.android.messaging\/shared_prefs"
+    ],
+    "com.sec.knox.switcher": [
+      "\/data\/data\/com.sec.knox.switcher\/cache",
+      "\/data\/data\/com.sec.knox.switcher\/code_cache",
+      "\/data\/data\/com.sec.knox.switcher\/databases",
+      "\/data\/data\/com.sec.knox.switcher\/shared_prefs"
+    ],
+    "com.sec.android.gallery3d": [
+      "\/data\/data\/com.sec.android.gallery3d\/cache",
+      "\/data\/data\/com.sec.android.gallery3d\/code_cache",
+      "\/data\/data\/com.sec.android.gallery3d\/databases",
+      "\/data\/data\/com.sec.android.gallery3d\/shared_prefs"
+    ],
+    "com.sec.android.app.myfiles": [
+      "\/data\/data\/com.sec.android.app.myfiles\/cache",
+      "\/data\/data\/com.sec.android.app.myfiles\/code_cache",
+      "\/data\/data\/com.sec.android.app.myfiles\/databases",
+      "\/data\/data\/com.sec.android.app.myfiles\/shared_prefs"
+    ],
+    "me.fup.v0": [
+      "\/data\/data\/me.fup.v0\/files",
+      "\/data\/data\/me.fup.v0\/cache",
+      "\/data\/data\/me.fup.v0\/code_cache",
+      "\/data\/data\/me.fup.v0\/databases",
+      "\/data\/data\/me.fup.v0\/shared_prefs"
+    ],
+    "com.samsung.voiceserviceplatform": [
+      "\/data\/data\/com.samsung.voiceserviceplatform\/cache",
+      "\/data\/data\/com.samsung.voiceserviceplatform\/code_cache",
+      "\/data\/data\/com.samsung.voiceserviceplatform\/databases",
+      "\/data\/data\/com.samsung.voiceserviceplatform\/shared_prefs"
+    ],
+    "com.sec.android.app.fm": [
+      "\/data\/data\/com.sec.android.app.fm\/files",
+      "\/data\/data\/com.sec.android.app.fm\/cache",
+      "\/data\/data\/com.sec.android.app.fm\/code_cache"
+    ],
+    "com.sec.android.app.camera": [
+      "\/data\/data\/com.sec.android.app.camera\/cache",
+      "\/data\/data\/com.sec.android.app.camera\/code_cache",
+      "\/data\/data\/com.sec.android.app.camera\/shared_prefs"
+    ],
+    "com.samsung.android.contacts": [
+      "\/data\/data\/com.samsung.android.contacts\/files",
+      "\/data\/data\/com.samsung.android.contacts\/cache",
+      "\/data\/data\/com.samsung.android.contacts\/code_cache",
+      "\/data\/data\/com.samsung.android.contacts\/databases",
+      "\/data\/data\/com.samsung.android.contacts\/shared_prefs"
+    ],
+    "com.samsung.android.provider.filterprovider": [
+      "\/data\/data\/com.samsung.android.provider.filterprovider\/cache",
+      "\/data\/data\/com.samsung.android.provider.filterprovider\/code_cache",
+      "\/data\/data\/com.samsung.android.provider.filterprovider\/databases"
+    ],
+    "com.samsung.android.app.galaxyfinder": [
+      "\/data\/data\/com.samsung.android.app.galaxyfinder\/cache",
+      "\/data\/data\/com.samsung.android.app.galaxyfinder\/code_cache",
+      "\/data\/data\/com.samsung.android.app.galaxyfinder\/databases",
+      "\/data\/data\/com.samsung.android.app.galaxyfinder\/shared_prefs"
+    ],
+    "com.sec.location.nsflp2": [
+      "\/data\/data\/com.sec.location.nsflp2\/cache",
+      "\/data\/data\/com.sec.location.nsflp2\/code_cache",
+      "\/data\/data\/com.sec.location.nsflp2\/databases",
+      "\/data\/data\/com.sec.location.nsflp2\/shared_prefs"
+    ],
+    "com.samsung.android.app.aodservice": [
+      "\/data\/data\/com.samsung.android.app.aodservice\/cache",
+      "\/data\/data\/com.samsung.android.app.aodservice\/code_cache",
+      "\/data\/data\/com.samsung.android.app.aodservice\/databases",
+      "\/data\/data\/com.samsung.android.app.aodservice\/databases\/logs",
+      "\/data\/data\/com.samsung.android.app.aodservice\/shared_prefs"
+    ],
+    "com.android.providers.telephony": [
+      "\/data\/data\/com.android.providers.telephony\/databases",
+      "\/data\/data\/com.android.providers.telephony\/shared_prefs"
+    ],
+    "com.sec.android.app.parser": [
+      "\/data\/data\/com.sec.android.app.parser\/cache",
+      "\/data\/data\/com.sec.android.app.parser\/code_cache"
+    ],
+    "com.unionpay.tsmservice": [
+      "\/data\/data\/com.unionpay.tsmservice\/cache",
+      "\/data\/data\/com.unionpay.tsmservice\/code_cache"
+    ],
+    "com.samsung.svoice.sync": [
+      "\/data\/data\/com.samsung.svoice.sync\/cache",
+      "\/data\/data\/com.samsung.svoice.sync\/code_cache",
+      "\/data\/data\/com.samsung.svoice.sync\/databases",
+      "\/data\/data\/com.samsung.svoice.sync\/shared_prefs"
+    ],
+    "com.android.providers.calendar": [
+      "\/data\/data\/com.android.providers.calendar\/cache",
+      "\/data\/data\/com.android.providers.calendar\/code_cache",
+      "\/data\/data\/com.android.providers.calendar\/databases",
+      "\/data\/data\/com.android.providers.calendar\/shared_prefs"
+    ],
+    "com.osp.app.signin": [
+      "\/data\/data\/com.osp.app.signin\/files",
+      "\/data\/data\/com.osp.app.signin\/cache",
+      "\/data\/data\/com.osp.app.signin\/code_cache",
+      "\/data\/data\/com.osp.app.signin\/databases",
+      "\/data\/data\/com.osp.app.signin\/shared_prefs"
+    ],
+    "com.samsung.clipboardsaveservice": [
+      "\/data\/data\/com.samsung.clipboardsaveservice\/files",
+      "\/data\/data\/com.samsung.clipboardsaveservice\/cache",
+      "\/data\/data\/com.samsung.clipboardsaveservice\/code_cache"
+    ],
+    "com.android.providers.media": [
+      "\/data\/data\/com.android.providers.media\/cache",
+      "\/data\/data\/com.android.providers.media\/code_cache",
+      "\/data\/data\/com.android.providers.media\/databases",
+      "\/data\/data\/com.android.providers.media\/shared_prefs"
+    ],
+    "com.google.android.onetimeinitializer": [
+      "\/data\/data\/com.google.android.onetimeinitializer\/cache",
+      "\/data\/data\/com.google.android.onetimeinitializer\/code_cache",
+      "\/data\/data\/com.google.android.onetimeinitializer\/shared_prefs"
+    ],
+    "com.samsung.android.provider.shootingmodeprovider": [
+      "\/data\/data\/com.samsung.android.provider.shootingmodeprovider\/cache",
+      "\/data\/data\/com.samsung.android.provider.shootingmodeprovider\/code_cache",
+      "\/data\/data\/com.samsung.android.provider.shootingmodeprovider\/databases",
+      "\/data\/data\/com.samsung.android.provider.shootingmodeprovider\/shared_prefs"
+    ],
+    "com.sec.android.app.wfdbroker": [
+      "\/data\/data\/com.sec.android.app.wfdbroker\/cache",
+      "\/data\/data\/com.sec.android.app.wfdbroker\/code_cache"
+    ],
+    "com.samsung.android.app.withtv": [
+      "\/data\/data\/com.samsung.android.app.withtv\/cache",
+      "\/data\/data\/com.samsung.android.app.withtv\/code_cache"
+    ],
+    "com.sec.android.app.safetyassurance": [
+      "\/data\/data\/com.sec.android.app.safetyassurance\/cache",
+      "\/data\/data\/com.sec.android.app.safetyassurance\/code_cache",
+      "\/data\/data\/com.sec.android.app.safetyassurance\/shared_prefs"
+    ],
+    "com.samsung.android.incallui": [
+      "\/data\/data\/com.samsung.android.incallui\/cache",
+      "\/data\/data\/com.samsung.android.incallui\/code_cache",
+      "\/data\/data\/com.samsung.android.incallui\/shared_prefs"
+    ],
+    "com.samsung.ucs.agent.boot": [
+      "\/data\/data\/com.samsung.ucs.agent.boot\/cache",
+      "\/data\/data\/com.samsung.ucs.agent.boot\/code_cache"
+    ],
+    "org.simalliance.openmobileapi.service": [
+      "\/data\/data\/org.simalliance.openmobileapi.service\/cache",
+      "\/data\/data\/org.simalliance.openmobileapi.service\/code_cache"
+    ],
+    "com.sec.usbsettings": [
+      "\/data\/data\/com.sec.usbsettings\/cache",
+      "\/data\/data\/com.sec.usbsettings\/code_cache"
+    ],
+    "com.samsung.android.easysetup": [
+      "\/data\/data\/com.samsung.android.easysetup\/cache",
+      "\/data\/data\/com.samsung.android.easysetup\/code_cache",
+      "\/data\/data\/com.samsung.android.easysetup\/databases"
+    ],
+    "com.sec.android.Kies": [
+      "\/data\/data\/com.sec.android.Kies\/cache",
+      "\/data\/data\/com.sec.android.Kies\/code_cache"
+    ],
+    "com.android.documentsui": [
+      "\/data\/data\/com.android.documentsui\/cache",
+      "\/data\/data\/com.android.documentsui\/code_cache",
+      "\/data\/data\/com.android.documentsui\/databases"
+    ],
+    "com.samsung.android.fingerprint.service": [
+      "\/data\/data\/com.samsung.android.fingerprint.service\/cache",
+      "\/data\/data\/com.samsung.android.fingerprint.service\/code_cache"
+    ],
+    "com.android.externalstorage": [
+      "\/data\/data\/com.android.externalstorage\/cache",
+      "\/data\/data\/com.android.externalstorage\/code_cache"
+    ],
+    "com.sec.factory": [
+      "\/data\/data\/com.sec.factory\/cache",
+      "\/data\/data\/com.sec.factory\/code_cache",
+      "\/data\/data\/com.sec.factory\/shared_prefs"
+    ],
+    "com.samsung.android.authservice": [
+      "\/data\/data\/com.samsung.android.authservice\/cache",
+      "\/data\/data\/com.samsung.android.authservice\/code_cache",
+      "\/data\/data\/com.samsung.android.authservice\/databases"
+    ],
+    "com.sec.knox.knoxsetupwizardclient": [
+      "\/data\/data\/com.sec.knox.knoxsetupwizardclient\/cache",
+      "\/data\/data\/com.sec.knox.knoxsetupwizardclient\/code_cache",
+      "\/data\/data\/com.sec.knox.knoxsetupwizardclient\/shared_prefs"
+    ],
+    "com.samsung.android.securitylogagent": [
+      "\/data\/data\/com.samsung.android.securitylogagent\/files",
+      "\/data\/data\/com.samsung.android.securitylogagent\/cache",
+      "\/data\/data\/com.samsung.android.securitylogagent\/code_cache",
+      "\/data\/data\/com.samsung.android.securitylogagent\/shared_prefs"
+    ],
+    "com.android.providers.downloads": [
+      "\/data\/data\/com.android.providers.downloads\/files",
+      "\/data\/data\/com.android.providers.downloads\/cache",
+      "\/data\/data\/com.android.providers.downloads\/code_cache",
+      "\/data\/data\/com.android.providers.downloads\/databases"
+    ],
+    "com.sec.sve": [
+      "\/data\/data\/com.sec.sve\/cache",
+      "\/data\/data\/com.sec.sve\/code_cache"
+    ],
+    "com.samsung.android.qconnect": [
+      "\/data\/data\/com.samsung.android.qconnect\/cache",
+      "\/data\/data\/com.samsung.android.qconnect\/code_cache",
+      "\/data\/data\/com.samsung.android.qconnect\/databases",
+      "\/data\/data\/com.samsung.android.qconnect\/shared_prefs"
+    ],
+    "com.samsung.android.wechatwifiservice": [
+      "\/data\/data\/com.samsung.android.wechatwifiservice\/cache",
+      "\/data\/data\/com.samsung.android.wechatwifiservice\/code_cache"
+    ],
+    "com.sec.android.soagent": [
+      "\/data\/data\/com.sec.android.soagent\/cache",
+      "\/data\/data\/com.sec.android.soagent\/code_cache",
+      "\/data\/data\/com.sec.android.soagent\/databases",
+      "\/data\/data\/com.sec.android.soagent\/shared_prefs"
+    ],
+    "com.sec.android.easyMover.Agent": [
+      "\/data\/data\/com.sec.android.easyMover.Agent\/cache",
+      "\/data\/data\/com.sec.android.easyMover.Agent\/code_cache",
+      "\/data\/data\/com.sec.android.easyMover.Agent\/shared_prefs"
+    ],
+    "com.samsung.android.clipboarduiservice": [
+      "\/data\/data\/com.samsung.android.clipboarduiservice\/cache",
+      "\/data\/data\/com.samsung.android.clipboarduiservice\/code_cache"
+    ],
+    "com.wsomacp": [
+      "\/data\/data\/com.wsomacp\/cache",
+      "\/data\/data\/com.wsomacp\/code_cache",
+      "\/data\/data\/com.wsomacp\/databases"
+    ],
+    "com.samsung.chn.apps.AutoLogin": [
+      "\/data\/data\/com.samsung.chn.apps.AutoLogin\/cache",
+      "\/data\/data\/com.samsung.chn.apps.AutoLogin\/code_cache",
+      "\/data\/data\/com.samsung.chn.apps.AutoLogin\/shared_prefs"
+    ],
+    "com.samsung.faceservice": [
+      "\/data\/data\/com.samsung.faceservice\/cache",
+      "\/data\/data\/com.samsung.faceservice\/code_cache",
+      "\/data\/data\/com.samsung.faceservice\/shared_prefs"
+    ],
+    "com.samsung.android.app.scrollcapture": [
+      "\/data\/data\/com.samsung.android.app.scrollcapture\/cache",
+      "\/data\/data\/com.samsung.android.app.scrollcapture\/code_cache",
+      "\/data\/data\/com.samsung.android.app.scrollcapture\/shared_prefs"
+    ],
+    "com.sec.android.app.easylauncher": [
+      "\/data\/data\/com.sec.android.app.easylauncher\/cache",
+      "\/data\/data\/com.sec.android.app.easylauncher\/code_cache",
+      "\/data\/data\/com.sec.android.app.easylauncher\/databases",
+      "\/data\/data\/com.sec.android.app.easylauncher\/shared_prefs"
+    ],
+    "com.android.keychain": [
+      "\/data\/data\/com.android.keychain\/cache",
+      "\/data\/data\/com.android.keychain\/code_cache",
+      "\/data\/data\/com.android.keychain\/databases"
+    ],
+    "com.samsung.knox.rcp.components": [
+      "\/data\/data\/com.samsung.knox.rcp.components\/cache",
+      "\/data\/data\/com.samsung.knox.rcp.components\/code_cache",
+      "\/data\/data\/com.samsung.knox.rcp.components\/databases",
+      "\/data\/data\/com.samsung.knox.rcp.components\/shared_prefs"
+    ],
+    "com.qualcomm.timeservice": [
+      "\/data\/data\/com.qualcomm.timeservice\/cache",
+      "\/data\/data\/com.qualcomm.timeservice\/code_cache"
+    ],
+    "com.samsung.android.svcagent": [
+      "\/data\/data\/com.samsung.android.svcagent\/cache",
+      "\/data\/data\/com.samsung.android.svcagent\/code_cache",
+      "\/data\/data\/com.samsung.android.svcagent\/shared_prefs"
+    ],
+    "com.sec.android.widgetapp.easymodecontactswidget": [
+      "\/data\/data\/com.sec.android.widgetapp.easymodecontactswidget\/cache",
+      "\/data\/data\/com.sec.android.widgetapp.easymodecontactswidget\/code_cache",
+      "\/data\/data\/com.sec.android.widgetapp.easymodecontactswidget\/databases",
+      "\/data\/data\/com.sec.android.widgetapp.easymodecontactswidget\/shared_prefs"
+    ],
+    "com.samsung.android.app.accesscontrol": [
+      "\/data\/data\/com.samsung.android.app.accesscontrol\/cache",
+      "\/data\/data\/com.samsung.android.app.accesscontrol\/code_cache",
+      "\/data\/data\/com.samsung.android.app.accesscontrol\/shared_prefs"
+    ],
+    "com.samsung.android.intelligenceservice2": [
+      "\/data\/data\/com.samsung.android.intelligenceservice2\/cache",
+      "\/data\/data\/com.samsung.android.intelligenceservice2\/code_cache",
+      "\/data\/data\/com.samsung.android.intelligenceservice2\/databases",
+      "\/data\/data\/com.samsung.android.intelligenceservice2\/shared_prefs"
+    ],
+    "com.samsung.android.MtpApplication": [
+      "\/data\/data\/com.samsung.android.MtpApplication\/cache",
+      "\/data\/data\/com.samsung.android.MtpApplication\/code_cache",
+      "\/data\/data\/com.samsung.android.MtpApplication\/databases"
+    ],
+    "com.sec.android.app.factorykeystring": [
+      "\/data\/data\/com.sec.android.app.factorykeystring\/cache",
+      "\/data\/data\/com.sec.android.app.factorykeystring\/code_cache"
+    ],
+    "com.wssnps": [
+      "\/data\/data\/com.wssnps\/files",
+      "\/data\/data\/com.wssnps\/cache",
+      "\/data\/data\/com.wssnps\/code_cache",
+      "\/data\/data\/com.wssnps\/databases"
+    ],
+    "com.sec.android.emergencymode.service": [
+      "\/data\/data\/com.sec.android.emergencymode.service\/cache",
+      "\/data\/data\/com.sec.android.emergencymode.service\/code_cache",
+      "\/data\/data\/com.sec.android.emergencymode.service\/shared_prefs"
+    ],
+    "com.oupeng.max.sdk": [
+      "\/data\/data\/com.oupeng.max.sdk\/files",
+      "\/data\/data\/com.oupeng.max.sdk\/cache",
+      "\/data\/data\/com.oupeng.max.sdk\/code_cache",
+      "\/data\/data\/com.oupeng.max.sdk\/databases",
+      "\/data\/data\/com.oupeng.max.sdk\/shared_prefs"
+    ],
+    "com.google.android.configupdater": [
+      "\/data\/data\/com.google.android.configupdater\/files",
+      "\/data\/data\/com.google.android.configupdater\/cache",
+      "\/data\/data\/com.google.android.configupdater\/code_cache",
+      "\/data\/data\/com.google.android.configupdater\/shared_prefs"
+    ],
+    "com.samsung.chn.apps.dmcmcc": [
+      "\/data\/data\/com.samsung.chn.apps.dmcmcc\/files",
+      "\/data\/data\/com.samsung.chn.apps.dmcmcc\/cache",
+      "\/data\/data\/com.samsung.chn.apps.dmcmcc\/code_cache",
+      "\/data\/data\/com.samsung.chn.apps.dmcmcc\/databases",
+      "\/data\/data\/com.samsung.chn.apps.dmcmcc\/shared_prefs"
+    ],
+    "com.samsung.android.softsim": [
+      "\/data\/data\/com.samsung.android.softsim\/cache",
+      "\/data\/data\/com.samsung.android.softsim\/code_cache"
+    ],
+    "com.samsung.chn.apps.AutoLoginDM_CU": [
+      "\/data\/data\/com.samsung.chn.apps.AutoLoginDM_CU\/cache",
+      "\/data\/data\/com.samsung.chn.apps.AutoLoginDM_CU\/code_cache",
+      "\/data\/data\/com.samsung.chn.apps.AutoLoginDM_CU\/shared_prefs"
+    ],
+    "com.sec.android.app.billing": [
+      "\/data\/data\/com.sec.android.app.billing\/files",
+      "\/data\/data\/com.sec.android.app.billing\/cache",
+      "\/data\/data\/com.sec.android.app.billing\/code_cache",
+      "\/data\/data\/com.sec.android.app.billing\/shared_prefs"
+    ],
+    "com.sec.android.app.SecSetupWizard": [
+      "\/data\/data\/com.sec.android.app.SecSetupWizard\/cache",
+      "\/data\/data\/com.sec.android.app.SecSetupWizard\/code_cache",
+      "\/data\/data\/com.sec.android.app.SecSetupWizard\/shared_prefs"
+    ],
+    "com.qualcomm.qti.services.secureui": [
+      "\/data\/data\/com.qualcomm.qti.services.secureui\/cache",
+      "\/data\/data\/com.qualcomm.qti.services.secureui\/code_cache"
+    ],
+    "com.sec.android.diagmonagent": [
+      "\/data\/data\/com.sec.android.diagmonagent\/cache",
+      "\/data\/data\/com.sec.android.diagmonagent\/code_cache",
+      "\/data\/data\/com.sec.android.diagmonagent\/databases",
+      "\/data\/data\/com.sec.android.diagmonagent\/shared_prefs"
+    ],
+    "com.sec.android.daemonapp": [
+      "\/data\/data\/com.sec.android.daemonapp\/cache",
+      "\/data\/data\/com.sec.android.daemonapp\/code_cache",
+      "\/data\/data\/com.sec.android.daemonapp\/databases",
+      "\/data\/data\/com.sec.android.daemonapp\/shared_prefs"
+    ],
+    "com.sec.android.app.servicemodeapp": [
+      "\/data\/data\/com.sec.android.app.servicemodeapp\/cache",
+      "\/data\/data\/com.sec.android.app.servicemodeapp\/code_cache"
+    ],
+    "com.sec.modem.settings": [
+      "\/data\/data\/com.sec.modem.settings\/cache",
+      "\/data\/data\/com.sec.modem.settings\/code_cache"
+    ],
+    "com.android.providers.settings": [
+      "\/data\/data\/com.android.providers.settings\/databases"
+    ],
+    "com.android.server.telecom": [
+      "\/data\/data\/com.android.server.telecom\/files"
+    ],
+    "com.android.vending": [
+      "\/data\/data\/com.android.vending\/files",
+      "\/data\/data\/com.android.vending\/cache",
+      "\/data\/data\/com.android.vending\/cache\/logs",
+      "\/data\/data\/com.android.vending\/code_cache",
+      "\/data\/data\/com.android.vending\/databases",
+      "\/data\/data\/com.android.vending\/shared_prefs"
+    ],
+    "com.sec.android.app.sysscope": [
+      "\/data\/data\/com.sec.android.app.sysscope\/cache",
+      "\/data\/data\/com.sec.android.app.sysscope\/code_cache",
+      "\/data\/data\/com.sec.android.app.sysscope\/databases"
+    ],
+    "com.sec.android.app.popupuireceiver": [
+      "\/data\/data\/com.sec.android.app.popupuireceiver\/cache",
+      "\/data\/data\/com.sec.android.app.popupuireceiver\/code_cache"
+    ],
+    "com.bst.floatingmsgproxy": [
+      "\/data\/data\/com.bst.floatingmsgproxy\/cache",
+      "\/data\/data\/com.bst.floatingmsgproxy\/code_cache",
+      "\/data\/data\/com.bst.floatingmsgproxy\/shared_prefs"
+    ],
+    "com.samsung.android.themecenter": [
+      "\/data\/data\/com.samsung.android.themecenter\/files",
+      "\/data\/data\/com.samsung.android.themecenter\/cache",
+      "\/data\/data\/com.samsung.android.themecenter\/code_cache"
+    ],
+    "com.sec.android.AutoPreconfig": [
+      "\/data\/data\/com.sec.android.AutoPreconfig\/cache",
+      "\/data\/data\/com.sec.android.AutoPreconfig\/code_cache"
+    ],
+    "com.sec.imsservice": [
+      "\/data\/data\/com.sec.imsservice\/files",
+      "\/data\/data\/com.sec.imsservice\/cache",
+      "\/data\/data\/com.sec.imsservice\/code_cache",
+      "\/data\/data\/com.sec.imsservice\/databases",
+      "\/data\/data\/com.sec.imsservice\/shared_prefs"
+    ],
+    "com.samsung.android.SettingsReceiver": [
+      "\/data\/data\/com.samsung.android.SettingsReceiver\/cache",
+      "\/data\/data\/com.samsung.android.SettingsReceiver\/code_cache"
+    ],
+    "com.sec.android.app.soundalive": [
+      "\/data\/data\/com.sec.android.app.soundalive\/cache",
+      "\/data\/data\/com.sec.android.app.soundalive\/code_cache",
+      "\/data\/data\/com.sec.android.app.soundalive\/shared_prefs"
+    ],
+    "com.sec.android.provider.badge": [
+      "\/data\/data\/com.sec.android.provider.badge\/cache",
+      "\/data\/data\/com.sec.android.provider.badge\/code_cache",
+      "\/data\/data\/com.sec.android.provider.badge\/databases"
+    ],
+    "com.samsung.android.fmm": [
+      "\/data\/data\/com.samsung.android.fmm\/cache",
+      "\/data\/data\/com.samsung.android.fmm\/code_cache",
+      "\/data\/data\/com.samsung.android.fmm\/databases",
+      "\/data\/data\/com.samsung.android.fmm\/shared_prefs"
+    ],
+    "com.samsung.knox.appsupdateagent": [
+      "\/data\/data\/com.samsung.knox.appsupdateagent\/cache",
+      "\/data\/data\/com.samsung.knox.appsupdateagent\/code_cache",
+      "\/data\/data\/com.samsung.knox.appsupdateagent\/databases",
+      "\/data\/data\/com.samsung.knox.appsupdateagent\/shared_prefs"
+    ],
+    "com.samsung.android.app.assistantmenu": [
+      "\/data\/data\/com.samsung.android.app.assistantmenu\/cache",
+      "\/data\/data\/com.samsung.android.app.assistantmenu\/code_cache",
+      "\/data\/data\/com.samsung.android.app.assistantmenu\/databases",
+      "\/data\/data\/com.samsung.android.app.assistantmenu\/shared_prefs"
+    ],
+    "com.samsung.android.communicationservice": [
+      "\/data\/data\/com.samsung.android.communicationservice\/cache",
+      "\/data\/data\/com.samsung.android.communicationservice\/code_cache",
+      "\/data\/data\/com.samsung.android.communicationservice\/shared_prefs"
+    ],
+    "com.sec.knox.foldercontainer": [
+      "\/data\/data\/com.sec.knox.foldercontainer\/cache",
+      "\/data\/data\/com.sec.knox.foldercontainer\/code_cache",
+      "\/data\/data\/com.sec.knox.foldercontainer\/databases",
+      "\/data\/data\/com.sec.knox.foldercontainer\/shared_prefs"
+    ],
+    "com.samsung.SMT": [
+      "\/data\/data\/com.samsung.SMT\/files",
+      "\/data\/data\/com.samsung.SMT\/cache",
+      "\/data\/data\/com.samsung.SMT\/code_cache",
+      "\/data\/data\/com.samsung.SMT\/shared_prefs"
+    ],
+    "com.samsung.cmh": [
+      "\/data\/data\/com.samsung.cmh\/cache",
+      "\/data\/data\/com.samsung.cmh\/code_cache",
+      "\/data\/data\/com.samsung.cmh\/databases",
+      "\/data\/data\/com.samsung.cmh\/shared_prefs"
+    ],
+    "com.sec.android.app.bluetoothtest": [
+      "\/data\/data\/com.sec.android.app.bluetoothtest\/cache",
+      "\/data\/data\/com.sec.android.app.bluetoothtest\/code_cache"
+    ],
+    "com.samsung.hs20provider": [
+      "\/data\/data\/com.samsung.hs20provider\/cache",
+      "\/data\/data\/com.samsung.hs20provider\/code_cache",
+      "\/data\/data\/com.samsung.hs20provider\/databases"
+    ],
+    "com.samsung.android.sm.devicesecurity": [
+      "\/data\/data\/com.samsung.android.sm.devicesecurity\/cache",
+      "\/data\/data\/com.samsung.android.sm.devicesecurity\/code_cache",
+      "\/data\/data\/com.samsung.android.sm.devicesecurity\/databases"
+    ],
+    "com.samsung.aasaservice": [
+      "\/data\/data\/com.samsung.aasaservice\/cache",
+      "\/data\/data\/com.samsung.aasaservice\/code_cache",
+      "\/data\/data\/com.samsung.aasaservice\/shared_prefs"
+    ],
+    "com.samsung.hongbaoassistant": [
+      "\/data\/data\/com.samsung.hongbaoassistant\/cache",
+      "\/data\/data\/com.samsung.hongbaoassistant\/code_cache"
+    ],
+    "com.samsung.android.smartface": [
+      "\/data\/data\/com.samsung.android.smartface\/files",
+      "\/data\/data\/com.samsung.android.smartface\/cache",
+      "\/data\/data\/com.samsung.android.smartface\/code_cache"
+    ],
+    "com.samsung.android.app.mirrorlink": [
+      "\/data\/data\/com.samsung.android.app.mirrorlink\/files",
+      "\/data\/data\/com.samsung.android.app.mirrorlink\/cache",
+      "\/data\/data\/com.samsung.android.app.mirrorlink\/code_cache",
+      "\/data\/data\/com.samsung.android.app.mirrorlink\/databases",
+      "\/data\/data\/com.samsung.android.app.mirrorlink\/shared_prefs"
+    ],
+    "com.sec.app.RilErrorNotifier": [
+      "\/data\/data\/com.sec.app.RilErrorNotifier\/cache",
+      "\/data\/data\/com.sec.app.RilErrorNotifier\/code_cache"
+    ],
+    "com.samsung.android.bbc.bbcagent": [
+      "\/data\/data\/com.samsung.android.bbc.bbcagent\/cache",
+      "\/data\/data\/com.samsung.android.bbc.bbcagent\/code_cache",
+      "\/data\/data\/com.samsung.android.bbc.bbcagent\/databases"
+    ],
+    "com.sem.factoryapp": [
+      "\/data\/data\/com.sem.factoryapp\/cache",
+      "\/data\/data\/com.sem.factoryapp\/code_cache"
+    ],
+    "com.samsung.klmsagent": [
+      "\/data\/data\/com.samsung.klmsagent\/cache",
+      "\/data\/data\/com.samsung.klmsagent\/code_cache",
+      "\/data\/data\/com.samsung.klmsagent\/databases",
+      "\/data\/data\/com.samsung.klmsagent\/shared_prefs"
+    ],
+    "com.qualcomm.atfwd": [
+      "\/data\/data\/com.qualcomm.atfwd\/cache",
+      "\/data\/data\/com.qualcomm.atfwd\/code_cache"
+    ],
+    "com.bst.spamcall": [
+      "\/data\/data\/com.bst.spamcall\/files",
+      "\/data\/data\/com.bst.spamcall\/cache",
+      "\/data\/data\/com.bst.spamcall\/code_cache",
+      "\/data\/data\/com.bst.spamcall\/databases",
+      "\/data\/data\/com.bst.spamcall\/shared_prefs"
+    ],
+    "com.samsung.android.app.colorblind": [
+      "\/data\/data\/com.samsung.android.app.colorblind\/cache",
+      "\/data\/data\/com.samsung.android.app.colorblind\/code_cache",
+      "\/data\/data\/com.samsung.android.app.colorblind\/shared_prefs"
+    ],
+    "com.bst.airmessage": [
+      "\/data\/data\/com.bst.airmessage\/files",
+      "\/data\/data\/com.bst.airmessage\/cache",
+      "\/data\/data\/com.bst.airmessage\/code_cache",
+      "\/data\/data\/com.bst.airmessage\/databases",
+      "\/data\/data\/com.bst.airmessage\/shared_prefs"
+    ],
+    "com.sec.android.app.mt": [
+      "\/data\/data\/com.sec.android.app.mt\/cache",
+      "\/data\/data\/com.sec.android.app.mt\/code_cache"
+    ],
+    "com.samsung.android.packageinstaller": [
+      "\/data\/data\/com.samsung.android.packageinstaller\/cache",
+      "\/data\/data\/com.samsung.android.packageinstaller\/code_cache",
+      "\/data\/data\/com.samsung.android.packageinstaller\/shared_prefs"
+    ],
+    "com.wssyncmldm": [
+      "\/data\/data\/com.wssyncmldm\/cache",
+      "\/data\/data\/com.wssyncmldm\/code_cache",
+      "\/data\/data\/com.wssyncmldm\/databases",
+      "\/data\/data\/com.wssyncmldm\/shared_prefs"
+    ],
+    "com.sec.android.preloadinstaller": [
+      "\/data\/data\/com.sec.android.preloadinstaller\/cache",
+      "\/data\/data\/com.sec.android.preloadinstaller\/code_cache",
+      "\/data\/data\/com.sec.android.preloadinstaller\/shared_prefs"
+    ],
+    "com.samsung.android.providers.context": [
+      "\/data\/data\/com.samsung.android.providers.context\/files",
+      "\/data\/data\/com.samsung.android.providers.context\/cache",
+      "\/data\/data\/com.samsung.android.providers.context\/code_cache",
+      "\/data\/data\/com.samsung.android.providers.context\/databases",
+      "\/data\/data\/com.samsung.android.providers.context\/shared_prefs"
+    ],
+    "com.sec.phone": [
+      "\/data\/data\/com.sec.phone\/cache",
+      "\/data\/data\/com.sec.phone\/code_cache"
+    ],
+    "com.android.phone": [
+      "\/data\/data\/com.android.phone\/files",
+      "\/data\/data\/com.android.phone\/cache",
+      "\/data\/data\/com.android.phone\/code_cache",
+      "\/data\/data\/com.android.phone\/databases",
+      "\/data\/data\/com.android.phone\/shared_prefs"
+    ],
+    "com.sec.app.TransmitPowerService": [
+      "\/data\/data\/com.sec.app.TransmitPowerService\/cache",
+      "\/data\/data\/com.sec.app.TransmitPowerService\/code_cache"
+    ],
+    "com.sec.imslogger": [
+      "\/data\/data\/com.sec.imslogger\/cache",
+      "\/data\/data\/com.sec.imslogger\/code_cache"
+    ],
+    "com.android.printspooler": [
+      "\/data\/data\/com.android.printspooler\/files",
+      "\/data\/data\/com.android.printspooler\/cache",
+      "\/data\/data\/com.android.printspooler\/code_cache"
+    ],
+    "com.samsung.storyservice": [
+      "\/data\/data\/com.samsung.storyservice\/cache",
+      "\/data\/data\/com.samsung.storyservice\/code_cache",
+      "\/data\/data\/com.samsung.storyservice\/databases",
+      "\/data\/data\/com.samsung.storyservice\/shared_prefs"
+    ],
+    "com.samsung.sec.android.application.csc": [
+      "\/data\/data\/com.samsung.sec.android.application.csc\/files",
+      "\/data\/data\/com.samsung.sec.android.application.csc\/shared_prefs"
+    ],
+    "com.sec.app.samsungprintservice": [
+      "\/data\/data\/com.sec.app.samsungprintservice\/cache",
+      "\/data\/data\/com.sec.app.samsungprintservice\/code_cache"
+    ],
+    "com.sgmc.phonenumberlocatorservice": [
+      "\/data\/data\/com.sgmc.phonenumberlocatorservice\/files",
+      "\/data\/data\/com.sgmc.phonenumberlocatorservice\/cache",
+      "\/data\/data\/com.sgmc.phonenumberlocatorservice\/code_cache",
+      "\/data\/data\/com.sgmc.phonenumberlocatorservice\/databases",
+      "\/data\/data\/com.sgmc.phonenumberlocatorservice\/shared_prefs"
+    ],
+    "com.sec.app.screenrecorder": [
+      "\/data\/data\/com.sec.app.screenrecorder\/cache",
+      "\/data\/data\/com.sec.app.screenrecorder\/code_cache",
+      "\/data\/data\/com.sec.app.screenrecorder\/shared_prefs"
+    ],
+    "com.samsung.android.app.talkback": [
+      "\/data\/data\/com.samsung.android.app.talkback\/cache",
+      "\/data\/data\/com.samsung.android.app.talkback\/code_cache",
+      "\/data\/data\/com.samsung.android.app.talkback\/shared_prefs"
+    ],
+    "com.samsung.android.game.gametools": [
+      "\/data\/data\/com.samsung.android.game.gametools\/cache",
+      "\/data\/data\/com.samsung.android.game.gametools\/code_cache",
+      "\/data\/data\/com.samsung.android.game.gametools\/shared_prefs"
+    ],
+    "com.samsung.android.app.simplesharing": [
+      "\/data\/data\/com.samsung.android.app.simplesharing\/cache",
+      "\/data\/data\/com.samsung.android.app.simplesharing\/code_cache",
+      "\/data\/data\/com.samsung.android.app.simplesharing\/shared_prefs"
+    ],
+    "com.samsung.android.smartcallprovider": [
+      "\/data\/data\/com.samsung.android.smartcallprovider\/cache",
+      "\/data\/data\/com.samsung.android.smartcallprovider\/code_cache",
+      "\/data\/data\/com.samsung.android.smartcallprovider\/shared_prefs"
+    ],
+    "com.alipay.security.mobile.authenticator": [
+      "\/data\/data\/com.alipay.security.mobile.authenticator\/files",
+      "\/data\/data\/com.alipay.security.mobile.authenticator\/files\/log",
+      "\/data\/data\/com.alipay.security.mobile.authenticator\/cache",
+      "\/data\/data\/com.alipay.security.mobile.authenticator\/code_cache",
+      "\/data\/data\/com.alipay.security.mobile.authenticator\/shared_prefs"
+    ],
+    "com.samsung.android.weather": [
+      "\/data\/data\/com.samsung.android.weather\/cache",
+      "\/data\/data\/com.samsung.android.weather\/code_cache",
+      "\/data\/data\/com.samsung.android.weather\/shared_prefs"
+    ],
+    "com.sec.android.inputmethod": [
+      "\/data\/data\/com.sec.android.inputmethod\/files",
+      "\/data\/data\/com.sec.android.inputmethod\/cache",
+      "\/data\/data\/com.sec.android.inputmethod\/code_cache",
+      "\/data\/data\/com.sec.android.inputmethod\/databases",
+      "\/data\/data\/com.sec.android.inputmethod\/shared_prefs"
+    ],
+    "com.samsung.android.app.qragent": [
+      "\/data\/data\/com.samsung.android.app.qragent\/cache",
+      "\/data\/data\/com.samsung.android.app.qragent\/code_cache",
+      "\/data\/data\/com.samsung.android.app.qragent\/shared_prefs"
+    ],
+    "com.google.android.syncadapters.contacts": [
+      "\/data\/data\/com.google.android.syncadapters.contacts\/cache",
+      "\/data\/data\/com.google.android.syncadapters.contacts\/code_cache"
+    ],
+    "com.sec.android.fido.uaf.client": [
+      "\/data\/data\/com.sec.android.fido.uaf.client\/cache",
+      "\/data\/data\/com.sec.android.fido.uaf.client\/code_cache"
+    ],
+    "com.samsung.android.opencalendar": [
+      "\/data\/data\/com.samsung.android.opencalendar\/cache",
+      "\/data\/data\/com.samsung.android.opencalendar\/code_cache",
+      "\/data\/data\/com.samsung.android.opencalendar\/databases",
+      "\/data\/data\/com.samsung.android.opencalendar\/shared_prefs"
+    ],
+    "com.samsung.android.asksmanager": [
+      "\/data\/data\/com.samsung.android.asksmanager\/cache",
+      "\/data\/data\/com.samsung.android.asksmanager\/code_cache",
+      "\/data\/data\/com.samsung.android.asksmanager\/databases"
+    ],
+    "com.google.android.gsf": [
+      "\/data\/data\/com.google.android.gsf\/files",
+      "\/data\/data\/com.google.android.gsf\/cache",
+      "\/data\/data\/com.google.android.gsf\/code_cache",
+      "\/data\/data\/com.google.android.gsf\/databases",
+      "\/data\/data\/com.google.android.gsf\/shared_prefs"
+    ],
+    "com.samsung.android.controltv": [
+      "\/data\/data\/com.samsung.android.controltv\/cache",
+      "\/data\/data\/com.samsung.android.controltv\/code_cache",
+      "\/data\/data\/com.samsung.android.controltv\/shared_prefs"
+    ],
+    "com.google.android.partnersetup": [
+      "\/data\/data\/com.google.android.partnersetup\/cache",
+      "\/data\/data\/com.google.android.partnersetup\/code_cache",
+      "\/data\/data\/com.google.android.partnersetup\/databases",
+      "\/data\/data\/com.google.android.partnersetup\/shared_prefs"
+    ],
+    "com.sec.spp.push": [
+      "\/data\/data\/com.sec.spp.push\/files",
+      "\/data\/data\/com.sec.spp.push\/cache",
+      "\/data\/data\/com.sec.spp.push\/code_cache",
+      "\/data\/data\/com.sec.spp.push\/databases",
+      "\/data\/data\/com.sec.spp.push\/shared_prefs"
+    ],
+    "com.android.managedprovisioning": [
+      "\/data\/data\/com.android.managedprovisioning\/cache",
+      "\/data\/data\/com.android.managedprovisioning\/code_cache"
+    ],
+    "com.hancom.office.viewer": [
+      "\/data\/data\/com.hancom.office.viewer\/files",
+      "\/data\/data\/com.hancom.office.viewer\/cache",
+      "\/data\/data\/com.hancom.office.viewer\/code_cache",
+      "\/data\/data\/com.hancom.office.viewer\/databases",
+      "\/data\/data\/com.hancom.office.viewer\/shared_prefs"
+    ],
+    "com.sec.android.service.health": [
+      "\/data\/data\/com.sec.android.service.health\/cache",
+      "\/data\/data\/com.sec.android.service.health\/code_cache",
+      "\/data\/data\/com.sec.android.service.health\/shared_prefs"
+    ],
+    "com.android.smspush": [
+      "\/data\/data\/com.android.smspush\/cache",
+      "\/data\/data\/com.android.smspush\/code_cache"
+    ],
+    "com.samsung.android.keyguardwallpaperupdator": [
+      "\/data\/data\/com.samsung.android.keyguardwallpaperupdator\/files",
+      "\/data\/data\/com.samsung.android.keyguardwallpaperupdator\/cache",
+      "\/data\/data\/com.samsung.android.keyguardwallpaperupdator\/code_cache"
+    ],
+    "com.sec.android.providers.chinaholiday": [
+      "\/data\/data\/com.sec.android.providers.chinaholiday\/cache",
+      "\/data\/data\/com.sec.android.providers.chinaholiday\/code_cache",
+      "\/data\/data\/com.sec.android.providers.chinaholiday\/databases",
+      "\/data\/data\/com.sec.android.providers.chinaholiday\/shared_prefs"
+    ],
+    "com.android.wallpaper.livepicker": [
+      "\/data\/data\/com.android.wallpaper.livepicker\/cache",
+      "\/data\/data\/com.android.wallpaper.livepicker\/code_cache"
+    ],
+    "com.samsung.android.beaconmanager": [
+      "\/data\/data\/com.samsung.android.beaconmanager\/cache",
+      "\/data\/data\/com.samsung.android.beaconmanager\/code_cache"
+    ],
+    "com.samsung.android.app.FileShareClient": [
+      "\/data\/data\/com.samsung.android.app.FileShareClient\/cache",
+      "\/data\/data\/com.samsung.android.app.FileShareClient\/code_cache"
+    ],
+    "com.samsung.android.mdm": [
+      "\/data\/data\/com.samsung.android.mdm\/cache",
+      "\/data\/data\/com.samsung.android.mdm\/code_cache",
+      "\/data\/data\/com.samsung.android.mdm\/shared_prefs"
+    ],
+    "com.sec.android.fido.uaf.asm": [
+      "\/data\/data\/com.sec.android.fido.uaf.asm\/cache",
+      "\/data\/data\/com.sec.android.fido.uaf.asm\/code_cache",
+      "\/data\/data\/com.sec.android.fido.uaf.asm\/databases"
+    ],
+    "com.baidu.map.location": [
+      "\/data\/data\/com.baidu.map.location\/files",
+      "\/data\/data\/com.baidu.map.location\/cache",
+      "\/data\/data\/com.baidu.map.location\/code_cache"
+    ],
+    "com.sec.android.yellowpage": [
+      "\/data\/data\/com.sec.android.yellowpage\/files",
+      "\/data\/data\/com.sec.android.yellowpage\/cache",
+      "\/data\/data\/com.sec.android.yellowpage\/code_cache",
+      "\/data\/data\/com.sec.android.yellowpage\/shared_prefs"
+    ],
+    "com.samsung.android.scloud": [
+      "\/data\/data\/com.samsung.android.scloud\/files",
+      "\/data\/data\/com.samsung.android.scloud\/files\/log",
+      "\/data\/data\/com.samsung.android.scloud\/cache",
+      "\/data\/data\/com.samsung.android.scloud\/code_cache",
+      "\/data\/data\/com.samsung.android.scloud\/databases",
+      "\/data\/data\/com.samsung.android.scloud\/shared_prefs"
+    ],
+    "com.samsung.android.sm.policy": [
+      "\/data\/data\/com.samsung.android.sm.policy\/cache",
+      "\/data\/data\/com.samsung.android.sm.policy\/code_cache",
+      "\/data\/data\/com.samsung.android.sm.policy\/databases"
+    ],
+    "com.sec.hearingadjust": [
+      "\/data\/data\/com.sec.hearingadjust\/cache",
+      "\/data\/data\/com.sec.hearingadjust\/code_cache",
+      "\/data\/data\/com.sec.hearingadjust\/shared_prefs"
+    ],
+    "com.samsung.android.bluelightfilter": [
+      "\/data\/data\/com.samsung.android.bluelightfilter\/cache",
+      "\/data\/data\/com.samsung.android.bluelightfilter\/code_cache",
+      "\/data\/data\/com.samsung.android.bluelightfilter\/shared_prefs"
+    ],
+    "com.samsung.android.voicewakeup": [
+      "\/data\/data\/com.samsung.android.voicewakeup\/files",
+      "\/data\/data\/com.samsung.android.voicewakeup\/cache",
+      "\/data\/data\/com.samsung.android.voicewakeup\/code_cache",
+      "\/data\/data\/com.samsung.android.voicewakeup\/shared_prefs"
+    ],
+    "com.samsung.android.app.watchmanagerstub": [
+      "\/data\/data\/com.samsung.android.app.watchmanagerstub\/cache",
+      "\/data\/data\/com.samsung.android.app.watchmanagerstub\/code_cache",
+      "\/data\/data\/com.samsung.android.app.watchmanagerstub\/shared_prefs"
+    ],
+    "com.sec.android.app.firewall": [
+      "\/data\/data\/com.sec.android.app.firewall\/cache",
+      "\/data\/data\/com.sec.android.app.firewall\/code_cache",
+      "\/data\/data\/com.sec.android.app.firewall\/databases"
+    ],
+    "com.samsung.android.svoiceime": [
+      "\/data\/data\/com.samsung.android.svoiceime\/cache",
+      "\/data\/data\/com.samsung.android.svoiceime\/code_cache",
+      "\/data\/data\/com.samsung.android.svoiceime\/shared_prefs"
+    ],
+    "com.samsung.android.app.FileShareServer": [
+      "\/data\/data\/com.samsung.android.app.FileShareServer\/files",
+      "\/data\/data\/com.samsung.android.app.FileShareServer\/cache",
+      "\/data\/data\/com.samsung.android.app.FileShareServer\/code_cache",
+      "\/data\/data\/com.samsung.android.app.FileShareServer\/databases"
+    ],
+    "com.enhance.gameservice": [
+      "\/data\/data\/com.enhance.gameservice\/files",
+      "\/data\/data\/com.enhance.gameservice\/cache",
+      "\/data\/data\/com.enhance.gameservice\/code_cache",
+      "\/data\/data\/com.enhance.gameservice\/databases",
+      "\/data\/data\/com.enhance.gameservice\/shared_prefs"
+    ],
+    "com.android.vpndialogs": [
+      "\/data\/data\/com.android.vpndialogs\/cache",
+      "\/data\/data\/com.android.vpndialogs\/code_cache"
+    ],
+    "com.samsung.dcmservice": [
+      "\/data\/data\/com.samsung.dcmservice\/cache",
+      "\/data\/data\/com.samsung.dcmservice\/code_cache",
+      "\/data\/data\/com.samsung.dcmservice\/shared_prefs"
+    ],
+    "com.android.shell": [
+      "\/data\/data\/com.android.shell\/files",
+      "\/data\/data\/com.android.shell\/cache",
+      "\/data\/data\/com.android.shell\/code_cache"
+    ],
+    "com.android.providers.userdictionary": [
+      "\/data\/data\/com.android.providers.userdictionary\/databases"
+    ],
+    "com.sec.enterprise.knox.cloudmdm.smdms": [
+      "\/data\/data\/com.sec.enterprise.knox.cloudmdm.smdms\/files",
+      "\/data\/data\/com.sec.enterprise.knox.cloudmdm.smdms\/cache",
+      "\/data\/data\/com.sec.enterprise.knox.cloudmdm.smdms\/code_cache",
+      "\/data\/data\/com.sec.enterprise.knox.cloudmdm.smdms\/shared_prefs"
+    ],
+    "com.sec.svoice.lang.zh_CN": [
+      "\/data\/data\/com.sec.svoice.lang.zh_CN\/files"
+    ],
+    "com.android.systemui": [
+      "\/data\/data\/com.android.systemui\/cache",
+      "\/data\/data\/com.android.systemui\/code_cache",
+      "\/data\/data\/com.android.systemui\/shared_prefs"
+    ],
+    "com.samsung.android.sdk.handwriting": [
+      "\/data\/data\/com.samsung.android.sdk.handwriting\/cache",
+      "\/data\/data\/com.samsung.android.sdk.handwriting\/code_cache",
+      "\/data\/data\/com.samsung.android.sdk.handwriting\/databases"
+    ],
+    "com.samsung.android.allshare.service.mediashare": [
+      "\/data\/data\/com.samsung.android.allshare.service.mediashare\/cache",
+      "\/data\/data\/com.samsung.android.allshare.service.mediashare\/code_cache"
+    ],
+    "com.sec.android.provider.emergencymode": [
+      "\/data\/data\/com.sec.android.provider.emergencymode\/cache",
+      "\/data\/data\/com.sec.android.provider.emergencymode\/code_cache",
+      "\/data\/data\/com.sec.android.provider.emergencymode\/databases",
+      "\/data\/data\/com.sec.android.provider.emergencymode\/shared_prefs"
+    ],
+    "com.samsung.android.tzdata.update_M": [
+      "\/data\/data\/com.samsung.android.tzdata.update_M\/files",
+      "\/data\/data\/com.samsung.android.tzdata.update_M\/cache",
+      "\/data\/data\/com.samsung.android.tzdata.update_M\/code_cache"
+    ],
+    "com.qualcomm.embms": [
+      "\/data\/data\/com.qualcomm.embms\/cache",
+      "\/data\/data\/com.qualcomm.embms\/code_cache"
+    ],
+    "com.android.providers.contacts": [
+      "\/data\/data\/com.android.providers.contacts\/files",
+      "\/data\/data\/com.android.providers.contacts\/cache",
+      "\/data\/data\/com.android.providers.contacts\/code_cache",
+      "\/data\/data\/com.android.providers.contacts\/databases",
+      "\/data\/data\/com.android.providers.contacts\/shared_prefs"
+    ],
+    "com.samsung.ipservice": [
+      "\/data\/data\/com.samsung.ipservice\/cache",
+      "\/data\/data\/com.samsung.ipservice\/code_cache"
+    ],
+    "com.sec.android.app.magnifier": [
+      "\/data\/data\/com.sec.android.app.magnifier\/cache",
+      "\/data\/data\/com.sec.android.app.magnifier\/code_cache",
+      "\/data\/data\/com.sec.android.app.magnifier\/shared_prefs"
+    ],
+    "com.samsung.android.video": [
+      "\/data\/data\/com.samsung.android.video\/files",
+      "\/data\/data\/com.samsung.android.video\/cache",
+      "\/data\/data\/com.samsung.android.video\/code_cache",
+      "\/data\/data\/com.samsung.android.video\/shared_prefs"
+    ],
+    "com.baidu.searchbox_samsung": [
+      "\/data\/data\/com.baidu.searchbox_samsung\/files",
+      "\/data\/data\/com.baidu.searchbox_samsung\/cache",
+      "\/data\/data\/com.baidu.searchbox_samsung\/code_cache",
+      "\/data\/data\/com.baidu.searchbox_samsung\/databases",
+      "\/data\/data\/com.baidu.searchbox_samsung\/shared_prefs"
+    ],
+    "decoder.test.alivc.aliyun.com.decoderautotest": [
+      "\/data\/data\/decoder.test.alivc.aliyun.com.decoderautotest\/cache",
+      "\/data\/data\/decoder.test.alivc.aliyun.com.decoderautotest\/code_cache"
+    ]
+  },
+  "设备信息": {
+    "java_version ": "0",
+    "java_runtime_version": "0.9",
+    "java_runtime_name": "Android Runtime",
+    "java_vm_version ": "2.1.0",
+    "SystemName": "Android",
+    "SystemVersion": "6.0.1",
+    "DeviceBrand": "samsung",
+    "DeviceModel": "SM-C9000",
+    "SerialNumber": "ad3fec28",
+    "IMEIS": "353460081938515|353461081938513|35346008193851",
+    "ApplicationChannel": "CHANNEL-samsung",
+    "ApplicationKey": "APPKE",
+    "APILevel": "23",
+    "UA": "Mozilla\/5.0 (Linux; Android 6.0.1; SM-C9000 Build\/MMB29M; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/55.0.2883.91 Mobile Safari\/537.36",
+    "TargetSdkVersion": "31",
+    "BootTimeMilliseconds": "1664177836332",
+    "Simulator": "0",
+    "Debug": "0",
+    "Hijack": "0",
+    "SDK--utdid": "YzGWs6aDUNIDADAPFsRsnLP8",
+    "IsRoot": "0",
+    "SystemFontSize": "0",
+    "SystemHour": "12",
+    "SystemLanguage": "zh",
+    "SystemArea": "CN",
+    "TimeZone": "GMT+08:00",
+    "SenSorModuleName": [
+      {
+        "SenSorName": "K6DS3TR Acceleration Sensor",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "STM",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.25
+      },
+      {
+        "SenSorName": "K6DS3TR Gyroscope Sensor",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "STM",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 6.099999904632568
+      },
+      {
+        "SenSorName": "K6DS3TR Uncalibrated Gyroscope Sensor",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "STM",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 6.099999904632568
+      },
+      {
+        "SenSorName": "AK09916C Magnetic field Sensor",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "Asahi Kasei Microdevices",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 6
+      },
+      {
+        "SenSorName": "AK09916C Magnetic Sensor UnCalibrated",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "Asahi Kasei Microdevices",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 6
+      },
+      {
+        "SenSorName": "TMD37XX Proximity Sensor",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "AMS, Inc.",
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.75
+      },
+      {
+        "SenSorName": "TMD37XX RGB Sensor",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "AMS, Inc.",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.75
+      },
+      {
+        "SenSorName": "SAMSUNG Step Detector Sensor",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "Samsung Inc.",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.30000001192092896
+      },
+      {
+        "SenSorName": "SAMSUNG Step Counter Sensor",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "Samsung Inc.",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.30000001192092896
+      },
+      {
+        "SenSorName": "SAMSUNG Significant Motion Sensor",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "Samsung Inc.",
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.30000001192092896
+      },
+      {
+        "SenSorName": "SAMSUNG Tilt Detector",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "Samsung Inc.",
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.30000001192092896
+      },
+      {
+        "SenSorName": "SAMSUNG Pick Up Gesture",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "Samsung Inc.",
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.30000001192092896
+      },
+      {
+        "SenSorName": "Interrupt Gyroscope Sensor",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "Samsung Inc.",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.061000000685453415
+      },
+      {
+        "SenSorName": "Screen Orientation Sensor",
+        "SenSorVersion": "3",
+        "SenSorManufacturer": "Samsung Electronics",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.25
+      },
+      {
+        "SenSorName": "Samsung Rotation Vector Sensor",
+        "SenSorVersion": "3",
+        "SenSorManufacturer": "Samsung Electronics",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 12.350000381469727
+      },
+      {
+        "SenSorName": "Samsung Game Rotation Vector Sensor",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "Samsung Electronics",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 12.350000381469727
+      },
+      {
+        "SenSorName": "Samsung GeoMagnetic Rotation Vector Sensor",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "Samsung Electronics",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 12.350000381469727
+      },
+      {
+        "SenSorName": "Samsung Gravity Sensor",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "Samsung Electronics",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 12.350000381469727
+      },
+      {
+        "SenSorName": "Samsung Linear Acceleration Sensor",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "Samsung Electronics",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 12.350000381469727
+      },
+      {
+        "SenSorName": "Samsung Orientation Sensor",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "Samsung Electronics",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 12.350000381469727
+      }
+    ],
+    "CPUModel": "arm64-v8a:",
+    "BuildId": "MMB29M",
+    "BuildDisplay": "MMB29M.C9000ZCU1AQJ1",
+    "BuildProduct": "c9ltezc",
+    "BuildDevice": "c9ltechn",
+    "BuildBoard": "MSM8976",
+    "BuildBootloader": "C9000ZCU1AQJ1",
+    "BuildHardware": "qcom",
+    "BuildSupportedAbis": "arm64-v8a,armeabi-v7a,armeabi",
+    "BuildSupportedAbis32": "armeabi-v7a,armeabi",
+    "BuildSupportedAbis64": "arm64-v8a",
+    "BuildType": "user",
+    "BuildTags": "release-keys",
+    "BuildFingerPrint": "samsung\/c9ltezc\/c9ltechn:6.0.1\/MMB29M\/C9000ZCU1AQJ1:user\/release-keys",
+    "BuildRadioVersion": "C9000ZCU1AQJ1",
+    "BuildIncremental": "C9000ZCU1AQJ1",
+    "BuildSecurityPatch": "2017-08-01",
+    "BuildPreviewSdkInt": "0",
+    "BuildSdkInt": "23",
+    "BuildCodename": "REL",
+    "IDFA": "543ed9a4-e801-4eb9-98c9-0486b9579e7f",
+    "ETDM": {
+      "BatteryStatus": "5",
+      "BatteryHealth": "2",
+      "BatteryLevel": "100",
+      "BatteryScale": "100",
+      "BatteryPlugged": "0",
+      "BatteryTechnology": "Li-ion"
+    }
+  },
+  "Unsafe": {
+    "init[theUnsafe]": true,
+    "init[THE_ONE]": true,
+    "init[getUnsafe]": true,
+    "init[getUnsafeByAbstractQueuedSynchronizer]": true,
+    "arrayIndexScale赋值Object数组大小": 4,
+    "is64Bit": true,
+    "me-adress": 321792640,
+    "me-hash": 154110656,
+    "me格式化-address": "132e2a80",
+    "me1-adress": 321792640,
+    "me1-hash": 154110656,
+    "me1格式化-address": "132e2a80",
+    "两个对象地址测试结果": true,
+    "两个对象测试结果": true,
+    "byte[]_OFFSET": 12,
+    "byte[]_SCALE": 1,
+    "boolean[]_OFFSET": 12,
+    "boolean[]_SCALE": 1,
+    "int[]_OFFSET": 12,
+    "int[]_SCALE": 4,
+    "long[]_OFFSET": 16,
+    "long[]_SCALE": 8,
+    "float[]_OFFSET": 12,
+    "float[]_SCALE": 4,
+    "double[]_OFFSET": 16,
+    "double[]_SCALE": 8,
+    "Object[]_OFFSET": 12,
+    "Object[]_SCALE": 4,
+    "BUFFER_ADDRESS_OFFSET": 0,
+    "STRIDE_ALIGNMENT_MASK": 7,
+    "BYTE_ARRAY_ALIGNMENT": 4,
+    "IS_BIG_ENDIAN": false,
+    "objectFieldOffset(Field)": true,
+    "1_arrayBaseOffset(Class)": true,
+    "1_getArrayBaseOffsetForComponentType(Class)": true,
+    "2_arrayIndexScale(Class)": true,
+    "2_getArrayIndexScaleForComponentType(Class)": true,
+    "2_arrayIndexScale0(Class)": false,
+    "compareAndSwapInt(Object,long,int,int)": true,
+    "compareAndSwapLong(Object,long,long,long)": true,
+    "compareAndSwapObject(Object,long,Object,Object)": true,
+    "3_getInt(Object,long)": true,
+    "3_getIntVolatile(Object,long)": true,
+    "getInt(long)": false,
+    "4_putInt(Object,long,int)": true,
+    "4_putIntVolatile(Object,long,int)": true,
+    "putInt(long,int)": false,
+    "putOrderedInt(Object,long,int)": true,
+    "5_getLong(Object,long)": true,
+    "5_getLongVolatile(Object,long)": true,
+    "getLong(long)": false,
+    "putLong(Object,long,long)": true,
+    "getObject(Object,long)": true,
+    "putObject(Object,long,Object)": true,
+    "getByte(long)": false,
+    "getByte(Object,long)": false,
+    "putByte(long,byte)": false,
+    "putByte(Object,long,byte)": false,
+    "getBoolean(Object,long)": false,
+    "putBoolean(Object,long,boolean)": false,
+    "getFloat(Object,long)": false,
+    "putFloat(Object,long,float)": false,
+    "getDouble(Object,long)": false,
+    "putDouble(Object,long,double)": false,
+    "putLong(long,long)": false,
+    "copyMemory(long,long,long)": false,
+    "addressSize()": false,
+    "pageSize()": false,
+    "allocateInstance(Class)": true,
+    "allocateMemory(long)": false,
+    "copyMemoryToPrimitiveArray(long,Object,long,long)": false,
+    "copyMemoryFromPrimitiveArray(Object,long,long,long)": false,
+    "setMemory(long,long,byte)": false,
+    "freeMemory(long)": false,
+    "getAndAddInt(Object,long,int)": false,
+    "getAndSetInt(Object,long,int)": false,
+    "getAndAddLong(Object,long,long)": false,
+    "getAndSetLong(Object,long,long)": false,
+    "getAndSetObject(Object,long,Object)": false
+  },
+  "MAC": {
+    "java_mac": "14:1f:78:b5:ff:b7",
+    "api_mac": "02:00:00:00:00:00",
+    "file_mac": "",
+    "ip_address": "1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN \n    link\/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00\n    inet 127.0.0.1\/8 scope host lo\n       valid_lft forever preferred_lft forever\n    inet6 ::1\/128 scope host \n       valid_lft forever preferred_lft forever\n2: dummy0: <BROADCAST,NOARP,UP,LOWER_UP> mtu 1500 qdisc noqueue state UNKNOWN \n    link\/ether 8e:b5:58:93:68:97 brd ff:ff:ff:ff:ff:ff\n    inet6 fe80::8cb5:58ff:fe93:6897\/64 scope link \n       valid_lft forever preferred_lft forever\n3: sit0: <NOARP> mtu 1480 qdisc noop state DOWN \n    link\/sit 0.0.0.0 brd 0.0.0.0\n4: rmnet_ipa0: <UP,LOWER_UP> mtu 2000 qdisc pfifo_fast state UNKNOWN qlen 1000\n    link\/[530] \n5: rmnet_data0: <> mtu 1500 qdisc noop state DOWN qlen 1000\n    link\/[530] \n6: rmnet_data1: <> mtu 1500 qdisc noop state DOWN qlen 1000\n    link\/[530] \n7: rmnet_data2: <> mtu 1500 qdisc noop state DOWN qlen 1000\n    link\/[530] \n8: rmnet_data3: <> mtu 1500 qdisc noop state DOWN qlen 1000\n    link\/[530] \n9: rmnet_data4: <> mtu 1500 qdisc noop state DOWN qlen 1000\n    link\/[530] \n10: rmnet_data5: <> mtu 1500 qdisc noop state DOWN qlen 1000\n    link\/[530] \n11: rmnet_data6: <> mtu 1500 qdisc noop state DOWN qlen 1000\n    link\/[530] \n12: rmnet_data7: <> mtu 1500 qdisc noop state DOWN qlen 1000\n    link\/[530] \n13: wlan0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP qlen 1000\n    link\/ether 14:1f:78:b5:ff:b7 brd ff:ff:ff:ff:ff:ff\n    inet 10.43.50.46\/23 brd 10.43.51.255 scope global wlan0\n       valid_lft forever preferred_lft forever\n    inet6 fe80::161f:78ff:feb5:ffb7\/64 scope link \n       valid_lft forever preferred_lft forever\n14: p2p0: <NO-CARRIER,BROADCAST,MULTICAST,UP> mtu 1500 qdisc mq state DOWN qlen 1000\n    link\/ether 16:1f:78:b5:ff:b7 brd ff:ff:ff:ff:ff:ff\n",
+    "ip_link": "1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN mode DEFAULT \n    link\/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00\n2: dummy0: <BROADCAST,NOARP,UP,LOWER_UP> mtu 1500 qdisc noqueue state UNKNOWN mode DEFAULT \n    link\/ether 8e:b5:58:93:68:97 brd ff:ff:ff:ff:ff:ff\n3: sit0: <NOARP> mtu 1480 qdisc noop state DOWN mode DEFAULT \n    link\/sit 0.0.0.0 brd 0.0.0.0\n4: rmnet_ipa0: <UP,LOWER_UP> mtu 2000 qdisc pfifo_fast state UNKNOWN mode DEFAULT qlen 1000\n    link\/[530] \n5: rmnet_data0: <> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 1000\n    link\/[530] \n6: rmnet_data1: <> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 1000\n    link\/[530] \n7: rmnet_data2: <> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 1000\n    link\/[530] \n8: rmnet_data3: <> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 1000\n    link\/[530] \n9: rmnet_data4: <> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 1000\n    link\/[530] \n10: rmnet_data5: <> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 1000\n    link\/[530] \n11: rmnet_data6: <> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 1000\n    link\/[530] \n12: rmnet_data7: <> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 1000\n    link\/[530] \n13: wlan0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP mode DORMANT qlen 1000\n    link\/ether 14:1f:78:b5:ff:b7 brd ff:ff:ff:ff:ff:ff\n14: p2p0: <NO-CARRIER,BROADCAST,MULTICAST,UP> mtu 1500 qdisc mq state DOWN mode DORMANT qlen 1000\n    link\/ether 16:1f:78:b5:ff:b7 brd ff:ff:ff:ff:ff:ff\n"
+  }
+}
