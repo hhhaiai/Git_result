@@ -1,0 +1,300 @@
+{
+  "LetMeSee": {
+    "com.huawei.hwid": [
+      "\/sdcard\/Android\/data\/com.huawei.hwid\/files",
+      "\/sdcard\/Android\/data\/com.huawei.hwid\/files\/log",
+      "\/sdcard\/Android\/data\/com.huawei.hwid\/cache"
+    ],
+    "com.huawei.android.pushagent": [
+      "\/sdcard\/Android\/data\/com.huawei.android.pushagent\/files",
+      "\/sdcard\/Android\/data\/com.huawei.android.pushagent\/files\/log"
+    ],
+    "com.android.gallery3d": [
+      "\/data\/data\/com.android.gallery3d\/files",
+      "\/data\/data\/com.android.gallery3d\/cache",
+      "\/data\/data\/com.android.gallery3d\/code_cache",
+      "\/data\/data\/com.android.gallery3d\/databases",
+      "\/data\/data\/com.android.gallery3d\/shared_prefs"
+    ],
+    "me.fup.v0": [
+      "\/data\/data\/me.fup.v0\/files",
+      "\/data\/data\/me.fup.v0\/cache",
+      "\/data\/data\/me.fup.v0\/databases",
+      "\/data\/data\/me.fup.v0\/shared_prefs"
+    ],
+    "com.android.providers.media": [
+      "\/data\/data\/com.android.providers.media\/files",
+      "\/data\/data\/com.android.providers.media\/cache",
+      "\/data\/data\/com.android.providers.media\/code_cache",
+      "\/data\/data\/com.android.providers.media\/databases",
+      "\/data\/data\/com.android.providers.media\/shared_prefs"
+    ],
+    "com.android.htmlviewer": [
+      "\/data\/data\/com.android.htmlviewer\/files",
+      "\/data\/data\/com.android.htmlviewer\/cache",
+      "\/data\/data\/com.android.htmlviewer\/code_cache",
+      "\/data\/data\/com.android.htmlviewer\/shared_prefs"
+    ],
+    "com.huawei.fido.uafclient": [
+      "\/data\/data\/com.huawei.fido.uafclient\/cache",
+      "\/data\/data\/com.huawei.fido.uafclient\/code_cache",
+      "\/data\/data\/com.huawei.fido.uafclient\/shared_prefs"
+    ],
+    "com.android.dreams.phototable": [
+      "\/data\/data\/com.android.dreams.phototable\/cache",
+      "\/data\/data\/com.android.dreams.phototable\/code_cache"
+    ],
+    "com.android.huawei.HiMediaEngine": [
+      "\/data\/data\/com.android.huawei.HiMediaEngine\/cache",
+      "\/data\/data\/com.android.huawei.HiMediaEngine\/code_cache"
+    ]
+  },
+  "设备信息": {
+    "java_version ": "0",
+    "java_runtime_version": "0.9",
+    "java_runtime_name": "Android Runtime",
+    "java_vm_version ": "2.1.0",
+    "SystemName": "Android",
+    "SystemVersion": "9",
+    "DeviceBrand": "HONOR",
+    "DeviceModel": "LLD-AL10",
+    "ApplicationChannel": "CHANNEL-HUAWEI",
+    "ApplicationKey": "APPKE",
+    "APILevel": "28",
+    "UA": "Mozilla\/5.0 (Linux; Android 9; LLD-AL10 Build\/HONORLLD-AL10; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/79.0.3945.116 Mobile Safari\/537.36",
+    "TargetSdkVersion": "31",
+    "BootTimeMilliseconds": "1664192298042",
+    "Simulator": "0",
+    "Debug": "0",
+    "Hijack": "0",
+    "SDK--utdid": "YzGWf8zpaxUDADvREWwQN7ok",
+    "IsRoot": "0",
+    "SystemFontSize": "0",
+    "SystemHour": "12",
+    "SystemLanguage": "zh",
+    "SystemArea": "CN",
+    "TimeZone": "GMT+08:00",
+    "SenSorModuleName": [
+      {
+        "SenSorName": "accelerometer-lis3dh",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "STMicroelectronics",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.23000000417232513
+      },
+      {
+        "SenSorName": "mag-akm09918",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "akm",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 6.800000190734863
+      },
+      {
+        "SenSorName": "orientation",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "huawei",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 13
+      },
+      {
+        "SenSorName": "light-ltr578",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "liteon",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.75
+      },
+      {
+        "SenSorName": "proximity-ltr578",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "liteon",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.75
+      },
+      {
+        "SenSorName": "gyroscope",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "STMicroelectronics",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 6.099999904632568
+      },
+      {
+        "SenSorName": "gravity",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "huawei",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.20000000298023224
+      },
+      {
+        "SenSorName": "linear Acceleration",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "huawei",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.20000000298023224
+      },
+      {
+        "SenSorName": "rotation Vector",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "huawei",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 6.099999904632568
+      },
+      {
+        "SenSorName": "significant Motion",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "huawei",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.23000000417232513
+      },
+      {
+        "SenSorName": "step counter",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "huawei",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.23000000417232513
+      },
+      {
+        "SenSorName": "geomagnetic Rotation Vector",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "huawei",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 6.099999904632568
+      },
+      {
+        "SenSorName": "Game Rotation Vector Sensor",
+        "SenSorVersion": "3",
+        "SenSorManufacturer": "AOSP",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 13.130000114440918
+      }
+    ],
+    "CPUModel": "arm64-v8a:",
+    "BuildId": "HONORLLD-AL10",
+    "BuildDisplay": "LLD-AL10 9.1.0.140(C00E120R2P10)",
+    "BuildProduct": "LLD-AL10",
+    "BuildDevice": "HWLLD-H",
+    "BuildBoard": "LLD-AL10",
+    "BuildHardware": "hi6250",
+    "BuildSupportedAbis": "arm64-v8a,armeabi-v7a,armeabi",
+    "BuildSupportedAbis32": "armeabi-v7a,armeabi",
+    "BuildSupportedAbis64": "arm64-v8a",
+    "BuildType": "user",
+    "BuildTags": "release-keys",
+    "BuildFingerPrint": "HONOR\/LLD-AL10\/HWLLD-H:9\/HONORLLD-AL10\/9.1.0.140C00:user\/release-keys",
+    "BuildRadioVersion": "21C60B269S006C000,21C60B269S006C000",
+    "BuildIncremental": "9.1.0.140C00",
+    "BuildSecurityPatch": "2020-04-01",
+    "BuildPreviewSdkInt": "0",
+    "BuildSdkInt": "28",
+    "BuildCodename": "REL",
+    "ETDM": {
+      "BatteryStatus": "4",
+      "BatteryHealth": "2",
+      "BatteryLevel": "82",
+      "BatteryScale": "100",
+      "BatteryPlugged": "0",
+      "BatteryTechnology": "Li-poly"
+    }
+  },
+  "Unsafe": {
+    "init[theUnsafe]": true,
+    "init[THE_ONE]": true,
+    "init[getUnsafe]": true,
+    "init[getUnsafeByAbstractQueuedSynchronizer]": true,
+    "arrayIndexScale赋值Object数组大小": 4,
+    "is64Bit": true,
+    "me-adress": 321878088,
+    "me-hash": 127940143,
+    "me格式化-address": "132f7848",
+    "me1-adress": 321878088,
+    "me1-hash": 127940143,
+    "me1格式化-address": "132f7848",
+    "两个对象地址测试结果": true,
+    "两个对象测试结果": true,
+    "byte[]_OFFSET": 12,
+    "byte[]_SCALE": 1,
+    "boolean[]_OFFSET": 12,
+    "boolean[]_SCALE": 1,
+    "int[]_OFFSET": 12,
+    "int[]_SCALE": 4,
+    "long[]_OFFSET": 16,
+    "long[]_SCALE": 8,
+    "float[]_OFFSET": 12,
+    "float[]_SCALE": 4,
+    "double[]_OFFSET": 16,
+    "double[]_SCALE": 8,
+    "Object[]_OFFSET": 12,
+    "Object[]_SCALE": 4,
+    "BUFFER_ADDRESS_OFFSET": 8,
+    "STRIDE_ALIGNMENT_MASK": 7,
+    "BYTE_ARRAY_ALIGNMENT": 4,
+    "IS_BIG_ENDIAN": false,
+    "objectFieldOffset(Field)": true,
+    "1_arrayBaseOffset(Class)": true,
+    "1_getArrayBaseOffsetForComponentType(Class)": true,
+    "2_arrayIndexScale(Class)": true,
+    "2_getArrayIndexScaleForComponentType(Class)": true,
+    "2_arrayIndexScale0(Class)": false,
+    "compareAndSwapInt(Object,long,int,int)": true,
+    "compareAndSwapLong(Object,long,long,long)": true,
+    "compareAndSwapObject(Object,long,Object,Object)": true,
+    "3_getInt(Object,long)": true,
+    "3_getIntVolatile(Object,long)": true,
+    "getInt(long)": true,
+    "4_putInt(Object,long,int)": true,
+    "4_putIntVolatile(Object,long,int)": true,
+    "putInt(long,int)": true,
+    "putOrderedInt(Object,long,int)": true,
+    "5_getLong(Object,long)": true,
+    "5_getLongVolatile(Object,long)": true,
+    "getLong(long)": true,
+    "putLong(Object,long,long)": true,
+    "getObject(Object,long)": true,
+    "putObject(Object,long,Object)": true,
+    "getByte(long)": true,
+    "getByte(Object,long)": true,
+    "putByte(long,byte)": false,
+    "putByte(Object,long,byte)": true,
+    "getBoolean(Object,long)": true,
+    "putBoolean(Object,long,boolean)": true,
+    "getFloat(Object,long)": true,
+    "putFloat(Object,long,float)": true,
+    "getDouble(Object,long)": true,
+    "putDouble(Object,long,double)": true,
+    "bufferAddressField": "long java.nio.Buffer.address",
+    "putLong(long,long)": true,
+    "copyMemory(long,long,long)": true,
+    "addressSize()": true,
+    "pageSize()": true,
+    "allocateInstance(Class)": true,
+    "allocateMemory(long)": true,
+    "copyMemoryToPrimitiveArray(long,Object,long,long)": true,
+    "copyMemoryFromPrimitiveArray(Object,long,long,long)": true,
+    "setMemory(long,long,byte)": true,
+    "freeMemory(long)": true,
+    "getAndAddInt(Object,long,int)": true,
+    "getAndSetInt(Object,long,int)": true,
+    "getAndAddLong(Object,long,long)": true,
+    "getAndSetLong(Object,long,long)": true,
+    "getAndSetObject(Object,long,Object)": true
+  },
+  "MAC": {
+    "java_mac": "90:94:97:bf:f5:5f",
+    "api_mac": "02:00:00:00:00:00",
+    "file_mac": "",
+    "ip_address": "1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1\n    link\/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00\n    inet 127.0.0.1\/8 scope host lo\n       valid_lft forever preferred_lft forever\n    inet6 ::1\/128 scope host \n       valid_lft forever preferred_lft forever\n2: dummy0: <BROADCAST,NOARP,UP,LOWER_UP> mtu 1500 qdisc noqueue state UNKNOWN group default qlen 1000\n    link\/ether aa:80:b4:9c:94:6f brd ff:ff:ff:ff:ff:ff\n    inet6 fe80::a880:b4ff:fe9c:946f\/64 scope link \n       valid_lft forever preferred_lft forever\n3: rmnet0: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/ether 58:02:03:04:05:06 brd ff:ff:ff:ff:ff:ff\n4: rmnet1: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/ether 58:02:03:04:05:07 brd ff:ff:ff:ff:ff:ff\n5: rmnet2: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/ether 58:02:03:04:05:08 brd ff:ff:ff:ff:ff:ff\n6: rmnet3: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/ether 58:02:03:04:05:09 brd ff:ff:ff:ff:ff:ff\n7: rmnet4: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/ether 58:02:03:04:05:0a brd ff:ff:ff:ff:ff:ff\n8: rmnet_ims00: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/ether 58:02:03:04:05:0d brd ff:ff:ff:ff:ff:ff\n9: rmnet_r_ims00: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/ether 58:02:03:04:05:0e brd ff:ff:ff:ff:ff:ff\n10: rmnet_ims10: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/ether 58:02:03:04:05:0f brd ff:ff:ff:ff:ff:ff\n11: rmnet_r_ims10: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/ether 58:02:03:04:05:10 brd ff:ff:ff:ff:ff:ff\n12: rmnet_tun00: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/ether 58:02:03:04:05:11 brd ff:ff:ff:ff:ff:ff\n13: rmnet_tun01: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/ether 58:02:03:04:05:12 brd ff:ff:ff:ff:ff:ff\n14: rmnet_tun02: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/ether 58:02:03:04:05:13 brd ff:ff:ff:ff:ff:ff\n15: rmnet_tun03: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/ether 58:02:03:04:05:14 brd ff:ff:ff:ff:ff:ff\n16: rmnet_tun04: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/ether 58:02:03:04:05:15 brd ff:ff:ff:ff:ff:ff\n17: rmnet_tun10: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/ether 58:02:03:04:05:16 brd ff:ff:ff:ff:ff:ff\n18: rmnet_tun11: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/ether 58:02:03:04:05:17 brd ff:ff:ff:ff:ff:ff\n19: rmnet_tun12: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/ether 58:02:03:04:05:18 brd ff:ff:ff:ff:ff:ff\n20: rmnet_tun13: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/ether 58:02:03:04:05:19 brd ff:ff:ff:ff:ff:ff\n21: rmnet_tun14: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/ether 58:02:03:04:05:1a brd ff:ff:ff:ff:ff:ff\n22: rmnet_emc0: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/ether 58:02:03:04:05:1b brd ff:ff:ff:ff:ff:ff\n23: ip_vti0@NONE: <NOARP> mtu 1480 qdisc noop state DOWN group default qlen 1\n    link\/ipip 0.0.0.0 brd 0.0.0.0\n24: ip6_vti0@NONE: <NOARP> mtu 1500 qdisc noop state DOWN group default qlen 1\n    link\/tunnel6 :: brd ::\n25: sit0@NONE: <NOARP> mtu 1480 qdisc noop state DOWN group default qlen 1\n    link\/sit 0.0.0.0 brd 0.0.0.0\n26: ip6tnl0@NONE: <NOARP> mtu 1452 qdisc noop state DOWN group default qlen 1\n    link\/tunnel6 :: brd ::\n27: Hisilicon0: <BROADCAST,MULTICAST> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/ether 00:00:00:00:00:00 brd ff:ff:ff:ff:ff:ff\n28: wlan0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 1000\n    link\/ether 90:94:97:bf:f5:5f brd ff:ff:ff:ff:ff:ff\n    inet 10.43.55.167\/23 brd 10.43.55.255 scope global wlan0\n       valid_lft forever preferred_lft forever\n    inet6 fe80::9294:97ff:febf:f55f\/64 scope link \n       valid_lft forever preferred_lft forever\n29: p2p0: <NO-CARRIER,BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state DORMANT group default qlen 1000\n    link\/ether 92:94:97:bf:f5:5f brd ff:ff:ff:ff:ff:ff\n    inet6 fe80::9094:97ff:febf:f55f\/64 scope link \n       valid_lft forever preferred_lft forever\n",
+    "ip_link": "1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN mode DEFAULT group default qlen 1\n    link\/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00\n2: dummy0: <BROADCAST,NOARP,UP,LOWER_UP> mtu 1500 qdisc noqueue state UNKNOWN mode DEFAULT group default qlen 1000\n    link\/ether aa:80:b4:9c:94:6f brd ff:ff:ff:ff:ff:ff\n3: rmnet0: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/ether 58:02:03:04:05:06 brd ff:ff:ff:ff:ff:ff\n4: rmnet1: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/ether 58:02:03:04:05:07 brd ff:ff:ff:ff:ff:ff\n5: rmnet2: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/ether 58:02:03:04:05:08 brd ff:ff:ff:ff:ff:ff\n6: rmnet3: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/ether 58:02:03:04:05:09 brd ff:ff:ff:ff:ff:ff\n7: rmnet4: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/ether 58:02:03:04:05:0a brd ff:ff:ff:ff:ff:ff\n8: rmnet_ims00: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/ether 58:02:03:04:05:0d brd ff:ff:ff:ff:ff:ff\n9: rmnet_r_ims00: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/ether 58:02:03:04:05:0e brd ff:ff:ff:ff:ff:ff\n10: rmnet_ims10: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/ether 58:02:03:04:05:0f brd ff:ff:ff:ff:ff:ff\n11: rmnet_r_ims10: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/ether 58:02:03:04:05:10 brd ff:ff:ff:ff:ff:ff\n12: rmnet_tun00: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/ether 58:02:03:04:05:11 brd ff:ff:ff:ff:ff:ff\n13: rmnet_tun01: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/ether 58:02:03:04:05:12 brd ff:ff:ff:ff:ff:ff\n14: rmnet_tun02: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/ether 58:02:03:04:05:13 brd ff:ff:ff:ff:ff:ff\n15: rmnet_tun03: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/ether 58:02:03:04:05:14 brd ff:ff:ff:ff:ff:ff\n16: rmnet_tun04: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/ether 58:02:03:04:05:15 brd ff:ff:ff:ff:ff:ff\n17: rmnet_tun10: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/ether 58:02:03:04:05:16 brd ff:ff:ff:ff:ff:ff\n18: rmnet_tun11: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/ether 58:02:03:04:05:17 brd ff:ff:ff:ff:ff:ff\n19: rmnet_tun12: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/ether 58:02:03:04:05:18 brd ff:ff:ff:ff:ff:ff\n20: rmnet_tun13: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/ether 58:02:03:04:05:19 brd ff:ff:ff:ff:ff:ff\n21: rmnet_tun14: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/ether 58:02:03:04:05:1a brd ff:ff:ff:ff:ff:ff\n22: rmnet_emc0: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/ether 58:02:03:04:05:1b brd ff:ff:ff:ff:ff:ff\n23: ip_vti0@NONE: <NOARP> mtu 1480 qdisc noop state DOWN mode DEFAULT group default qlen 1\n    link\/ipip 0.0.0.0 brd 0.0.0.0\n24: ip6_vti0@NONE: <NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1\n    link\/tunnel6 :: brd ::\n25: sit0@NONE: <NOARP> mtu 1480 qdisc noop state DOWN mode DEFAULT group default qlen 1\n    link\/sit 0.0.0.0 brd 0.0.0.0\n26: ip6tnl0@NONE: <NOARP> mtu 1452 qdisc noop state DOWN mode DEFAULT group default qlen 1\n    link\/tunnel6 :: brd ::\n27: Hisilicon0: <BROADCAST,MULTICAST> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/ether 00:00:00:00:00:00 brd ff:ff:ff:ff:ff:ff\n28: wlan0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP mode DORMANT group default qlen 1000\n    link\/ether 90:94:97:bf:f5:5f brd ff:ff:ff:ff:ff:ff\n29: p2p0: <NO-CARRIER,BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state DORMANT mode DORMANT group default qlen 1000\n    link\/ether 92:94:97:bf:f5:5f brd ff:ff:ff:ff:ff:ff\n"
+  }
+}
