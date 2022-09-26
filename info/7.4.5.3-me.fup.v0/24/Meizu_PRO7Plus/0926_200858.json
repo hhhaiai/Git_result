@@ -1,0 +1,693 @@
+{
+  "LetMeSee": {
+    "com.android.calendar": [
+      "\/sdcard\/Android\/data\/com.android.calendar\/files",
+      "\/sdcard\/Android\/data\/com.android.calendar\/cache",
+      "\/data\/data\/com.android.calendar\/files",
+      "\/data\/data\/com.android.calendar\/cache",
+      "\/data\/data\/com.android.calendar\/code_cache",
+      "\/data\/data\/com.android.calendar\/databases",
+      "\/data\/data\/com.android.calendar\/shared_prefs"
+    ],
+    "com.meizu.net.pedometer": [
+      "\/data\/data\/com.meizu.net.pedometer\/files",
+      "\/data\/data\/com.meizu.net.pedometer\/cache",
+      "\/data\/data\/com.meizu.net.pedometer\/code_cache",
+      "\/data\/data\/com.meizu.net.pedometer\/databases",
+      "\/data\/data\/com.meizu.net.pedometer\/shared_prefs"
+    ],
+    "com.meizu.flyme.launcher": [
+      "\/data\/data\/com.meizu.flyme.launcher\/files",
+      "\/data\/data\/com.meizu.flyme.launcher\/cache",
+      "\/data\/data\/com.meizu.flyme.launcher\/code_cache",
+      "\/data\/data\/com.meizu.flyme.launcher\/databases",
+      "\/data\/data\/com.meizu.flyme.launcher\/shared_prefs"
+    ],
+    "com.android.alarmclock": [
+      "\/data\/data\/com.android.alarmclock\/cache",
+      "\/data\/data\/com.android.alarmclock\/code_cache",
+      "\/data\/data\/com.android.alarmclock\/databases",
+      "\/data\/data\/com.android.alarmclock\/shared_prefs"
+    ],
+    "com.meizu.filemanager": [
+      "\/data\/data\/com.meizu.filemanager\/files",
+      "\/data\/data\/com.meizu.filemanager\/files\/data",
+      "\/data\/data\/com.meizu.filemanager\/cache",
+      "\/data\/data\/com.meizu.filemanager\/code_cache",
+      "\/data\/data\/com.meizu.filemanager\/databases",
+      "\/data\/data\/com.meizu.filemanager\/shared_prefs"
+    ],
+    "cn.testin.itestin": [
+      "\/data\/data\/cn.testin.itestin\/files",
+      "\/data\/data\/cn.testin.itestin\/cache",
+      "\/data\/data\/cn.testin.itestin\/code_cache",
+      "\/data\/data\/cn.testin.itestin\/databases",
+      "\/data\/data\/cn.testin.itestin\/shared_prefs"
+    ],
+    "com.android.browser": [
+      "\/data\/data\/com.android.browser\/files",
+      "\/data\/data\/com.android.browser\/cache",
+      "\/data\/data\/com.android.browser\/code_cache",
+      "\/data\/data\/com.android.browser\/databases",
+      "\/data\/data\/com.android.browser\/shared_prefs"
+    ],
+    "com.android.soundrecorder": [
+      "\/data\/data\/com.android.soundrecorder\/cache",
+      "\/data\/data\/com.android.soundrecorder\/code_cache",
+      "\/data\/data\/com.android.soundrecorder\/databases",
+      "\/data\/data\/com.android.soundrecorder\/shared_prefs"
+    ],
+    "com.android.providers.downloads.ui": [
+      "\/data\/data\/com.android.providers.downloads.ui\/cache",
+      "\/data\/data\/com.android.providers.downloads.ui\/code_cache",
+      "\/data\/data\/com.android.providers.downloads.ui\/databases",
+      "\/data\/data\/com.android.providers.downloads.ui\/shared_prefs"
+    ],
+    "com.meizu.net.map": [
+      "\/data\/data\/com.meizu.net.map\/files",
+      "\/data\/data\/com.meizu.net.map\/cache",
+      "\/data\/data\/com.meizu.net.map\/code_cache",
+      "\/data\/data\/com.meizu.net.map\/databases",
+      "\/data\/data\/com.meizu.net.map\/shared_prefs"
+    ],
+    "com.meizu.flyme.wallet": [
+      "\/data\/data\/com.meizu.flyme.wallet\/files",
+      "\/data\/data\/com.meizu.flyme.wallet\/files\/.td-3",
+      "\/data\/data\/com.meizu.flyme.wallet\/cache",
+      "\/data\/data\/com.meizu.flyme.wallet\/code_cache",
+      "\/data\/data\/com.meizu.flyme.wallet\/databases",
+      "\/data\/data\/com.meizu.flyme.wallet\/shared_prefs"
+    ],
+    "com.meizu.media.camera": [
+      "\/data\/data\/com.meizu.media.camera\/files",
+      "\/data\/data\/com.meizu.media.camera\/cache",
+      "\/data\/data\/com.meizu.media.camera\/code_cache",
+      "\/data\/data\/com.meizu.media.camera\/databases",
+      "\/data\/data\/com.meizu.media.camera\/shared_prefs"
+    ],
+    "com.meizu.mstore": [
+      "\/data\/data\/com.meizu.mstore\/files",
+      "\/data\/data\/com.meizu.mstore\/cache",
+      "\/data\/data\/com.meizu.mstore\/code_cache",
+      "\/data\/data\/com.meizu.mstore\/databases",
+      "\/data\/data\/com.meizu.mstore\/shared_prefs",
+      "\/data\/data\/com.meizu.mstore\/cachett_ad"
+    ],
+    "com.android.mms": [
+      "\/data\/data\/com.android.mms\/files",
+      "\/data\/data\/com.android.mms\/files\/download",
+      "\/data\/data\/com.android.mms\/cache",
+      "\/data\/data\/com.android.mms\/code_cache",
+      "\/data\/data\/com.android.mms\/databases",
+      "\/data\/data\/com.android.mms\/shared_prefs"
+    ],
+    "com.meizu.notepaper": [
+      "\/data\/data\/com.meizu.notepaper\/cache",
+      "\/data\/data\/com.meizu.notepaper\/code_cache",
+      "\/data\/data\/com.meizu.notepaper\/databases",
+      "\/data\/data\/com.meizu.notepaper\/shared_prefs"
+    ],
+    "com.meizu.flyme.calculator": [
+      "\/data\/data\/com.meizu.flyme.calculator\/cache",
+      "\/data\/data\/com.meizu.flyme.calculator\/code_cache"
+    ],
+    "com.meizu.flyme.toolbox": [
+      "\/data\/data\/com.meizu.flyme.toolbox\/cache",
+      "\/data\/data\/com.meizu.flyme.toolbox\/code_cache"
+    ],
+    "com.android.dialer": [
+      "\/data\/data\/com.android.dialer\/files",
+      "\/data\/data\/com.android.dialer\/cache",
+      "\/data\/data\/com.android.dialer\/code_cache",
+      "\/data\/data\/com.android.dialer\/databases",
+      "\/data\/data\/com.android.dialer\/shared_prefs"
+    ],
+    "com.meizu.media.ebook": [
+      "\/data\/data\/com.meizu.media.ebook\/files",
+      "\/data\/data\/com.meizu.media.ebook\/files\/Mob",
+      "\/data\/data\/com.meizu.media.ebook\/cache",
+      "\/data\/data\/com.meizu.media.ebook\/cache\/cache",
+      "\/data\/data\/com.meizu.media.ebook\/code_cache",
+      "\/data\/data\/com.meizu.media.ebook\/databases",
+      "\/data\/data\/com.meizu.media.ebook\/shared_prefs"
+    ],
+    "com.meizu.media.music": [
+      "\/data\/data\/com.meizu.media.music\/files",
+      "\/data\/data\/com.meizu.media.music\/cache",
+      "\/data\/data\/com.meizu.media.music\/code_cache",
+      "\/data\/data\/com.meizu.media.music\/databases",
+      "\/data\/data\/com.meizu.media.music\/shared_prefs"
+    ],
+    "com.meizu.media.video": [
+      "\/data\/data\/com.meizu.media.video\/files",
+      "\/data\/data\/com.meizu.media.video\/cache",
+      "\/data\/data\/com.meizu.media.video\/code_cache",
+      "\/data\/data\/com.meizu.media.video\/databases",
+      "\/data\/data\/com.meizu.media.video\/shared_prefs"
+    ],
+    "com.meizu.media.gallery": [
+      "\/data\/data\/com.meizu.media.gallery\/files",
+      "\/data\/data\/com.meizu.media.gallery\/cache",
+      "\/data\/data\/com.meizu.media.gallery\/code_cache",
+      "\/data\/data\/com.meizu.media.gallery\/databases",
+      "\/data\/data\/com.meizu.media.gallery\/shared_prefs"
+    ],
+    "com.meizu.flyme.mall": [
+      "\/data\/data\/com.meizu.flyme.mall\/files",
+      "\/data\/data\/com.meizu.flyme.mall\/cache",
+      "\/data\/data\/com.meizu.flyme.mall\/code_cache",
+      "\/data\/data\/com.meizu.flyme.mall\/shared_prefs"
+    ],
+    "com.flyme.meizu.store": [
+      "\/data\/data\/com.flyme.meizu.store\/files",
+      "\/data\/data\/com.flyme.meizu.store\/cache",
+      "\/data\/data\/com.flyme.meizu.store\/code_cache",
+      "\/data\/data\/com.flyme.meizu.store\/databases",
+      "\/data\/data\/com.flyme.meizu.store\/shared_prefs"
+    ],
+    "me.fup.v0": [
+      "\/data\/data\/me.fup.v0\/files",
+      "\/data\/data\/me.fup.v0\/cache",
+      "\/data\/data\/me.fup.v0\/databases",
+      "\/data\/data\/me.fup.v0\/shared_prefs"
+    ],
+    "com.android.email": [
+      "\/data\/data\/com.android.email\/files",
+      "\/data\/data\/com.android.email\/cache",
+      "\/data\/data\/com.android.email\/code_cache",
+      "\/data\/data\/com.android.email\/databases",
+      "\/data\/data\/com.android.email\/shared_prefs"
+    ],
+    "com.meizu.customizecenter": [
+      "\/data\/data\/com.meizu.customizecenter\/files",
+      "\/data\/data\/com.meizu.customizecenter\/cache",
+      "\/data\/data\/com.meizu.customizecenter\/code_cache",
+      "\/data\/data\/com.meizu.customizecenter\/databases",
+      "\/data\/data\/com.meizu.customizecenter\/shared_prefs"
+    ],
+    "com.meizu.flyme.gamecenter": [
+      "\/data\/data\/com.meizu.flyme.gamecenter\/files",
+      "\/data\/data\/com.meizu.flyme.gamecenter\/cache",
+      "\/data\/data\/com.meizu.flyme.gamecenter\/code_cache",
+      "\/data\/data\/com.meizu.flyme.gamecenter\/databases",
+      "\/data\/data\/com.meizu.flyme.gamecenter\/shared_prefs"
+    ],
+    "com.meizu.flyme.weather": [
+      "\/data\/data\/com.meizu.flyme.weather\/files",
+      "\/data\/data\/com.meizu.flyme.weather\/cache",
+      "\/data\/data\/com.meizu.flyme.weather\/code_cache",
+      "\/data\/data\/com.meizu.flyme.weather\/databases",
+      "\/data\/data\/com.meizu.flyme.weather\/shared_prefs"
+    ],
+    "com.flyme.roamingpay": [
+      "\/data\/data\/com.flyme.roamingpay\/cache",
+      "\/data\/data\/com.flyme.roamingpay\/code_cache",
+      "\/data\/data\/com.flyme.roamingpay\/databases",
+      "\/data\/data\/com.flyme.roamingpay\/shared_prefs"
+    ],
+    "com.meizu.flyme.hometools": [
+      "\/data\/data\/com.meizu.flyme.hometools\/cache",
+      "\/data\/data\/com.meizu.flyme.hometools\/code_cache"
+    ],
+    "com.mobiletools.systemhelper": [
+      "\/data\/data\/com.mobiletools.systemhelper\/cache",
+      "\/data\/data\/com.mobiletools.systemhelper\/code_cache",
+      "\/data\/data\/com.mobiletools.systemhelper\/shared_prefs"
+    ],
+    "com.meizu.desktopbackup": [
+      "\/data\/data\/com.meizu.desktopbackup\/cache",
+      "\/data\/data\/com.meizu.desktopbackup\/code_cache"
+    ],
+    "com.activate.activatephone": [
+      "\/data\/data\/com.activate.activatephone\/cache",
+      "\/data\/data\/com.activate.activatephone\/code_cache"
+    ],
+    "com.meizu.account.pay": [
+      "\/data\/data\/com.meizu.account.pay\/cache",
+      "\/data\/data\/com.meizu.account.pay\/code_cache",
+      "\/data\/data\/com.meizu.account.pay\/shared_prefs"
+    ],
+    "com.android.htmlviewer": [
+      "\/data\/data\/com.android.htmlviewer\/cache",
+      "\/data\/data\/com.android.htmlviewer\/code_cache",
+      "\/data\/data\/com.android.htmlviewer\/databases",
+      "\/data\/data\/com.android.htmlviewer\/shared_prefs"
+    ],
+    "com.iflytek.speechsuite": [
+      "\/data\/data\/com.iflytek.speechsuite\/files",
+      "\/data\/data\/com.iflytek.speechsuite\/cache",
+      "\/data\/data\/com.iflytek.speechsuite\/code_cache",
+      "\/data\/data\/com.iflytek.speechsuite\/shared_prefs"
+    ],
+    "com.meizu.powersave": [
+      "\/data\/data\/com.meizu.powersave\/cache",
+      "\/data\/data\/com.meizu.powersave\/code_cache"
+    ],
+    "com.android.providers.downloads": [
+      "\/data\/data\/com.android.providers.downloads\/files",
+      "\/data\/data\/com.android.providers.downloads\/cache",
+      "\/data\/data\/com.android.providers.downloads\/code_cache",
+      "\/data\/data\/com.android.providers.downloads\/databases",
+      "\/data\/data\/com.android.providers.downloads\/shared_prefs"
+    ],
+    "com.meizu.mzsimcontacts": [
+      "\/data\/data\/com.meizu.mzsimcontacts\/cache",
+      "\/data\/data\/com.meizu.mzsimcontacts\/code_cache",
+      "\/data\/data\/com.meizu.mzsimcontacts\/shared_prefs"
+    ],
+    "com.meizu.flyme.android.theme.LRA_Strong": [
+      "\/data\/data\/com.meizu.flyme.android.theme.LRA_Strong\/cache",
+      "\/data\/data\/com.meizu.flyme.android.theme.LRA_Strong\/code_cache"
+    ],
+    "com.meizu.backup": [
+      "\/data\/data\/com.meizu.backup\/cache",
+      "\/data\/data\/com.meizu.backup\/code_cache"
+    ],
+    "com.lenovo.fido.uafclient": [
+      "\/data\/data\/com.lenovo.fido.uafclient\/cache",
+      "\/data\/data\/com.lenovo.fido.uafclient\/code_cache",
+      "\/data\/data\/com.lenovo.fido.uafclient\/shared_prefs"
+    ],
+    "com.android.certinstaller": [
+      "\/data\/data\/com.android.certinstaller\/cache",
+      "\/data\/data\/com.android.certinstaller\/code_cache"
+    ],
+    "com.meizu.net.search": [
+      "\/data\/data\/com.meizu.net.search\/files",
+      "\/data\/data\/com.meizu.net.search\/cache",
+      "\/data\/data\/com.meizu.net.search\/code_cache",
+      "\/data\/data\/com.meizu.net.search\/databases",
+      "\/data\/data\/com.meizu.net.search\/shared_prefs"
+    ],
+    "com.meizu.yellowpage": [
+      "\/data\/data\/com.meizu.yellowpage\/cache",
+      "\/data\/data\/com.meizu.yellowpage\/code_cache"
+    ],
+    "com.meizu.mpay": [
+      "\/data\/data\/com.meizu.mpay\/cache",
+      "\/data\/data\/com.meizu.mpay\/code_cache",
+      "\/data\/data\/com.meizu.mpay\/databases",
+      "\/data\/data\/com.meizu.mpay\/shared_prefs"
+    ],
+    "com.android.incallui": [
+      "\/data\/data\/com.android.incallui\/cache",
+      "\/data\/data\/com.android.incallui\/code_cache",
+      "\/data\/data\/com.android.incallui\/shared_prefs"
+    ],
+    "com.android.webview": [
+      "\/data\/data\/com.android.webview\/cache",
+      "\/data\/data\/com.android.webview\/code_cache"
+    ],
+    "com.flyme.systemuiex": [
+      "\/data\/data\/com.flyme.systemuiex\/cache",
+      "\/data\/data\/com.flyme.systemuiex\/code_cache"
+    ],
+    "com.meizu.gamecenter.service": [
+      "\/data\/data\/com.meizu.gamecenter.service\/cache",
+      "\/data\/data\/com.meizu.gamecenter.service\/code_cache"
+    ],
+    "com.ibimuyu.lockscreen": [
+      "\/data\/data\/com.ibimuyu.lockscreen\/cache",
+      "\/data\/data\/com.ibimuyu.lockscreen\/code_cache"
+    ],
+    "com.android.musicfx": [
+      "\/data\/data\/com.android.musicfx\/cache",
+      "\/data\/data\/com.android.musicfx\/code_cache"
+    ],
+    "com.flyme.systemuitools": [
+      "\/data\/data\/com.flyme.systemuitools\/cache",
+      "\/data\/data\/com.flyme.systemuitools\/code_cache",
+      "\/data\/data\/com.flyme.systemuitools\/databases",
+      "\/data\/data\/com.flyme.systemuitools\/shared_prefs"
+    ],
+    "com.meizu.account": [
+      "\/data\/data\/com.meizu.account\/files",
+      "\/data\/data\/com.meizu.account\/cache",
+      "\/data\/data\/com.meizu.account\/code_cache",
+      "\/data\/data\/com.meizu.account\/databases",
+      "\/data\/data\/com.meizu.account\/shared_prefs"
+    ],
+    "com.mediatek.calendarimporter": [
+      "\/data\/data\/com.mediatek.calendarimporter\/cache",
+      "\/data\/data\/com.mediatek.calendarimporter\/code_cache"
+    ],
+    "com.meizu.remotecooperation": [
+      "\/data\/data\/com.meizu.remotecooperation\/cache",
+      "\/data\/data\/com.meizu.remotecooperation\/code_cache"
+    ],
+    "com.meizu.systemwallpaper": [
+      "\/data\/data\/com.meizu.systemwallpaper\/cache",
+      "\/data\/data\/com.meizu.systemwallpaper\/code_cache"
+    ],
+    "com.meizu.share": [
+      "\/data\/data\/com.meizu.share\/files",
+      "\/data\/data\/com.meizu.share\/cache",
+      "\/data\/data\/com.meizu.share\/code_cache",
+      "\/data\/data\/com.meizu.share\/databases",
+      "\/data\/data\/com.meizu.share\/shared_prefs"
+    ],
+    "com.meizu.mzsyncservice": [
+      "\/data\/data\/com.meizu.mzsyncservice\/cache",
+      "\/data\/data\/com.meizu.mzsyncservice\/code_cache",
+      "\/data\/data\/com.meizu.mzsyncservice\/databases",
+      "\/data\/data\/com.meizu.mzsyncservice\/shared_prefs"
+    ],
+    "com.vlife.mxlock.wallpaper": [
+      "\/data\/data\/com.vlife.mxlock.wallpaper\/cache",
+      "\/data\/data\/com.vlife.mxlock.wallpaper\/code_cache"
+    ],
+    "com.mediatek.lbs.em2.ui": [
+      "\/data\/data\/com.mediatek.lbs.em2.ui\/cache",
+      "\/data\/data\/com.mediatek.lbs.em2.ui\/code_cache"
+    ],
+    "com.meizu.flyme.input": [
+      "\/data\/data\/com.meizu.flyme.input\/files",
+      "\/data\/data\/com.meizu.flyme.input\/cache",
+      "\/data\/data\/com.meizu.flyme.input\/code_cache",
+      "\/data\/data\/com.meizu.flyme.input\/databases",
+      "\/data\/data\/com.meizu.flyme.input\/shared_prefs"
+    ],
+    "com.android.vpndialogs": [
+      "\/data\/data\/com.android.vpndialogs\/cache",
+      "\/data\/data\/com.android.vpndialogs\/code_cache"
+    ],
+    "com.meizu.flyme.service.find": [
+      "\/data\/data\/com.meizu.flyme.service.find\/cache",
+      "\/data\/data\/com.meizu.flyme.service.find\/code_cache",
+      "\/data\/data\/com.meizu.flyme.service.find\/shared_prefs"
+    ],
+    "com.meizu.mzbasestationsafe": [
+      "\/data\/data\/com.meizu.mzbasestationsafe\/cache",
+      "\/data\/data\/com.meizu.mzbasestationsafe\/code_cache",
+      "\/data\/data\/com.meizu.mzbasestationsafe\/databases",
+      "\/data\/data\/com.meizu.mzbasestationsafe\/shared_prefs"
+    ],
+    "com.meizu.flyme.android.theme.LRA_Soft": [
+      "\/data\/data\/com.meizu.flyme.android.theme.LRA_Soft\/cache",
+      "\/data\/data\/com.meizu.flyme.android.theme.LRA_Soft\/code_cache"
+    ],
+    "com.android.systemui": [
+      "\/data\/data\/com.android.systemui\/cache",
+      "\/data\/data\/com.android.systemui\/code_cache"
+    ],
+    "com.meizu.callsetting": [
+      "\/data\/data\/com.meizu.callsetting\/cache",
+      "\/data\/data\/com.meizu.callsetting\/code_cache"
+    ],
+    "com.meizu.netcontactservice": [
+      "\/data\/data\/com.meizu.netcontactservice\/files",
+      "\/data\/data\/com.meizu.netcontactservice\/cache",
+      "\/data\/data\/com.meizu.netcontactservice\/code_cache",
+      "\/data\/data\/com.meizu.netcontactservice\/databases",
+      "\/data\/data\/com.meizu.netcontactservice\/shared_prefs"
+    ],
+    "com.mediatek.mtklogger": [
+      "\/data\/data\/com.mediatek.mtklogger\/files",
+      "\/data\/data\/com.mediatek.mtklogger\/cache",
+      "\/data\/data\/com.mediatek.mtklogger\/code_cache",
+      "\/data\/data\/com.mediatek.mtklogger\/shared_prefs"
+    ]
+  },
+  "设备信息": {
+    "java_version ": "0",
+    "java_runtime_version": "0.9",
+    "java_runtime_name": "Android Runtime",
+    "java_vm_version ": "2.1.0",
+    "SystemName": "Android",
+    "SystemVersion": "7.0",
+    "DeviceBrand": "Meizu",
+    "DeviceModel": "PRO 7 Plus",
+    "SerialNumber": "793QBDRG226FQ",
+    "IMEIS": "863098033568726|863098033568734|86309803356874",
+    "ApplicationChannel": "CHANNEL-Meizu",
+    "ApplicationKey": "APPKE",
+    "APILevel": "24",
+    "UA": "Mozilla\/5.0 (Linux; Android 7.0; PRO 7 Plus Build\/NRD90M; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/51.0.2704.110 Mobile Safari\/537.36",
+    "TargetSdkVersion": "31",
+    "BootTimeMilliseconds": "1664177888831",
+    "Simulator": "0",
+    "Debug": "0",
+    "Hijack": "0",
+    "SDK--utdid": "XzY\/RqtfXHADAD9ARTqTL2sy",
+    "IsRoot": "0",
+    "SystemFontSize": "0",
+    "SystemHour": "12",
+    "SystemLanguage": "zh",
+    "SystemArea": "CN",
+    "TimeZone": "GMT+08:00",
+    "SenSorModuleName": [
+      {
+        "SenSorName": "stk3311sr light sensor",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "broadcom",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.5
+      },
+      {
+        "SenSorName": "stk3311sr proximity sensor",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "broadcom",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.5
+      },
+      {
+        "SenSorName": "stk3311sr proximity sensor wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "broadcom",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.5
+      },
+      {
+        "SenSorName": "Magnetic Sensor",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "Memsic Inc",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.5
+      },
+      {
+        "SenSorName": "Orientation Sensor",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "Memsic Inc",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 9.699999809265137
+      },
+      {
+        "SenSorName": "Gyroscope Sensor",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "Invensense",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.5
+      },
+      {
+        "SenSorName": "Gyroscope Uncalibrated",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "Invensense",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.5
+      },
+      {
+        "SenSorName": "Accelerometer Sensor",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "Invensense",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.5
+      },
+      {
+        "SenSorName": "Game Rotation Vector",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "Invensense",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.5
+      },
+      {
+        "SenSorName": "Rotation Vector",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "Invensense",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.5
+      },
+      {
+        "SenSorName": "Linear Acceleration",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "Invensense",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.5
+      },
+      {
+        "SenSorName": "Gravity",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "Invensense",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.5
+      },
+      {
+        "SenSorName": "Step Detector",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "Invensense",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 1.100000023841858
+      },
+      {
+        "SenSorName": "Step Counter",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "Invensense",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 1.100000023841858
+      },
+      {
+        "SenSorName": "Flip",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "Invensense",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 1.100000023841858
+      },
+      {
+        "SenSorName": "Raise to Wake",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "Invensense",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 1.100000023841858
+      },
+      {
+        "SenSorName": "GeoMag Rotation Vector Sensor",
+        "SenSorVersion": "3",
+        "SenSorManufacturer": "AOSP",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 1.5
+      }
+    ],
+    "CPUModel": "arm64-v8a:",
+    "BuildId": "NRD90M",
+    "BuildDisplay": "Flyme 6.1.2.5A",
+    "BuildProduct": "meizu_PRO7Plus",
+    "BuildDevice": "PRO7Plus",
+    "BuildBoard": "PRO7Plus",
+    "BuildHardware": "mt6799",
+    "BuildSupportedAbis": "arm64-v8a,armeabi-v7a,armeabi",
+    "BuildSupportedAbis32": "armeabi-v7a,armeabi",
+    "BuildSupportedAbis64": "arm64-v8a",
+    "BuildType": "user",
+    "BuildTags": "release-keys",
+    "BuildFingerPrint": "Meizu\/meizu_PRO7Plus\/PRO7Plus:7.0\/NRD90M\/1505375298:user\/release-keys",
+    "BuildRadioVersion": "MOLY.LR12.W1645.MD.MP.V1.3.T5242, 2017\/08\/24 10:24",
+    "BuildIncremental": "1505375298",
+    "BuildSecurityPatch": "2017-04-05",
+    "BuildPreviewSdkInt": "0",
+    "BuildSdkInt": "24",
+    "BuildCodename": "REL",
+    "ETDM": {
+      "BatteryStatus": "2",
+      "BatteryHealth": "2",
+      "BatteryLevel": "97",
+      "BatteryScale": "100",
+      "BatteryPlugged": "0",
+      "BatteryTechnology": "Li-ion"
+    }
+  },
+  "Unsafe": {
+    "init[theUnsafe]": true,
+    "init[THE_ONE]": true,
+    "init[getUnsafe]": true,
+    "init[getUnsafeByAbstractQueuedSynchronizer]": true,
+    "arrayIndexScale赋值Object数组大小": 4,
+    "is64Bit": true,
+    "me-adress": 316915400,
+    "me-hash": 70600315,
+    "me格式化-address": "12e3bec8",
+    "me1-adress": 316915400,
+    "me1-hash": 70600315,
+    "me1格式化-address": "12e3bec8",
+    "两个对象地址测试结果": true,
+    "两个对象测试结果": true,
+    "byte[]_OFFSET": 12,
+    "byte[]_SCALE": 1,
+    "boolean[]_OFFSET": 12,
+    "boolean[]_SCALE": 1,
+    "int[]_OFFSET": 12,
+    "int[]_SCALE": 4,
+    "long[]_OFFSET": 16,
+    "long[]_SCALE": 8,
+    "float[]_OFFSET": 12,
+    "float[]_SCALE": 4,
+    "double[]_OFFSET": 16,
+    "double[]_SCALE": 8,
+    "Object[]_OFFSET": 12,
+    "Object[]_SCALE": 4,
+    "BUFFER_ADDRESS_OFFSET": 8,
+    "STRIDE_ALIGNMENT_MASK": 7,
+    "BYTE_ARRAY_ALIGNMENT": 4,
+    "IS_BIG_ENDIAN": false,
+    "objectFieldOffset(Field)": true,
+    "1_arrayBaseOffset(Class)": true,
+    "1_getArrayBaseOffsetForComponentType(Class)": true,
+    "2_arrayIndexScale(Class)": true,
+    "2_getArrayIndexScaleForComponentType(Class)": true,
+    "2_arrayIndexScale0(Class)": false,
+    "compareAndSwapInt(Object,long,int,int)": true,
+    "compareAndSwapLong(Object,long,long,long)": true,
+    "compareAndSwapObject(Object,long,Object,Object)": true,
+    "3_getInt(Object,long)": true,
+    "3_getIntVolatile(Object,long)": true,
+    "getInt(long)": true,
+    "4_putInt(Object,long,int)": true,
+    "4_putIntVolatile(Object,long,int)": true,
+    "putInt(long,int)": true,
+    "putOrderedInt(Object,long,int)": true,
+    "5_getLong(Object,long)": true,
+    "5_getLongVolatile(Object,long)": true,
+    "getLong(long)": true,
+    "putLong(Object,long,long)": true,
+    "getObject(Object,long)": true,
+    "putObject(Object,long,Object)": true,
+    "getByte(long)": true,
+    "getByte(Object,long)": true,
+    "putByte(long,byte)": false,
+    "putByte(Object,long,byte)": true,
+    "getBoolean(Object,long)": true,
+    "putBoolean(Object,long,boolean)": true,
+    "getFloat(Object,long)": true,
+    "putFloat(Object,long,float)": true,
+    "getDouble(Object,long)": true,
+    "putDouble(Object,long,double)": true,
+    "bufferAddressField": "long java.nio.Buffer.address",
+    "putLong(long,long)": true,
+    "copyMemory(long,long,long)": true,
+    "addressSize()": true,
+    "pageSize()": true,
+    "allocateInstance(Class)": true,
+    "allocateMemory(long)": true,
+    "copyMemoryToPrimitiveArray(long,Object,long,long)": true,
+    "copyMemoryFromPrimitiveArray(Object,long,long,long)": true,
+    "setMemory(long,long,byte)": true,
+    "freeMemory(long)": true,
+    "getAndAddInt(Object,long,int)": true,
+    "getAndSetInt(Object,long,int)": true,
+    "getAndAddLong(Object,long,long)": true,
+    "getAndSetLong(Object,long,long)": true,
+    "getAndSetObject(Object,long,Object)": true
+  },
+  "MAC": {
+    "java_mac": "90:f0:52:0a:d5:b8",
+    "api_mac": "02:00:00:00:00:00",
+    "file_mac": "",
+    "ip_address": "1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1\n    link\/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00\n    inet 127.0.0.1\/8 scope host lo\n       valid_lft forever preferred_lft forever\n    inet6 ::1\/128 scope host \n       valid_lft forever preferred_lft forever\n2: ccmni0: <BROADCAST,NOARP> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/ether 8e:08:55:cd:37:b4 brd ff:ff:ff:ff:ff:ff\n3: ccmni1: <BROADCAST,NOARP> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/ether de:1b:21:9a:19:99 brd ff:ff:ff:ff:ff:ff\n4: ccmni2: <BROADCAST,NOARP> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/ether ce:0b:38:c6:fc:41 brd ff:ff:ff:ff:ff:ff\n5: ccmni3: <BROADCAST,NOARP> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/ether 12:40:de:41:95:69 brd ff:ff:ff:ff:ff:ff\n6: ccmni4: <BROADCAST,NOARP> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/ether a6:76:ae:d7:3e:32 brd ff:ff:ff:ff:ff:ff\n7: ccmni5: <BROADCAST,NOARP> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/ether 86:3e:5b:16:c6:81 brd ff:ff:ff:ff:ff:ff\n8: ccmni6: <BROADCAST,NOARP> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/ether 5a:92:59:b4:e5:8d brd ff:ff:ff:ff:ff:ff\n9: ccmni7: <BROADCAST,NOARP> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/ether 1a:23:94:79:54:55 brd ff:ff:ff:ff:ff:ff\n10: ccmni8: <BROADCAST,NOARP> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/ether 6a:a1:1f:71:f1:cd brd ff:ff:ff:ff:ff:ff\n11: ccmni9: <BROADCAST,NOARP> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/ether 4a:32:05:d4:43:71 brd ff:ff:ff:ff:ff:ff\n12: ccmni10: <BROADCAST,NOARP> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/ether 46:4b:42:d3:42:c0 brd ff:ff:ff:ff:ff:ff\n13: ccmni11: <BROADCAST,NOARP> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/ether 1a:b2:8c:d2:bf:82 brd ff:ff:ff:ff:ff:ff\n14: ccmni12: <BROADCAST,NOARP> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/ether 1e:5d:b1:1b:6e:9c brd ff:ff:ff:ff:ff:ff\n15: ccmni13: <BROADCAST,NOARP> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/ether 2a:e8:62:ca:87:97 brd ff:ff:ff:ff:ff:ff\n16: ccmni14: <BROADCAST,NOARP> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/ether 1e:4d:16:d0:7b:1f brd ff:ff:ff:ff:ff:ff\n17: ccmni15: <BROADCAST,NOARP> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/ether 82:28:63:e1:5a:29 brd ff:ff:ff:ff:ff:ff\n18: ccmni16: <BROADCAST,NOARP> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/ether 46:d5:2d:1d:9f:cc brd ff:ff:ff:ff:ff:ff\n19: ccmni17: <BROADCAST,NOARP> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/ether d6:8d:c4:ac:fd:a3 brd ff:ff:ff:ff:ff:ff\n20: ccmni18: <BROADCAST,NOARP> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/ether 1a:66:0c:5c:10:4b brd ff:ff:ff:ff:ff:ff\n21: ccmni19: <BROADCAST,NOARP> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/ether e2:d2:5d:c1:8c:eb brd ff:ff:ff:ff:ff:ff\n22: ccmni20: <BROADCAST,NOARP> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/ether e2:1b:b9:26:9e:f5 brd ff:ff:ff:ff:ff:ff\n23: ccmni-lan: <BROADCAST,MULTICAST> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/ether ae:1f:e0:94:94:95 brd ff:ff:ff:ff:ff:ff\n24: cc3mni0: <BROADCAST,NOARP> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/ether 7e:ae:42:1e:5a:81 brd ff:ff:ff:ff:ff:ff\n25: cc3mni1: <BROADCAST,NOARP> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/ether 2a:95:37:a6:7f:30 brd ff:ff:ff:ff:ff:ff\n26: cc3mni2: <BROADCAST,NOARP> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/ether 6e:af:47:4c:59:cf brd ff:ff:ff:ff:ff:ff\n27: cc3mni3: <BROADCAST,NOARP> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/ether b6:d7:6d:49:2a:f5 brd ff:ff:ff:ff:ff:ff\n28: cc3mni4: <BROADCAST,NOARP> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/ether 3a:0a:8c:e5:23:f3 brd ff:ff:ff:ff:ff:ff\n29: cc3mni5: <BROADCAST,NOARP> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/ether ee:41:fc:8d:78:52 brd ff:ff:ff:ff:ff:ff\n30: cc3mni6: <BROADCAST,NOARP> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/ether 4e:85:cb:a0:97:cf brd ff:ff:ff:ff:ff:ff\n31: cc3mni7: <BROADCAST,NOARP> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/ether f2:0d:02:5f:5e:e0 brd ff:ff:ff:ff:ff:ff\n32: ifb0: <BROADCAST,NOARP> mtu 1500 qdisc noop state DOWN group default qlen 32\n    link\/ether f2:6d:92:eb:88:4d brd ff:ff:ff:ff:ff:ff\n33: ifb1: <BROADCAST,NOARP> mtu 1500 qdisc noop state DOWN group default qlen 32\n    link\/ether a2:bf:31:51:c0:73 brd ff:ff:ff:ff:ff:ff\n34: tunl0@NONE: <NOARP> mtu 1480 qdisc noop state DOWN group default qlen 1\n    link\/ipip 0.0.0.0 brd 0.0.0.0\n35: sit0@NONE: <NOARP> mtu 1480 qdisc noop state DOWN group default qlen 1\n    link\/sit 0.0.0.0 brd 0.0.0.0\n36: ip6tnl0@NONE: <NOARP> mtu 1452 qdisc noop state DOWN group default qlen 1\n    link\/tunnel6 :: brd ::\n72: wlan0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 1000\n    link\/ether 90:f0:52:0a:d5:b8 brd ff:ff:ff:ff:ff:ff\n    inet 10.43.55.231\/23 brd 10.43.55.255 scope global wlan0\n       valid_lft forever preferred_lft forever\n    inet6 fe80::92f0:52ff:fe0a:d5b8\/64 scope link \n       valid_lft forever preferred_lft forever\n73: p2p0: <NO-CARRIER,BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state DORMANT group default qlen 1000\n    link\/ether 92:f0:52:0a:d5:b8 brd ff:ff:ff:ff:ff:ff\n    inet6 fe80::90f0:52ff:fe0a:d5b8\/64 scope link \n       valid_lft forever preferred_lft forever\n",
+    "ip_link": "1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN mode DEFAULT group default qlen 1\n    link\/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00\n2: ccmni0: <BROADCAST,NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/ether 8e:08:55:cd:37:b4 brd ff:ff:ff:ff:ff:ff\n3: ccmni1: <BROADCAST,NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/ether de:1b:21:9a:19:99 brd ff:ff:ff:ff:ff:ff\n4: ccmni2: <BROADCAST,NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/ether ce:0b:38:c6:fc:41 brd ff:ff:ff:ff:ff:ff\n5: ccmni3: <BROADCAST,NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/ether 12:40:de:41:95:69 brd ff:ff:ff:ff:ff:ff\n6: ccmni4: <BROADCAST,NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/ether a6:76:ae:d7:3e:32 brd ff:ff:ff:ff:ff:ff\n7: ccmni5: <BROADCAST,NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/ether 86:3e:5b:16:c6:81 brd ff:ff:ff:ff:ff:ff\n8: ccmni6: <BROADCAST,NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/ether 5a:92:59:b4:e5:8d brd ff:ff:ff:ff:ff:ff\n9: ccmni7: <BROADCAST,NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/ether 1a:23:94:79:54:55 brd ff:ff:ff:ff:ff:ff\n10: ccmni8: <BROADCAST,NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/ether 6a:a1:1f:71:f1:cd brd ff:ff:ff:ff:ff:ff\n11: ccmni9: <BROADCAST,NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/ether 4a:32:05:d4:43:71 brd ff:ff:ff:ff:ff:ff\n12: ccmni10: <BROADCAST,NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/ether 46:4b:42:d3:42:c0 brd ff:ff:ff:ff:ff:ff\n13: ccmni11: <BROADCAST,NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/ether 1a:b2:8c:d2:bf:82 brd ff:ff:ff:ff:ff:ff\n14: ccmni12: <BROADCAST,NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/ether 1e:5d:b1:1b:6e:9c brd ff:ff:ff:ff:ff:ff\n15: ccmni13: <BROADCAST,NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/ether 2a:e8:62:ca:87:97 brd ff:ff:ff:ff:ff:ff\n16: ccmni14: <BROADCAST,NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/ether 1e:4d:16:d0:7b:1f brd ff:ff:ff:ff:ff:ff\n17: ccmni15: <BROADCAST,NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/ether 82:28:63:e1:5a:29 brd ff:ff:ff:ff:ff:ff\n18: ccmni16: <BROADCAST,NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/ether 46:d5:2d:1d:9f:cc brd ff:ff:ff:ff:ff:ff\n19: ccmni17: <BROADCAST,NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/ether d6:8d:c4:ac:fd:a3 brd ff:ff:ff:ff:ff:ff\n20: ccmni18: <BROADCAST,NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/ether 1a:66:0c:5c:10:4b brd ff:ff:ff:ff:ff:ff\n21: ccmni19: <BROADCAST,NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/ether e2:d2:5d:c1:8c:eb brd ff:ff:ff:ff:ff:ff\n22: ccmni20: <BROADCAST,NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/ether e2:1b:b9:26:9e:f5 brd ff:ff:ff:ff:ff:ff\n23: ccmni-lan: <BROADCAST,MULTICAST> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/ether ae:1f:e0:94:94:95 brd ff:ff:ff:ff:ff:ff\n24: cc3mni0: <BROADCAST,NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/ether 7e:ae:42:1e:5a:81 brd ff:ff:ff:ff:ff:ff\n25: cc3mni1: <BROADCAST,NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/ether 2a:95:37:a6:7f:30 brd ff:ff:ff:ff:ff:ff\n26: cc3mni2: <BROADCAST,NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/ether 6e:af:47:4c:59:cf brd ff:ff:ff:ff:ff:ff\n27: cc3mni3: <BROADCAST,NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/ether b6:d7:6d:49:2a:f5 brd ff:ff:ff:ff:ff:ff\n28: cc3mni4: <BROADCAST,NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/ether 3a:0a:8c:e5:23:f3 brd ff:ff:ff:ff:ff:ff\n29: cc3mni5: <BROADCAST,NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/ether ee:41:fc:8d:78:52 brd ff:ff:ff:ff:ff:ff\n30: cc3mni6: <BROADCAST,NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/ether 4e:85:cb:a0:97:cf brd ff:ff:ff:ff:ff:ff\n31: cc3mni7: <BROADCAST,NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/ether f2:0d:02:5f:5e:e0 brd ff:ff:ff:ff:ff:ff\n32: ifb0: <BROADCAST,NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 32\n    link\/ether f2:6d:92:eb:88:4d brd ff:ff:ff:ff:ff:ff\n33: ifb1: <BROADCAST,NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 32\n    link\/ether a2:bf:31:51:c0:73 brd ff:ff:ff:ff:ff:ff\n34: tunl0@NONE: <NOARP> mtu 1480 qdisc noop state DOWN mode DEFAULT group default qlen 1\n    link\/ipip 0.0.0.0 brd 0.0.0.0\n35: sit0@NONE: <NOARP> mtu 1480 qdisc noop state DOWN mode DEFAULT group default qlen 1\n    link\/sit 0.0.0.0 brd 0.0.0.0\n36: ip6tnl0@NONE: <NOARP> mtu 1452 qdisc noop state DOWN mode DEFAULT group default qlen 1\n    link\/tunnel6 :: brd ::\n72: wlan0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP mode DORMANT group default qlen 1000\n    link\/ether 90:f0:52:0a:d5:b8 brd ff:ff:ff:ff:ff:ff\n73: p2p0: <NO-CARRIER,BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state DORMANT mode DORMANT group default qlen 1000\n    link\/ether 92:f0:52:0a:d5:b8 brd ff:ff:ff:ff:ff:ff\n"
+  }
+}
