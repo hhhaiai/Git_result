@@ -1,0 +1,437 @@
+{
+  "LetMeSee": {
+    "com.android.settings": [
+      "\/sdcard\/Android\/data\/com.android.settings\/cache"
+    ],
+    "com.ss.android.ugc.aweme": [
+      "\/sdcard\/Android\/data\/com.ss.android.ugc.aweme\/files",
+      "\/sdcard\/Android\/data\/com.ss.android.ugc.aweme\/files\/logs",
+      "\/sdcard\/Android\/data\/com.ss.android.ugc.aweme\/files\/perf",
+      "\/sdcard\/Android\/data\/com.ss.android.ugc.aweme\/files\/perfUploading",
+      "\/sdcard\/Android\/data\/com.ss.android.ugc.aweme\/files\/push_cdata.lock",
+      "\/sdcard\/Android\/data\/com.ss.android.ugc.aweme\/files\/push_cdata.data",
+      "\/sdcard\/Android\/data\/com.ss.android.ugc.aweme\/files\/fastbot"
+    ],
+    "com.tencent.mobileqq": [
+      "\/sdcard\/Android\/data\/com.tencent.mobileqq\/files"
+    ],
+    "com.vivo.browser": [
+      "\/sdcard\/Android\/data\/com.vivo.browser\/files",
+      "\/sdcard\/Android\/data\/com.vivo.browser\/cache",
+      "\/data\/data\/com.vivo.browser\/files",
+      "\/data\/data\/com.vivo.browser\/cache",
+      "\/data\/data\/com.vivo.browser\/cache\/crash",
+      "\/data\/data\/com.vivo.browser\/code_cache",
+      "\/data\/data\/com.vivo.browser\/databases",
+      "\/data\/data\/com.vivo.browser\/shared_prefs"
+    ],
+    "me.fup.v0": [
+      "\/data\/data\/me.fup.v0\/files",
+      "\/data\/data\/me.fup.v0\/cache",
+      "\/data\/data\/me.fup.v0\/code_cache",
+      "\/data\/data\/me.fup.v0\/databases",
+      "\/data\/data\/me.fup.v0\/shared_prefs"
+    ],
+    "io.appium.unlock": [
+      "\/data\/data\/io.appium.unlock\/cache",
+      "\/data\/data\/io.appium.unlock\/code_cache"
+    ],
+    "com.vivo.iotserver": [
+      "\/data\/data\/com.vivo.iotserver\/cache",
+      "\/data\/data\/com.vivo.iotserver\/code_cache",
+      "\/data\/data\/com.vivo.iotserver\/databases",
+      "\/data\/data\/com.vivo.iotserver\/shared_prefs"
+    ],
+    "com.vivo.atphonemanager": [
+      "\/data\/data\/com.vivo.atphonemanager\/cache",
+      "\/data\/data\/com.vivo.atphonemanager\/code_cache"
+    ],
+    "jp.jun_nama.test.utf7ime": [
+      "\/data\/data\/jp.jun_nama.test.utf7ime\/cache",
+      "\/data\/data\/jp.jun_nama.test.utf7ime\/code_cache"
+    ],
+    "com.samsung.slsi.CtcSelfRegister": [
+      "\/data\/data\/com.samsung.slsi.CtcSelfRegister\/cache",
+      "\/data\/data\/com.samsung.slsi.CtcSelfRegister\/code_cache",
+      "\/data\/data\/com.samsung.slsi.CtcSelfRegister\/shared_prefs"
+    ]
+  },
+  "设备信息": {
+    "java_version ": "0",
+    "java_runtime_version": "0.9",
+    "java_runtime_name": "Android Runtime",
+    "java_vm_version ": "2.1.0",
+    "SystemName": "Android",
+    "SystemVersion": "10",
+    "DeviceBrand": "vivo",
+    "UM-OAID": "f02af676a8b3ef54729506b2a03670507db8ce31aab38a2ea3b3069ad1d1253a",
+    "DeviceModel": "V1962A",
+    "SerialNumber": "MT019848738339012345",
+    "ApplicationChannel": "CHANNEL-vivo",
+    "ApplicationKey": "APPKE",
+    "APILevel": "29",
+    "UA": "Mozilla\/5.0 (Linux; Android 10; V1962A Build\/QP1A.190711.020; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/78.0.3904.96 Mobile Safari\/537.36",
+    "TargetSdkVersion": "31",
+    "BootTimeMilliseconds": "1663827838188",
+    "Simulator": "0",
+    "Debug": "0",
+    "Hijack": "0",
+    "SDK--utdid": "YzGOpJThuS0DAMgjwfx\/p13a",
+    "IsRoot": "0",
+    "SystemFontSize": "0",
+    "SystemHour": "12",
+    "SystemLanguage": "zh",
+    "SystemArea": "CN",
+    "TimeZone": "GMT+08:00",
+    "SenSorModuleName": [
+      {
+        "SenSorName": "TCS3701 Proximity Sensor",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "AMS",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "TCS3701 Light Sensor",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "AMS",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "LSM6DSM accelerometer",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "ST",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "LSM6DSM accelerometer (uncalibrated)",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "ST",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "LSM6DSM gyroscope",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "ST",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "LSM6DSM gyroscope (uncalibrated)",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "ST",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "AKM09918 magnetometer",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "AKM",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "AKM09918 magnetometer (uncalibrated)",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "AKM",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "Orientation",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "VIVO",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "Step detector",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "VIVO",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "Step counter",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "VIVO",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "Significant motion",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "Samsung",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "Any motion",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "Samsung",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "Gravity",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "VIVO",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "Linear Acceleration",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "VIVO",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "Rotation Vector",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "VIVO",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "Geomagnetic Rotation Vector",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "VIVO",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "Game Rotation Vector",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "VIVO",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "Device Orientation",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "Google",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "Raiseup detect",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "VIVO",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "Putdown detect",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "VIVO",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "ambient light scene",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "VIVO",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "vivomotion",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "VIVO",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "smartprox detect",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "VIVO",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "Window Orientation",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "VIVO",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "angle judge",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "VIVO",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "TCS3707 CCT Sensor",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "AMS",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "algo-prox",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "vivo",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.009999999776482582
+      },
+      {
+        "SenSorName": "Proximity Sensor",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "vivo",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.5
+      }
+    ],
+    "CPUModel": "arm64-v8a:",
+    "BuildId": "QP1A.190711.020",
+    "BuildDisplay": "QP1A.190711.020 release-keys",
+    "BuildProduct": "PD1962",
+    "BuildDevice": "PD1962",
+    "BuildBoard": "exynos980",
+    "BuildHardware": "exynos980",
+    "BuildSupportedAbis": "arm64-v8a,armeabi-v7a,armeabi",
+    "BuildSupportedAbis32": "armeabi-v7a,armeabi",
+    "BuildSupportedAbis64": "arm64-v8a",
+    "BuildType": "user",
+    "BuildTags": "release-keys",
+    "BuildFingerPrint": "vivo\/PD1962\/PD1962:10\/QP1A.190711.020\/compiler04201838:user\/release-keys",
+    "BuildRadioVersion": "cp_200227_PD1962_A_1.8.0,cp_200227_PD1962_A_1.8.0",
+    "BuildIncremental": "compiler04201838",
+    "BuildSecurityPatch": "2020-04-01",
+    "BuildPreviewSdkInt": "0",
+    "BuildSdkInt": "29",
+    "BuildCodename": "REL",
+    "ETDM": {
+      "BatteryStatus": "5",
+      "BatteryHealth": "2",
+      "BatteryLevel": "100",
+      "BatteryScale": "100",
+      "BatteryPlugged": "2",
+      "BatteryTechnology": "Li-poly"
+    }
+  },
+  "Unsafe": {
+    "init[theUnsafe]": true,
+    "init[THE_ONE]": true,
+    "init[getUnsafe]": true,
+    "init[getUnsafeByAbstractQueuedSynchronizer]": true,
+    "arrayIndexScale赋值Object数组大小": 4,
+    "is64Bit": true,
+    "me-adress": 524019768,
+    "me-hash": 259313130,
+    "me格式化-address": "1f3be838",
+    "me1-adress": 524019768,
+    "me1-hash": 259313130,
+    "me1格式化-address": "1f3be838",
+    "两个对象地址测试结果": true,
+    "两个对象测试结果": true,
+    "byte[]_OFFSET": 12,
+    "byte[]_SCALE": 1,
+    "boolean[]_OFFSET": 12,
+    "boolean[]_SCALE": 1,
+    "int[]_OFFSET": 12,
+    "int[]_SCALE": 4,
+    "long[]_OFFSET": 16,
+    "long[]_SCALE": 8,
+    "float[]_OFFSET": 12,
+    "float[]_SCALE": 4,
+    "double[]_OFFSET": 16,
+    "double[]_SCALE": 8,
+    "Object[]_OFFSET": 12,
+    "Object[]_SCALE": 4,
+    "BUFFER_ADDRESS_OFFSET": 8,
+    "STRIDE_ALIGNMENT_MASK": 7,
+    "BYTE_ARRAY_ALIGNMENT": 4,
+    "IS_BIG_ENDIAN": false,
+    "objectFieldOffset(Field)": true,
+    "1_arrayBaseOffset(Class)": true,
+    "1_getArrayBaseOffsetForComponentType(Class)": true,
+    "2_arrayIndexScale(Class)": true,
+    "2_getArrayIndexScaleForComponentType(Class)": true,
+    "2_arrayIndexScale0(Class)": false,
+    "compareAndSwapInt(Object,long,int,int)": true,
+    "compareAndSwapLong(Object,long,long,long)": true,
+    "compareAndSwapObject(Object,long,Object,Object)": true,
+    "3_getInt(Object,long)": true,
+    "3_getIntVolatile(Object,long)": true,
+    "getInt(long)": true,
+    "4_putInt(Object,long,int)": true,
+    "4_putIntVolatile(Object,long,int)": true,
+    "putInt(long,int)": true,
+    "putOrderedInt(Object,long,int)": true,
+    "5_getLong(Object,long)": true,
+    "5_getLongVolatile(Object,long)": true,
+    "getLong(long)": true,
+    "putLong(Object,long,long)": true,
+    "getObject(Object,long)": true,
+    "putObject(Object,long,Object)": true,
+    "getByte(long)": true,
+    "getByte(Object,long)": true,
+    "putByte(long,byte)": false,
+    "putByte(Object,long,byte)": true,
+    "getBoolean(Object,long)": true,
+    "putBoolean(Object,long,boolean)": true,
+    "getFloat(Object,long)": true,
+    "putFloat(Object,long,float)": true,
+    "getDouble(Object,long)": true,
+    "putDouble(Object,long,double)": true,
+    "bufferAddressField": "long java.nio.Buffer.address",
+    "putLong(long,long)": true,
+    "copyMemory(long,long,long)": true,
+    "addressSize()": true,
+    "pageSize()": true,
+    "allocateInstance(Class)": true,
+    "allocateMemory(long)": true,
+    "copyMemoryToPrimitiveArray(long,Object,long,long)": true,
+    "copyMemoryFromPrimitiveArray(Object,long,long,long)": true,
+    "setMemory(long,long,byte)": true,
+    "freeMemory(long)": true,
+    "getAndAddInt(Object,long,int)": true,
+    "getAndSetInt(Object,long,int)": true,
+    "getAndAddLong(Object,long,long)": true,
+    "getAndSetLong(Object,long,long)": true,
+    "getAndSetObject(Object,long,Object)": true
+  },
+  "MAC": {
+    "java_mac": "92:b6:9c:3e:72:8d",
+    "api_mac": "02:00:00:00:00:00",
+    "file_mac": "",
+    "ip_address": "1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000\n    link\/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00\n    inet 127.0.0.1\/8 scope host lo\n       valid_lft forever preferred_lft forever\n    inet6 ::1\/128 scope host \n       valid_lft forever preferred_lft forever\n2: rmnet0: <POINTOPOINT,MULTICAST,NOARP> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[519] \n3: rmnet1: <POINTOPOINT,MULTICAST,NOARP> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[519] \n4: rmnet2: <POINTOPOINT,MULTICAST,NOARP> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[519] \n5: rmnet3: <POINTOPOINT,MULTICAST,NOARP> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[519] \n6: rmnet4: <POINTOPOINT,MULTICAST,NOARP> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[519] \n7: rmnet5: <POINTOPOINT,MULTICAST,NOARP> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[519] \n8: rmnet6: <POINTOPOINT,MULTICAST,NOARP> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[519] \n9: rmnet7: <POINTOPOINT,MULTICAST,NOARP> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[519] \n10: umts_embms0: <POINTOPOINT,MULTICAST,NOARP> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[519] \n11: umts_embms1: <POINTOPOINT,MULTICAST,NOARP> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[519] \n12: wlan0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 1000\n    link\/ether 92:b6:9c:3e:72:8d brd ff:ff:ff:ff:ff:ff\n    inet 10.100.11.144\/24 brd 10.100.11.255 scope global wlan0\n       valid_lft forever preferred_lft forever\n    inet6 fe80::90b6:9cff:fe3e:728d\/64 scope link \n       valid_lft forever preferred_lft forever\n13: p2p0: <NO-CARRIER,BROADCAST,MULTICAST,UP> mtu 1500 qdisc mq state DOWN group default qlen 1000\n    link\/ether c6:93:87:b7:ff:25 brd ff:ff:ff:ff:ff:ff\n14: wlan1: <BROADCAST,MULTICAST> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/ether 00:00:00:00:00:00 brd ff:ff:ff:ff:ff:ff\n15: nan0: <BROADCAST,MULTICAST> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/ether 00:00:00:00:00:00 brd ff:ff:ff:ff:ff:ff\n16: tunl0@NONE: <NOARP> mtu 1480 qdisc noop state DOWN group default qlen 1000\n    link\/ipip 0.0.0.0 brd 0.0.0.0\n17: ip_vti0@NONE: <NOARP> mtu 1480 qdisc noop state DOWN group default qlen 1000\n    link\/ipip 0.0.0.0 brd 0.0.0.0\n18: ip6_vti0@NONE: <NOARP> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/tunnel6 :: brd ::\n19: sit0@NONE: <NOARP> mtu 1480 qdisc noop state DOWN group default qlen 1000\n    link\/sit 0.0.0.0 brd 0.0.0.0\n20: ip6tnl0@NONE: <NOARP> mtu 1452 qdisc noop state DOWN group default qlen 1000\n    link\/tunnel6 :: brd ::\n",
+    "ip_link": "1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN mode DEFAULT group default qlen 1000\n    link\/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00\n2: rmnet0: <POINTOPOINT,MULTICAST,NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[519] \n3: rmnet1: <POINTOPOINT,MULTICAST,NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[519] \n4: rmnet2: <POINTOPOINT,MULTICAST,NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[519] \n5: rmnet3: <POINTOPOINT,MULTICAST,NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[519] \n6: rmnet4: <POINTOPOINT,MULTICAST,NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[519] \n7: rmnet5: <POINTOPOINT,MULTICAST,NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[519] \n8: rmnet6: <POINTOPOINT,MULTICAST,NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[519] \n9: rmnet7: <POINTOPOINT,MULTICAST,NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[519] \n10: umts_embms0: <POINTOPOINT,MULTICAST,NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[519] \n11: umts_embms1: <POINTOPOINT,MULTICAST,NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[519] \n12: wlan0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP mode DORMANT group default qlen 1000\n    link\/ether 92:b6:9c:3e:72:8d brd ff:ff:ff:ff:ff:ff\n13: p2p0: <NO-CARRIER,BROADCAST,MULTICAST,UP> mtu 1500 qdisc mq state DOWN mode DORMANT group default qlen 1000\n    link\/ether c6:93:87:b7:ff:25 brd ff:ff:ff:ff:ff:ff\n14: wlan1: <BROADCAST,MULTICAST> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/ether 00:00:00:00:00:00 brd ff:ff:ff:ff:ff:ff\n15: nan0: <BROADCAST,MULTICAST> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/ether 00:00:00:00:00:00 brd ff:ff:ff:ff:ff:ff\n16: tunl0@NONE: <NOARP> mtu 1480 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/ipip 0.0.0.0 brd 0.0.0.0\n17: ip_vti0@NONE: <NOARP> mtu 1480 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/ipip 0.0.0.0 brd 0.0.0.0\n18: ip6_vti0@NONE: <NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/tunnel6 :: brd ::\n19: sit0@NONE: <NOARP> mtu 1480 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/sit 0.0.0.0 brd 0.0.0.0\n20: ip6tnl0@NONE: <NOARP> mtu 1452 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/tunnel6 :: brd ::\n"
+  }
+}
