@@ -1,0 +1,676 @@
+{
+  "LetMeSee": {
+    "com.htcmarket": [
+      "\/data\/data\/com.htcmarket\/files",
+      "\/data\/data\/com.htcmarket\/cache",
+      "\/data\/data\/com.htcmarket\/databases",
+      "\/data\/data\/com.htcmarket\/shared_prefs"
+    ],
+    "com.htc.launcher": [
+      "\/data\/data\/com.htc.launcher\/files",
+      "\/data\/data\/com.htc.launcher\/cache",
+      "\/data\/data\/com.htc.launcher\/databases",
+      "\/data\/data\/com.htc.launcher\/shared_prefs"
+    ],
+    "com.htc.contacts": [
+      "\/data\/data\/com.htc.contacts\/cache",
+      "\/data\/data\/com.htc.contacts\/shared_prefs"
+    ],
+    "cn.testin.itestin": [
+      "\/data\/data\/cn.testin.itestin\/files",
+      "\/data\/data\/cn.testin.itestin\/cache",
+      "\/data\/data\/cn.testin.itestin\/shared_prefs"
+    ],
+    "com.htc.backup": [
+      "\/data\/data\/com.htc.backup\/files",
+      "\/data\/data\/com.htc.backup\/cache",
+      "\/data\/data\/com.htc.backup\/databases",
+      "\/data\/data\/com.htc.backup\/shared_prefs"
+    ],
+    "com.htc.safetygate": [
+      "\/data\/data\/com.htc.safetygate\/cache",
+      "\/data\/data\/com.htc.safetygate\/shared_prefs"
+    ],
+    "com.htc.Weather": [
+      "\/data\/data\/com.htc.Weather\/cache",
+      "\/data\/data\/com.htc.Weather\/shared_prefs"
+    ],
+    "com.htc.android.worldclock": [
+      "\/data\/data\/com.htc.android.worldclock\/cache",
+      "\/data\/data\/com.htc.android.worldclock\/databases",
+      "\/data\/data\/com.htc.android.worldclock\/shared_prefs"
+    ],
+    "com.htc.android.mail": [
+      "\/data\/data\/com.htc.android.mail\/files",
+      "\/data\/data\/com.htc.android.mail\/cache",
+      "\/data\/data\/com.htc.android.mail\/databases",
+      "\/data\/data\/com.htc.android.mail\/shared_prefs"
+    ],
+    "com.htc.sense.mms": [
+      "\/data\/data\/com.htc.sense.mms\/cache",
+      "\/data\/data\/com.htc.sense.mms\/databases",
+      "\/data\/data\/com.htc.sense.mms\/shared_prefs"
+    ],
+    "com.infraware.docmaster": [
+      "\/data\/data\/com.infraware.docmaster\/files",
+      "\/data\/data\/com.infraware.docmaster\/cache",
+      "\/data\/data\/com.infraware.docmaster\/databases",
+      "\/data\/data\/com.infraware.docmaster\/shared_prefs"
+    ],
+    "com.htc.dotmatrix": [
+      "\/data\/data\/com.htc.dotmatrix\/files",
+      "\/data\/data\/com.htc.dotmatrix\/cache",
+      "\/data\/data\/com.htc.dotmatrix\/shared_prefs"
+    ],
+    "com.htc.task": [
+      "\/data\/data\/com.htc.task\/cache",
+      "\/data\/data\/com.htc.task\/databases",
+      "\/data\/data\/com.htc.task\/shared_prefs"
+    ],
+    "com.htc.fm": [
+      "\/data\/data\/com.htc.fm\/cache",
+      "\/data\/data\/com.htc.fm\/shared_prefs"
+    ],
+    "com.htc.showme": [
+      "\/data\/data\/com.htc.showme\/cache",
+      "\/data\/data\/com.htc.showme\/databases",
+      "\/data\/data\/com.htc.showme\/shared_prefs"
+    ],
+    "me.fup.v0": [
+      "\/data\/data\/me.fup.v0\/files",
+      "\/data\/data\/me.fup.v0\/cache",
+      "\/data\/data\/me.fup.v0\/databases",
+      "\/data\/data\/me.fup.v0\/shared_prefs"
+    ],
+    "com.htc.AutoMotive": [
+      "\/data\/data\/com.htc.AutoMotive\/cache",
+      "\/data\/data\/com.htc.AutoMotive\/databases",
+      "\/data\/data\/com.htc.AutoMotive\/shared_prefs"
+    ],
+    "com.htc.backuprestore.sd": [
+      "\/data\/data\/com.htc.backuprestore.sd\/cache",
+      "\/data\/data\/com.htc.backuprestore.sd\/databases",
+      "\/data\/data\/com.htc.backuprestore.sd\/shared_prefs"
+    ],
+    "com.htc.stock": [
+      "\/data\/data\/com.htc.stock\/cache",
+      "\/data\/data\/com.htc.stock\/databases",
+      "\/data\/data\/com.htc.stock\/shared_prefs"
+    ],
+    "com.htc.album": [
+      "\/data\/data\/com.htc.album\/files",
+      "\/data\/data\/com.htc.album\/cache",
+      "\/data\/data\/com.htc.album\/databases",
+      "\/data\/data\/com.htc.album\/shared_prefs"
+    ],
+    "com.htc.filemanager": [
+      "\/data\/data\/com.htc.filemanager\/cache",
+      "\/data\/data\/com.htc.filemanager\/shared_prefs"
+    ],
+    "com.htc.lucy": [
+      "\/data\/data\/com.htc.lucy\/cache",
+      "\/data\/data\/com.htc.lucy\/databases",
+      "\/data\/data\/com.htc.lucy\/shared_prefs"
+    ],
+    "com.htc.music": [
+      "\/data\/data\/com.htc.music\/cache",
+      "\/data\/data\/com.htc.music\/shared_prefs"
+    ],
+    "com.htc.calendar": [
+      "\/data\/data\/com.htc.calendar\/cache",
+      "\/data\/data\/com.htc.calendar\/shared_prefs"
+    ],
+    "com.htc.soundrecorder": [
+      "\/data\/data\/com.htc.soundrecorder\/cache",
+      "\/data\/data\/com.htc.soundrecorder\/shared_prefs"
+    ],
+    "com.htc.sense.browser": [
+      "\/data\/data\/com.htc.sense.browser\/files",
+      "\/data\/data\/com.htc.sense.browser\/cache",
+      "\/data\/data\/com.htc.sense.browser\/databases",
+      "\/data\/data\/com.htc.sense.browser\/shared_prefs"
+    ],
+    "com.mobilesrepublic.appy": [
+      "\/data\/data\/com.mobilesrepublic.appy\/files",
+      "\/data\/data\/com.mobilesrepublic.appy\/cache",
+      "\/data\/data\/com.mobilesrepublic.appy\/databases",
+      "\/data\/data\/com.mobilesrepublic.appy\/shared_prefs"
+    ],
+    "com.htc.camera": [
+      "\/data\/data\/com.htc.camera\/files",
+      "\/data\/data\/com.htc.camera\/cache",
+      "\/data\/data\/com.htc.camera\/shared_prefs"
+    ],
+    "com.htc.CustomizationSetup": [
+      "\/data\/data\/com.htc.CustomizationSetup\/files",
+      "\/data\/data\/com.htc.CustomizationSetup\/cache",
+      "\/data\/data\/com.htc.CustomizationSetup\/shared_prefs"
+    ],
+    "com.htc.powersavinglauncher": [
+      "\/data\/data\/com.htc.powersavinglauncher\/files",
+      "\/data\/data\/com.htc.powersavinglauncher\/cache",
+      "\/data\/data\/com.htc.powersavinglauncher\/databases",
+      "\/data\/data\/com.htc.powersavinglauncher\/shared_prefs"
+    ],
+    "com.tencent.qqpimsecureforhtc": [
+      "\/data\/data\/com.tencent.qqpimsecureforhtc\/files",
+      "\/data\/data\/com.tencent.qqpimsecureforhtc\/cache",
+      "\/data\/data\/com.tencent.qqpimsecureforhtc\/databases",
+      "\/data\/data\/com.tencent.qqpimsecureforhtc\/shared_prefs"
+    ],
+    "com.android.packageinstaller": [
+      "\/data\/data\/com.android.packageinstaller\/cache"
+    ],
+    "com.android.providers.userdictionary": [
+      "\/data\/data\/com.android.providers.userdictionary\/cache",
+      "\/data\/data\/com.android.providers.userdictionary\/databases"
+    ],
+    "com.htc.cs": [
+      "\/data\/data\/com.htc.cs\/cache",
+      "\/data\/data\/com.htc.cs\/databases"
+    ],
+    "com.htc.launcherupdatescreen": [
+      "\/data\/data\/com.htc.launcherupdatescreen\/cache"
+    ],
+    "com.htc.socialnetwork.wechatplugin": [
+      "\/data\/data\/com.htc.socialnetwork.wechatplugin\/cache"
+    ],
+    "com.htc.htcdlnamiddlelayer": [
+      "\/data\/data\/com.htc.htcdlnamiddlelayer\/files",
+      "\/data\/data\/com.htc.htcdlnamiddlelayer\/cache"
+    ],
+    "com.android.managedprovisioning": [
+      "\/data\/data\/com.android.managedprovisioning\/cache"
+    ],
+    "com.htc.customappinstaller": [
+      "\/data\/data\/com.htc.customappinstaller\/cache"
+    ],
+    "com.htc.simplelauncher": [
+      "\/data\/data\/com.htc.simplelauncher\/files",
+      "\/data\/data\/com.htc.simplelauncher\/cache",
+      "\/data\/data\/com.htc.simplelauncher\/databases",
+      "\/data\/data\/com.htc.simplelauncher\/shared_prefs"
+    ],
+    "android.htc.china.location.service": [
+      "\/data\/data\/android.htc.china.location.service\/cache",
+      "\/data\/data\/android.htc.china.location.service\/databases",
+      "\/data\/data\/android.htc.china.location.service\/shared_prefs"
+    ],
+    "com.android.printspooler": [
+      "\/data\/data\/com.android.printspooler\/files",
+      "\/data\/data\/com.android.printspooler\/cache"
+    ],
+    "com.android.vpndialogs": [
+      "\/data\/data\/com.android.vpndialogs\/cache"
+    ],
+    "com.htc.providers.settings": [
+      "\/data\/data\/com.htc.providers.settings\/cache",
+      "\/data\/data\/com.htc.providers.settings\/databases"
+    ],
+    "com.htc.autobot": [
+      "\/data\/data\/com.htc.autobot\/cache",
+      "\/data\/data\/com.htc.autobot\/shared_prefs"
+    ],
+    "com.android.server.telecom": [
+      "\/data\/data\/com.android.server.telecom\/files",
+      "\/data\/data\/com.android.server.telecom\/cache"
+    ],
+    "com.autonavi.xmgd.navigator.phone.HTC_android": [
+      "\/data\/data\/com.autonavi.xmgd.navigator.phone.HTC_android\/cache",
+      "\/data\/data\/com.autonavi.xmgd.navigator.phone.HTC_android\/databases",
+      "\/data\/data\/com.autonavi.xmgd.navigator.phone.HTC_android\/shared_prefs"
+    ],
+    "com.htc.htchotspotwidget": [
+      "\/data\/data\/com.htc.htchotspotwidget\/cache"
+    ],
+    "com.android.defcontainer": [
+      "\/data\/data\/com.android.defcontainer\/cache"
+    ],
+    "com.android.systemui": [
+      "\/data\/data\/com.android.systemui\/cache",
+      "\/data\/data\/com.android.systemui\/shared_prefs"
+    ],
+    "com.htc.lockscreen": [
+      "\/data\/data\/com.htc.lockscreen\/shared_prefs"
+    ],
+    "com.android.providers.calendar": [
+      "\/data\/data\/com.android.providers.calendar\/cache",
+      "\/data\/data\/com.android.providers.calendar\/databases",
+      "\/data\/data\/com.android.providers.calendar\/shared_prefs"
+    ],
+    "com.htc.cndeviceguard": [
+      "\/data\/data\/com.htc.cndeviceguard\/cache"
+    ],
+    "com.android.providers.downloads": [
+      "\/data\/data\/com.android.providers.downloads\/files",
+      "\/data\/data\/com.android.providers.downloads\/cache",
+      "\/data\/data\/com.android.providers.downloads\/databases"
+    ],
+    "com.htc.provider.settings": [
+      "\/data\/data\/com.htc.provider.settings\/cache",
+      "\/data\/data\/com.htc.provider.settings\/databases"
+    ],
+    "com.htc.provider.CustomizationSettings": [
+      "\/data\/data\/com.htc.provider.CustomizationSettings\/cache",
+      "\/data\/data\/com.htc.provider.CustomizationSettings\/databases"
+    ],
+    "com.htc.sense.hsp": [
+      "\/data\/data\/com.htc.sense.hsp\/files",
+      "\/data\/data\/com.htc.sense.hsp\/cache",
+      "\/data\/data\/com.htc.sense.hsp\/databases",
+      "\/data\/data\/com.htc.sense.hsp\/shared_prefs"
+    ],
+    "com.nero.android.htc.sync": [
+      "\/data\/data\/com.nero.android.htc.sync\/cache",
+      "\/data\/data\/com.nero.android.htc.sync\/databases",
+      "\/data\/data\/com.nero.android.htc.sync\/shared_prefs"
+    ],
+    "com.android.providers.contacts": [
+      "\/data\/data\/com.android.providers.contacts\/files",
+      "\/data\/data\/com.android.providers.contacts\/cache",
+      "\/data\/data\/com.android.providers.contacts\/databases",
+      "\/data\/data\/com.android.providers.contacts\/shared_prefs"
+    ],
+    "com.htc.rosiewidgets.dataroaming": [
+      "\/data\/data\/com.htc.rosiewidgets.dataroaming\/cache"
+    ],
+    "com.htc.sense.weiboplugin": [
+      "\/data\/data\/com.htc.sense.weiboplugin\/cache",
+      "\/data\/data\/com.htc.sense.weiboplugin\/databases"
+    ],
+    "com.htc.htcmobilenetworkwidget": [
+      "\/data\/data\/com.htc.htcmobilenetworkwidget\/cache",
+      "\/data\/data\/com.htc.htcmobilenetworkwidget\/shared_prefs"
+    ],
+    "com.htc.FMRadioWidget": [
+      "\/data\/data\/com.htc.FMRadioWidget\/cache",
+      "\/data\/data\/com.htc.FMRadioWidget\/shared_prefs"
+    ],
+    "com.svox.pico": [
+      "\/data\/data\/com.svox.pico\/cache"
+    ],
+    "com.htc.feedback": [
+      "\/data\/data\/com.htc.feedback\/cache",
+      "\/data\/data\/com.htc.feedback\/databases",
+      "\/data\/data\/com.htc.feedback\/shared_prefs"
+    ],
+    "com.htc.resetnotify": [
+      "\/data\/data\/com.htc.resetnotify\/files"
+    ],
+    "com.htc.MusicWidget": [
+      "\/data\/data\/com.htc.MusicWidget\/cache"
+    ],
+    "com.htc.cs.identity": [
+      "\/data\/data\/com.htc.cs.identity\/files",
+      "\/data\/data\/com.htc.cs.identity\/cache"
+    ],
+    "com.htc.htccalendarwidgets": [
+      "\/data\/data\/com.htc.htccalendarwidgets\/cache",
+      "\/data\/data\/com.htc.htccalendarwidgets\/shared_prefs"
+    ],
+    "com.htc.updater": [
+      "\/data\/data\/com.htc.updater\/cache",
+      "\/data\/data\/com.htc.updater\/databases",
+      "\/data\/data\/com.htc.updater\/shared_prefs"
+    ],
+    "com.htc.zero": [
+      "\/data\/data\/com.htc.zero\/files",
+      "\/data\/data\/com.htc.zero\/cache",
+      "\/data\/data\/com.htc.zero\/databases",
+      "\/data\/data\/com.htc.zero\/shared_prefs"
+    ],
+    "com.android.externalstorage": [
+      "\/data\/data\/com.android.externalstorage\/cache"
+    ],
+    "com.htc.widget.profile": [
+      "\/data\/data\/com.htc.widget.profile\/cache"
+    ],
+    "com.htc.mms.backupagent": [
+      "\/data\/data\/com.htc.mms.backupagent\/files",
+      "\/data\/data\/com.htc.mms.backupagent\/cache"
+    ],
+    "com.htc.cs.pns": [
+      "\/data\/data\/com.htc.cs.pns\/files",
+      "\/data\/data\/com.htc.cs.pns\/cache",
+      "\/data\/data\/com.htc.cs.pns\/databases",
+      "\/data\/data\/com.htc.cs.pns\/shared_prefs"
+    ],
+    "com.htc.soundprofile": [
+      "\/data\/data\/com.htc.soundprofile\/cache",
+      "\/data\/data\/com.htc.soundprofile\/databases"
+    ],
+    "com.htc.lmw": [
+      "\/data\/data\/com.htc.lmw\/cache",
+      "\/data\/data\/com.htc.lmw\/shared_prefs"
+    ],
+    "com.htc.htcbtwidget": [
+      "\/data\/data\/com.htc.htcbtwidget\/cache"
+    ],
+    "com.htc.htccontactwidgets": [
+      "\/data\/data\/com.htc.htccontactwidgets\/cache"
+    ],
+    "com.htc.wifidisplay": [
+      "\/data\/data\/com.htc.wifidisplay\/cache",
+      "\/data\/data\/com.htc.wifidisplay\/shared_prefs"
+    ],
+    "com.htc.htccupd": [
+      "\/data\/data\/com.htc.htccupd\/cache",
+      "\/data\/data\/com.htc.htccupd\/shared_prefs"
+    ],
+    "com.android.phone": [
+      "\/data\/data\/com.android.phone\/files",
+      "\/data\/data\/com.android.phone\/shared_prefs"
+    ],
+    "com.htc.mobiledata": [
+      "\/data\/data\/com.htc.mobiledata\/files",
+      "\/data\/data\/com.htc.mobiledata\/cache",
+      "\/data\/data\/com.htc.mobiledata\/databases",
+      "\/data\/data\/com.htc.mobiledata\/shared_prefs"
+    ],
+    "com.htc.demoflopackageinstaller": [
+      "\/data\/data\/com.htc.demoflopackageinstaller\/cache",
+      "\/data\/data\/com.htc.demoflopackageinstaller\/shared_prefs"
+    ],
+    "com.android.providers.telephony": [
+      "\/data\/data\/com.android.providers.telephony\/databases"
+    ],
+    "com.htc.widget.weatherclock": [
+      "\/data\/data\/com.htc.widget.weatherclock\/cache",
+      "\/data\/data\/com.htc.widget.weatherclock\/shared_prefs"
+    ],
+    "com.htc.csrecommend": [
+      "\/data\/data\/com.htc.csrecommend\/cache",
+      "\/data\/data\/com.htc.csrecommend\/databases",
+      "\/data\/data\/com.htc.csrecommend\/shared_prefs"
+    ],
+    "com.htc.safetygate_accelerator": [
+      "\/data\/data\/com.htc.safetygate_accelerator\/cache"
+    ],
+    "com.htc.sense.linkedin": [
+      "\/data\/data\/com.htc.sense.linkedin\/cache",
+      "\/data\/data\/com.htc.sense.linkedin\/databases"
+    ],
+    "com.htc.sense.ime": [
+      "\/data\/data\/com.htc.sense.ime\/files",
+      "\/data\/data\/com.htc.sense.ime\/cache",
+      "\/data\/data\/com.htc.sense.ime\/shared_prefs"
+    ],
+    "com.tencent.qrom.tms.tsf": [
+      "\/data\/data\/com.tencent.qrom.tms.tsf\/files",
+      "\/data\/data\/com.tencent.qrom.tms.tsf\/cache",
+      "\/data\/data\/com.tencent.qrom.tms.tsf\/databases",
+      "\/data\/data\/com.tencent.qrom.tms.tsf\/shared_prefs"
+    ],
+    "com.android.documentsui": [
+      "\/data\/data\/com.android.documentsui\/cache",
+      "\/data\/data\/com.android.documentsui\/databases",
+      "\/data\/data\/com.android.documentsui\/shared_prefs"
+    ],
+    "com.mobiletools.systemhelper": [
+      "\/data\/data\/com.mobiletools.systemhelper\/files",
+      "\/data\/data\/com.mobiletools.systemhelper\/cache",
+      "\/data\/data\/com.mobiletools.systemhelper\/shared_prefs"
+    ],
+    "org.simalliance.openmobileapi.service": [
+      "\/data\/data\/org.simalliance.openmobileapi.service\/files",
+      "\/data\/data\/org.simalliance.openmobileapi.service\/cache",
+      "\/data\/data\/org.simalliance.openmobileapi.service\/shared_prefs"
+    ],
+    "com.htc.HTCSpeaker.overlayui": [
+      "\/data\/data\/com.htc.HTCSpeaker.overlayui\/cache"
+    ],
+    "com.htc.WifiRouter": [
+      "\/data\/data\/com.htc.WifiRouter\/cache"
+    ],
+    "com.htc.china.calllocation": [
+      "\/data\/data\/com.htc.china.calllocation\/cache",
+      "\/data\/data\/com.htc.china.calllocation\/databases"
+    ],
+    "com.htc.musicenhancer": [
+      "\/data\/data\/com.htc.musicenhancer\/cache"
+    ],
+    "com.futuredial": [
+      "\/data\/data\/com.futuredial\/cache",
+      "\/data\/data\/com.futuredial\/shared_prefs"
+    ],
+    "com.iflytek.speechcloud": [
+      "\/data\/data\/com.iflytek.speechcloud\/files",
+      "\/data\/data\/com.iflytek.speechcloud\/cache",
+      "\/data\/data\/com.iflytek.speechcloud\/databases",
+      "\/data\/data\/com.iflytek.speechcloud\/shared_prefs"
+    ],
+    "com.htc.providers.htcmessage": [
+      "\/data\/data\/com.htc.providers.htcmessage\/cache",
+      "\/data\/data\/com.htc.providers.htcmessage\/databases"
+    ],
+    "com.htc.sdm": [
+      "\/data\/data\/com.htc.sdm\/cache",
+      "\/data\/data\/com.htc.sdm\/shared_prefs"
+    ],
+    "com.htc.cs.dm": [
+      "\/data\/data\/com.htc.cs.dm\/cache",
+      "\/data\/data\/com.htc.cs.dm\/databases",
+      "\/data\/data\/com.htc.cs.dm\/shared_prefs"
+    ],
+    "com.htc.HTCSpeaker": [
+      "\/data\/data\/com.htc.HTCSpeaker\/cache",
+      "\/data\/data\/com.htc.HTCSpeaker\/shared_prefs"
+    ],
+    "com.htc.cn.voice": [
+      "\/data\/data\/com.htc.cn.voice\/files",
+      "\/data\/data\/com.htc.cn.voice\/cache",
+      "\/data\/data\/com.htc.cn.voice\/databases",
+      "\/data\/data\/com.htc.cn.voice\/shared_prefs"
+    ],
+    "com.htc.htcMessageUploader": [
+      "\/data\/data\/com.htc.htcMessageUploader\/cache",
+      "\/data\/data\/com.htc.htcMessageUploader\/shared_prefs"
+    ],
+    "com.android.providers.media": [
+      "\/data\/data\/com.android.providers.media\/cache",
+      "\/data\/data\/com.android.providers.media\/databases",
+      "\/data\/data\/com.android.providers.media\/shared_prefs"
+    ],
+    "com.nero.android.htc.sync.installer": [
+      "\/data\/data\/com.nero.android.htc.sync.installer\/cache"
+    ],
+    "com.htc.video": [
+      "\/data\/data\/com.htc.video\/files",
+      "\/data\/data\/com.htc.video\/cache",
+      "\/data\/data\/com.htc.video\/shared_prefs"
+    ]
+  },
+  "设备信息": {
+    "java_version ": "0",
+    "java_runtime_version": "0.9",
+    "java_runtime_name": "Android Runtime",
+    "java_vm_version ": "2.1.0",
+    "SystemName": "Android",
+    "SystemVersion": "5.0.2",
+    "DeviceBrand": "htc",
+    "DeviceModel": "HTC D826w",
+    "SerialNumber": "CC525YG08573",
+    "IMEIS": "356195060219183|356195060219191",
+    "ApplicationChannel": "CHANNEL-HTC",
+    "ApplicationKey": "APPKE",
+    "APILevel": "21",
+    "UA": "Mozilla\/5.0 (Linux; Android 5.0.2; HTC D826w Build\/LRX22G) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/37.0.0.0 Mobile Safari\/537.36",
+    "TargetSdkVersion": "31",
+    "BootTimeMilliseconds": "1664180375690",
+    "Simulator": "0",
+    "Debug": "0",
+    "Hijack": "0",
+    "SDK--utdid": "YlT3\/S37IVMDAN9K+v9GfBDx",
+    "IsRoot": "0",
+    "SystemFontSize": "0",
+    "SystemHour": "12",
+    "SystemLanguage": "zh",
+    "SystemArea": "CN",
+    "TimeZone": "GMT+08:00",
+    "SenSorModuleName": [
+      {
+        "SenSorName": "KXTJ2 Acceleration Sensor",
+        "SenSorVersion": "5021020",
+        "SenSorManufacturer": "Kionix, Inc.",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.13500000536441803
+      },
+      {
+        "SenSorName": "AKM09911 Magnetic Sensor field sensor",
+        "SenSorVersion": "5021020",
+        "SenSorManufacturer": "Asahi Kasei Microdevices",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.1599999964237213
+      },
+      {
+        "SenSorName": "MS-3R (YAS532) Uncalibrated Magnetic Sensor",
+        "SenSorVersion": "5021020",
+        "SenSorManufacturer": "Yamaha Corporation",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.1599999964237213
+      },
+      {
+        "SenSorName": "Orientation Sensor",
+        "SenSorVersion": "5021020",
+        "SenSorManufacturer": "Yamaha Corporation",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0
+      },
+      {
+        "SenSorName": "Geomagnetic Rotation Vector Sensor",
+        "SenSorVersion": "5021020",
+        "SenSorManufacturer": "Yamaha Corporation",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0
+      },
+      {
+        "SenSorName": "CM36282 Proximity sensor",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "Capella Microsystems",
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.18000000715255737
+      },
+      {
+        "SenSorName": "CM36282 Light sensor",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "Capella Microsystems",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.15000000596046448
+      }
+    ],
+    "CPUModel": "arm64-v8a:",
+    "BuildId": "LRX22G",
+    "BuildDisplay": "LRX22G release-keys",
+    "BuildProduct": "a52dtul_htccn_chs_2",
+    "BuildDevice": "htc_a52dtul",
+    "BuildBoard": "msm8939",
+    "BuildBootloader": "3.19.0.0000",
+    "BuildHardware": "qcom",
+    "BuildSupportedAbis": "arm64-v8a,armeabi-v7a,armeabi",
+    "BuildSupportedAbis32": "armeabi-v7a,armeabi",
+    "BuildSupportedAbis64": "arm64-v8a",
+    "BuildType": "user",
+    "BuildTags": "release-keys",
+    "BuildFingerPrint": "htc\/a52dtul_htccn_chs_2\/htc_a52dtul:5.0.2\/LRX22G\/583966.7:user\/release-keys",
+    "BuildRadioVersion": "1.0.U20402.1@50316_08.00_015_F",
+    "BuildIncremental": "583966.7",
+    "BuildSdkInt": "21",
+    "BuildCodename": "REL",
+    "ETDM": {
+      "BatteryStatus": "5",
+      "BatteryHealth": "2",
+      "BatteryLevel": "100",
+      "BatteryScale": "100",
+      "BatteryPlugged": "2",
+      "BatteryTechnology": "Li-poly"
+    }
+  },
+  "Unsafe": {
+    "init[theUnsafe]": true,
+    "init[THE_ONE]": true,
+    "init[getUnsafe]": true,
+    "init[getUnsafeByAbstractQueuedSynchronizer]": true,
+    "arrayIndexScale赋值Object数组大小": 4,
+    "is64Bit": true,
+    "me-adress": 317884192,
+    "me-hash": 429692687,
+    "me格式化-address": "12f28720",
+    "me1-adress": 317884192,
+    "me1-hash": 429692687,
+    "me1格式化-address": "12f28720",
+    "两个对象地址测试结果": true,
+    "两个对象测试结果": true,
+    "byte[]_OFFSET": 12,
+    "byte[]_SCALE": 1,
+    "boolean[]_OFFSET": 12,
+    "boolean[]_SCALE": 1,
+    "int[]_OFFSET": 12,
+    "int[]_SCALE": 4,
+    "long[]_OFFSET": 16,
+    "long[]_SCALE": 8,
+    "float[]_OFFSET": 12,
+    "float[]_SCALE": 4,
+    "double[]_OFFSET": 16,
+    "double[]_SCALE": 8,
+    "Object[]_OFFSET": 12,
+    "Object[]_SCALE": 4,
+    "BUFFER_ADDRESS_OFFSET": 0,
+    "STRIDE_ALIGNMENT_MASK": 7,
+    "BYTE_ARRAY_ALIGNMENT": 4,
+    "IS_BIG_ENDIAN": false,
+    "objectFieldOffset(Field)": true,
+    "1_arrayBaseOffset(Class)": true,
+    "1_getArrayBaseOffsetForComponentType(Class)": true,
+    "2_arrayIndexScale(Class)": true,
+    "2_getArrayIndexScaleForComponentType(Class)": true,
+    "2_arrayIndexScale0(Class)": false,
+    "compareAndSwapInt(Object,long,int,int)": true,
+    "compareAndSwapLong(Object,long,long,long)": true,
+    "compareAndSwapObject(Object,long,Object,Object)": true,
+    "3_getInt(Object,long)": true,
+    "3_getIntVolatile(Object,long)": true,
+    "getInt(long)": false,
+    "4_putInt(Object,long,int)": true,
+    "4_putIntVolatile(Object,long,int)": true,
+    "putInt(long,int)": false,
+    "putOrderedInt(Object,long,int)": true,
+    "5_getLong(Object,long)": true,
+    "5_getLongVolatile(Object,long)": true,
+    "getLong(long)": false,
+    "putLong(Object,long,long)": true,
+    "getObject(Object,long)": true,
+    "putObject(Object,long,Object)": true,
+    "getByte(long)": false,
+    "getByte(Object,long)": false,
+    "putByte(long,byte)": false,
+    "putByte(Object,long,byte)": false,
+    "getBoolean(Object,long)": false,
+    "putBoolean(Object,long,boolean)": false,
+    "getFloat(Object,long)": false,
+    "putFloat(Object,long,float)": false,
+    "getDouble(Object,long)": false,
+    "putDouble(Object,long,double)": false,
+    "putLong(long,long)": false,
+    "copyMemory(long,long,long)": false,
+    "addressSize()": false,
+    "pageSize()": false,
+    "allocateInstance(Class)": true,
+    "allocateMemory(long)": false,
+    "copyMemoryToPrimitiveArray(long,Object,long,long)": false,
+    "copyMemoryFromPrimitiveArray(Object,long,long,long)": false,
+    "setMemory(long,long,byte)": false,
+    "freeMemory(long)": false,
+    "getAndAddInt(Object,long,int)": false,
+    "getAndSetInt(Object,long,int)": false,
+    "getAndAddLong(Object,long,long)": false,
+    "getAndSetLong(Object,long,long)": false,
+    "getAndSetObject(Object,long,Object)": false
+  },
+  "MAC": {
+    "java_mac": "90:e7:c4:0e:11:bd",
+    "api_mac": "90:e7:c4:0e:11:bd",
+    "file_mac": "",
+    "ip_address": "",
+    "ip_link": ""
+  }
+}
