@@ -1,0 +1,480 @@
+{
+  "LetMeSee": {
+    "com.vivo.game": [
+      "\/sdcard\/Android\/data\/com.vivo.game\/cache",
+      "\/data\/data\/com.vivo.game\/files",
+      "\/data\/data\/com.vivo.game\/cache",
+      "\/data\/data\/com.vivo.game\/code_cache",
+      "\/data\/data\/com.vivo.game\/databases",
+      "\/data\/data\/com.vivo.game\/shared_prefs"
+    ],
+    "com.bbk.cloud": [
+      "\/data\/data\/com.bbk.cloud\/cache",
+      "\/data\/data\/com.bbk.cloud\/code_cache",
+      "\/data\/data\/com.bbk.cloud\/shared_prefs"
+    ],
+    "com.bbk.iqoo.feedback": [
+      "\/data\/data\/com.bbk.iqoo.feedback\/cache",
+      "\/data\/data\/com.bbk.iqoo.feedback\/code_cache"
+    ],
+    "com.bbk.appstore": [
+      "\/data\/data\/com.bbk.appstore\/files",
+      "\/data\/data\/com.bbk.appstore\/cache",
+      "\/data\/data\/com.bbk.appstore\/code_cache",
+      "\/data\/data\/com.bbk.appstore\/databases",
+      "\/data\/data\/com.bbk.appstore\/shared_prefs"
+    ],
+    "me.fup.v0": [
+      "\/data\/data\/me.fup.v0\/files",
+      "\/data\/data\/me.fup.v0\/cache",
+      "\/data\/data\/me.fup.v0\/code_cache",
+      "\/data\/data\/me.fup.v0\/databases",
+      "\/data\/data\/me.fup.v0\/shared_prefs"
+    ],
+    "com.vivo.space": [
+      "\/data\/data\/com.vivo.space\/files",
+      "\/data\/data\/com.vivo.space\/cache",
+      "\/data\/data\/com.vivo.space\/code_cache",
+      "\/data\/data\/com.vivo.space\/databases",
+      "\/data\/data\/com.vivo.space\/shared_prefs"
+    ],
+    "com.vivo.vhome": [
+      "\/data\/data\/com.vivo.vhome\/files",
+      "\/data\/data\/com.vivo.vhome\/cache",
+      "\/data\/data\/com.vivo.vhome\/code_cache",
+      "\/data\/data\/com.vivo.vhome\/databases",
+      "\/data\/data\/com.vivo.vhome\/shared_prefs"
+    ],
+    "com.vivo.browser": [
+      "\/data\/data\/com.vivo.browser\/files",
+      "\/data\/data\/com.vivo.browser\/cache",
+      "\/data\/data\/com.vivo.browser\/code_cache",
+      "\/data\/data\/com.vivo.browser\/databases",
+      "\/data\/data\/com.vivo.browser\/shared_prefs"
+    ],
+    "io.appium.unlock": [
+      "\/data\/data\/io.appium.unlock\/cache",
+      "\/data\/data\/io.appium.unlock\/code_cache"
+    ],
+    "com.android.htmlviewer": [
+      "\/data\/data\/com.android.htmlviewer\/files",
+      "\/data\/data\/com.android.htmlviewer\/cache",
+      "\/data\/data\/com.android.htmlviewer\/code_cache",
+      "\/data\/data\/com.android.htmlviewer\/shared_prefs"
+    ],
+    "com.vivo.atphonemanager": [
+      "\/data\/data\/com.vivo.atphonemanager\/cache",
+      "\/data\/data\/com.vivo.atphonemanager\/code_cache"
+    ],
+    "jp.jun_nama.test.utf7ime": [
+      "\/data\/data\/jp.jun_nama.test.utf7ime\/cache",
+      "\/data\/data\/jp.jun_nama.test.utf7ime\/code_cache"
+    ],
+    "com.wdstechnology.android.kryten": [
+      "\/data\/data\/com.wdstechnology.android.kryten\/cache",
+      "\/data\/data\/com.wdstechnology.android.kryten\/code_cache"
+    ],
+    "com.vivo.favorite": [
+      "\/data\/data\/com.vivo.favorite\/files",
+      "\/data\/data\/com.vivo.favorite\/cache",
+      "\/data\/data\/com.vivo.favorite\/code_cache",
+      "\/data\/data\/com.vivo.favorite\/databases",
+      "\/data\/data\/com.vivo.favorite\/shared_prefs"
+    ]
+  },
+  "设备信息": {
+    "java_version ": "0",
+    "java_runtime_version": "0.9",
+    "java_runtime_name": "Android Runtime",
+    "java_vm_version ": "2.1.0",
+    "SystemName": "Android",
+    "SystemVersion": "9",
+    "DeviceBrand": "vivo",
+    "UM-OAID": "0cd31a346a440c1ec711c6013b1deca30a24a628da9848655a1be11f95d9146b",
+    "DeviceModel": "V1911A",
+    "SerialNumber": "32924d74",
+    "IMEIS": "299671783300013|865407010000009|02112996717833",
+    "ApplicationChannel": "CHANNEL-vivo",
+    "ApplicationKey": "APPKE",
+    "APILevel": "28",
+    "UA": "Mozilla\/5.0 (Linux; Android 9; V1911A Build\/PKQ1.181030.001; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/68.0.3440.91 Mobile Safari\/537.36",
+    "TargetSdkVersion": "31",
+    "BootTimeMilliseconds": "1663722613329",
+    "Simulator": "0",
+    "Debug": "0",
+    "Hijack": "0",
+    "SDK--utdid": "YzGOufO17FQDAOQH+dR5MZ3s",
+    "IsRoot": "0",
+    "SystemFontSize": "0",
+    "SystemHour": "12",
+    "SystemLanguage": "zh",
+    "SystemArea": "CN",
+    "TimeZone": "GMT+08:00",
+    "SenSorModuleName": [
+      {
+        "SenSorName": "win_orient  Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "vivo",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "vivomotion  Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "vivo",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "pedometer  Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "vivo",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "pedometer  Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "vivo",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "stationary_detect",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "qualcomm",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.02500000037252903
+      },
+      {
+        "SenSorName": "sns_smd  Wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "qualcomm",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.02500000037252903
+      },
+      {
+        "SenSorName": "rotation_vector  Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "vivo",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "raiseup  Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "vivo",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "proximity Proximity Sensor Wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "broadcom_limited",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.18299999833106995
+      },
+      {
+        "SenSorName": "proximity Proximity Sensor Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "broadcom_limited",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.18299999833106995
+      },
+      {
+        "SenSorName": "orientation  Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "vivo",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "putdown  Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "vivo",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "motion_detect",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "qualcomm",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.02500000037252903
+      },
+      {
+        "SenSorName": "uncali_mag  Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "vivo",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "smartprox  Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "vivo",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "lit_up  Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "vivo",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "maglib_mag  Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "vivo",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "linear_acceleration",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "vivo",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "gravity  Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "vivo",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "lsm6dsm Gyroscope-Uncalibrated Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "STMicro",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.5550000071525574
+      },
+      {
+        "SenSorName": "sns_geomag_rv  Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "qualcomm",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 1.0499999523162842
+      },
+      {
+        "SenSorName": "amd  Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "qualcomm",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.02500000037252903
+      },
+      {
+        "SenSorName": "lsm6dsm Gyroscope Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "STMicro",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.5550000071525574
+      },
+      {
+        "SenSorName": "Device Orientation  Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "qualcomm",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.02500000037252903
+      },
+      {
+        "SenSorName": "lsm6dsm Accelerometer Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "STMicro",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.15000000596046448
+      },
+      {
+        "SenSorName": "angle_direction  Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "vivo",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "Game Rotation Vector  Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "qualcomm",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.5149999856948853
+      },
+      {
+        "SenSorName": "angle_judge  Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "vivo",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "ambient_light Ambient Light Sensor Wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "broadcom_limited",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.10999999940395355
+      },
+      {
+        "SenSorName": "ambient_light Ambient Light Sensor Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "broadcom_limited",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.10999999940395355
+      },
+      {
+        "SenSorName": "lsm6dsm Accelerometer-Uncalibrated Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "STMicro",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.15000000596046448
+      }
+    ],
+    "CPUModel": "arm64-v8a:",
+    "BuildId": "PKQ1.181030.001",
+    "BuildDisplay": "PKQ1.181030.001 release-keys",
+    "BuildProduct": "PD1911",
+    "BuildDevice": "PD1911",
+    "BuildBoard": "sdm710",
+    "BuildHardware": "qcom",
+    "BuildSupportedAbis": "arm64-v8a,armeabi-v7a,armeabi",
+    "BuildSupportedAbis32": "armeabi-v7a,armeabi",
+    "BuildSupportedAbis64": "arm64-v8a",
+    "BuildType": "user",
+    "BuildTags": "release-keys",
+    "BuildFingerPrint": "vivo\/PD1911\/PD1911:9\/PKQ1.181030.001\/compiler11072325:user\/release-keys",
+    "BuildRadioVersion": "710_GEN_PACK-1.227141.2.228997.1,710_GEN_PACK-1.227141.2.228997.1",
+    "BuildIncremental": "compiler11072325",
+    "BuildSecurityPatch": "2019-10-01",
+    "BuildPreviewSdkInt": "0",
+    "BuildSdkInt": "28",
+    "BuildCodename": "REL",
+    "ETDM": {
+      "BatteryStatus": "5",
+      "BatteryHealth": "2",
+      "BatteryLevel": "100",
+      "BatteryScale": "100",
+      "BatteryPlugged": "2",
+      "BatteryTechnology": "Li-ion"
+    }
+  },
+  "Unsafe": {
+    "init[theUnsafe]": true,
+    "init[THE_ONE]": true,
+    "init[getUnsafe]": true,
+    "init[getUnsafeByAbstractQueuedSynchronizer]": true,
+    "arrayIndexScale赋值Object数组大小": 4,
+    "is64Bit": true,
+    "me-adress": 317512576,
+    "me-hash": 99348263,
+    "me格式化-address": "12ecdb80",
+    "me1-adress": 317512576,
+    "me1-hash": 99348263,
+    "me1格式化-address": "12ecdb80",
+    "两个对象地址测试结果": true,
+    "两个对象测试结果": true,
+    "byte[]_OFFSET": 12,
+    "byte[]_SCALE": 1,
+    "boolean[]_OFFSET": 12,
+    "boolean[]_SCALE": 1,
+    "int[]_OFFSET": 12,
+    "int[]_SCALE": 4,
+    "long[]_OFFSET": 16,
+    "long[]_SCALE": 8,
+    "float[]_OFFSET": 12,
+    "float[]_SCALE": 4,
+    "double[]_OFFSET": 16,
+    "double[]_SCALE": 8,
+    "Object[]_OFFSET": 12,
+    "Object[]_SCALE": 4,
+    "BUFFER_ADDRESS_OFFSET": 8,
+    "STRIDE_ALIGNMENT_MASK": 7,
+    "BYTE_ARRAY_ALIGNMENT": 4,
+    "IS_BIG_ENDIAN": false,
+    "objectFieldOffset(Field)": true,
+    "1_arrayBaseOffset(Class)": true,
+    "1_getArrayBaseOffsetForComponentType(Class)": true,
+    "2_arrayIndexScale(Class)": true,
+    "2_getArrayIndexScaleForComponentType(Class)": true,
+    "2_arrayIndexScale0(Class)": false,
+    "compareAndSwapInt(Object,long,int,int)": true,
+    "compareAndSwapLong(Object,long,long,long)": true,
+    "compareAndSwapObject(Object,long,Object,Object)": true,
+    "3_getInt(Object,long)": true,
+    "3_getIntVolatile(Object,long)": true,
+    "getInt(long)": true,
+    "4_putInt(Object,long,int)": true,
+    "4_putIntVolatile(Object,long,int)": true,
+    "putInt(long,int)": true,
+    "putOrderedInt(Object,long,int)": true,
+    "5_getLong(Object,long)": true,
+    "5_getLongVolatile(Object,long)": true,
+    "getLong(long)": true,
+    "putLong(Object,long,long)": true,
+    "getObject(Object,long)": true,
+    "putObject(Object,long,Object)": true,
+    "getByte(long)": true,
+    "getByte(Object,long)": true,
+    "putByte(long,byte)": false,
+    "putByte(Object,long,byte)": true,
+    "getBoolean(Object,long)": true,
+    "putBoolean(Object,long,boolean)": true,
+    "getFloat(Object,long)": true,
+    "putFloat(Object,long,float)": true,
+    "getDouble(Object,long)": true,
+    "putDouble(Object,long,double)": true,
+    "bufferAddressField": "long java.nio.Buffer.address",
+    "putLong(long,long)": true,
+    "copyMemory(long,long,long)": true,
+    "addressSize()": true,
+    "pageSize()": true,
+    "allocateInstance(Class)": true,
+    "allocateMemory(long)": true,
+    "copyMemoryToPrimitiveArray(long,Object,long,long)": true,
+    "copyMemoryFromPrimitiveArray(Object,long,long,long)": true,
+    "setMemory(long,long,byte)": true,
+    "freeMemory(long)": true,
+    "getAndAddInt(Object,long,int)": true,
+    "getAndSetInt(Object,long,int)": true,
+    "getAndAddLong(Object,long,long)": true,
+    "getAndSetLong(Object,long,long)": true,
+    "getAndSetObject(Object,long,Object)": true
+  },
+  "MAC": {
+    "java_mac": "00:0a:38:1c:17:b8",
+    "api_mac": "02:00:00:00:00:00",
+    "file_mac": "",
+    "ip_address": "1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1\n    link\/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00\n    inet 127.0.0.1\/8 scope host lo\n       valid_lft forever preferred_lft forever\n    inet6 ::1\/128 scope host \n       valid_lft forever preferred_lft forever\n2: bond0: <BROADCAST,MULTICAST,MASTER> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/ether 96:41:32:86:90:c5 brd ff:ff:ff:ff:ff:ff\n3: dummy0: <BROADCAST,NOARP,UP,LOWER_UP> mtu 1500 qdisc noqueue state UNKNOWN group default qlen 1000\n    link\/ether 56:01:c4:85:91:65 brd ff:ff:ff:ff:ff:ff\n    inet6 fe80::5401:c4ff:fe85:9165\/64 scope link \n       valid_lft forever preferred_lft forever\n4: ip_vti0@NONE: <NOARP> mtu 1480 qdisc noop state DOWN group default qlen 1\n    link\/ipip 0.0.0.0 brd 0.0.0.0\n5: ip6_vti0@NONE: <NOARP> mtu 1500 qdisc noop state DOWN group default qlen 1\n    link\/tunnel6 :: brd ::\n6: sit0@NONE: <NOARP> mtu 1480 qdisc noop state DOWN group default qlen 1\n    link\/sit 0.0.0.0 brd 0.0.0.0\n7: ip6tnl0@NONE: <NOARP> mtu 1452 qdisc noop state DOWN group default qlen 1\n    link\/tunnel6 :: brd ::\n8: rmnet_ipa0: <UP,LOWER_UP> mtu 2000 qdisc pfifo_fast state UNKNOWN group default qlen 1000\n    link\/[530] \n9: rmnet_data0: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n10: rmnet_data1: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n11: rmnet_data2: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n12: rmnet_data3: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n13: rmnet_data4: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n14: rmnet_data5: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n15: rmnet_data6: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n16: rmnet_data7: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n17: rmnet_data8: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n18: rmnet_data9: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n19: rmnet_data10: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n20: r_rmnet_data0: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n21: r_rmnet_data1: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n22: r_rmnet_data2: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n23: r_rmnet_data3: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n24: r_rmnet_data4: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n25: r_rmnet_data5: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n26: r_rmnet_data6: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n27: r_rmnet_data7: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n28: r_rmnet_data8: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n29: wlan0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 3000\n    link\/ether 00:0a:38:1c:17:b8 brd ff:ff:ff:ff:ff:ff\n    inet 10.100.19.205\/24 brd 10.100.19.255 scope global wlan0\n       valid_lft forever preferred_lft forever\n    inet6 fe80::20a:38ff:fe1c:17b8\/64 scope link \n       valid_lft forever preferred_lft forever\n30: p2p0: <BROADCAST,MULTICAST> mtu 1500 qdisc noop state DOWN group default qlen 3000\n    link\/ether 02:0a:38:1d:17:b8 brd ff:ff:ff:ff:ff:ff\n",
+    "ip_link": "1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN mode DEFAULT group default qlen 1\n    link\/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00\n2: bond0: <BROADCAST,MULTICAST,MASTER> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/ether 96:41:32:86:90:c5 brd ff:ff:ff:ff:ff:ff\n3: dummy0: <BROADCAST,NOARP,UP,LOWER_UP> mtu 1500 qdisc noqueue state UNKNOWN mode DEFAULT group default qlen 1000\n    link\/ether 56:01:c4:85:91:65 brd ff:ff:ff:ff:ff:ff\n4: ip_vti0@NONE: <NOARP> mtu 1480 qdisc noop state DOWN mode DEFAULT group default qlen 1\n    link\/ipip 0.0.0.0 brd 0.0.0.0\n5: ip6_vti0@NONE: <NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1\n    link\/tunnel6 :: brd ::\n6: sit0@NONE: <NOARP> mtu 1480 qdisc noop state DOWN mode DEFAULT group default qlen 1\n    link\/sit 0.0.0.0 brd 0.0.0.0\n7: ip6tnl0@NONE: <NOARP> mtu 1452 qdisc noop state DOWN mode DEFAULT group default qlen 1\n    link\/tunnel6 :: brd ::\n8: rmnet_ipa0: <UP,LOWER_UP> mtu 2000 qdisc pfifo_fast state UNKNOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n9: rmnet_data0: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n10: rmnet_data1: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n11: rmnet_data2: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n12: rmnet_data3: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n13: rmnet_data4: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n14: rmnet_data5: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n15: rmnet_data6: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n16: rmnet_data7: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n17: rmnet_data8: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n18: rmnet_data9: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n19: rmnet_data10: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n20: r_rmnet_data0: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n21: r_rmnet_data1: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n22: r_rmnet_data2: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n23: r_rmnet_data3: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n24: r_rmnet_data4: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n25: r_rmnet_data5: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n26: r_rmnet_data6: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n27: r_rmnet_data7: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n28: r_rmnet_data8: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n29: wlan0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP mode DORMANT group default qlen 3000\n    link\/ether 00:0a:38:1c:17:b8 brd ff:ff:ff:ff:ff:ff\n30: p2p0: <BROADCAST,MULTICAST> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 3000\n    link\/ether 02:0a:38:1d:17:b8 brd ff:ff:ff:ff:ff:ff\n"
+  }
+}
