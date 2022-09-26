@@ -1,0 +1,387 @@
+{
+  "LetMeSee": {
+    "com.huawei.hwid": [
+      "\/sdcard\/Android\/data\/com.huawei.hwid\/files",
+      "\/sdcard\/Android\/data\/com.huawei.hwid\/files\/log"
+    ],
+    "com.huawei.camera": [
+      "\/data\/data\/com.huawei.camera\/files",
+      "\/data\/data\/com.huawei.camera\/cache",
+      "\/data\/data\/com.huawei.camera\/code_cache",
+      "\/data\/data\/com.huawei.camera\/shared_prefs"
+    ],
+    "cn.testin.itestin": [
+      "\/data\/data\/cn.testin.itestin\/files",
+      "\/data\/data\/cn.testin.itestin\/cache",
+      "\/data\/data\/cn.testin.itestin\/code_cache",
+      "\/data\/data\/cn.testin.itestin\/shared_prefs"
+    ],
+    "com.huawei.vassistant": [
+      "\/data\/data\/com.huawei.vassistant\/files",
+      "\/data\/data\/com.huawei.vassistant\/cache",
+      "\/data\/data\/com.huawei.vassistant\/code_cache",
+      "\/data\/data\/com.huawei.vassistant\/databases",
+      "\/data\/data\/com.huawei.vassistant\/shared_prefs"
+    ],
+    "com.android.gallery3d": [
+      "\/data\/data\/com.android.gallery3d\/cache",
+      "\/data\/data\/com.android.gallery3d\/code_cache",
+      "\/data\/data\/com.android.gallery3d\/databases",
+      "\/data\/data\/com.android.gallery3d\/shared_prefs"
+    ],
+    "com.huawei.compass": [
+      "\/data\/data\/com.huawei.compass\/cache",
+      "\/data\/data\/com.huawei.compass\/code_cache"
+    ],
+    "com.huawei.android.hwouc": [
+      "\/data\/data\/com.huawei.android.hwouc\/files",
+      "\/data\/data\/com.huawei.android.hwouc\/cache",
+      "\/data\/data\/com.huawei.android.hwouc\/code_cache",
+      "\/data\/data\/com.huawei.android.hwouc\/databases",
+      "\/data\/data\/com.huawei.android.hwouc\/shared_prefs"
+    ],
+    "com.huawei.android.totemweatherapp": [
+      "\/data\/data\/com.huawei.android.totemweatherapp\/cache",
+      "\/data\/data\/com.huawei.android.totemweatherapp\/code_cache"
+    ],
+    "me.fup.v0": [
+      "\/data\/data\/me.fup.v0\/files",
+      "\/data\/data\/me.fup.v0\/cache",
+      "\/data\/data\/me.fup.v0\/databases",
+      "\/data\/data\/me.fup.v0\/shared_prefs"
+    ],
+    "com.android.deskclock": [
+      "\/data\/data\/com.android.deskclock\/cache",
+      "\/data\/data\/com.android.deskclock\/code_cache",
+      "\/data\/data\/com.android.deskclock\/databases",
+      "\/data\/data\/com.android.deskclock\/shared_prefs"
+    ],
+    "com.android.hwmirror": [
+      "\/data\/data\/com.android.hwmirror\/cache",
+      "\/data\/data\/com.android.hwmirror\/code_cache"
+    ],
+    "com.huawei.android.launcher": [
+      "\/data\/data\/com.huawei.android.launcher\/cache",
+      "\/data\/data\/com.huawei.android.launcher\/code_cache"
+    ],
+    "com.android.providers.media": [
+      "\/data\/data\/com.android.providers.media\/files",
+      "\/data\/data\/com.android.providers.media\/cache",
+      "\/data\/data\/com.android.providers.media\/code_cache",
+      "\/data\/data\/com.android.providers.media\/databases",
+      "\/data\/data\/com.android.providers.media\/shared_prefs"
+    ],
+    "com.huawei.parentcontrol": [
+      "\/data\/data\/com.huawei.parentcontrol\/cache",
+      "\/data\/data\/com.huawei.parentcontrol\/code_cache",
+      "\/data\/data\/com.huawei.parentcontrol\/databases"
+    ],
+    "com.huawei.secime": [
+      "\/data\/data\/com.huawei.secime\/cache",
+      "\/data\/data\/com.huawei.secime\/code_cache"
+    ],
+    "com.android.htmlviewer": [
+      "\/data\/data\/com.android.htmlviewer\/cache",
+      "\/data\/data\/com.android.htmlviewer\/code_cache",
+      "\/data\/data\/com.android.htmlviewer\/shared_prefs"
+    ],
+    "com.huawei.android.totemweather": [
+      "\/data\/data\/com.huawei.android.totemweather\/cache",
+      "\/data\/data\/com.huawei.android.totemweather\/code_cache"
+    ],
+    "com.huawei.screenrecorder": [
+      "\/data\/data\/com.huawei.screenrecorder\/cache",
+      "\/data\/data\/com.huawei.screenrecorder\/code_cache",
+      "\/data\/data\/com.huawei.screenrecorder\/shared_prefs"
+    ],
+    "com.baidu.input_huawei": [
+      "\/data\/data\/com.baidu.input_huawei\/files",
+      "\/data\/data\/com.baidu.input_huawei\/files\/log",
+      "\/data\/data\/com.baidu.input_huawei\/cache",
+      "\/data\/data\/com.baidu.input_huawei\/code_cache",
+      "\/data\/data\/com.baidu.input_huawei\/databases",
+      "\/data\/data\/com.baidu.input_huawei\/shared_prefs"
+    ],
+    "com.huawei.trustagent": [
+      "\/data\/data\/com.huawei.trustagent\/cache",
+      "\/data\/data\/com.huawei.trustagent\/code_cache"
+    ],
+    "com.huawei.wifiprobqeservice": [
+      "\/data\/data\/com.huawei.wifiprobqeservice\/files",
+      "\/data\/data\/com.huawei.wifiprobqeservice\/cache",
+      "\/data\/data\/com.huawei.wifiprobqeservice\/code_cache",
+      "\/data\/data\/com.huawei.wifiprobqeservice\/databases",
+      "\/data\/data\/com.huawei.wifiprobqeservice\/shared_prefs"
+    ],
+    "com.huawei.HwMultiScreenShot": [
+      "\/data\/data\/com.huawei.HwMultiScreenShot\/cache",
+      "\/data\/data\/com.huawei.HwMultiScreenShot\/code_cache",
+      "\/data\/data\/com.huawei.HwMultiScreenShot\/shared_prefs"
+    ],
+    "com.android.keyguard": [
+      "\/data\/data\/com.android.keyguard\/cache",
+      "\/data\/data\/com.android.keyguard\/code_cache",
+      "\/data\/data\/com.android.keyguard\/shared_prefs"
+    ],
+    "com.huawei.watch.sync": [
+      "\/data\/data\/com.huawei.watch.sync\/cache",
+      "\/data\/data\/com.huawei.watch.sync\/code_cache"
+    ],
+    "com.huawei.fido.uafclient": [
+      "\/data\/data\/com.huawei.fido.uafclient\/cache",
+      "\/data\/data\/com.huawei.fido.uafclient\/code_cache",
+      "\/data\/data\/com.huawei.fido.uafclient\/shared_prefs"
+    ],
+    "com.huawei.android.totemweatherwidget": [
+      "\/data\/data\/com.huawei.android.totemweatherwidget\/cache",
+      "\/data\/data\/com.huawei.android.totemweatherwidget\/code_cache"
+    ],
+    "com.huawei.android.wfdft": [
+      "\/data\/data\/com.huawei.android.wfdft\/cache",
+      "\/data\/data\/com.huawei.android.wfdft\/code_cache",
+      "\/data\/data\/com.huawei.android.wfdft\/databases",
+      "\/data\/data\/com.huawei.android.wfdft\/shared_prefs"
+    ]
+  },
+  "设备信息": {
+    "java_version ": "0",
+    "java_runtime_version": "0.9",
+    "java_runtime_name": "Android Runtime",
+    "java_vm_version ": "2.1.0",
+    "SystemName": "Android",
+    "SystemVersion": "8.0.0",
+    "DeviceBrand": "HONOR",
+    "UM-OAID": "bb77f9b6-abad-167e-fdf3-5de3fffb39c5",
+    "DeviceModel": "LND-AL30",
+    "ApplicationChannel": "CHANNEL-HUAWEI",
+    "ApplicationKey": "APPKE",
+    "APILevel": "26",
+    "UA": "Mozilla\/5.0 (Linux; Android 8.0.0; LND-AL30 Build\/HONORLND-AL30; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/70.0.3538.110 Mobile Safari\/537.36",
+    "TargetSdkVersion": "31",
+    "BootTimeMilliseconds": "1663970407818",
+    "Simulator": "0",
+    "Debug": "0",
+    "Hijack": "0",
+    "SDK--utdid": "YzGYHbnDVpMDAMohFm6whdUh",
+    "IsRoot": "0",
+    "SystemFontSize": "0",
+    "SystemHour": "12",
+    "SystemLanguage": "zh",
+    "SystemArea": "CN",
+    "TimeZone": "GMT+08:00",
+    "SenSorModuleName": [
+      {
+        "SenSorName": "BMA255 Accelerometer\/Temperature\/Double-tap",
+        "SenSorVersion": "2080300",
+        "SenSorManufacturer": "BOSCH",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.12999999523162842
+      },
+      {
+        "SenSorName": "AK09918 Magnetometer",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "AKM",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 1.100000023841858
+      },
+      {
+        "SenSorName": "AK09918 Magnetometer Uncalibrated",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "AKM",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 1.100000023841858
+      },
+      {
+        "SenSorName": "stk3x1x alsprx",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "Sensortek",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.10000000149011612
+      },
+      {
+        "SenSorName": "stk3x1x alsprx",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "Sensortek",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.07999999821186066
+      },
+      {
+        "SenSorName": "Gravity",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 1.23870849609375
+      },
+      {
+        "SenSorName": "Linear Acceleration",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 1.23870849609375
+      },
+      {
+        "SenSorName": "Rotation Vector",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 1.23870849609375
+      },
+      {
+        "SenSorName": "Step Counter",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.1299896240234375
+      },
+      {
+        "SenSorName": "Significant Motion Detector",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.1299896240234375
+      },
+      {
+        "SenSorName": "GeoMagnetic Rotation Vector",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 1.23870849609375
+      },
+      {
+        "SenSorName": "Orientation",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 1.23870849609375
+      }
+    ],
+    "CPUModel": "arm64-v8a:",
+    "BuildId": "HONORLND-AL30",
+    "BuildDisplay": "LND-AL30 8.0.0.235(C00)",
+    "BuildProduct": "LND-AL30",
+    "BuildDevice": "HWLND-Q",
+    "BuildBoard": "LND-AL30",
+    "BuildHardware": "qcom",
+    "BuildSupportedAbis": "arm64-v8a,armeabi-v7a,armeabi",
+    "BuildSupportedAbis32": "armeabi-v7a,armeabi",
+    "BuildSupportedAbis64": "arm64-v8a",
+    "BuildType": "user",
+    "BuildTags": "release-keys",
+    "BuildFingerPrint": "HONOR\/LND-AL30\/HWLND-Q:8.0.0\/HONORLND-AL30\/235(C00):user\/release-keys",
+    "BuildRadioVersion": "212709,212709",
+    "BuildIncremental": "235(C00)",
+    "BuildSecurityPatch": "2020-02-01",
+    "BuildPreviewSdkInt": "0",
+    "BuildSdkInt": "26",
+    "BuildCodename": "REL",
+    "ETDM": {
+      "BatteryStatus": "5",
+      "BatteryHealth": "2",
+      "BatteryLevel": "100",
+      "BatteryScale": "100",
+      "BatteryPlugged": "0",
+      "BatteryTechnology": "Li-ion"
+    }
+  },
+  "Unsafe": {
+    "init[theUnsafe]": true,
+    "init[THE_ONE]": true,
+    "init[getUnsafe]": true,
+    "init[getUnsafeByAbstractQueuedSynchronizer]": true,
+    "arrayIndexScale赋值Object数组大小": 4,
+    "is64Bit": true,
+    "me-adress": 322260352,
+    "me-hash": 25402761,
+    "me格式化-address": "13354d80",
+    "me1-adress": 322260352,
+    "me1-hash": 25402761,
+    "me1格式化-address": "13354d80",
+    "两个对象地址测试结果": true,
+    "两个对象测试结果": true,
+    "byte[]_OFFSET": 12,
+    "byte[]_SCALE": 1,
+    "boolean[]_OFFSET": 12,
+    "boolean[]_SCALE": 1,
+    "int[]_OFFSET": 12,
+    "int[]_SCALE": 4,
+    "long[]_OFFSET": 16,
+    "long[]_SCALE": 8,
+    "float[]_OFFSET": 12,
+    "float[]_SCALE": 4,
+    "double[]_OFFSET": 16,
+    "double[]_SCALE": 8,
+    "Object[]_OFFSET": 12,
+    "Object[]_SCALE": 4,
+    "BUFFER_ADDRESS_OFFSET": 8,
+    "STRIDE_ALIGNMENT_MASK": 7,
+    "BYTE_ARRAY_ALIGNMENT": 4,
+    "IS_BIG_ENDIAN": false,
+    "objectFieldOffset(Field)": true,
+    "1_arrayBaseOffset(Class)": true,
+    "1_getArrayBaseOffsetForComponentType(Class)": true,
+    "2_arrayIndexScale(Class)": true,
+    "2_getArrayIndexScaleForComponentType(Class)": true,
+    "2_arrayIndexScale0(Class)": false,
+    "compareAndSwapInt(Object,long,int,int)": true,
+    "compareAndSwapLong(Object,long,long,long)": true,
+    "compareAndSwapObject(Object,long,Object,Object)": true,
+    "3_getInt(Object,long)": true,
+    "3_getIntVolatile(Object,long)": true,
+    "getInt(long)": true,
+    "4_putInt(Object,long,int)": true,
+    "4_putIntVolatile(Object,long,int)": true,
+    "putInt(long,int)": true,
+    "putOrderedInt(Object,long,int)": true,
+    "5_getLong(Object,long)": true,
+    "5_getLongVolatile(Object,long)": true,
+    "getLong(long)": true,
+    "putLong(Object,long,long)": true,
+    "getObject(Object,long)": true,
+    "putObject(Object,long,Object)": true,
+    "getByte(long)": true,
+    "getByte(Object,long)": true,
+    "putByte(long,byte)": false,
+    "putByte(Object,long,byte)": true,
+    "getBoolean(Object,long)": true,
+    "putBoolean(Object,long,boolean)": true,
+    "getFloat(Object,long)": true,
+    "putFloat(Object,long,float)": true,
+    "getDouble(Object,long)": true,
+    "putDouble(Object,long,double)": true,
+    "bufferAddressField": "long java.nio.Buffer.address",
+    "putLong(long,long)": true,
+    "copyMemory(long,long,long)": true,
+    "addressSize()": true,
+    "pageSize()": true,
+    "allocateInstance(Class)": true,
+    "allocateMemory(long)": true,
+    "copyMemoryToPrimitiveArray(long,Object,long,long)": true,
+    "copyMemoryFromPrimitiveArray(Object,long,long,long)": true,
+    "setMemory(long,long,byte)": true,
+    "freeMemory(long)": true,
+    "getAndAddInt(Object,long,int)": true,
+    "getAndSetInt(Object,long,int)": true,
+    "getAndAddLong(Object,long,long)": true,
+    "getAndSetLong(Object,long,long)": true,
+    "getAndSetObject(Object,long,Object)": true
+  },
+  "MAC": {
+    "java_mac": "e4:a7:c5:66:15:45",
+    "api_mac": "02:00:00:00:00:00",
+    "file_mac": "",
+    "ip_address": "1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default \n    link\/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00\n    inet 127.0.0.1\/8 scope host lo\n       valid_lft forever preferred_lft forever\n    inet6 ::1\/128 scope host \n       valid_lft forever preferred_lft forever\n2: dummy0: <BROADCAST,NOARP,UP,LOWER_UP> mtu 1500 qdisc noqueue state UNKNOWN group default \n    link\/ether 6e:5c:0c:b3:dc:72 brd ff:ff:ff:ff:ff:ff\n    inet6 fe80::6c5c:cff:feb3:dc72\/64 scope link \n       valid_lft forever preferred_lft forever\n3: sit0@NONE: <NOARP> mtu 1480 qdisc noop state DOWN group default \n    link\/sit 0.0.0.0 brd 0.0.0.0\n4: rmnet_ipa0: <UP,LOWER_UP> mtu 2000 qdisc pfifo_fast state UNKNOWN group default qlen 1000\n    link\/[530] \n5: rmnet_data0: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n6: rmnet_data1: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n7: rmnet_data2: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n8: rmnet_data3: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n9: rmnet_data4: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n10: rmnet_data5: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n11: rmnet_data6: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n12: rmnet_data7: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n13: r_rmnet_data0: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n14: r_rmnet_data1: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n15: r_rmnet_data2: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n16: r_rmnet_data3: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n17: r_rmnet_data4: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n18: r_rmnet_data5: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n19: r_rmnet_data6: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n20: r_rmnet_data7: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n21: r_rmnet_data8: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n22: wlan0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 1000\n    link\/ether e4:a7:c5:66:15:45 brd ff:ff:ff:ff:ff:ff\n    inet 10.43.54.229\/23 brd 10.43.55.255 scope global wlan0\n       valid_lft forever preferred_lft forever\n    inet6 fe80::e6a7:c5ff:fe66:1545\/64 scope link \n       valid_lft forever preferred_lft forever\n23: p2p0: <NO-CARRIER,BROADCAST,MULTICAST,UP> mtu 1500 qdisc mq state DOWN group default qlen 1000\n    link\/ether e6:a7:c5:66:15:45 brd ff:ff:ff:ff:ff:ff\n",
+    "ip_link": "1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN mode DEFAULT group default \n    link\/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00\n2: dummy0: <BROADCAST,NOARP,UP,LOWER_UP> mtu 1500 qdisc noqueue state UNKNOWN mode DEFAULT group default \n    link\/ether 6e:5c:0c:b3:dc:72 brd ff:ff:ff:ff:ff:ff\n3: sit0@NONE: <NOARP> mtu 1480 qdisc noop state DOWN mode DEFAULT group default \n    link\/sit 0.0.0.0 brd 0.0.0.0\n4: rmnet_ipa0: <UP,LOWER_UP> mtu 2000 qdisc pfifo_fast state UNKNOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n5: rmnet_data0: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n6: rmnet_data1: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n7: rmnet_data2: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n8: rmnet_data3: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n9: rmnet_data4: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n10: rmnet_data5: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n11: rmnet_data6: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n12: rmnet_data7: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n13: r_rmnet_data0: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n14: r_rmnet_data1: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n15: r_rmnet_data2: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n16: r_rmnet_data3: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n17: r_rmnet_data4: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n18: r_rmnet_data5: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n19: r_rmnet_data6: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n20: r_rmnet_data7: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n21: r_rmnet_data8: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n22: wlan0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP mode DORMANT group default qlen 1000\n    link\/ether e4:a7:c5:66:15:45 brd ff:ff:ff:ff:ff:ff\n23: p2p0: <NO-CARRIER,BROADCAST,MULTICAST,UP> mtu 1500 qdisc mq state DOWN mode DORMANT group default qlen 1000\n    link\/ether e6:a7:c5:66:15:45 brd ff:ff:ff:ff:ff:ff\n"
+  }
+}
