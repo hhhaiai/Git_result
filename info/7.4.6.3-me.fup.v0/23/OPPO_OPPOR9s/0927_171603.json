@@ -1,0 +1,800 @@
+{
+  "LetMeSee": {
+    "com.android.browser": [
+      "\/sdcard\/Android\/data\/com.android.browser\/files",
+      "\/sdcard\/Android\/data\/com.android.browser\/cache",
+      "\/sdcard\/Android\/data\/com.android.browser\/cache\/Statistics",
+      "\/sdcard\/Android\/data\/com.android.browser\/cache\/Statistics\/track_log",
+      "\/data\/data\/com.android.browser\/files",
+      "\/data\/data\/com.android.browser\/files\/Documents",
+      "\/data\/data\/com.android.browser\/cache",
+      "\/data\/data\/com.android.browser\/cache\/xlog",
+      "\/data\/data\/com.android.browser\/code_cache",
+      "\/data\/data\/com.android.browser\/databases",
+      "\/data\/data\/com.android.browser\/shared_prefs"
+    ],
+    "com.nearme.themespace": [
+      "\/sdcard\/Android\/data\/com.nearme.themespace\/files",
+      "\/sdcard\/Android\/data\/com.nearme.themespace\/cache",
+      "\/data\/data\/com.nearme.themespace\/files",
+      "\/data\/data\/com.nearme.themespace\/cache",
+      "\/data\/data\/com.nearme.themespace\/code_cache",
+      "\/data\/data\/com.nearme.themespace\/shared_prefs"
+    ],
+    "com.nearme.gamecenter": [
+      "\/sdcard\/Android\/data\/com.nearme.gamecenter\/files",
+      "\/sdcard\/Android\/data\/com.nearme.gamecenter\/cache",
+      "\/data\/data\/com.nearme.gamecenter\/files",
+      "\/data\/data\/com.nearme.gamecenter\/cache",
+      "\/data\/data\/com.nearme.gamecenter\/code_cache",
+      "\/data\/data\/com.nearme.gamecenter\/databases",
+      "\/data\/data\/com.nearme.gamecenter\/shared_prefs"
+    ],
+    "com.tencent.mobileqq": [
+      "\/sdcard\/Android\/data\/com.tencent.mobileqq\/files",
+      "\/sdcard\/Android\/data\/com.tencent.mobileqq\/files\/tencent",
+      "\/sdcard\/Android\/data\/com.tencent.mobileqq\/files\/Tencent",
+      "\/sdcard\/Android\/data\/com.tencent.mobileqq\/cache",
+      "\/sdcard\/Android\/data\/com.tencent.mobileqq\/cache\/tencent",
+      "\/sdcard\/Android\/data\/com.tencent.mobileqq\/cache\/Tencent",
+      "\/data\/data\/com.tencent.mobileqq\/files",
+      "\/data\/data\/com.tencent.mobileqq\/files\/tencent",
+      "\/data\/data\/com.tencent.mobileqq\/cache",
+      "\/data\/data\/com.tencent.mobileqq\/cache\/skin",
+      "\/data\/data\/com.tencent.mobileqq\/code_cache",
+      "\/data\/data\/com.tencent.mobileqq\/databases",
+      "\/data\/data\/com.tencent.mobileqq\/shared_prefs"
+    ],
+    "com.oppo.market": [
+      "\/sdcard\/Android\/data\/com.oppo.market\/files",
+      "\/sdcard\/Android\/data\/com.oppo.market\/files\/app",
+      "\/sdcard\/Android\/data\/com.oppo.market\/cache",
+      "\/sdcard\/Android\/data\/com.oppo.market\/cache\/h5_offline_dir",
+      "\/data\/data\/com.oppo.market\/files",
+      "\/data\/data\/com.oppo.market\/files\/cache",
+      "\/data\/data\/com.oppo.market\/files\/h5_offline_dir",
+      "\/data\/data\/com.oppo.market\/cache",
+      "\/data\/data\/com.oppo.market\/no_backup",
+      "\/data\/data\/com.oppo.market\/code_cache",
+      "\/data\/data\/com.oppo.market\/databases",
+      "\/data\/data\/com.oppo.market\/shared_prefs"
+    ],
+    "com.oppo.music": [
+      "\/sdcard\/Android\/data\/com.oppo.music\/files",
+      "\/sdcard\/Android\/data\/com.oppo.music\/cache",
+      "\/data\/data\/com.oppo.music\/files",
+      "\/data\/data\/com.oppo.music\/cache",
+      "\/data\/data\/com.oppo.music\/no_backup",
+      "\/data\/data\/com.oppo.music\/code_cache",
+      "\/data\/data\/com.oppo.music\/databases",
+      "\/data\/data\/com.oppo.music\/shared_prefs"
+    ],
+    "com.oppo.usercenter": [
+      "\/sdcard\/Android\/data\/com.oppo.usercenter\/files",
+      "\/sdcard\/Android\/data\/com.oppo.usercenter\/cache",
+      "\/sdcard\/Android\/data\/com.oppo.usercenter\/cache\/Statistics",
+      "\/sdcard\/Android\/data\/com.oppo.usercenter\/cache\/Statistics\/track_log",
+      "\/data\/data\/com.oppo.usercenter\/files",
+      "\/data\/data\/com.oppo.usercenter\/cache",
+      "\/data\/data\/com.oppo.usercenter\/code_cache",
+      "\/data\/data\/com.oppo.usercenter\/databases",
+      "\/data\/data\/com.oppo.usercenter\/shared_prefs"
+    ],
+    "com.nearme.instant.platform": [
+      "\/sdcard\/Android\/data\/com.nearme.instant.platform\/files",
+      "\/sdcard\/Android\/data\/com.nearme.instant.platform\/files\/cache",
+      "\/sdcard\/Android\/data\/com.nearme.instant.platform\/files\/cache\/certificate",
+      "\/sdcard\/Android\/data\/com.nearme.instant.platform\/files\/cache\/network",
+      "\/sdcard\/Android\/data\/com.nearme.instant.platform\/cache",
+      "\/sdcard\/Android\/data\/com.nearme.instant.platform\/cache\/Statistics",
+      "\/sdcard\/Android\/data\/com.nearme.instant.platform\/cache\/Statistics\/track_log",
+      "\/data\/data\/com.nearme.instant.platform\/files",
+      "\/data\/data\/com.nearme.instant.platform\/files\/cache",
+      "\/data\/data\/com.nearme.instant.platform\/cache",
+      "\/data\/data\/com.nearme.instant.platform\/cache\/http",
+      "\/data\/data\/com.nearme.instant.platform\/code_cache",
+      "\/data\/data\/com.nearme.instant.platform\/databases",
+      "\/data\/data\/com.nearme.instant.platform\/shared_prefs"
+    ],
+    "com.oppo.quicksearchbox": [
+      "\/sdcard\/Android\/data\/com.oppo.quicksearchbox\/files",
+      "\/sdcard\/Android\/data\/com.oppo.quicksearchbox\/files\/xlog",
+      "\/sdcard\/Android\/data\/com.oppo.quicksearchbox\/cache",
+      "\/data\/data\/com.oppo.quicksearchbox\/files",
+      "\/data\/data\/com.oppo.quicksearchbox\/files\/Documents",
+      "\/data\/data\/com.oppo.quicksearchbox\/cache",
+      "\/data\/data\/com.oppo.quicksearchbox\/cache\/xlog",
+      "\/data\/data\/com.oppo.quicksearchbox\/code_cache",
+      "\/data\/data\/com.oppo.quicksearchbox\/databases",
+      "\/data\/data\/com.oppo.quicksearchbox\/shared_prefs"
+    ],
+    "com.amap.android.location": [
+      "\/sdcard\/Android\/data\/com.amap.android.location\/files",
+      "\/data\/data\/com.amap.android.location\/cache",
+      "\/data\/data\/com.amap.android.location\/code_cache",
+      "\/data\/data\/com.amap.android.location\/databases",
+      "\/data\/data\/com.amap.android.location\/shared_prefs"
+    ],
+    "com.coloros.backuprestore": [
+      "\/data\/data\/com.coloros.backuprestore\/cache",
+      "\/data\/data\/com.coloros.backuprestore\/code_cache",
+      "\/data\/data\/com.coloros.backuprestore\/shared_prefs"
+    ],
+    "cn.testin.itestin": [
+      "\/data\/data\/cn.testin.itestin\/files",
+      "\/data\/data\/cn.testin.itestin\/cache",
+      "\/data\/data\/cn.testin.itestin\/code_cache",
+      "\/data\/data\/cn.testin.itestin\/shared_prefs"
+    ],
+    "com.tencent.mm": [
+      "\/data\/data\/com.tencent.mm\/files",
+      "\/data\/data\/com.tencent.mm\/files\/crash",
+      "\/data\/data\/com.tencent.mm\/files\/xlog",
+      "\/data\/data\/com.tencent.mm\/cache",
+      "\/data\/data\/com.tencent.mm\/no_backup",
+      "\/data\/data\/com.tencent.mm\/code_cache",
+      "\/data\/data\/com.tencent.mm\/databases",
+      "\/data\/data\/com.tencent.mm\/shared_prefs",
+      "\/data\/data\/com.tencent.mm\/MicroMsg"
+    ],
+    "com.android.contacts": [
+      "\/data\/data\/com.android.contacts\/cache",
+      "\/data\/data\/com.android.contacts\/code_cache",
+      "\/data\/data\/com.android.contacts\/shared_prefs"
+    ],
+    "com.android.mms": [
+      "\/data\/data\/com.android.mms\/files",
+      "\/data\/data\/com.android.mms\/cache",
+      "\/data\/data\/com.android.mms\/code_cache",
+      "\/data\/data\/com.android.mms\/databases",
+      "\/data\/data\/com.android.mms\/shared_prefs"
+    ],
+    "com.android.calendar": [
+      "\/data\/data\/com.android.calendar\/cache",
+      "\/data\/data\/com.android.calendar\/code_cache"
+    ],
+    "com.oppo.camera": [
+      "\/data\/data\/com.oppo.camera\/cache",
+      "\/data\/data\/com.oppo.camera\/code_cache"
+    ],
+    "com.coloros.alarmclock": [
+      "\/data\/data\/com.coloros.alarmclock\/cache",
+      "\/data\/data\/com.coloros.alarmclock\/code_cache",
+      "\/data\/data\/com.coloros.alarmclock\/databases",
+      "\/data\/data\/com.coloros.alarmclock\/shared_prefs"
+    ],
+    "me.fup.v0": [
+      "\/data\/data\/me.fup.v0\/files",
+      "\/data\/data\/me.fup.v0\/cache",
+      "\/data\/data\/me.fup.v0\/code_cache",
+      "\/data\/data\/me.fup.v0\/databases",
+      "\/data\/data\/me.fup.v0\/shared_prefs"
+    ],
+    "com.coloros.filemanager": [
+      "\/data\/data\/com.coloros.filemanager\/cache",
+      "\/data\/data\/com.coloros.filemanager\/code_cache",
+      "\/data\/data\/com.coloros.filemanager\/databases",
+      "\/data\/data\/com.coloros.filemanager\/shared_prefs"
+    ],
+    "com.coloros.gallery3d": [
+      "\/data\/data\/com.coloros.gallery3d\/files",
+      "\/data\/data\/com.coloros.gallery3d\/cache",
+      "\/data\/data\/com.coloros.gallery3d\/code_cache",
+      "\/data\/data\/com.coloros.gallery3d\/databases",
+      "\/data\/data\/com.coloros.gallery3d\/shared_prefs"
+    ],
+    "com.coloros.phonenoareainquire": [
+      "\/data\/data\/com.coloros.phonenoareainquire\/cache",
+      "\/data\/data\/com.coloros.phonenoareainquire\/code_cache",
+      "\/data\/data\/com.coloros.phonenoareainquire\/databases",
+      "\/data\/data\/com.coloros.phonenoareainquire\/shared_prefs"
+    ],
+    "com.android.providers.telephony": [
+      "\/data\/data\/com.android.providers.telephony\/databases",
+      "\/data\/data\/com.android.providers.telephony\/shared_prefs"
+    ],
+    "com.gnss.power": [
+      "\/data\/data\/com.gnss.power\/cache",
+      "\/data\/data\/com.gnss.power\/code_cache"
+    ],
+    "com.android.providers.calendar": [
+      "\/data\/data\/com.android.providers.calendar\/cache",
+      "\/data\/data\/com.android.providers.calendar\/code_cache",
+      "\/data\/data\/com.android.providers.calendar\/databases",
+      "\/data\/data\/com.android.providers.calendar\/shared_prefs"
+    ],
+    "com.android.providers.media": [
+      "\/data\/data\/com.android.providers.media\/cache",
+      "\/data\/data\/com.android.providers.media\/code_cache",
+      "\/data\/data\/com.android.providers.media\/databases",
+      "\/data\/data\/com.android.providers.media\/shared_prefs"
+    ],
+    "com.mobiletools.systemhelper": [
+      "\/data\/data\/com.mobiletools.systemhelper\/cache",
+      "\/data\/data\/com.mobiletools.systemhelper\/code_cache",
+      "\/data\/data\/com.mobiletools.systemhelper\/shared_prefs"
+    ],
+    "com.qualcomm.shutdownlistner": [
+      "\/data\/data\/com.qualcomm.shutdownlistner\/cache",
+      "\/data\/data\/com.qualcomm.shutdownlistner\/code_cache"
+    ],
+    "com.redteamobile.virtual.softsim": [
+      "\/data\/data\/com.redteamobile.virtual.softsim\/cache",
+      "\/data\/data\/com.redteamobile.virtual.softsim\/code_cache",
+      "\/data\/data\/com.redteamobile.virtual.softsim\/databases"
+    ],
+    "com.nearme.sync": [
+      "\/data\/data\/com.nearme.sync\/cache",
+      "\/data\/data\/com.nearme.sync\/code_cache",
+      "\/data\/data\/com.nearme.sync\/databases",
+      "\/data\/data\/com.nearme.sync\/shared_prefs"
+    ],
+    "com.android.documentsui": [
+      "\/data\/data\/com.android.documentsui\/cache",
+      "\/data\/data\/com.android.documentsui\/code_cache",
+      "\/data\/data\/com.android.documentsui\/databases"
+    ],
+    "com.sohu.inputmethod.sogouoem": [
+      "\/data\/data\/com.sohu.inputmethod.sogouoem\/files",
+      "\/data\/data\/com.sohu.inputmethod.sogouoem\/cache",
+      "\/data\/data\/com.sohu.inputmethod.sogouoem\/code_cache",
+      "\/data\/data\/com.sohu.inputmethod.sogouoem\/databases",
+      "\/data\/data\/com.sohu.inputmethod.sogouoem\/shared_prefs"
+    ],
+    "com.android.externalstorage": [
+      "\/data\/data\/com.android.externalstorage\/cache",
+      "\/data\/data\/com.android.externalstorage\/code_cache"
+    ],
+    "com.iflytek.speechcloud": [
+      "\/data\/data\/com.iflytek.speechcloud\/files",
+      "\/data\/data\/com.iflytek.speechcloud\/cache",
+      "\/data\/data\/com.iflytek.speechcloud\/code_cache",
+      "\/data\/data\/com.iflytek.speechcloud\/shared_prefs"
+    ],
+    "com.coloros.weather.service": [
+      "\/data\/data\/com.coloros.weather.service\/files",
+      "\/data\/data\/com.coloros.weather.service\/cache",
+      "\/data\/data\/com.coloros.weather.service\/code_cache",
+      "\/data\/data\/com.coloros.weather.service\/databases",
+      "\/data\/data\/com.coloros.weather.service\/shared_prefs"
+    ],
+    "com.android.providers.downloads": [
+      "\/data\/data\/com.android.providers.downloads\/files",
+      "\/data\/data\/com.android.providers.downloads\/cache",
+      "\/data\/data\/com.android.providers.downloads\/code_cache",
+      "\/data\/data\/com.android.providers.downloads\/databases"
+    ],
+    "com.coloros.providers.downloads.ui": [
+      "\/data\/data\/com.coloros.providers.downloads.ui\/files",
+      "\/data\/data\/com.coloros.providers.downloads.ui\/cache",
+      "\/data\/data\/com.coloros.providers.downloads.ui\/code_cache"
+    ],
+    "com.coloros.blacklist": [
+      "\/data\/data\/com.coloros.blacklist\/cache",
+      "\/data\/data\/com.coloros.blacklist\/code_cache",
+      "\/data\/data\/com.coloros.blacklist\/databases"
+    ],
+    "com.oppo.localservice": [
+      "\/data\/data\/com.oppo.localservice\/cache",
+      "\/data\/data\/com.oppo.localservice\/code_cache"
+    ],
+    "com.qualcomm.qti.telephonyservice": [
+      "\/data\/data\/com.qualcomm.qti.telephonyservice\/cache",
+      "\/data\/data\/com.qualcomm.qti.telephonyservice\/code_cache"
+    ],
+    "com.android.defcontainer": [
+      "\/data\/data\/com.android.defcontainer\/cache",
+      "\/data\/data\/com.android.defcontainer\/code_cache"
+    ],
+    "com.coloros.fingerprint": [
+      "\/data\/data\/com.coloros.fingerprint\/cache",
+      "\/data\/data\/com.coloros.fingerprint\/code_cache"
+    ],
+    "com.android.carrierconfig": [
+      "\/data\/data\/com.android.carrierconfig\/cache",
+      "\/data\/data\/com.android.carrierconfig\/code_cache"
+    ],
+    "com.ted.number": [
+      "\/data\/data\/com.ted.number\/files",
+      "\/data\/data\/com.ted.number\/cache",
+      "\/data\/data\/com.ted.number\/code_cache",
+      "\/data\/data\/com.ted.number\/databases",
+      "\/data\/data\/com.ted.number\/shared_prefs"
+    ],
+    "com.android.stk": [
+      "\/data\/data\/com.android.stk\/cache",
+      "\/data\/data\/com.android.stk\/code_cache"
+    ],
+    "se.dirac.acs": [
+      "\/data\/data\/se.dirac.acs\/cache",
+      "\/data\/data\/se.dirac.acs\/code_cache",
+      "\/data\/data\/se.dirac.acs\/databases"
+    ],
+    "com.coloros.activation": [
+      "\/data\/data\/com.coloros.activation\/cache",
+      "\/data\/data\/com.coloros.activation\/code_cache",
+      "\/data\/data\/com.coloros.activation\/shared_prefs"
+    ],
+    "org.codeaurora.ims": [
+      "\/data\/data\/org.codeaurora.ims\/cache",
+      "\/data\/data\/org.codeaurora.ims\/code_cache"
+    ],
+    "com.android.statementservice": [
+      "\/data\/data\/com.android.statementservice\/cache",
+      "\/data\/data\/com.android.statementservice\/code_cache"
+    ],
+    "com.qualcomm.qcrilmsgtunnel": [
+      "\/data\/data\/com.qualcomm.qcrilmsgtunnel\/cache",
+      "\/data\/data\/com.qualcomm.qcrilmsgtunnel\/code_cache"
+    ],
+    "com.android.printspooler": [
+      "\/data\/data\/com.android.printspooler\/files",
+      "\/data\/data\/com.android.printspooler\/cache",
+      "\/data\/data\/com.android.printspooler\/code_cache"
+    ],
+    "com.android.incallui": [
+      "\/data\/data\/com.android.incallui\/cache",
+      "\/data\/data\/com.android.incallui\/code_cache"
+    ],
+    "com.oppo.multimedia.dirac": [
+      "\/data\/data\/com.oppo.multimedia.dirac\/cache",
+      "\/data\/data\/com.oppo.multimedia.dirac\/code_cache",
+      "\/data\/data\/com.oppo.multimedia.dirac\/shared_prefs"
+    ],
+    "com.oppo.instant.local.service": [
+      "\/data\/data\/com.oppo.instant.local.service\/cache",
+      "\/data\/data\/com.oppo.instant.local.service\/code_cache",
+      "\/data\/data\/com.oppo.instant.local.service\/shared_prefs"
+    ],
+    "com.redteamobile.roaming": [
+      "\/data\/data\/com.redteamobile.roaming\/files",
+      "\/data\/data\/com.redteamobile.roaming\/cache",
+      "\/data\/data\/com.redteamobile.roaming\/code_cache",
+      "\/data\/data\/com.redteamobile.roaming\/shared_prefs"
+    ],
+    "com.oppo.launcher": [
+      "\/data\/data\/com.oppo.launcher\/files",
+      "\/data\/data\/com.oppo.launcher\/cache",
+      "\/data\/data\/com.oppo.launcher\/code_cache",
+      "\/data\/data\/com.oppo.launcher\/databases",
+      "\/data\/data\/com.oppo.launcher\/shared_prefs"
+    ],
+    "com.android.phone": [
+      "\/data\/data\/com.android.phone\/files",
+      "\/data\/data\/com.android.phone\/cache",
+      "\/data\/data\/com.android.phone\/code_cache",
+      "\/data\/data\/com.android.phone\/shared_prefs"
+    ],
+    "com.android.keyguard": [
+      "\/data\/data\/com.android.keyguard\/files",
+      "\/data\/data\/com.android.keyguard\/cache",
+      "\/data\/data\/com.android.keyguard\/code_cache",
+      "\/data\/data\/com.android.keyguard\/shared_prefs"
+    ],
+    "com.android.packageinstaller": [
+      "\/data\/data\/com.android.packageinstaller\/files",
+      "\/data\/data\/com.android.packageinstaller\/cache",
+      "\/data\/data\/com.android.packageinstaller\/code_cache",
+      "\/data\/data\/com.android.packageinstaller\/databases",
+      "\/data\/data\/com.android.packageinstaller\/shared_prefs"
+    ],
+    "com.coloros.pictorial": [
+      "\/data\/data\/com.coloros.pictorial\/files",
+      "\/data\/data\/com.coloros.pictorial\/cache",
+      "\/data\/data\/com.coloros.pictorial\/code_cache",
+      "\/data\/data\/com.coloros.pictorial\/databases",
+      "\/data\/data\/com.coloros.pictorial\/shared_prefs"
+    ],
+    "com.svox.pico": [
+      "\/data\/data\/com.svox.pico\/cache",
+      "\/data\/data\/com.svox.pico\/code_cache"
+    ],
+    "com.coloros.flashlight": [
+      "\/data\/data\/com.coloros.flashlight\/cache",
+      "\/data\/data\/com.coloros.flashlight\/code_cache"
+    ],
+    "com.android.managedprovisioning": [
+      "\/data\/data\/com.android.managedprovisioning\/cache",
+      "\/data\/data\/com.android.managedprovisioning\/code_cache"
+    ],
+    "com.oppo.c2u": [
+      "\/data\/data\/com.oppo.c2u\/cache",
+      "\/data\/data\/com.oppo.c2u\/code_cache"
+    ],
+    "com.oppo.ota": [
+      "\/data\/data\/com.oppo.ota\/cache",
+      "\/data\/data\/com.oppo.ota\/code_cache",
+      "\/data\/data\/com.oppo.ota\/databases",
+      "\/data\/data\/com.oppo.ota\/shared_prefs"
+    ],
+    "com.coloros.feedback": [
+      "\/data\/data\/com.coloros.feedback\/cache",
+      "\/data\/data\/com.coloros.feedback\/code_cache"
+    ],
+    "com.android.smspush": [
+      "\/data\/data\/com.android.smspush\/cache",
+      "\/data\/data\/com.android.smspush\/code_cache"
+    ],
+    "com.cleanmaster.sdk": [
+      "\/data\/data\/com.cleanmaster.sdk\/files",
+      "\/data\/data\/com.cleanmaster.sdk\/cache",
+      "\/data\/data\/com.cleanmaster.sdk\/code_cache",
+      "\/data\/data\/com.cleanmaster.sdk\/databases",
+      "\/data\/data\/com.cleanmaster.sdk\/shared_prefs"
+    ],
+    "com.nearme.atlas": [
+      "\/data\/data\/com.nearme.atlas\/files",
+      "\/data\/data\/com.nearme.atlas\/cache",
+      "\/data\/data\/com.nearme.atlas\/no_backup",
+      "\/data\/data\/com.nearme.atlas\/code_cache",
+      "\/data\/data\/com.nearme.atlas\/databases",
+      "\/data\/data\/com.nearme.atlas\/shared_prefs"
+    ],
+    "com.coloros.cloud": [
+      "\/data\/data\/com.coloros.cloud\/files",
+      "\/data\/data\/com.coloros.cloud\/cache",
+      "\/data\/data\/com.coloros.cloud\/code_cache",
+      "\/data\/data\/com.coloros.cloud\/databases",
+      "\/data\/data\/com.coloros.cloud\/shared_prefs"
+    ],
+    "com.coloros.video": [
+      "\/data\/data\/com.coloros.video\/cache",
+      "\/data\/data\/com.coloros.video\/code_cache",
+      "\/data\/data\/com.coloros.video\/shared_prefs"
+    ],
+    "com.android.vpndialogs": [
+      "\/data\/data\/com.android.vpndialogs\/cache",
+      "\/data\/data\/com.android.vpndialogs\/code_cache"
+    ],
+    "com.coloros.speechassist": [
+      "\/data\/data\/com.coloros.speechassist\/cache",
+      "\/data\/data\/com.coloros.speechassist\/code_cache"
+    ],
+    "com.android.shell": [
+      "\/data\/data\/com.android.shell\/files",
+      "\/data\/data\/com.android.shell\/cache",
+      "\/data\/data\/com.android.shell\/code_cache"
+    ],
+    "com.coloros.speechassist.engine": [
+      "\/data\/data\/com.coloros.speechassist.engine\/cache",
+      "\/data\/data\/com.coloros.speechassist.engine\/code_cache"
+    ],
+    "com.nearme.romupdate": [
+      "\/data\/data\/com.nearme.romupdate\/cache",
+      "\/data\/data\/com.nearme.romupdate\/code_cache",
+      "\/data\/data\/com.nearme.romupdate\/databases",
+      "\/data\/data\/com.nearme.romupdate\/shared_prefs"
+    ],
+    "com.qualcomm.embms": [
+      "\/data\/data\/com.qualcomm.embms\/cache",
+      "\/data\/data\/com.qualcomm.embms\/code_cache"
+    ],
+    "com.android.providers.contacts": [
+      "\/data\/data\/com.android.providers.contacts\/files",
+      "\/data\/data\/com.android.providers.contacts\/cache",
+      "\/data\/data\/com.android.providers.contacts\/code_cache",
+      "\/data\/data\/com.android.providers.contacts\/databases",
+      "\/data\/data\/com.android.providers.contacts\/shared_prefs"
+    ],
+    "com.coloros.regservice": [
+      "\/data\/data\/com.coloros.regservice\/cache",
+      "\/data\/data\/com.coloros.regservice\/code_cache",
+      "\/data\/data\/com.coloros.regservice\/databases",
+      "\/data\/data\/com.coloros.regservice\/shared_prefs"
+    ]
+  },
+  "设备信息": {
+    "java_version ": "0",
+    "java_runtime_version": "0.9",
+    "java_runtime_name": "Android Runtime",
+    "java_vm_version ": "2.1.0",
+    "SystemName": "Android",
+    "SystemVersion": "6.0.1",
+    "DeviceBrand": "OPPO",
+    "DeviceModel": "OPPO R9s",
+    "SerialNumber": "8e5ddcf1",
+    "IMEIS": "863903037221232|863903037221224",
+    "ApplicationChannel": "CHANNEL-OPPO",
+    "ApplicationKey": "APPKE",
+    "APILevel": "23",
+    "UA": "Mozilla\/5.0 (Linux; Android 6.0.1; OPPO R9s Build\/MMB29M; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/55.0.2883.91 Mobile Safari\/537.36",
+    "TargetSdkVersion": "31",
+    "BootTimeMilliseconds": "1664241843071",
+    "Simulator": "0",
+    "Debug": "0",
+    "Hijack": "0",
+    "SDK--utdid": "YoNRyvjPgHsDAFFEWw0SByVR",
+    "IsRoot": "0",
+    "SystemFontSize": "0",
+    "SystemHour": "12",
+    "SystemLanguage": "zh",
+    "SystemArea": "CN",
+    "TimeZone": "GMT+08:00",
+    "SenSorModuleName": [
+      {
+        "SenSorName": "LSM6DS3 Accelerometer",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "STMicroelectronics",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.07000000029802322
+      },
+      {
+        "SenSorName": "AK09911 Magnetometer",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "AKM",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 2.4000000953674316
+      },
+      {
+        "SenSorName": "AK09911 Magnetometer Uncalibrated",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "AKM",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 2.4000000953674316
+      },
+      {
+        "SenSorName": "LSM6DS3 Gyroscope",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "STMicroelectronics",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.8299999833106995
+      },
+      {
+        "SenSorName": "LSM6DS3 Gyroscope Uncalibrated",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "STMicroelectronics",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.8299999833106995
+      },
+      {
+        "SenSorName": "apds9922- Proximity",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "Avago",
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.18299999833106995
+      },
+      {
+        "SenSorName": "apds9922- Light",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "Avago",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.10999999940395355
+      },
+      {
+        "SenSorName": "Gravity",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.8999786376953125
+      },
+      {
+        "SenSorName": "Linear Acceleration",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.8999786376953125
+      },
+      {
+        "SenSorName": "Rotation Vector",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 3.22998046875
+      },
+      {
+        "SenSorName": "Step Detector",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0699920654296875
+      },
+      {
+        "SenSorName": "Significant Motion Detector",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.0699920654296875
+      },
+      {
+        "SenSorName": "Game Rotation Vector",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.8999786376953125
+      },
+      {
+        "SenSorName": "GeoMagnetic Rotation Vector",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 2.48748779296875
+      },
+      {
+        "SenSorName": "Orientation",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 3.22998046875
+      },
+      {
+        "SenSorName": "Tilt Detector",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.0699920654296875
+      },
+      {
+        "SenSorName": "LSM6DS3 Step Counter",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "STMicroelectronics",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.07000000029802322
+      },
+      {
+        "SenSorName": "AMD",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0699920654296875
+      },
+      {
+        "SenSorName": "RMD",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0699920654296875
+      },
+      {
+        "SenSorName": "Basic Gestures",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0699920654296875
+      },
+      {
+        "SenSorName": "Facing",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0699920654296875
+      },
+      {
+        "SenSorName": "Pedometer",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0699920654296875
+      },
+      {
+        "SenSorName": "Motion Accel",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0699920654296875
+      },
+      {
+        "SenSorName": "Coarse Motion Classifier",
+        "SenSorVersion": "3",
+        "SenSorManufacturer": "QTI",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0699920654296875
+      }
+    ],
+    "CPUModel": "arm64-v8a:",
+    "BuildId": "MMB29M",
+    "BuildDisplay": "R9s_11_A.37_191127",
+    "BuildProduct": "R9s",
+    "BuildDevice": "R9s",
+    "BuildBoard": "msm8953",
+    "BuildHardware": "qcom",
+    "BuildSupportedAbis": "arm64-v8a,armeabi-v7a,armeabi",
+    "BuildSupportedAbis32": "armeabi-v7a,armeabi",
+    "BuildSupportedAbis64": "arm64-v8a",
+    "BuildType": "user",
+    "BuildTags": "dev-keys",
+    "BuildFingerPrint": "OPPO\/R9s\/R9s:6.0.1\/MMB29M\/1528528402:user\/release-keys",
+    "BuildRadioVersion": "Q_V1_P14,Q_V1_P14",
+    "BuildIncremental": "eng.root.20191127.155013",
+    "BuildBaseOS": "OPPO\/R9s\/R9s:6.0.1\/MMB29M\/1522231161:user\/release-keys",
+    "BuildSecurityPatch": "2018-06-05",
+    "BuildPreviewSdkInt": "0",
+    "BuildSdkInt": "23",
+    "BuildCodename": "REL",
+    "ETDM": {
+      "BatteryStatus": "5",
+      "BatteryHealth": "2",
+      "BatteryLevel": "100",
+      "BatteryScale": "100",
+      "BatteryPlugged": "2",
+      "BatteryTechnology": "Li-ion"
+    }
+  },
+  "Unsafe": {
+    "init[theUnsafe]": true,
+    "init[THE_ONE]": true,
+    "init[getUnsafe]": true,
+    "init[getUnsafeByAbstractQueuedSynchronizer]": true,
+    "arrayIndexScale赋值Object数组大小": 4,
+    "is64Bit": true,
+    "me-adress": 323870848,
+    "me-hash": 108432103,
+    "me格式化-address": "134de080",
+    "me1-adress": 323870848,
+    "me1-hash": 108432103,
+    "me1格式化-address": "134de080",
+    "两个对象地址测试结果": true,
+    "两个对象测试结果": true,
+    "byte[]_OFFSET": 12,
+    "byte[]_SCALE": 1,
+    "boolean[]_OFFSET": 12,
+    "boolean[]_SCALE": 1,
+    "int[]_OFFSET": 12,
+    "int[]_SCALE": 4,
+    "long[]_OFFSET": 16,
+    "long[]_SCALE": 8,
+    "float[]_OFFSET": 12,
+    "float[]_SCALE": 4,
+    "double[]_OFFSET": 16,
+    "double[]_SCALE": 8,
+    "Object[]_OFFSET": 12,
+    "Object[]_SCALE": 4,
+    "BUFFER_ADDRESS_OFFSET": 0,
+    "STRIDE_ALIGNMENT_MASK": 7,
+    "BYTE_ARRAY_ALIGNMENT": 4,
+    "IS_BIG_ENDIAN": false,
+    "objectFieldOffset(Field)": true,
+    "1_arrayBaseOffset(Class)": true,
+    "1_getArrayBaseOffsetForComponentType(Class)": true,
+    "2_arrayIndexScale(Class)": true,
+    "2_getArrayIndexScaleForComponentType(Class)": true,
+    "2_arrayIndexScale0(Class)": false,
+    "compareAndSwapInt(Object,long,int,int)": true,
+    "compareAndSwapLong(Object,long,long,long)": true,
+    "compareAndSwapObject(Object,long,Object,Object)": true,
+    "3_getInt(Object,long)": true,
+    "3_getIntVolatile(Object,long)": true,
+    "getInt(long)": false,
+    "4_putInt(Object,long,int)": true,
+    "4_putIntVolatile(Object,long,int)": true,
+    "putInt(long,int)": false,
+    "putOrderedInt(Object,long,int)": true,
+    "5_getLong(Object,long)": true,
+    "5_getLongVolatile(Object,long)": true,
+    "getLong(long)": false,
+    "putLong(Object,long,long)": true,
+    "getObject(Object,long)": true,
+    "putObject(Object,long,Object)": true,
+    "getByte(long)": false,
+    "getByte(Object,long)": false,
+    "putByte(long,byte)": false,
+    "putByte(Object,long,byte)": false,
+    "getBoolean(Object,long)": false,
+    "putBoolean(Object,long,boolean)": false,
+    "getFloat(Object,long)": false,
+    "putFloat(Object,long,float)": false,
+    "getDouble(Object,long)": false,
+    "putDouble(Object,long,double)": false,
+    "putLong(long,long)": false,
+    "copyMemory(long,long,long)": false,
+    "addressSize()": false,
+    "pageSize()": false,
+    "allocateInstance(Class)": true,
+    "allocateMemory(long)": false,
+    "copyMemoryToPrimitiveArray(long,Object,long,long)": false,
+    "copyMemoryFromPrimitiveArray(Object,long,long,long)": false,
+    "setMemory(long,long,byte)": false,
+    "freeMemory(long)": false,
+    "getAndAddInt(Object,long,int)": false,
+    "getAndSetInt(Object,long,int)": false,
+    "getAndAddLong(Object,long,long)": false,
+    "getAndSetLong(Object,long,long)": false,
+    "getAndSetObject(Object,long,Object)": false
+  },
+  "MAC": {
+    "java_mac": "e4:47:90:09:81:83",
+    "api_mac": "02:00:00:00:00:00",
+    "file_mac": "",
+    "ip_address": "1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN \n    link\/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00\n    inet 127.0.0.1\/8 scope host lo\n       valid_lft forever preferred_lft forever\n    inet6 ::1\/128 scope host \n       valid_lft forever preferred_lft forever\n2: dummy0: <BROADCAST,NOARP,UP,LOWER_UP> mtu 1500 qdisc noqueue state UNKNOWN \n    link\/ether 1a:26:8a:9a:32:6c brd ff:ff:ff:ff:ff:ff\n    inet6 fe80::1826:8aff:fe9a:326c\/64 scope link \n       valid_lft forever preferred_lft forever\n3: sit0@NONE: <NOARP> mtu 1480 qdisc noop state DOWN \n    link\/sit 0.0.0.0 brd 0.0.0.0\n4: rmnet_ipa0: <UP,LOWER_UP> mtu 2000 qdisc pfifo_fast state UNKNOWN qlen 1000\n    link\/[530] \n5: rmnet_data0: <> mtu 1500 qdisc noop state DOWN qlen 1000\n    link\/[530] \n6: rmnet_data1: <> mtu 1500 qdisc noop state DOWN qlen 1000\n    link\/[530] \n7: rmnet_data2: <> mtu 1500 qdisc noop state DOWN qlen 1000\n    link\/[530] \n8: rmnet_data3: <> mtu 1500 qdisc noop state DOWN qlen 1000\n    link\/[530] \n9: rmnet_data4: <> mtu 1500 qdisc noop state DOWN qlen 1000\n    link\/[530] \n10: rmnet_data5: <> mtu 1500 qdisc noop state DOWN qlen 1000\n    link\/[530] \n11: rmnet_data6: <> mtu 1500 qdisc noop state DOWN qlen 1000\n    link\/[530] \n12: rmnet_data7: <UP,LOWER_UP> mtu 2000 qdisc htb state UNKNOWN qlen 1000\n    link\/[530] \n    inet6 fe80::dcd7:2a73:6180:90e3\/64 scope link \n       valid_lft forever preferred_lft forever\n13: r_rmnet_data0: <> mtu 1500 qdisc noop state DOWN qlen 1000\n    link\/[530] \n14: r_rmnet_data1: <> mtu 1500 qdisc noop state DOWN qlen 1000\n    link\/[530] \n15: r_rmnet_data2: <> mtu 1500 qdisc noop state DOWN qlen 1000\n    link\/[530] \n16: r_rmnet_data3: <> mtu 1500 qdisc noop state DOWN qlen 1000\n    link\/[530] \n17: r_rmnet_data4: <> mtu 1500 qdisc noop state DOWN qlen 1000\n    link\/[530] \n18: r_rmnet_data5: <> mtu 1500 qdisc noop state DOWN qlen 1000\n    link\/[530] \n19: r_rmnet_data6: <> mtu 1500 qdisc noop state DOWN qlen 1000\n    link\/[530] \n20: r_rmnet_data7: <> mtu 1500 qdisc noop state DOWN qlen 1000\n    link\/[530] \n21: r_rmnet_data8: <> mtu 1500 qdisc noop state DOWN qlen 1000\n    link\/[530] \n42: wlan0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1460 qdisc mq state UP qlen 1000\n    link\/ether e4:47:90:09:81:83 brd ff:ff:ff:ff:ff:ff\n    inet 10.43.51.92\/23 brd 10.43.51.255 scope global wlan0\n       valid_lft forever preferred_lft forever\n    inet6 fe80::e647:90ff:fe09:8183\/64 scope link \n       valid_lft forever preferred_lft forever\n43: p2p0: <NO-CARRIER,BROADCAST,MULTICAST,UP> mtu 1500 qdisc mq state DOWN qlen 1000\n    link\/ether e6:47:90:09:81:83 brd ff:ff:ff:ff:ff:ff\n",
+    "ip_link": "1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN mode DEFAULT \n    link\/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00\n2: dummy0: <BROADCAST,NOARP,UP,LOWER_UP> mtu 1500 qdisc noqueue state UNKNOWN mode DEFAULT \n    link\/ether 1a:26:8a:9a:32:6c brd ff:ff:ff:ff:ff:ff\n3: sit0@NONE: <NOARP> mtu 1480 qdisc noop state DOWN mode DEFAULT \n    link\/sit 0.0.0.0 brd 0.0.0.0\n4: rmnet_ipa0: <UP,LOWER_UP> mtu 2000 qdisc pfifo_fast state UNKNOWN mode DEFAULT qlen 1000\n    link\/[530] \n5: rmnet_data0: <> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 1000\n    link\/[530] \n6: rmnet_data1: <> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 1000\n    link\/[530] \n7: rmnet_data2: <> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 1000\n    link\/[530] \n8: rmnet_data3: <> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 1000\n    link\/[530] \n9: rmnet_data4: <> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 1000\n    link\/[530] \n10: rmnet_data5: <> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 1000\n    link\/[530] \n11: rmnet_data6: <> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 1000\n    link\/[530] \n12: rmnet_data7: <UP,LOWER_UP> mtu 2000 qdisc htb state UNKNOWN mode DEFAULT qlen 1000\n    link\/[530] \n13: r_rmnet_data0: <> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 1000\n    link\/[530] \n14: r_rmnet_data1: <> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 1000\n    link\/[530] \n15: r_rmnet_data2: <> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 1000\n    link\/[530] \n16: r_rmnet_data3: <> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 1000\n    link\/[530] \n17: r_rmnet_data4: <> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 1000\n    link\/[530] \n18: r_rmnet_data5: <> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 1000\n    link\/[530] \n19: r_rmnet_data6: <> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 1000\n    link\/[530] \n20: r_rmnet_data7: <> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 1000\n    link\/[530] \n21: r_rmnet_data8: <> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 1000\n    link\/[530] \n42: wlan0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1460 qdisc mq state UP mode DORMANT qlen 1000\n    link\/ether e4:47:90:09:81:83 brd ff:ff:ff:ff:ff:ff\n43: p2p0: <NO-CARRIER,BROADCAST,MULTICAST,UP> mtu 1500 qdisc mq state DOWN mode DORMANT qlen 1000\n    link\/ether e6:47:90:09:81:83 brd ff:ff:ff:ff:ff:ff\n"
+  }
+}
