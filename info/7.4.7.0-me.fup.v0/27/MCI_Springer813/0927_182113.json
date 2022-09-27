@@ -1,0 +1,325 @@
+{
+  "LetMeSee": {
+    "com.baidu.springer": [
+      "\/sdcard\/Android\/data\/com.baidu.springer\/files"
+    ],
+    "com.baidu.msc.trafficinspector": [
+      "\/sdcard\/Android\/data\/com.baidu.msc.trafficinspector\/cache",
+      "\/sdcard\/Android\/data\/com.baidu.msc.trafficinspector\/cache\/log",
+      "\/sdcard\/Android\/data\/com.baidu.msc.trafficinspector\/cache\/Log",
+      "\/data\/data\/com.baidu.msc.trafficinspector\/cache",
+      "\/data\/data\/com.baidu.msc.trafficinspector\/code_cache",
+      "\/data\/data\/com.baidu.msc.trafficinspector\/shared_prefs"
+    ],
+    "com.tencent.mtt.intl": [
+      "\/sdcard\/Android\/data\/com.tencent.mtt.intl\/files"
+    ],
+    "com.android.calendar": [
+      "\/data\/data\/com.android.calendar\/cache",
+      "\/data\/data\/com.android.calendar\/code_cache",
+      "\/data\/data\/com.android.calendar\/shared_prefs"
+    ],
+    "me.fup.v0": [
+      "\/data\/data\/me.fup.v0\/files",
+      "\/data\/data\/me.fup.v0\/cache",
+      "\/data\/data\/me.fup.v0\/code_cache",
+      "\/data\/data\/me.fup.v0\/databases",
+      "\/data\/data\/me.fup.v0\/shared_prefs"
+    ],
+    "com.android.email": [
+      "\/data\/data\/com.android.email\/files",
+      "\/data\/data\/com.android.email\/cache",
+      "\/data\/data\/com.android.email\/code_cache",
+      "\/data\/data\/com.android.email\/databases",
+      "\/data\/data\/com.android.email\/shared_prefs"
+    ],
+    "com.android.htmlviewer": [
+      "\/data\/data\/com.android.htmlviewer\/cache",
+      "\/data\/data\/com.android.htmlviewer\/code_cache"
+    ],
+    "com.android.inputmethod.latin": [
+      "\/data\/data\/com.android.inputmethod.latin\/files",
+      "\/data\/data\/com.android.inputmethod.latin\/cache",
+      "\/data\/data\/com.android.inputmethod.latin\/code_cache",
+      "\/data\/data\/com.android.inputmethod.latin\/databases",
+      "\/data\/data\/com.android.inputmethod.latin\/shared_prefs"
+    ],
+    "com.android.dreams.phototable": [
+      "\/data\/data\/com.android.dreams.phototable\/cache",
+      "\/data\/data\/com.android.dreams.phototable\/code_cache"
+    ]
+  },
+  "设备信息": {
+    "java_version ": "0",
+    "java_runtime_version": "0.9",
+    "java_runtime_name": "Android Runtime",
+    "java_vm_version ": "2.1.0",
+    "SystemName": "Android",
+    "SystemVersion": "8.1.0",
+    "DeviceBrand": "MCI",
+    "DeviceModel": "Springer813",
+    "SerialNumber": "RW1SPRINGERH55M7",
+    "ApplicationChannel": "CHANNEL-MCI",
+    "ApplicationKey": "APPKE",
+    "APILevel": "27",
+    "UA": "Mozilla\/5.0 (Linux; Android 8.1.0; Springer813 Build\/OPM8.190605.005; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/61.0.3163.98 Mobile Safari\/537.36",
+    "TargetSdkVersion": "31",
+    "BootTimeMilliseconds": "1663205455387",
+    "Simulator": "0",
+    "Debug": "0",
+    "Hijack": "0",
+    "SDK--utdid": "YzLOmPuf67gDAKdcWZNU7J2D",
+    "IsRoot": "0",
+    "SystemFontSize": "0",
+    "SystemHour": "12",
+    "SystemLanguage": "zh",
+    "SystemArea": "CN",
+    "TimeZone": "GMT+08:00",
+    "SenSorModuleName": [
+      {
+        "SenSorName": "Acceleration sensor",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "AOSP",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.20000000298023224
+      },
+      {
+        "SenSorName": "Compass Magnetic field sensor",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "AOSP",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 6.800000190734863
+      },
+      {
+        "SenSorName": "Compass Orientation sensor",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "AOSP",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 7
+      },
+      {
+        "SenSorName": "Gravity sensor",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "AOSP",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.20000000298023224
+      },
+      {
+        "SenSorName": "BMI160 Step counter",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "Bosch",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 6.099999904632568
+      },
+      {
+        "SenSorName": "BMI160 Step detector",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "Bosch",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 6.099999904632568
+      },
+      {
+        "SenSorName": "Gyroscope sensor",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "AOSP",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 6.099999904632568
+      },
+      {
+        "SenSorName": "Light sensor",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "AOSP",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.5
+      },
+      {
+        "SenSorName": "Proximity sensor",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "AOSP",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.5
+      },
+      {
+        "SenSorName": "Pressure sensor",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "AOSP",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 1
+      },
+      {
+        "SenSorName": "Temperature sensor",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "AOSP",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 1
+      },
+      {
+        "SenSorName": "Game Rotation Vector Sensor",
+        "SenSorVersion": "3",
+        "SenSorManufacturer": "AOSP",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 13.100000381469727
+      },
+      {
+        "SenSorName": "GeoMag Rotation Vector Sensor",
+        "SenSorVersion": "3",
+        "SenSorManufacturer": "AOSP",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 13.100000381469727
+      },
+      {
+        "SenSorName": "Linear Acceleration Sensor",
+        "SenSorVersion": "3",
+        "SenSorManufacturer": "AOSP",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 13.100000381469727
+      },
+      {
+        "SenSorName": "Rotation Vector Sensor",
+        "SenSorVersion": "3",
+        "SenSorManufacturer": "AOSP",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 13.100000381469727
+      },
+      {
+        "SenSorName": "Orientation Sensor",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "AOSP",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 13.100000381469727
+      }
+    ],
+    "CPUModel": "arm64-v8a:",
+    "BuildId": "OPM8.190605.005",
+    "BuildDisplay": "OPM8.190605.005 release-keys",
+    "BuildProduct": "hikay960lite_springer",
+    "BuildDevice": "hikay960lite",
+    "BuildBoard": "hikay960lite",
+    "BuildHardware": "hikay960",
+    "BuildSupportedAbis": "arm64-v8a,armeabi-v7a,armeabi",
+    "BuildSupportedAbis32": "armeabi-v7a,armeabi",
+    "BuildSupportedAbis64": "arm64-v8a",
+    "BuildType": "user",
+    "BuildTags": "release-keys",
+    "BuildFingerPrint": "MCI\/hikay960lite_springer\/hikay960lite:8.1.0\/OPM8.190605.005\/root12061141:user\/release-keys",
+    "BuildRadioVersion": "CBP8.2,21.258.08.00.030",
+    "BuildIncremental": "eng.root.20211206.114127",
+    "BuildSecurityPatch": "2019-06-05",
+    "BuildPreviewSdkInt": "0",
+    "BuildSdkInt": "27",
+    "BuildCodename": "REL",
+    "ETDM": {
+      "BatteryStatus": "2",
+      "BatteryHealth": "2",
+      "BatteryLevel": "40",
+      "BatteryScale": "100",
+      "BatteryPlugged": "1",
+      "BatteryTechnology": "Li-poly"
+    }
+  },
+  "Unsafe": {
+    "init[theUnsafe]": true,
+    "init[THE_ONE]": true,
+    "init[getUnsafe]": true,
+    "init[getUnsafeByAbstractQueuedSynchronizer]": true,
+    "arrayIndexScale赋值Object数组大小": 4,
+    "is64Bit": true,
+    "me-adress": 323761584,
+    "me-hash": 127425679,
+    "me格式化-address": "134c35b0",
+    "me1-adress": 323761584,
+    "me1-hash": 127425679,
+    "me1格式化-address": "134c35b0",
+    "两个对象地址测试结果": true,
+    "两个对象测试结果": true,
+    "byte[]_OFFSET": 12,
+    "byte[]_SCALE": 1,
+    "boolean[]_OFFSET": 12,
+    "boolean[]_SCALE": 1,
+    "int[]_OFFSET": 12,
+    "int[]_SCALE": 4,
+    "long[]_OFFSET": 16,
+    "long[]_SCALE": 8,
+    "float[]_OFFSET": 12,
+    "float[]_SCALE": 4,
+    "double[]_OFFSET": 16,
+    "double[]_SCALE": 8,
+    "Object[]_OFFSET": 12,
+    "Object[]_SCALE": 4,
+    "BUFFER_ADDRESS_OFFSET": 8,
+    "STRIDE_ALIGNMENT_MASK": 7,
+    "BYTE_ARRAY_ALIGNMENT": 4,
+    "IS_BIG_ENDIAN": false,
+    "objectFieldOffset(Field)": true,
+    "1_arrayBaseOffset(Class)": true,
+    "1_getArrayBaseOffsetForComponentType(Class)": true,
+    "2_arrayIndexScale(Class)": true,
+    "2_getArrayIndexScaleForComponentType(Class)": true,
+    "2_arrayIndexScale0(Class)": false,
+    "compareAndSwapInt(Object,long,int,int)": true,
+    "compareAndSwapLong(Object,long,long,long)": true,
+    "compareAndSwapObject(Object,long,Object,Object)": true,
+    "3_getInt(Object,long)": true,
+    "3_getIntVolatile(Object,long)": true,
+    "getInt(long)": true,
+    "4_putInt(Object,long,int)": true,
+    "4_putIntVolatile(Object,long,int)": true,
+    "putInt(long,int)": true,
+    "putOrderedInt(Object,long,int)": true,
+    "5_getLong(Object,long)": true,
+    "5_getLongVolatile(Object,long)": true,
+    "getLong(long)": true,
+    "putLong(Object,long,long)": true,
+    "getObject(Object,long)": true,
+    "putObject(Object,long,Object)": true,
+    "getByte(long)": true,
+    "getByte(Object,long)": true,
+    "putByte(long,byte)": false,
+    "putByte(Object,long,byte)": true,
+    "getBoolean(Object,long)": true,
+    "putBoolean(Object,long,boolean)": true,
+    "getFloat(Object,long)": true,
+    "putFloat(Object,long,float)": true,
+    "getDouble(Object,long)": true,
+    "putDouble(Object,long,double)": true,
+    "bufferAddressField": "long java.nio.Buffer.address",
+    "putLong(long,long)": true,
+    "copyMemory(long,long,long)": true,
+    "addressSize()": true,
+    "pageSize()": true,
+    "allocateInstance(Class)": true,
+    "allocateMemory(long)": true,
+    "copyMemoryToPrimitiveArray(long,Object,long,long)": true,
+    "copyMemoryFromPrimitiveArray(Object,long,long,long)": true,
+    "setMemory(long,long,byte)": true,
+    "freeMemory(long)": true,
+    "getAndAddInt(Object,long,int)": true,
+    "getAndSetInt(Object,long,int)": true,
+    "getAndAddLong(Object,long,long)": true,
+    "getAndSetLong(Object,long,long)": true,
+    "getAndSetObject(Object,long,Object)": true
+  },
+  "MAC": {
+    "java_mac": "00:01:33:14:5a:25",
+    "api_mac": "8c:3a:e3:16:11:d5",
+    "file_mac": "",
+    "ip_address": "1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000\n    link\/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00\n    inet 127.0.0.1\/8 scope host lo\n       valid_lft forever preferred_lft forever\n    inet6 ::1\/128 scope host \n       valid_lft forever preferred_lft forever\n2: ip_vti0@NONE: <NOARP> mtu 1480 qdisc noop state DOWN group default qlen 1000\n    link\/ipip 0.0.0.0 brd 0.0.0.0\n3: ip6_vti0@NONE: <NOARP> mtu 1364 qdisc noop state DOWN group default qlen 1000\n    link\/tunnel6 :: brd ::\n4: sit0@NONE: <NOARP> mtu 1480 qdisc noop state DOWN group default qlen 1000\n    link\/sit 0.0.0.0 brd 0.0.0.0\n5: ip6tnl0@NONE: <NOARP> mtu 1452 qdisc noop state DOWN group default qlen 1000\n    link\/tunnel6 :: brd ::\n6: tun0: <POINTOPOINT,UP,LOWER_UP> mtu 4096 qdisc fq_codel state UNKNOWN group default qlen 500\n    link\/none \n    inet 10.1.10.1\/32 scope global tun0\n       valid_lft forever preferred_lft forever\n    inet6 fe80::23f6:e052:462d:4d6c\/64 scope link flags 800 \n       valid_lft forever preferred_lft forever\n21: eth0@if22: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc noqueue state UP group default qlen 1000\n    link\/ether 00:01:33:14:5a:25 brd ff:ff:ff:ff:ff:ff link-netnsid 0\n    inet 10.151.209.37\/24 brd 10.151.209.255 scope global eth0\n       valid_lft forever preferred_lft forever\n    inet6 fe80::11d2:8457:2903:1515\/64 scope link flags 800 \n       valid_lft forever preferred_lft forever\n",
+    "ip_link": "1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN mode DEFAULT group default qlen 1000\n    link\/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00\n2: ip_vti0@NONE: <NOARP> mtu 1480 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/ipip 0.0.0.0 brd 0.0.0.0\n3: ip6_vti0@NONE: <NOARP> mtu 1364 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/tunnel6 :: brd ::\n4: sit0@NONE: <NOARP> mtu 1480 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/sit 0.0.0.0 brd 0.0.0.0\n5: ip6tnl0@NONE: <NOARP> mtu 1452 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/tunnel6 :: brd ::\n6: tun0: <POINTOPOINT,UP,LOWER_UP> mtu 4096 qdisc fq_codel state UNKNOWN mode DEFAULT group default qlen 500\n    link\/none \n21: eth0@if22: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc noqueue state UP mode DEFAULT group default qlen 1000\n    link\/ether 00:01:33:14:5a:25 brd ff:ff:ff:ff:ff:ff link-netnsid 0\n"
+  }
+}
