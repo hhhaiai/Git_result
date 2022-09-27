@@ -1,0 +1,13 @@
+java.lang.Exception: application() 初始化Bugly成功！
+	at com.mihetao.research.MihetaoApp.a(Unknown Source:56)
+	at com.mihetao.research.MihetaoApp.onCreate(Unknown Source:23)
+	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1193)
+	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:7291)
+	at android.app.ActivityThread.access$1600(ActivityThread.java:306)
+	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:2164)
+	at android.os.Handler.dispatchMessage(Handler.java:106)
+	at android.os.Looper.loop(Looper.java:263)
+	at android.app.ActivityThread.main(ActivityThread.java:8296)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:612)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1006)
