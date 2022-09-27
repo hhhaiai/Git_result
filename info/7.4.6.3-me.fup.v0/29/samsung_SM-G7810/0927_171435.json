@@ -1,0 +1,732 @@
+{
+  "LetMeSee": {
+    "cn.xiaochuankeji.tieba": [
+      "\/sdcard\/Android\/data\/cn.xiaochuankeji.tieba\/files",
+      "\/sdcard\/Android\/data\/cn.xiaochuankeji.tieba\/files\/crash",
+      "\/sdcard\/Android\/data\/cn.xiaochuankeji.tieba\/files\/log",
+      "\/sdcard\/Android\/data\/cn.xiaochuankeji.tieba\/files\/TTCache",
+      "\/sdcard\/Android\/data\/cn.xiaochuankeji.tieba\/files\/TTCache\/pangle_com.byted.pangle",
+      "\/sdcard\/Android\/data\/cn.xiaochuankeji.tieba\/files\/Log",
+      "\/sdcard\/Android\/data\/cn.xiaochuankeji.tieba\/files\/perf",
+      "\/sdcard\/Android\/data\/cn.xiaochuankeji.tieba\/files\/resources",
+      "\/sdcard\/Android\/data\/cn.xiaochuankeji.tieba\/files\/traffic",
+      "\/sdcard\/Android\/data\/cn.xiaochuankeji.tieba\/cache",
+      "\/sdcard\/Android\/data\/cn.xiaochuankeji.tieba\/cache\/cache",
+      "\/sdcard\/Android\/data\/cn.xiaochuankeji.tieba\/cache\/com_qq_e_download",
+      "\/sdcard\/Android\/data\/cn.xiaochuankeji.tieba\/cache\/com_qq_e_download\/video",
+      "\/sdcard\/Android\/data\/cn.xiaochuankeji.tieba\/cache\/com_qq_e_download\/apk",
+      "\/sdcard\/Android\/data\/cn.xiaochuankeji.tieba\/cache\/com_qq_e_download\/wxapkg",
+      "\/sdcard\/Android\/data\/cn.xiaochuankeji.tieba\/cache\/pangle_com.byted.pangle",
+      "\/sdcard\/Android\/data\/cn.xiaochuankeji.tieba\/cache\/pangle_com.byted.pangle\/tt_ad",
+      "\/sdcard\/Android\/data\/cn.xiaochuankeji.tieba\/cache\/pangle_com.byted.pangle\/tt_tmpl_pkg",
+      "\/sdcard\/Android\/data\/cn.xiaochuankeji.tieba\/cache\/pangle_com.byted.pangle\/playable",
+      "\/sdcard\/Android\/data\/cn.xiaochuankeji.tieba\/cache\/ksadsdk",
+      "\/sdcard\/Android\/data\/cn.xiaochuankeji.tieba\/cache\/ksadsdk\/ksad-images",
+      "\/sdcard\/Android\/data\/cn.xiaochuankeji.tieba\/cache\/videos"
+    ],
+    "com.samsung.android.calendar": [
+      "\/sdcard\/Android\/data\/com.samsung.android.calendar\/files"
+    ],
+    "com.cmschina.stock.debug": [
+      "\/sdcard\/Android\/data\/com.cmschina.stock.debug\/files",
+      "\/sdcard\/Android\/data\/com.cmschina.stock.debug\/cache"
+    ],
+    "ds.ds678.com.cn": [
+      "\/sdcard\/Android\/data\/ds.ds678.com.cn\/files",
+      "\/sdcard\/Android\/data\/ds.ds678.com.cn\/files\/tencent",
+      "\/sdcard\/Android\/data\/ds.ds678.com.cn\/files\/tencent\/tbs_live_log",
+      "\/sdcard\/Android\/data\/ds.ds678.com.cn\/files\/Tencent",
+      "\/sdcard\/Android\/data\/ds.ds678.com.cn\/files\/Tencent\/tbs_live_log",
+      "\/sdcard\/Android\/data\/ds.ds678.com.cn\/files\/tbslog",
+      "\/sdcard\/Android\/data\/ds.ds678.com.cn\/files\/gtpush",
+      "\/sdcard\/Android\/data\/ds.ds678.com.cn\/files\/backup",
+      "\/sdcard\/Android\/data\/ds.ds678.com.cn\/files\/env",
+      "\/sdcard\/Android\/data\/ds.ds678.com.cn\/files\/commonlog",
+      "\/sdcard\/Android\/data\/ds.ds678.com.cn\/files\/commonlog\/tbs",
+      "\/sdcard\/Android\/data\/ds.ds678.com.cn\/cache",
+      "\/sdcard\/Android\/data\/ds.ds678.com.cn\/cache\/ad",
+      "\/sdcard\/Android\/data\/ds.ds678.com.cn\/sitemap",
+      "\/sdcard\/Android\/data\/ds.ds678.com.cn\/apps"
+    ],
+    "videoeditor.mvedit.musicvideomaker": [
+      "\/sdcard\/Android\/data\/videoeditor.mvedit.musicvideomaker\/files",
+      "\/sdcard\/Android\/data\/videoeditor.mvedit.musicvideomaker\/cache",
+      "\/sdcard\/Android\/data\/videoeditor.mvedit.musicvideomaker\/cache\/video-cache"
+    ],
+    "com.appcleaner.applock.boost": [
+      "\/sdcard\/Android\/data\/com.appcleaner.applock.boost\/files",
+      "\/sdcard\/Android\/data\/com.appcleaner.applock.boost\/cache",
+      "\/sdcard\/Android\/data\/com.appcleaner.applock.boost\/cache\/logs"
+    ],
+    "com.helloworld.quickicon": [
+      "\/sdcard\/Android\/data\/com.helloworld.quickicon\/files",
+      "\/sdcard\/Android\/data\/com.helloworld.quickicon\/files\/TTCache",
+      "\/sdcard\/Android\/data\/com.helloworld.quickicon\/files\/TTCache\/pangle_com.byted.pangle",
+      "\/sdcard\/Android\/data\/com.helloworld.quickicon\/files\/download",
+      "\/sdcard\/Android\/data\/com.helloworld.quickicon\/files\/download\/pangle_com.byted.pangle",
+      "\/sdcard\/Android\/data\/com.helloworld.quickicon\/files\/Download",
+      "\/sdcard\/Android\/data\/com.helloworld.quickicon\/files\/Download\/pangle_com.byted.pangle",
+      "\/sdcard\/Android\/data\/com.helloworld.quickicon\/cache",
+      "\/sdcard\/Android\/data\/com.helloworld.quickicon\/cache\/com_qq_e_download",
+      "\/sdcard\/Android\/data\/com.helloworld.quickicon\/cache\/com_qq_e_download\/video",
+      "\/sdcard\/Android\/data\/com.helloworld.quickicon\/cache\/com_qq_e_download\/apk",
+      "\/sdcard\/Android\/data\/com.helloworld.quickicon\/cache\/com_qq_e_download\/wxapkg",
+      "\/sdcard\/Android\/data\/com.helloworld.quickicon\/cache\/pangle_com.byted.pangle",
+      "\/sdcard\/Android\/data\/com.helloworld.quickicon\/cache\/pangle_com.byted.pangle\/tt_ad",
+      "\/sdcard\/Android\/data\/com.helloworld.quickicon\/cache\/pangle_com.byted.pangle\/tt_tmpl_pkg",
+      "\/sdcard\/Android\/data\/com.helloworld.quickicon\/cache\/pangle_com.byted.pangle\/playable",
+      "\/sdcard\/Android\/data\/com.helloworld.quickicon\/cache\/ksadsdk",
+      "\/sdcard\/Android\/data\/com.helloworld.quickicon\/cache\/ksadsdk\/ksad-images"
+    ],
+    "com.bankcomm.Bankcomm": [
+      "\/sdcard\/Android\/data\/com.bankcomm.Bankcomm\/files",
+      "\/sdcard\/Android\/data\/com.bankcomm.Bankcomm\/files\/tencent",
+      "\/sdcard\/Android\/data\/com.bankcomm.Bankcomm\/files\/Tencent",
+      "\/sdcard\/Android\/data\/com.bankcomm.Bankcomm\/files\/tbslog",
+      "\/sdcard\/Android\/data\/com.bankcomm.Bankcomm\/files\/Movies",
+      "\/sdcard\/Android\/data\/com.bankcomm.Bankcomm\/files\/Movies\/baidu",
+      "\/sdcard\/Android\/data\/com.bankcomm.Bankcomm\/files\/backup",
+      "\/sdcard\/Android\/data\/com.bankcomm.Bankcomm\/files\/env",
+      "\/sdcard\/Android\/data\/com.bankcomm.Bankcomm\/cache"
+    ],
+    "com.tw.tycoon.casino": [
+      "\/sdcard\/Android\/data\/com.tw.tycoon.casino\/files",
+      "\/sdcard\/Android\/data\/com.tw.tycoon.casino\/files\/fastbot",
+      "\/sdcard\/Android\/data\/com.tw.tycoon.casino\/files\/mb",
+      "\/sdcard\/Android\/data\/com.tw.tycoon.casino\/files\/mb\/other",
+      "\/sdcard\/Android\/data\/com.tw.tycoon.casino\/cache",
+      "\/sdcard\/Android\/data\/com.tw.tycoon.casino\/cache\/UnityAdsCache",
+      "\/sdcard\/Android\/data\/com.tw.tycoon.casino\/no_backup"
+    ],
+    "com.samsung.android.messaging": [
+      "\/sdcard\/Android\/data\/com.samsung.android.messaging\/files",
+      "\/sdcard\/Android\/data\/com.samsung.android.messaging\/cache"
+    ],
+    "aihuishou.aihuishouapp": [
+      "\/sdcard\/Android\/data\/aihuishou.aihuishouapp\/files",
+      "\/sdcard\/Android\/data\/aihuishou.aihuishouapp\/cache"
+    ],
+    "com.yunbu.soloknight.samsung": [
+      "\/sdcard\/Android\/data\/com.yunbu.soloknight.samsung\/files",
+      "\/sdcard\/Android\/data\/com.yunbu.soloknight.samsung\/files\/il2cpp",
+      "\/sdcard\/Android\/data\/com.yunbu.soloknight.samsung\/files\/il2cpp\/etc",
+      "\/sdcard\/Android\/data\/com.yunbu.soloknight.samsung\/files\/il2cpp\/Metadata",
+      "\/sdcard\/Android\/data\/com.yunbu.soloknight.samsung\/files\/il2cpp\/Resources",
+      "\/sdcard\/Android\/data\/com.yunbu.soloknight.samsung\/cache",
+      "\/sdcard\/Android\/data\/com.yunbu.soloknight.samsung\/cache\/UnityShaderCache"
+    ],
+    "cn.threatbook.x": [
+      "\/sdcard\/Android\/data\/cn.threatbook.x\/files",
+      "\/sdcard\/Android\/data\/cn.threatbook.x\/files\/gee_logger_cache",
+      "\/sdcard\/Android\/data\/cn.threatbook.x\/files\/gee_logger",
+      "\/sdcard\/Android\/data\/cn.threatbook.x\/cache"
+    ],
+    "com.sec.android.gallery3d": [
+      "\/sdcard\/Android\/data\/com.sec.android.gallery3d\/files"
+    ],
+    "com.dhc.yhdhckbnzgdt.e.jysl": [
+      "\/sdcard\/Android\/data\/com.dhc.yhdhckbnzgdt.e.jysl\/files",
+      "\/sdcard\/Android\/data\/com.dhc.yhdhckbnzgdt.e.jysl\/files\/geetest",
+      "\/sdcard\/Android\/data\/com.dhc.yhdhckbnzgdt.e.jysl\/files\/cache",
+      "\/data\/data\/com.dhc.yhdhckbnzgdt.e.jysl\/files",
+      "\/data\/data\/com.dhc.yhdhckbnzgdt.e.jysl\/cache",
+      "\/data\/data\/com.dhc.yhdhckbnzgdt.e.jysl\/code_cache",
+      "\/data\/data\/com.dhc.yhdhckbnzgdt.e.jysl\/databases",
+      "\/data\/data\/com.dhc.yhdhckbnzgdt.e.jysl\/shared_prefs"
+    ],
+    "com.pingan.yancheng": [
+      "\/sdcard\/Android\/data\/com.pingan.yancheng\/files",
+      "\/sdcard\/Android\/data\/com.pingan.yancheng\/files\/tbslog",
+      "\/sdcard\/Android\/data\/com.pingan.yancheng\/files\/env",
+      "\/sdcard\/Android\/data\/com.pingan.yancheng\/cache"
+    ],
+    "com.cmplay.tiles2": [
+      "\/sdcard\/Android\/data\/com.cmplay.tiles2\/files",
+      "\/sdcard\/Android\/data\/com.cmplay.tiles2\/cache",
+      "\/sdcard\/Android\/data\/com.cmplay.tiles2\/cache\/UnityAdsCache",
+      "\/data\/data\/com.cmplay.tiles2\/files",
+      "\/data\/data\/com.cmplay.tiles2\/cache",
+      "\/data\/data\/com.cmplay.tiles2\/no_backup",
+      "\/data\/data\/com.cmplay.tiles2\/code_cache",
+      "\/data\/data\/com.cmplay.tiles2\/databases",
+      "\/data\/data\/com.cmplay.tiles2\/shared_prefs"
+    ],
+    "com.sec.android.app.sbrowser": [
+      "\/sdcard\/Android\/data\/com.sec.android.app.sbrowser\/files"
+    ],
+    "com.homecredit.hccn.customerapp": [
+      "\/sdcard\/Android\/data\/com.homecredit.hccn.customerapp\/files",
+      "\/sdcard\/Android\/data\/com.homecredit.hccn.customerapp\/files\/BaiduMapSDKNew",
+      "\/sdcard\/Android\/data\/com.homecredit.hccn.customerapp\/files\/BaiduMapSDKNew\/crash",
+      "\/sdcard\/Android\/data\/com.homecredit.hccn.customerapp\/files\/download",
+      "\/sdcard\/Android\/data\/com.homecredit.hccn.customerapp\/files\/Download",
+      "\/sdcard\/Android\/data\/com.homecredit.hccn.customerapp\/files\/.td-3",
+      "\/sdcard\/Android\/data\/com.homecredit.hccn.customerapp\/cache"
+    ],
+    "com.hyf.mt": [
+      "\/sdcard\/Android\/data\/com.hyf.mt\/files",
+      "\/sdcard\/Android\/data\/com.hyf.mt\/cache"
+    ],
+    "com.aiyu.kaipanla": [
+      "\/sdcard\/Android\/data\/com.aiyu.kaipanla\/files",
+      "\/sdcard\/Android\/data\/com.aiyu.kaipanla\/files\/tbslog",
+      "\/sdcard\/Android\/data\/com.aiyu.kaipanla\/files\/env"
+    ],
+    "com.cashstorm.slots": [
+      "\/sdcard\/Android\/data\/com.cashstorm.slots\/files",
+      "\/sdcard\/Android\/data\/com.cashstorm.slots\/files\/mb",
+      "\/sdcard\/Android\/data\/com.cashstorm.slots\/files\/mb\/other",
+      "\/sdcard\/Android\/data\/com.cashstorm.slots\/cache",
+      "\/sdcard\/Android\/data\/com.cashstorm.slots\/cache\/UnityAdsCache",
+      "\/sdcard\/Android\/data\/com.cashstorm.slots\/no_backup"
+    ],
+    "com.bgy.ssm": [
+      "\/sdcard\/Android\/data\/com.bgy.ssm\/files",
+      "\/sdcard\/Android\/data\/com.bgy.ssm\/cache"
+    ],
+    "com.samsung.android.spay": [
+      "\/sdcard\/Android\/data\/com.samsung.android.spay\/cache"
+    ],
+    "com.hahugaming": [
+      "\/sdcard\/Android\/data\/com.hahugaming\/files",
+      "\/sdcard\/Android\/data\/com.hahugaming\/cache"
+    ],
+    "com.starlight.novelstar": [
+      "\/sdcard\/Android\/data\/com.starlight.novelstar\/files",
+      "\/sdcard\/Android\/data\/com.starlight.novelstar\/cache"
+    ],
+    "com.cmcc.hebao": [
+      "\/sdcard\/Android\/data\/com.cmcc.hebao\/files",
+      "\/sdcard\/Android\/data\/com.cmcc.hebao\/files\/perf",
+      "\/sdcard\/Android\/data\/com.cmcc.hebao\/files\/Documents",
+      "\/sdcard\/Android\/data\/com.cmcc.hebao\/cache",
+      "\/sdcard\/Android\/data\/com.cmcc.hebao\/sitemap",
+      "\/sdcard\/Android\/data\/com.cmcc.hebao\/apps"
+    ],
+    "com.lezhi.meitubao": [
+      "\/sdcard\/Android\/data\/com.lezhi.meitubao\/cache",
+      "\/sdcard\/Android\/data\/com.lezhi.meitubao\/cache\/com_qq_e_download",
+      "\/sdcard\/Android\/data\/com.lezhi.meitubao\/cache\/com_qq_e_download\/video",
+      "\/sdcard\/Android\/data\/com.lezhi.meitubao\/cache\/com_qq_e_download\/apk",
+      "\/sdcard\/Android\/data\/com.lezhi.meitubao\/cache\/com_qq_e_download\/wxapkg"
+    ],
+    "com.softin.recgo": [
+      "\/sdcard\/Android\/data\/com.softin.recgo\/files"
+    ],
+    "cn.eeo.classin": [
+      "\/sdcard\/Android\/data\/cn.eeo.classin\/files",
+      "\/sdcard\/Android\/data\/cn.eeo.classin\/files\/logs",
+      "\/sdcard\/Android\/data\/cn.eeo.classin\/cache"
+    ],
+    "com.samsung.android.rubin.app": [
+      "\/sdcard\/Android\/data\/com.samsung.android.rubin.app\/files"
+    ],
+    "com.samsung.android.mobileservice": [
+      "\/sdcard\/Android\/data\/com.samsung.android.mobileservice\/cache"
+    ],
+    "com.samsung.android.app.smartcapture": [
+      "\/sdcard\/Android\/data\/com.samsung.android.app.smartcapture\/files"
+    ],
+    "com.google.android.gms": [
+      "\/sdcard\/Android\/data\/com.google.android.gms\/files",
+      "\/data\/data\/com.google.android.gms\/files",
+      "\/data\/data\/com.google.android.gms\/files\/fonts",
+      "\/data\/data\/com.google.android.gms\/cache",
+      "\/data\/data\/com.google.android.gms\/no_backup",
+      "\/data\/data\/com.google.android.gms\/code_cache",
+      "\/data\/data\/com.google.android.gms\/databases",
+      "\/data\/data\/com.google.android.gms\/shared_prefs"
+    ],
+    "com.samsung.android.aremojieditor": [
+      "\/sdcard\/Android\/data\/com.samsung.android.aremojieditor\/cache"
+    ],
+    "com.samsung.android.messaging.extension.chn": [
+      "\/sdcard\/Android\/data\/com.samsung.android.messaging.extension.chn\/files"
+    ],
+    "com.samsung.android.honeyboard": [
+      "\/sdcard\/Android\/data\/com.samsung.android.honeyboard\/cache"
+    ],
+    "com.samsung.android.app.spage": [
+      "\/sdcard\/Android\/data\/com.samsung.android.app.spage\/files"
+    ],
+    "com.alibaba.mtl.mdp.kguard": [
+      "\/data\/data\/com.alibaba.mtl.mdp.kguard\/files",
+      "\/data\/data\/com.alibaba.mtl.mdp.kguard\/cache",
+      "\/data\/data\/com.alibaba.mtl.mdp.kguard\/code_cache",
+      "\/data\/data\/com.alibaba.mtl.mdp.kguard\/shared_prefs"
+    ],
+    "io.appium.settings": [
+      "\/data\/data\/io.appium.settings\/files",
+      "\/data\/data\/io.appium.settings\/cache",
+      "\/data\/data\/io.appium.settings\/code_cache"
+    ],
+    "com.tsinghua.tairtestservice": [
+      "\/data\/data\/com.tsinghua.tairtestservice\/files",
+      "\/data\/data\/com.tsinghua.tairtestservice\/cache",
+      "\/data\/data\/com.tsinghua.tairtestservice\/code_cache",
+      "\/data\/data\/com.tsinghua.tairtestservice\/shared_prefs"
+    ],
+    "com.att.arocollector": [
+      "\/data\/data\/com.att.arocollector\/cache",
+      "\/data\/data\/com.att.arocollector\/code_cache"
+    ],
+    "me.fup.v0": [
+      "\/data\/data\/me.fup.v0\/files",
+      "\/data\/data\/me.fup.v0\/cache",
+      "\/data\/data\/me.fup.v0\/code_cache",
+      "\/data\/data\/me.fup.v0\/databases",
+      "\/data\/data\/me.fup.v0\/shared_prefs"
+    ],
+    "io.appium.unlock": [
+      "\/data\/data\/io.appium.unlock\/cache",
+      "\/data\/data\/io.appium.unlock\/code_cache"
+    ],
+    "com.samsung.android.dynamiclock": [
+      "\/data\/data\/com.samsung.android.dynamiclock\/files",
+      "\/data\/data\/com.samsung.android.dynamiclock\/cache",
+      "\/data\/data\/com.samsung.android.dynamiclock\/code_cache",
+      "\/data\/data\/com.samsung.android.dynamiclock\/databases",
+      "\/data\/data\/com.samsung.android.dynamiclock\/shared_prefs"
+    ],
+    "io.appium.android.ime": [
+      "\/data\/data\/io.appium.android.ime\/files",
+      "\/data\/data\/io.appium.android.ime\/cache",
+      "\/data\/data\/io.appium.android.ime\/code_cache"
+    ]
+  },
+  "设备信息": {
+    "java_version ": "0",
+    "java_runtime_version": "0.9",
+    "java_runtime_name": "Android Runtime",
+    "java_vm_version ": "2.1.0",
+    "SystemName": "Android",
+    "SystemVersion": "10",
+    "DeviceBrand": "samsung",
+    "UM-OAID": "e5c036a978d92b4086d14deb87bd377a23077f07ad6984214c3fd85aaa193769",
+    "DeviceModel": "SM-G7810",
+    "ApplicationChannel": "CHANNEL-samsung",
+    "ApplicationKey": "APPKE",
+    "APILevel": "29",
+    "UA": "Mozilla\/5.0 (Linux; Android 10; SM-G7810 Build\/QP1A.190711.020; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/81.0.4044.138 Mobile Safari\/537.36",
+    "TargetSdkVersion": "31",
+    "BootTimeMilliseconds": "1657634917626",
+    "Simulator": "0",
+    "Debug": "0",
+    "Hijack": "0",
+    "SDK--utdid": "Yl7IJhd4mzcDAIvD7RYL7J+z",
+    "IsRoot": "0",
+    "SystemFontSize": "0",
+    "SystemHour": "12",
+    "SystemLanguage": "zh",
+    "SystemArea": "CN",
+    "TimeZone": "GMT+08:00",
+    "SenSorModuleName": [
+      {
+        "SenSorName": "step_detector  Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "Samsung",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "step_counter  Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "Samsung",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "AK09918 Magnetometer-Uncalibrated",
+        "SenSorVersion": "146953",
+        "SenSorManufacturer": "akm",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 1.100000023841858
+      },
+      {
+        "SenSorName": "interrupt_gyro  Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "Samsung",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "call_gesture  Wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "Samsung",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "SensorHub type",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "SAMSUNG",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "Rotation Vector  Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "qualcomm",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 1.4149999618530273
+      },
+      {
+        "SenSorName": "motion_detect",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "qualcomm",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.02500000037252903
+      },
+      {
+        "SenSorName": "Tilt Detector  Wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "Samsung",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "stk_stk31610 Light CCT  Non-wakeup",
+        "SenSorVersion": "1000",
+        "SenSorManufacturer": "sensortek",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.09000000357627869
+      },
+      {
+        "SenSorName": "linear_acceleration",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "qualcomm",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.5149999856948853
+      },
+      {
+        "SenSorName": "gravity  Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "qualcomm",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.5149999856948853
+      },
+      {
+        "SenSorName": "LSM6DSO Gyroscope",
+        "SenSorVersion": "15932",
+        "SenSorManufacturer": "STMicro",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.550000011920929
+      },
+      {
+        "SenSorName": "Game Rotation Vector  Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "qualcomm",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.5149999856948853
+      },
+      {
+        "SenSorName": "LSM6DSO Gyroscope-Uncalibrated",
+        "SenSorVersion": "15932",
+        "SenSorManufacturer": "STMicro",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.550000011920929
+      },
+      {
+        "SenSorName": "WideIR ALS",
+        "SenSorVersion": "1000",
+        "SenSorManufacturer": "sensortek",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.09000000357627869
+      },
+      {
+        "SenSorName": "stk_stk31610 Ambient Light Sensor Non-wakeup",
+        "SenSorVersion": "1000",
+        "SenSorManufacturer": "sensortek",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.09000000357627869
+      },
+      {
+        "SenSorName": "smd  Wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "Samsung",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "Pick Up Gesture  Wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "Samsung",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "Wake Up Motion  Wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "Samsung",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "stk_stk31610 Physical Light Sensor Non-wakeup",
+        "SenSorVersion": "1000",
+        "SenSorManufacturer": "sensortek",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.09000000357627869
+      },
+      {
+        "SenSorName": "AK09918 Magnetometer",
+        "SenSorVersion": "146953",
+        "SenSorManufacturer": "akm",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 1.100000023841858
+      },
+      {
+        "SenSorName": "LSM6DSO Accelerometer-Uncalibrated",
+        "SenSorVersion": "15932",
+        "SenSorManufacturer": "STMicro",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.17000000178813934
+      },
+      {
+        "SenSorName": "LSM6DSO Accelerometer",
+        "SenSorVersion": "15932",
+        "SenSorManufacturer": "STMicro",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.17000000178813934
+      },
+      {
+        "SenSorName": "A96T3X6 Grip sensor",
+        "SenSorVersion": "14",
+        "SenSorManufacturer": "ABOV",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.75
+      },
+      {
+        "SenSorName": "Hover Proximity Sensor",
+        "SenSorVersion": "3",
+        "SenSorManufacturer": "Samsung Electronics",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.75
+      },
+      {
+        "SenSorName": "Hall IC",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "Samsung Electronics",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.75
+      },
+      {
+        "SenSorName": "Touch Pocket Sensor",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "Samsung Electronics",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.75
+      },
+      {
+        "SenSorName": "TCS3407 Rear ALS",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "AMS",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 1
+      },
+      {
+        "SenSorName": "Screen Orientation Sensor",
+        "SenSorVersion": "3",
+        "SenSorManufacturer": "Samsung Electronics",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0
+      },
+      {
+        "SenSorName": "Calcurated Lux Sensor",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "Samsung",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.09000000357627869
+      },
+      {
+        "SenSorName": "Motion Sensor",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "Samsung Electronics",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0
+      },
+      {
+        "SenSorName": "Ear Hover Proximity Sensor (ProToS)",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "Samsung Electronics.",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.75
+      },
+      {
+        "SenSorName": "Auto Brightness Sensor",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "Samsung",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.09000000357627869
+      },
+      {
+        "SenSorName": "Camera Light Sensor",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "Samsung",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.75
+      },
+      {
+        "SenSorName": "Orientation Sensor",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "Samsung Electronics",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 1.4149999618530273
+      }
+    ],
+    "CPUModel": "arm64-v8a:",
+    "BuildId": "QP1A.190711.020",
+    "BuildDisplay": "QP1A.190711.020.G7810ZCU1ATII",
+    "BuildProduct": "r8qzcx",
+    "BuildDevice": "r8q",
+    "BuildBoard": "kona",
+    "BuildBootloader": "G7810ZCU1ATII",
+    "BuildHardware": "qcom",
+    "BuildSupportedAbis": "arm64-v8a,armeabi-v7a,armeabi",
+    "BuildSupportedAbis32": "armeabi-v7a,armeabi",
+    "BuildSupportedAbis64": "arm64-v8a",
+    "BuildType": "user",
+    "BuildTags": "release-keys",
+    "BuildFingerPrint": "samsung\/r8qzcx\/r8q:10\/QP1A.190711.020\/G7810ZCU1ATII:user\/release-keys",
+    "BuildRadioVersion": "G7810ZCU1ATII,G7810ZCU1ATII",
+    "BuildIncremental": "G7810ZCU1ATII",
+    "BuildSecurityPatch": "2020-09-01",
+    "BuildPreviewSdkInt": "0",
+    "BuildSdkInt": "29",
+    "BuildCodename": "REL",
+    "IDFA": "9b4602f8-76b6-4d20-bb34-890663fc4cd4",
+    "ETDM": {
+      "BatteryStatus": "5",
+      "BatteryHealth": "2",
+      "BatteryLevel": "100",
+      "BatteryScale": "100",
+      "BatteryPlugged": "2",
+      "BatteryTechnology": "Li-ion"
+    }
+  },
+  "Unsafe": {
+    "init[theUnsafe]": true,
+    "init[THE_ONE]": true,
+    "init[getUnsafe]": true,
+    "init[getUnsafeByAbstractQueuedSynchronizer]": true,
+    "arrayIndexScale赋值Object数组大小": 4,
+    "is64Bit": true,
+    "me-adress": 324945680,
+    "me-hash": 102307980,
+    "me格式化-address": "135e4710",
+    "me1-adress": 324945680,
+    "me1-hash": 102307980,
+    "me1格式化-address": "135e4710",
+    "两个对象地址测试结果": true,
+    "两个对象测试结果": true,
+    "byte[]_OFFSET": 12,
+    "byte[]_SCALE": 1,
+    "boolean[]_OFFSET": 12,
+    "boolean[]_SCALE": 1,
+    "int[]_OFFSET": 12,
+    "int[]_SCALE": 4,
+    "long[]_OFFSET": 16,
+    "long[]_SCALE": 8,
+    "float[]_OFFSET": 12,
+    "float[]_SCALE": 4,
+    "double[]_OFFSET": 16,
+    "double[]_SCALE": 8,
+    "Object[]_OFFSET": 12,
+    "Object[]_SCALE": 4,
+    "BUFFER_ADDRESS_OFFSET": 8,
+    "STRIDE_ALIGNMENT_MASK": 7,
+    "BYTE_ARRAY_ALIGNMENT": 4,
+    "IS_BIG_ENDIAN": false,
+    "objectFieldOffset(Field)": true,
+    "1_arrayBaseOffset(Class)": true,
+    "1_getArrayBaseOffsetForComponentType(Class)": true,
+    "2_arrayIndexScale(Class)": true,
+    "2_getArrayIndexScaleForComponentType(Class)": true,
+    "2_arrayIndexScale0(Class)": false,
+    "compareAndSwapInt(Object,long,int,int)": true,
+    "compareAndSwapLong(Object,long,long,long)": true,
+    "compareAndSwapObject(Object,long,Object,Object)": true,
+    "3_getInt(Object,long)": true,
+    "3_getIntVolatile(Object,long)": true,
+    "getInt(long)": true,
+    "4_putInt(Object,long,int)": true,
+    "4_putIntVolatile(Object,long,int)": true,
+    "putInt(long,int)": true,
+    "putOrderedInt(Object,long,int)": true,
+    "5_getLong(Object,long)": true,
+    "5_getLongVolatile(Object,long)": true,
+    "getLong(long)": true,
+    "putLong(Object,long,long)": true,
+    "getObject(Object,long)": true,
+    "putObject(Object,long,Object)": true,
+    "getByte(long)": true,
+    "getByte(Object,long)": true,
+    "putByte(long,byte)": false,
+    "putByte(Object,long,byte)": true,
+    "getBoolean(Object,long)": true,
+    "putBoolean(Object,long,boolean)": true,
+    "getFloat(Object,long)": true,
+    "putFloat(Object,long,float)": true,
+    "getDouble(Object,long)": true,
+    "putDouble(Object,long,double)": true,
+    "bufferAddressField": "long java.nio.Buffer.address",
+    "putLong(long,long)": true,
+    "copyMemory(long,long,long)": true,
+    "addressSize()": true,
+    "pageSize()": true,
+    "allocateInstance(Class)": true,
+    "allocateMemory(long)": true,
+    "copyMemoryToPrimitiveArray(long,Object,long,long)": true,
+    "copyMemoryFromPrimitiveArray(Object,long,long,long)": true,
+    "setMemory(long,long,byte)": true,
+    "freeMemory(long)": true,
+    "getAndAddInt(Object,long,int)": true,
+    "getAndSetInt(Object,long,int)": true,
+    "getAndAddLong(Object,long,long)": true,
+    "getAndSetLong(Object,long,long)": true,
+    "getAndSetObject(Object,long,Object)": true
+  },
+  "MAC": {
+    "java_mac": "2a:c4:8f:aa:0c:07",
+    "api_mac": "02:00:00:00:00:00",
+    "file_mac": "",
+    "ip_address": "1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000\n    link\/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00\n    inet 127.0.0.1\/8 scope host lo\n       valid_lft forever preferred_lft forever\n    inet6 ::1\/128 scope host \n       valid_lft forever preferred_lft forever\n2: bond0: <BROADCAST,MULTICAST,MASTER> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/ether 8a:58:c4:6a:06:de brd ff:ff:ff:ff:ff:ff\n3: dummy0: <BROADCAST,NOARP,UP,LOWER_UP> mtu 1500 qdisc noqueue state UNKNOWN group default qlen 1000\n    link\/ether 2e:fa:7e:d9:e6:0f brd ff:ff:ff:ff:ff:ff\n    inet6 fe80::2cfa:7eff:fed9:e60f\/64 scope link \n       valid_lft forever preferred_lft forever\n4: ip_vti0@NONE: <NOARP> mtu 1480 qdisc noop state DOWN group default qlen 1000\n    link\/ipip 0.0.0.0 brd 0.0.0.0\n5: ip6_vti0@NONE: <NOARP> mtu 1364 qdisc noop state DOWN group default qlen 1000\n    link\/tunnel6 :: brd ::\n6: sit0@NONE: <NOARP> mtu 1480 qdisc noop state DOWN group default qlen 1000\n    link\/sit 0.0.0.0 brd 0.0.0.0\n7: ip6tnl0@NONE: <NOARP> mtu 1452 qdisc noop state DOWN group default qlen 1000\n    link\/tunnel6 :: brd ::\n8: rmnet_ipa0: <> mtu 9216 qdisc noop state DOWN group default qlen 1000\n    link\/[519] \n10: rmnet_mhi0: <UP,LOWER_UP> mtu 65535 qdisc pfifo_fast state UNKNOWN group default qlen 1000\n    link\/[519] \n11: rmnet_data4@rmnet_mhi0: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[519] \n12: rmnet_data5@rmnet_mhi0: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[519] \n13: rmnet_data6@rmnet_mhi0: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[519] \n14: rmnet_data7@rmnet_mhi0: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[519] \n15: rmnet_data8@rmnet_mhi0: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[519] \n16: rmnet_data9@rmnet_mhi0: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[519] \n17: rmnet_data10@rmnet_mhi0: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[519] \n18: rmnet_data0@rmnet_mhi0: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[519] \n19: rmnet_data1@rmnet_mhi0: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[519] \n20: rmnet_data2@rmnet_mhi0: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[519] \n21: rmnet_data3@rmnet_mhi0: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[519] \n22: epdg0: <POINTOPOINT,MULTICAST,NOARP> mtu 1500 qdisc noop state DOWN group default qlen 500\n    link\/none \n23: epdg1: <POINTOPOINT,MULTICAST,NOARP> mtu 1500 qdisc noop state DOWN group default qlen 500\n    link\/none \n24: epdg2: <POINTOPOINT,MULTICAST,NOARP> mtu 1500 qdisc noop state DOWN group default qlen 500\n    link\/none \n25: epdg3: <POINTOPOINT,MULTICAST,NOARP> mtu 1500 qdisc noop state DOWN group default qlen 500\n    link\/none \n26: epdg4: <POINTOPOINT,MULTICAST,NOARP> mtu 1500 qdisc noop state DOWN group default qlen 500\n    link\/none \n27: epdg5: <POINTOPOINT,MULTICAST,NOARP> mtu 1500 qdisc noop state DOWN group default qlen 500\n    link\/none \n28: epdg6: <POINTOPOINT,MULTICAST,NOARP> mtu 1500 qdisc noop state DOWN group default qlen 500\n    link\/none \n29: epdg7: <POINTOPOINT,MULTICAST,NOARP> mtu 1500 qdisc noop state DOWN group default qlen 500\n    link\/none \n30: wlan0: <BROADCAST,MULTICAST,UP,LOWER_UP,40000000> mtu 1500 qdisc mq state UP group default qlen 3000\n    link\/ether 2a:c4:8f:aa:0c:07 brd ff:ff:ff:ff:ff:ff\n    inet 10.3.1.107\/16 brd 10.3.255.255 scope global wlan0\n       valid_lft forever preferred_lft forever\n    inet6 fe80::28c4:8fff:feaa:c07\/64 scope link \n       valid_lft forever preferred_lft forever\n31: swlan0: <BROADCAST,MULTICAST> mtu 1500 qdisc noop state DOWN group default qlen 3000\n    link\/ether 5e:cb:99:89:8d:f5 brd ff:ff:ff:ff:ff:ff\n32: p2p0: <NO-CARRIER,BROADCAST,MULTICAST,UP> mtu 1500 qdisc mq state DOWN group default qlen 3000\n    link\/ether 5e:cb:99:89:cd:f5 brd ff:ff:ff:ff:ff:ff\n33: wifi-aware0: <BROADCAST,MULTICAST> mtu 1500 qdisc noop state DOWN group default qlen 3000\n    link\/ether 5e:cb:99:09:cd:f5 brd ff:ff:ff:ff:ff:ff\n",
+    "ip_link": "1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN mode DEFAULT group default qlen 1000\n    link\/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00\n2: bond0: <BROADCAST,MULTICAST,MASTER> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/ether 8a:58:c4:6a:06:de brd ff:ff:ff:ff:ff:ff\n3: dummy0: <BROADCAST,NOARP,UP,LOWER_UP> mtu 1500 qdisc noqueue state UNKNOWN mode DEFAULT group default qlen 1000\n    link\/ether 2e:fa:7e:d9:e6:0f brd ff:ff:ff:ff:ff:ff\n4: ip_vti0@NONE: <NOARP> mtu 1480 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/ipip 0.0.0.0 brd 0.0.0.0\n5: ip6_vti0@NONE: <NOARP> mtu 1364 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/tunnel6 :: brd ::\n6: sit0@NONE: <NOARP> mtu 1480 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/sit 0.0.0.0 brd 0.0.0.0\n7: ip6tnl0@NONE: <NOARP> mtu 1452 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/tunnel6 :: brd ::\n8: rmnet_ipa0: <> mtu 9216 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[519] \n10: rmnet_mhi0: <UP,LOWER_UP> mtu 65535 qdisc pfifo_fast state UNKNOWN mode DEFAULT group default qlen 1000\n    link\/[519] \n    alias rmnet_mhi_0306_02.01.00_0\n11: rmnet_data4@rmnet_mhi0: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[519] \n12: rmnet_data5@rmnet_mhi0: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[519] \n13: rmnet_data6@rmnet_mhi0: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[519] \n14: rmnet_data7@rmnet_mhi0: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[519] \n15: rmnet_data8@rmnet_mhi0: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[519] \n16: rmnet_data9@rmnet_mhi0: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[519] \n17: rmnet_data10@rmnet_mhi0: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[519] \n18: rmnet_data0@rmnet_mhi0: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[519] \n19: rmnet_data1@rmnet_mhi0: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[519] \n20: rmnet_data2@rmnet_mhi0: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[519] \n21: rmnet_data3@rmnet_mhi0: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[519] \n22: epdg0: <POINTOPOINT,MULTICAST,NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 500\n    link\/none \n23: epdg1: <POINTOPOINT,MULTICAST,NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 500\n    link\/none \n24: epdg2: <POINTOPOINT,MULTICAST,NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 500\n    link\/none \n25: epdg3: <POINTOPOINT,MULTICAST,NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 500\n    link\/none \n26: epdg4: <POINTOPOINT,MULTICAST,NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 500\n    link\/none \n27: epdg5: <POINTOPOINT,MULTICAST,NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 500\n    link\/none \n28: epdg6: <POINTOPOINT,MULTICAST,NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 500\n    link\/none \n29: epdg7: <POINTOPOINT,MULTICAST,NOARP> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 500\n    link\/none \n30: wlan0: <BROADCAST,MULTICAST,UP,LOWER_UP,40000000> mtu 1500 qdisc mq state UP mode DORMANT group default qlen 3000\n    link\/ether 2a:c4:8f:aa:0c:07 brd ff:ff:ff:ff:ff:ff\n31: swlan0: <BROADCAST,MULTICAST> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 3000\n    link\/ether 5e:cb:99:89:8d:f5 brd ff:ff:ff:ff:ff:ff\n32: p2p0: <NO-CARRIER,BROADCAST,MULTICAST,UP> mtu 1500 qdisc mq state DOWN mode DORMANT group default qlen 3000\n    link\/ether 5e:cb:99:89:cd:f5 brd ff:ff:ff:ff:ff:ff\n33: wifi-aware0: <BROADCAST,MULTICAST> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 3000\n    link\/ether 5e:cb:99:09:cd:f5 brd ff:ff:ff:ff:ff:ff\n"
+  }
+}
