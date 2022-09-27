@@ -1,0 +1,6 @@
+java.lang.NoSuchMethodError: No virtual method getPublicStringWrong(Ljava/lang/String;)Ljava/lang/String; in class Lme/hhhaiai/fastuploadid/hotfixs/fix/fix_models/FixModel; or its super classes (declaration of 'me.hhhaiai.fastuploadid.hotfixs.fix.fix_models.FixModel' appears in /data/app/~~qhlop-PfZVBtd5s1C4CgWw==/me.fup.v0-tlrLfkRUNuh6t6cyEEruYA==/base.apk)
+	at me.hhhaiai.fastuploadid.hotfixs.fix.AndFixCases.testJfixReplace1(AndFixCases.java:196)
+	at me.hhhaiai.fastuploadid.ui.MainActivity.processOnClick(MainActivity.java:75)
+	at me.hhhaiai.fastuploadid.ui.MainActivity.access$000(MainActivity.java:26)
+	at me.hhhaiai.fastuploadid.ui.MainActivity$1$1.run(MainActivity.java:49)
+	at java.lang.Thread.run(Thread.java:920)
