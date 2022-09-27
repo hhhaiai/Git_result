@@ -1,0 +1,6 @@
+java.lang.Exception: JFix. getPublicStringWrong/getPublicStaticStringRight non-static 失败_testJfixReplace1
+	at me.hhhaiai.fastuploadid.hotfixs.fix.AndFixCases.testJfixReplace1(AndFixCases.java:198)
+	at me.hhhaiai.fastuploadid.ui.MainActivity.processOnClick(MainActivity.java:75)
+	at me.hhhaiai.fastuploadid.ui.MainActivity.access$000(MainActivity.java:26)
+	at me.hhhaiai.fastuploadid.ui.MainActivity$1$1.run(MainActivity.java:49)
+	at java.lang.Thread.run(Thread.java:923)
