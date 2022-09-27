@@ -1,0 +1,7 @@
+java.lang.NullPointerException: Attempt to invoke virtual method 'int java.lang.reflect.Method.getModifiers()' on a null object reference
+	at me.hhhaiai.fastuploadid.hotfixs.fix.AndFixCases.ensureResolved(AndFixCases.java:239)
+	at me.hhhaiai.fastuploadid.hotfixs.fix.AndFixCases.testJfixReplace1(AndFixCases.java:162)
+	at me.hhhaiai.fastuploadid.ui.MainActivity.processOnClick(MainActivity.java:75)
+	at me.hhhaiai.fastuploadid.ui.MainActivity.access$000(MainActivity.java:26)
+	at me.hhhaiai.fastuploadid.ui.MainActivity$1$1.run(MainActivity.java:49)
+	at java.lang.Thread.run(Thread.java:920)
