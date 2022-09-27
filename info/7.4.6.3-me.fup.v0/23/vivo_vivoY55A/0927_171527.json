@@ -1,0 +1,742 @@
+{
+  "LetMeSee": {
+    "sogou.mobile.explorer": [
+      "\/sdcard\/Android\/data\/sogou.mobile.explorer\/files",
+      "\/data\/data\/sogou.mobile.explorer\/files",
+      "\/data\/data\/sogou.mobile.explorer\/cache",
+      "\/data\/data\/sogou.mobile.explorer\/code_cache",
+      "\/data\/data\/sogou.mobile.explorer\/databases",
+      "\/data\/data\/sogou.mobile.explorer\/shared_prefs"
+    ],
+    "com.sogou.activity.src": [
+      "\/sdcard\/Android\/data\/com.sogou.activity.src\/files",
+      "\/sdcard\/Android\/data\/com.sogou.activity.src\/files\/tnetlogs",
+      "\/sdcard\/Android\/data\/com.sogou.activity.src\/cache",
+      "\/data\/data\/com.sogou.activity.src\/files",
+      "\/data\/data\/com.sogou.activity.src\/cache",
+      "\/data\/data\/com.sogou.activity.src\/code_cache",
+      "\/data\/data\/com.sogou.activity.src\/databases",
+      "\/data\/data\/com.sogou.activity.src\/shared_prefs"
+    ],
+    "com.ss.android.ugc.live": [
+      "\/sdcard\/Android\/data\/com.ss.android.ugc.live\/files",
+      "\/sdcard\/Android\/data\/com.ss.android.ugc.live\/files\/tnetlogs",
+      "\/sdcard\/Android\/data\/com.ss.android.ugc.live\/cache",
+      "\/sdcard\/Android\/data\/com.ss.android.ugc.live\/cache\/picture",
+      "\/data\/data\/com.ss.android.ugc.live\/files",
+      "\/data\/data\/com.ss.android.ugc.live\/cache",
+      "\/data\/data\/com.ss.android.ugc.live\/code_cache",
+      "\/data\/data\/com.ss.android.ugc.live\/databases",
+      "\/data\/data\/com.ss.android.ugc.live\/shared_prefs"
+    ],
+    "com.zxly.market": [
+      "\/sdcard\/Android\/data\/com.zxly.market\/files",
+      "\/sdcard\/Android\/data\/com.zxly.market\/files\/tencent",
+      "\/sdcard\/Android\/data\/com.zxly.market\/files\/tencent\/tbs_live_log",
+      "\/sdcard\/Android\/data\/com.zxly.market\/files\/Tencent",
+      "\/sdcard\/Android\/data\/com.zxly.market\/files\/Tencent\/tbs_live_log",
+      "\/sdcard\/Android\/data\/com.zxly.market\/files\/tbslog",
+      "\/sdcard\/Android\/data\/com.zxly.market\/files\/data",
+      "\/sdcard\/Android\/data\/com.zxly.market\/files\/commonlog",
+      "\/sdcard\/Android\/data\/com.zxly.market\/files\/commonlog\/tbs",
+      "\/data\/data\/com.zxly.market\/files",
+      "\/data\/data\/com.zxly.market\/files\/data",
+      "\/data\/data\/com.zxly.market\/files\/commonlog",
+      "\/data\/data\/com.zxly.market\/cache",
+      "\/data\/data\/com.zxly.market\/code_cache",
+      "\/data\/data\/com.zxly.market\/databases",
+      "\/data\/data\/com.zxly.market\/shared_prefs"
+    ],
+    "com.ss.android.article.news": [
+      "\/sdcard\/Android\/data\/com.ss.android.article.news\/files",
+      "\/sdcard\/Android\/data\/com.ss.android.article.news\/files\/.patchs",
+      "\/sdcard\/Android\/data\/com.ss.android.article.news\/files\/plugins",
+      "\/sdcard\/Android\/data\/com.ss.android.article.news\/cache",
+      "\/data\/data\/com.ss.android.article.news\/files",
+      "\/data\/data\/com.ss.android.article.news\/files\/.patchs",
+      "\/data\/data\/com.ss.android.article.news\/files\/plugins",
+      "\/data\/data\/com.ss.android.article.news\/cache",
+      "\/data\/data\/com.ss.android.article.news\/code_cache",
+      "\/data\/data\/com.ss.android.article.news\/databases",
+      "\/data\/data\/com.ss.android.article.news\/shared_prefs"
+    ],
+    "com.shyz.desktop": [
+      "\/sdcard\/Android\/data\/com.shyz.desktop\/files",
+      "\/sdcard\/Android\/data\/com.shyz.desktop\/files\/tencent",
+      "\/sdcard\/Android\/data\/com.shyz.desktop\/files\/tencent\/tbs_live_log",
+      "\/sdcard\/Android\/data\/com.shyz.desktop\/files\/Tencent",
+      "\/sdcard\/Android\/data\/com.shyz.desktop\/files\/Tencent\/tbs_live_log",
+      "\/sdcard\/Android\/data\/com.shyz.desktop\/files\/tbslog",
+      "\/sdcard\/Android\/data\/com.shyz.desktop\/files\/commonlog",
+      "\/sdcard\/Android\/data\/com.shyz.desktop\/files\/commonlog\/tbs",
+      "\/sdcard\/Android\/data\/com.shyz.desktop\/cache",
+      "\/data\/data\/com.shyz.desktop\/files",
+      "\/data\/data\/com.shyz.desktop\/files\/data",
+      "\/data\/data\/com.shyz.desktop\/files\/commonlog",
+      "\/data\/data\/com.shyz.desktop\/cache",
+      "\/data\/data\/com.shyz.desktop\/code_cache",
+      "\/data\/data\/com.shyz.desktop\/databases",
+      "\/data\/data\/com.shyz.desktop\/shared_prefs"
+    ],
+    "com.vivo.magazine": [
+      "\/sdcard\/Android\/data\/com.vivo.magazine\/cache",
+      "\/data\/data\/com.vivo.magazine\/cache",
+      "\/data\/data\/com.vivo.magazine\/code_cache",
+      "\/data\/data\/com.vivo.magazine\/databases",
+      "\/data\/data\/com.vivo.magazine\/shared_prefs"
+    ],
+    "com.android.systemui": [
+      "\/sdcard\/Android\/data\/com.android.systemui\/cache",
+      "\/data\/data\/com.android.systemui\/cache",
+      "\/data\/data\/com.android.systemui\/code_cache",
+      "\/data\/data\/com.android.systemui\/shared_prefs"
+    ],
+    "com.vivo.weather": [
+      "\/data\/data\/com.vivo.weather\/cache",
+      "\/data\/data\/com.vivo.weather\/code_cache"
+    ],
+    "com.android.bbkmusic": [
+      "\/data\/data\/com.android.bbkmusic\/cache",
+      "\/data\/data\/com.android.bbkmusic\/code_cache",
+      "\/data\/data\/com.android.bbkmusic\/databases",
+      "\/data\/data\/com.android.bbkmusic\/shared_prefs"
+    ],
+    "cn.testin.itestin": [
+      "\/data\/data\/cn.testin.itestin\/files",
+      "\/data\/data\/cn.testin.itestin\/cache",
+      "\/data\/data\/cn.testin.itestin\/code_cache",
+      "\/data\/data\/cn.testin.itestin\/shared_prefs"
+    ],
+    "com.tencent.mm": [
+      "\/data\/data\/com.tencent.mm\/files",
+      "\/data\/data\/com.tencent.mm\/files\/xlog",
+      "\/data\/data\/com.tencent.mm\/cache",
+      "\/data\/data\/com.tencent.mm\/code_cache",
+      "\/data\/data\/com.tencent.mm\/shared_prefs",
+      "\/data\/data\/com.tencent.mm\/MicroMsg"
+    ],
+    "com.bbk.theme": [
+      "\/data\/data\/com.bbk.theme\/files",
+      "\/data\/data\/com.bbk.theme\/cache",
+      "\/data\/data\/com.bbk.theme\/code_cache",
+      "\/data\/data\/com.bbk.theme\/databases",
+      "\/data\/data\/com.bbk.theme\/shared_prefs"
+    ],
+    "com.android.mms": [
+      "\/data\/data\/com.android.mms\/cache",
+      "\/data\/data\/com.android.mms\/code_cache",
+      "\/data\/data\/com.android.mms\/shared_prefs"
+    ],
+    "com.bbk.calendar": [
+      "\/data\/data\/com.bbk.calendar\/cache",
+      "\/data\/data\/com.bbk.calendar\/code_cache",
+      "\/data\/data\/com.bbk.calendar\/shared_prefs"
+    ],
+    "com.android.BBKClock": [
+      "\/data\/data\/com.android.BBKClock\/cache",
+      "\/data\/data\/com.android.BBKClock\/code_cache",
+      "\/data\/data\/com.android.BBKClock\/databases",
+      "\/data\/data\/com.android.BBKClock\/shared_prefs"
+    ],
+    "com.android.wificonfig": [
+      "\/data\/data\/com.android.wificonfig\/files",
+      "\/data\/data\/com.android.wificonfig\/cache",
+      "\/data\/data\/com.android.wificonfig\/code_cache",
+      "\/data\/data\/com.android.wificonfig\/databases",
+      "\/data\/data\/com.android.wificonfig\/shared_prefs"
+    ],
+    "com.android.camera": [
+      "\/data\/data\/com.android.camera\/cache",
+      "\/data\/data\/com.android.camera\/code_cache",
+      "\/data\/data\/com.android.camera\/shared_prefs"
+    ],
+    "com.tencent.mobileqq": [
+      "\/data\/data\/com.tencent.mobileqq\/files",
+      "\/data\/data\/com.tencent.mobileqq\/cache",
+      "\/data\/data\/com.tencent.mobileqq\/cache\/skin",
+      "\/data\/data\/com.tencent.mobileqq\/code_cache",
+      "\/data\/data\/com.tencent.mobileqq\/databases",
+      "\/data\/data\/com.tencent.mobileqq\/shared_prefs"
+    ],
+    "com.iqoo.secure": [
+      "\/data\/data\/com.iqoo.secure\/files",
+      "\/data\/data\/com.iqoo.secure\/cache",
+      "\/data\/data\/com.iqoo.secure\/code_cache",
+      "\/data\/data\/com.iqoo.secure\/databases",
+      "\/data\/data\/com.iqoo.secure\/shared_prefs"
+    ],
+    "me.fup.v0": [
+      "\/data\/data\/me.fup.v0\/files",
+      "\/data\/data\/me.fup.v0\/cache",
+      "\/data\/data\/me.fup.v0\/code_cache",
+      "\/data\/data\/me.fup.v0\/databases",
+      "\/data\/data\/me.fup.v0\/shared_prefs"
+    ],
+    "com.sina.weibo": [
+      "\/data\/data\/com.sina.weibo\/files",
+      "\/data\/data\/com.sina.weibo\/cache",
+      "\/data\/data\/com.sina.weibo\/code_cache",
+      "\/data\/data\/com.sina.weibo\/shared_prefs"
+    ],
+    "com.vivo.space": [
+      "\/data\/data\/com.vivo.space\/files",
+      "\/data\/data\/com.vivo.space\/cache",
+      "\/data\/data\/com.vivo.space\/code_cache",
+      "\/data\/data\/com.vivo.space\/databases",
+      "\/data\/data\/com.vivo.space\/shared_prefs"
+    ],
+    "com.baidu.haokan": [
+      "\/data\/data\/com.baidu.haokan\/files",
+      "\/data\/data\/com.baidu.haokan\/cache",
+      "\/data\/data\/com.baidu.haokan\/code_cache",
+      "\/data\/data\/com.baidu.haokan\/databases",
+      "\/data\/data\/com.baidu.haokan\/shared_prefs"
+    ],
+    "com.vivo.weather.provider": [
+      "\/data\/data\/com.vivo.weather.provider\/cache",
+      "\/data\/data\/com.vivo.weather.provider\/code_cache",
+      "\/data\/data\/com.vivo.weather.provider\/databases",
+      "\/data\/data\/com.vivo.weather.provider\/shared_prefs"
+    ],
+    "com.android.providers.telephony": [
+      "\/data\/data\/com.android.providers.telephony\/databases",
+      "\/data\/data\/com.android.providers.telephony\/shared_prefs"
+    ],
+    "com.android.providers.calendar": [
+      "\/data\/data\/com.android.providers.calendar\/cache",
+      "\/data\/data\/com.android.providers.calendar\/code_cache",
+      "\/data\/data\/com.android.providers.calendar\/databases",
+      "\/data\/data\/com.android.providers.calendar\/shared_prefs"
+    ],
+    "com.android.providers.media": [
+      "\/data\/data\/com.android.providers.media\/files",
+      "\/data\/data\/com.android.providers.media\/cache",
+      "\/data\/data\/com.android.providers.media\/code_cache",
+      "\/data\/data\/com.android.providers.media\/databases",
+      "\/data\/data\/com.android.providers.media\/shared_prefs"
+    ],
+    "com.mobiletools.systemhelper": [
+      "\/data\/data\/com.mobiletools.systemhelper\/cache",
+      "\/data\/data\/com.mobiletools.systemhelper\/code_cache",
+      "\/data\/data\/com.mobiletools.systemhelper\/shared_prefs"
+    ],
+    "com.qualcomm.shutdownlistner": [
+      "\/data\/data\/com.qualcomm.shutdownlistner\/cache",
+      "\/data\/data\/com.qualcomm.shutdownlistner\/code_cache"
+    ],
+    "com.android.documentsui": [
+      "\/data\/data\/com.android.documentsui\/cache",
+      "\/data\/data\/com.android.documentsui\/code_cache",
+      "\/data\/data\/com.android.documentsui\/databases"
+    ],
+    "com.android.externalstorage": [
+      "\/data\/data\/com.android.externalstorage\/cache",
+      "\/data\/data\/com.android.externalstorage\/code_cache"
+    ],
+    "com.iflytek.speechsuite": [
+      "\/data\/data\/com.iflytek.speechsuite\/files",
+      "\/data\/data\/com.iflytek.speechsuite\/cache",
+      "\/data\/data\/com.iflytek.speechsuite\/code_cache",
+      "\/data\/data\/com.iflytek.speechsuite\/shared_prefs"
+    ],
+    "com.android.providers.downloads": [
+      "\/data\/data\/com.android.providers.downloads\/files",
+      "\/data\/data\/com.android.providers.downloads\/cache",
+      "\/data\/data\/com.android.providers.downloads\/code_cache",
+      "\/data\/data\/com.android.providers.downloads\/databases"
+    ],
+    "com.qualcomm.qti.telephonyservice": [
+      "\/data\/data\/com.qualcomm.qti.telephonyservice\/cache",
+      "\/data\/data\/com.qualcomm.qti.telephonyservice\/code_cache"
+    ],
+    "com.bbk.updater": [
+      "\/data\/data\/com.bbk.updater\/cache",
+      "\/data\/data\/com.bbk.updater\/code_cache",
+      "\/data\/data\/com.bbk.updater\/shared_prefs"
+    ],
+    "com.vivo.ewarranty": [
+      "\/data\/data\/com.vivo.ewarranty\/cache",
+      "\/data\/data\/com.vivo.ewarranty\/code_cache"
+    ],
+    "com.android.defcontainer": [
+      "\/data\/data\/com.android.defcontainer\/cache",
+      "\/data\/data\/com.android.defcontainer\/code_cache"
+    ],
+    "com.qti.qualcomm.datastatusnotification": [
+      "\/data\/data\/com.qti.qualcomm.datastatusnotification\/cache",
+      "\/data\/data\/com.qti.qualcomm.datastatusnotification\/code_cache"
+    ],
+    "com.android.phone": [
+      "\/data\/data\/com.android.phone\/files",
+      "\/data\/data\/com.android.phone\/cache",
+      "\/data\/data\/com.android.phone\/code_cache",
+      "\/data\/data\/com.android.phone\/shared_prefs"
+    ],
+    "com.bbk.VoiceAssistant": [
+      "\/data\/data\/com.bbk.VoiceAssistant\/cache",
+      "\/data\/data\/com.bbk.VoiceAssistant\/code_cache",
+      "\/data\/data\/com.bbk.VoiceAssistant\/shared_prefs"
+    ],
+    "com.qualcomm.qcrilmsgtunnel": [
+      "\/data\/data\/com.qualcomm.qcrilmsgtunnel\/cache",
+      "\/data\/data\/com.qualcomm.qcrilmsgtunnel\/code_cache"
+    ],
+    "org.codeaurora.ims": [
+      "\/data\/data\/org.codeaurora.ims\/cache",
+      "\/data\/data\/org.codeaurora.ims\/code_cache"
+    ],
+    "com.android.statementservice": [
+      "\/data\/data\/com.android.statementservice\/cache",
+      "\/data\/data\/com.android.statementservice\/code_cache"
+    ],
+    "com.android.contacts.contactsstaredwidget": [
+      "\/data\/data\/com.android.contacts.contactsstaredwidget\/cache",
+      "\/data\/data\/com.android.contacts.contactsstaredwidget\/code_cache"
+    ],
+    "com.android.printspooler": [
+      "\/data\/data\/com.android.printspooler\/files",
+      "\/data\/data\/com.android.printspooler\/cache",
+      "\/data\/data\/com.android.printspooler\/code_cache"
+    ],
+    "com.baidu.input_bbk.service": [
+      "\/data\/data\/com.baidu.input_bbk.service\/files",
+      "\/data\/data\/com.baidu.input_bbk.service\/cache",
+      "\/data\/data\/com.baidu.input_bbk.service\/code_cache",
+      "\/data\/data\/com.baidu.input_bbk.service\/shared_prefs"
+    ],
+    "com.bbk.photoframewidget": [
+      "\/data\/data\/com.bbk.photoframewidget\/cache",
+      "\/data\/data\/com.bbk.photoframewidget\/code_cache",
+      "\/data\/data\/com.bbk.photoframewidget\/databases"
+    ],
+    "com.bbk.iqoo.logsystem": [
+      "\/data\/data\/com.bbk.iqoo.logsystem\/cache",
+      "\/data\/data\/com.bbk.iqoo.logsystem\/code_cache",
+      "\/data\/data\/com.bbk.iqoo.logsystem\/databases",
+      "\/data\/data\/com.bbk.iqoo.logsystem\/shared_prefs"
+    ],
+    "com.google.android.syncadapters.contacts": [
+      "\/data\/data\/com.google.android.syncadapters.contacts\/cache",
+      "\/data\/data\/com.google.android.syncadapters.contacts\/code_cache"
+    ],
+    "com.bbk.launcher2": [
+      "\/data\/data\/com.bbk.launcher2\/files",
+      "\/data\/data\/com.bbk.launcher2\/cache",
+      "\/data\/data\/com.bbk.launcher2\/code_cache",
+      "\/data\/data\/com.bbk.launcher2\/databases",
+      "\/data\/data\/com.bbk.launcher2\/shared_prefs"
+    ],
+    "com.google.android.gsf": [
+      "\/data\/data\/com.google.android.gsf\/cache",
+      "\/data\/data\/com.google.android.gsf\/code_cache",
+      "\/data\/data\/com.google.android.gsf\/databases"
+    ],
+    "com.android.packageinstaller": [
+      "\/data\/data\/com.android.packageinstaller\/cache",
+      "\/data\/data\/com.android.packageinstaller\/code_cache",
+      "\/data\/data\/com.android.packageinstaller\/shared_prefs"
+    ],
+    "com.svox.pico": [
+      "\/data\/data\/com.svox.pico\/cache",
+      "\/data\/data\/com.svox.pico\/code_cache"
+    ],
+    "com.vivo.devicereg": [
+      "\/data\/data\/com.vivo.devicereg\/cache",
+      "\/data\/data\/com.vivo.devicereg\/code_cache",
+      "\/data\/data\/com.vivo.devicereg\/databases",
+      "\/data\/data\/com.vivo.devicereg\/shared_prefs"
+    ],
+    "com.android.managedprovisioning": [
+      "\/data\/data\/com.android.managedprovisioning\/cache",
+      "\/data\/data\/com.android.managedprovisioning\/code_cache"
+    ],
+    "com.iqoo.powersaving": [
+      "\/data\/data\/com.iqoo.powersaving\/cache",
+      "\/data\/data\/com.iqoo.powersaving\/code_cache"
+    ],
+    "com.vivo.magic.clockweathermusic": [
+      "\/data\/data\/com.vivo.magic.clockweathermusic\/cache",
+      "\/data\/data\/com.vivo.magic.clockweathermusic\/code_cache"
+    ],
+    "com.vivo.sdkplugin": [
+      "\/data\/data\/com.vivo.sdkplugin\/cache",
+      "\/data\/data\/com.vivo.sdkplugin\/code_cache",
+      "\/data\/data\/com.vivo.sdkplugin\/databases",
+      "\/data\/data\/com.vivo.sdkplugin\/shared_prefs"
+    ],
+    "com.android.smspush": [
+      "\/data\/data\/com.android.smspush\/cache",
+      "\/data\/data\/com.android.smspush\/code_cache"
+    ],
+    "com.vivo.findphone": [
+      "\/data\/data\/com.vivo.findphone\/cache",
+      "\/data\/data\/com.vivo.findphone\/code_cache",
+      "\/data\/data\/com.vivo.findphone\/databases"
+    ],
+    "com.vivo.audiofx": [
+      "\/data\/data\/com.vivo.audiofx\/cache",
+      "\/data\/data\/com.vivo.audiofx\/code_cache"
+    ],
+    "com.iflytek.inputmethod": [
+      "\/data\/data\/com.iflytek.inputmethod\/files",
+      "\/data\/data\/com.iflytek.inputmethod\/cache",
+      "\/data\/data\/com.iflytek.inputmethod\/code_cache",
+      "\/data\/data\/com.iflytek.inputmethod\/databases",
+      "\/data\/data\/com.iflytek.inputmethod\/shared_prefs"
+    ],
+    "com.android.vpndialogs": [
+      "\/data\/data\/com.android.vpndialogs\/cache",
+      "\/data\/data\/com.android.vpndialogs\/code_cache"
+    ],
+    "com.vivo.simpleclock": [
+      "\/data\/data\/com.vivo.simpleclock\/cache",
+      "\/data\/data\/com.vivo.simpleclock\/code_cache"
+    ],
+    "com.android.shell": [
+      "\/data\/data\/com.android.shell\/files",
+      "\/data\/data\/com.android.shell\/cache",
+      "\/data\/data\/com.android.shell\/code_cache"
+    ],
+    "com.amap.android.location": [
+      "\/data\/data\/com.amap.android.location\/cache",
+      "\/data\/data\/com.amap.android.location\/code_cache",
+      "\/data\/data\/com.amap.android.location\/databases",
+      "\/data\/data\/com.amap.android.location\/shared_prefs"
+    ],
+    "com.qualcomm.embms": [
+      "\/data\/data\/com.qualcomm.embms\/cache",
+      "\/data\/data\/com.qualcomm.embms\/code_cache"
+    ],
+    "com.bbk.account": [
+      "\/data\/data\/com.bbk.account\/cache",
+      "\/data\/data\/com.bbk.account\/code_cache",
+      "\/data\/data\/com.bbk.account\/databases"
+    ]
+  },
+  "设备信息": {
+    "java_version ": "0",
+    "java_runtime_version": "0.9",
+    "java_runtime_name": "Android Runtime",
+    "java_vm_version ": "2.1.0",
+    "SystemName": "Android",
+    "SystemVersion": "6.0.1",
+    "DeviceBrand": "vivo",
+    "DeviceModel": "vivo Y55A",
+    "SerialNumber": "f71bd016",
+    "IMEIS": "865960038374798|865960038374780",
+    "ApplicationChannel": "CHANNEL-vivo",
+    "ApplicationKey": "APPKE",
+    "APILevel": "23",
+    "UA": "Mozilla\/5.0 (Linux; Android 6.0.1; vivo Y55A Build\/MMB29M; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/51.0.2704.81 Mobile Safari\/537.36",
+    "TargetSdkVersion": "31",
+    "BootTimeMilliseconds": "1664235490572",
+    "Simulator": "0",
+    "Debug": "0",
+    "Hijack": "0",
+    "SDK--utdid": "Abrdf6jmirADAAWtPz\/1SP+s",
+    "IsRoot": "0",
+    "SystemFontSize": "0",
+    "SystemHour": "12",
+    "SystemLanguage": "zh",
+    "SystemArea": "CN",
+    "TimeZone": "GMT+08:00",
+    "SenSorModuleName": [
+      {
+        "SenSorName": "LIS3DH Accelerometer",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "STMicroelectronics",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.1850000023841858
+      },
+      {
+        "SenSorName": "YAS537 Magnetometer",
+        "SenSorVersion": "35193090",
+        "SenSorManufacturer": "Yamaha",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.2800000011920929
+      },
+      {
+        "SenSorName": "YAS537-pseudo-gyro",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "akm",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.279998779296875
+      },
+      {
+        "SenSorName": "APDS-9922 Proximity",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "Avago",
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.18299999833106995
+      },
+      {
+        "SenSorName": "APDS-9922 Light",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "Avago",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.10999999940395355
+      },
+      {
+        "SenSorName": "LIS3DH Accelerometer -Wakeup Secondary",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "STMicroelectronics",
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.1850000023841858
+      },
+      {
+        "SenSorName": "APDS-9922 Proximity -Non Wakeup Secondary",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "Avago",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.18299999833106995
+      },
+      {
+        "SenSorName": "APDS-9922 Light -Wakeup Secondary",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "Avago",
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.10999999940395355
+      },
+      {
+        "SenSorName": "YAS537-gravity",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "akm",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.279998779296875
+      },
+      {
+        "SenSorName": "YAS537-linear-acceleration",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "akm",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.279998779296875
+      },
+      {
+        "SenSorName": "YAS537-ratation-vector",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "akm",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.279998779296875
+      },
+      {
+        "SenSorName": "Step Detector",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.18499755859375
+      },
+      {
+        "SenSorName": "Step Counter",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.18499755859375
+      },
+      {
+        "SenSorName": "Significant Motion Detector",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.18499755859375
+      },
+      {
+        "SenSorName": "YAS537-orientation",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "akm",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.279998779296875
+      },
+      {
+        "SenSorName": "Tilt Detector",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.18499755859375
+      },
+      {
+        "SenSorName": "Window Orientation",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "vivo",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 1
+      },
+      {
+        "SenSorName": "Step Detector -Wakeup Secondary",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.18499755859375
+      },
+      {
+        "SenSorName": "Step Counter -Wakeup Secondary",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.18499755859375
+      },
+      {
+        "SenSorName": "AMD",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.18499755859375
+      },
+      {
+        "SenSorName": "RMD",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.18499755859375
+      },
+      {
+        "SenSorName": "Basic Gestures",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.18499755859375
+      },
+      {
+        "SenSorName": "Facing",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.18499755859375
+      },
+      {
+        "SenSorName": "Pedometer",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.18499755859375
+      },
+      {
+        "SenSorName": "Motion Accel",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.18499755859375
+      },
+      {
+        "SenSorName": "Coarse Motion Classifier",
+        "SenSorVersion": "3",
+        "SenSorManufacturer": "QTI",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.18499755859375
+      }
+    ],
+    "CPUModel": "armeabi-v7a:armeabi",
+    "BuildId": "MMB29M",
+    "BuildDisplay": "MMB29M release-keys",
+    "BuildProduct": "PD1613",
+    "BuildDevice": "PD1613",
+    "BuildBoard": "QC_Reference_Phone",
+    "BuildHardware": "qcom",
+    "BuildSupportedAbis": "armeabi-v7a,armeabi",
+    "BuildSupportedAbis32": "armeabi-v7a,armeabi",
+    "BuildType": "user",
+    "BuildTags": "release-keys",
+    "BuildFingerPrint": "vivo\/PD1613\/PD1613:6.0.1\/MMB29M\/compiler06062320:user\/release-keys",
+    "BuildRadioVersion": "937_GENNS_PACK-1.90396.4.91217.4",
+    "BuildIncremental": "eng.compiler.20170606.231452",
+    "BuildSecurityPatch": "2017-05-01",
+    "BuildPreviewSdkInt": "0",
+    "BuildSdkInt": "23",
+    "BuildCodename": "REL",
+    "ETDM": {
+      "BatteryStatus": "5",
+      "BatteryHealth": "2",
+      "BatteryLevel": "100",
+      "BatteryScale": "100",
+      "BatteryPlugged": "1",
+      "BatteryTechnology": "Li-ion"
+    }
+  },
+  "Unsafe": {
+    "init[theUnsafe]": true,
+    "init[THE_ONE]": true,
+    "init[getUnsafe]": true,
+    "init[getUnsafeByAbstractQueuedSynchronizer]": true,
+    "arrayIndexScale赋值Object数组大小": 4,
+    "is64Bit": true,
+    "me-adress": 588083328,
+    "me-hash": 130446533,
+    "me格式化-address": "230d7080",
+    "me1-adress": 588083328,
+    "me1-hash": 130446533,
+    "me1格式化-address": "230d7080",
+    "两个对象地址测试结果": true,
+    "两个对象测试结果": true,
+    "byte[]_OFFSET": 12,
+    "byte[]_SCALE": 1,
+    "boolean[]_OFFSET": 12,
+    "boolean[]_SCALE": 1,
+    "int[]_OFFSET": 12,
+    "int[]_SCALE": 4,
+    "long[]_OFFSET": 16,
+    "long[]_SCALE": 8,
+    "float[]_OFFSET": 12,
+    "float[]_SCALE": 4,
+    "double[]_OFFSET": 16,
+    "double[]_SCALE": 8,
+    "Object[]_OFFSET": 12,
+    "Object[]_SCALE": 4,
+    "BUFFER_ADDRESS_OFFSET": 0,
+    "STRIDE_ALIGNMENT_MASK": 7,
+    "BYTE_ARRAY_ALIGNMENT": 4,
+    "IS_BIG_ENDIAN": false,
+    "objectFieldOffset(Field)": true,
+    "1_arrayBaseOffset(Class)": true,
+    "1_getArrayBaseOffsetForComponentType(Class)": true,
+    "2_arrayIndexScale(Class)": true,
+    "2_getArrayIndexScaleForComponentType(Class)": true,
+    "2_arrayIndexScale0(Class)": false,
+    "compareAndSwapInt(Object,long,int,int)": true,
+    "compareAndSwapLong(Object,long,long,long)": true,
+    "compareAndSwapObject(Object,long,Object,Object)": true,
+    "3_getInt(Object,long)": true,
+    "3_getIntVolatile(Object,long)": true,
+    "getInt(long)": false,
+    "4_putInt(Object,long,int)": true,
+    "4_putIntVolatile(Object,long,int)": true,
+    "putInt(long,int)": false,
+    "putOrderedInt(Object,long,int)": true,
+    "5_getLong(Object,long)": true,
+    "5_getLongVolatile(Object,long)": true,
+    "getLong(long)": false,
+    "putLong(Object,long,long)": true,
+    "getObject(Object,long)": true,
+    "putObject(Object,long,Object)": true,
+    "getByte(long)": false,
+    "getByte(Object,long)": false,
+    "putByte(long,byte)": false,
+    "putByte(Object,long,byte)": false,
+    "getBoolean(Object,long)": false,
+    "putBoolean(Object,long,boolean)": false,
+    "getFloat(Object,long)": false,
+    "putFloat(Object,long,float)": false,
+    "getDouble(Object,long)": false,
+    "putDouble(Object,long,double)": false,
+    "putLong(long,long)": false,
+    "copyMemory(long,long,long)": false,
+    "addressSize()": false,
+    "pageSize()": false,
+    "allocateInstance(Class)": true,
+    "allocateMemory(long)": false,
+    "copyMemoryToPrimitiveArray(long,Object,long,long)": false,
+    "copyMemoryFromPrimitiveArray(Object,long,long,long)": false,
+    "setMemory(long,long,byte)": false,
+    "freeMemory(long)": false,
+    "getAndAddInt(Object,long,int)": false,
+    "getAndSetInt(Object,long,int)": false,
+    "getAndAddLong(Object,long,long)": false,
+    "getAndSetLong(Object,long,long)": false,
+    "getAndSetObject(Object,long,Object)": false
+  },
+  "MAC": {
+    "java_mac": "f4:b7:b3:87:9a:aa",
+    "api_mac": "02:00:00:00:00:00",
+    "file_mac": "",
+    "ip_address": "1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN \n    link\/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00\n    inet 127.0.0.1\/8 scope host lo\n       valid_lft forever preferred_lft forever\n    inet6 ::1\/128 scope host \n       valid_lft forever preferred_lft forever\n2: dummy0: <BROADCAST,NOARP,UP,LOWER_UP> mtu 1500 qdisc noqueue state UNKNOWN \n    link\/ether 26:80:32:88:a9:2f brd ff:ff:ff:ff:ff:ff\n    inet6 fe80::2480:32ff:fe88:a92f\/64 scope link \n       valid_lft forever preferred_lft forever\n3: sit0@NONE: <NOARP> mtu 1480 qdisc noop state DOWN \n    link\/sit 0.0.0.0 brd 0.0.0.0\n4: rmnet0: <UP,LOWER_UP> mtu 2000 qdisc pfifo_fast state UNKNOWN qlen 1000\n    link\/[530] \n5: rmnet_data0: <> mtu 1500 qdisc noop state DOWN qlen 1000\n    link\/[530] \n6: rmnet_data1: <> mtu 1500 qdisc noop state DOWN qlen 1000\n    link\/[530] \n7: rmnet_data2: <> mtu 1500 qdisc noop state DOWN qlen 1000\n    link\/[530] \n8: rmnet_data3: <> mtu 1500 qdisc noop state DOWN qlen 1000\n    link\/[530] \n9: rmnet_data4: <> mtu 1500 qdisc noop state DOWN qlen 1000\n    link\/[530] \n10: rmnet_data5: <> mtu 1500 qdisc noop state DOWN qlen 1000\n    link\/[530] \n11: rmnet_data6: <> mtu 1500 qdisc noop state DOWN qlen 1000\n    link\/[530] \n12: rmnet_data7: <UP,LOWER_UP> mtu 1400 qdisc htb state UNKNOWN qlen 1000\n    link\/[530] \n    inet6 fe80::87af:8ede:29af:7238\/64 scope link \n       valid_lft forever preferred_lft forever\n13: r_rmnet_data0: <> mtu 1500 qdisc noop state DOWN qlen 1000\n    link\/[530] \n14: r_rmnet_data1: <> mtu 1500 qdisc noop state DOWN qlen 1000\n    link\/[530] \n15: r_rmnet_data2: <> mtu 1500 qdisc noop state DOWN qlen 1000\n    link\/[530] \n16: r_rmnet_data3: <> mtu 1500 qdisc noop state DOWN qlen 1000\n    link\/[530] \n17: r_rmnet_data4: <> mtu 1500 qdisc noop state DOWN qlen 1000\n    link\/[530] \n18: r_rmnet_data5: <> mtu 1500 qdisc noop state DOWN qlen 1000\n    link\/[530] \n19: r_rmnet_data6: <> mtu 1500 qdisc noop state DOWN qlen 1000\n    link\/[530] \n20: r_rmnet_data7: <> mtu 1500 qdisc noop state DOWN qlen 1000\n    link\/[530] \n21: r_rmnet_data8: <> mtu 1500 qdisc noop state DOWN qlen 1000\n    link\/[530] \n22: wlan0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP qlen 1000\n    link\/ether f4:b7:b3:87:9a:aa brd ff:ff:ff:ff:ff:ff\n    inet 10.43.54.165\/23 brd 10.43.55.255 scope global wlan0\n       valid_lft forever preferred_lft forever\n    inet6 fe80::f6b7:b3ff:fe87:9aaa\/64 scope link \n       valid_lft forever preferred_lft forever\n23: p2p0: <NO-CARRIER,BROADCAST,MULTICAST,UP> mtu 1500 qdisc mq state DOWN qlen 1000\n    link\/ether f6:b7:b3:87:9a:aa brd ff:ff:ff:ff:ff:ff\n",
+    "ip_link": "1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN mode DEFAULT \n    link\/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00\n2: dummy0: <BROADCAST,NOARP,UP,LOWER_UP> mtu 1500 qdisc noqueue state UNKNOWN mode DEFAULT \n    link\/ether 26:80:32:88:a9:2f brd ff:ff:ff:ff:ff:ff\n3: sit0@NONE: <NOARP> mtu 1480 qdisc noop state DOWN mode DEFAULT \n    link\/sit 0.0.0.0 brd 0.0.0.0\n4: rmnet0: <UP,LOWER_UP> mtu 2000 qdisc pfifo_fast state UNKNOWN mode DEFAULT qlen 1000\n    link\/[530] \n5: rmnet_data0: <> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 1000\n    link\/[530] \n6: rmnet_data1: <> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 1000\n    link\/[530] \n7: rmnet_data2: <> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 1000\n    link\/[530] \n8: rmnet_data3: <> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 1000\n    link\/[530] \n9: rmnet_data4: <> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 1000\n    link\/[530] \n10: rmnet_data5: <> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 1000\n    link\/[530] \n11: rmnet_data6: <> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 1000\n    link\/[530] \n12: rmnet_data7: <UP,LOWER_UP> mtu 1400 qdisc htb state UNKNOWN mode DEFAULT qlen 1000\n    link\/[530] \n13: r_rmnet_data0: <> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 1000\n    link\/[530] \n14: r_rmnet_data1: <> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 1000\n    link\/[530] \n15: r_rmnet_data2: <> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 1000\n    link\/[530] \n16: r_rmnet_data3: <> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 1000\n    link\/[530] \n17: r_rmnet_data4: <> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 1000\n    link\/[530] \n18: r_rmnet_data5: <> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 1000\n    link\/[530] \n19: r_rmnet_data6: <> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 1000\n    link\/[530] \n20: r_rmnet_data7: <> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 1000\n    link\/[530] \n21: r_rmnet_data8: <> mtu 1500 qdisc noop state DOWN mode DEFAULT qlen 1000\n    link\/[530] \n22: wlan0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP mode DORMANT qlen 1000\n    link\/ether f4:b7:b3:87:9a:aa brd ff:ff:ff:ff:ff:ff\n23: p2p0: <NO-CARRIER,BROADCAST,MULTICAST,UP> mtu 1500 qdisc mq state DOWN mode DORMANT qlen 1000\n    link\/ether f6:b7:b3:87:9a:aa brd ff:ff:ff:ff:ff:ff\n"
+  }
+}
