@@ -1,0 +1,558 @@
+{
+  "LetMeSee": {
+    "com.tencent.mobileqq": [
+      "\/sdcard\/Android\/data\/com.tencent.mobileqq\/files",
+      "\/sdcard\/Android\/data\/com.tencent.mobileqq\/files\/tencent",
+      "\/sdcard\/Android\/data\/com.tencent.mobileqq\/files\/Tencent"
+    ],
+    "com.xiaomi.finddevice": [
+      "\/sdcard\/Android\/data\/com.xiaomi.finddevice\/files",
+      "\/sdcard\/Android\/data\/com.xiaomi.finddevice\/files\/push_cdata.lock",
+      "\/sdcard\/Android\/data\/com.xiaomi.finddevice\/files\/push_cdata.data"
+    ],
+    "cn.testin.itestin": [
+      "\/data\/data\/cn.testin.itestin\/files",
+      "\/data\/data\/cn.testin.itestin\/cache",
+      "\/data\/data\/cn.testin.itestin\/code_cache",
+      "\/data\/data\/cn.testin.itestin\/shared_prefs"
+    ],
+    "com.mfashiongallery.emag": [
+      "\/data\/data\/com.mfashiongallery.emag\/files",
+      "\/data\/data\/com.mfashiongallery.emag\/cache",
+      "\/data\/data\/com.mfashiongallery.emag\/code_cache",
+      "\/data\/data\/com.mfashiongallery.emag\/databases",
+      "\/data\/data\/com.mfashiongallery.emag\/shared_prefs"
+    ],
+    "com.duokan.reader": [
+      "\/data\/data\/com.duokan.reader\/files",
+      "\/data\/data\/com.duokan.reader\/cache",
+      "\/data\/data\/com.duokan.reader\/cache\/http",
+      "\/data\/data\/com.duokan.reader\/code_cache",
+      "\/data\/data\/com.duokan.reader\/databases",
+      "\/data\/data\/com.duokan.reader\/shared_prefs"
+    ],
+    "me.fup.v0": [
+      "\/data\/data\/me.fup.v0\/files",
+      "\/data\/data\/me.fup.v0\/cache",
+      "\/data\/data\/me.fup.v0\/databases",
+      "\/data\/data\/me.fup.v0\/shared_prefs"
+    ],
+    "com.qapp.secprotect": [
+      "\/data\/data\/com.qapp.secprotect\/cache",
+      "\/data\/data\/com.qapp.secprotect\/code_cache"
+    ],
+    "com.goodix.gftest": [
+      "\/data\/data\/com.goodix.gftest\/cache",
+      "\/data\/data\/com.goodix.gftest\/code_cache"
+    ],
+    "com.android.dreams.phototable": [
+      "\/data\/data\/com.android.dreams.phototable\/cache",
+      "\/data\/data\/com.android.dreams.phototable\/code_cache"
+    ],
+    "com.miui.audioeffect": [
+      "\/data\/data\/com.miui.audioeffect\/cache",
+      "\/data\/data\/com.miui.audioeffect\/code_cache",
+      "\/data\/data\/com.miui.audioeffect\/shared_prefs"
+    ]
+  },
+  "设备信息": {
+    "java_version ": "0",
+    "java_runtime_version": "0.9",
+    "java_runtime_name": "Android Runtime",
+    "java_vm_version ": "2.1.0",
+    "SystemName": "Android",
+    "SystemVersion": "8.1.0",
+    "DeviceBrand": "xiaomi",
+    "UM-OAID": "8b59460b9b88f7f4",
+    "DeviceModel": "Redmi 5 Plus",
+    "SerialNumber": "1204223c0704",
+    "IMEIS": "867836033327999|867836033327981|99001020672399",
+    "ApplicationChannel": "CHANNEL-Xiaomi",
+    "ApplicationKey": "APPKE",
+    "APILevel": "27",
+    "UA": "Mozilla\/5.0 (Linux; Android 8.1.0; Redmi 5 Plus Build\/OPM1.171019.019; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/71.0.3578.99 Mobile Safari\/537.36",
+    "TargetSdkVersion": "31",
+    "BootTimeMilliseconds": "1664235489729",
+    "Simulator": "0",
+    "Debug": "0",
+    "Hijack": "0",
+    "SDK--utdid": "YzK\/u9QtDusDAHSrYbopvtF2",
+    "IsRoot": "0",
+    "SystemFontSize": "0",
+    "SystemHour": "12",
+    "SystemLanguage": "zh",
+    "SystemArea": "CN",
+    "TimeZone": "GMT+08:00",
+    "SenSorModuleName": [
+      {
+        "SenSorName": "BMI120 Accelerometer",
+        "SenSorVersion": "2062701",
+        "SenSorManufacturer": "BOSCH",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.18000000715255737
+      },
+      {
+        "SenSorName": "BMI120 Accelerometer Uncalibrated",
+        "SenSorVersion": "2062701",
+        "SenSorManufacturer": "BOSCH",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.18000000715255737
+      },
+      {
+        "SenSorName": "AK09918 Magnetometer",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "AKM",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 1.100000023841858
+      },
+      {
+        "SenSorName": "AK09918 Magnetometer Uncalibrated",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "AKM",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 1.100000023841858
+      },
+      {
+        "SenSorName": "BMI120 Gyroscope",
+        "SenSorVersion": "2062701",
+        "SenSorManufacturer": "BOSCH",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.8999999761581421
+      },
+      {
+        "SenSorName": "BMI120 Gyroscope Uncalibrated",
+        "SenSorVersion": "2062701",
+        "SenSorManufacturer": "BOSCH",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.8999999761581421
+      },
+      {
+        "SenSorName": "LTR579 ALSPS",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "LiteOn",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.0949999988079071
+      },
+      {
+        "SenSorName": "LTR579 ALSPS",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "LiteOn",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.10999999940395355
+      },
+      {
+        "SenSorName": "BMI120 Accelerometer -Wakeup Secondary",
+        "SenSorVersion": "2062701",
+        "SenSorManufacturer": "BOSCH",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.18000000715255737
+      },
+      {
+        "SenSorName": "BMI120 Accelerometer Uncalibrated -Wakeup Secondary",
+        "SenSorVersion": "2062701",
+        "SenSorManufacturer": "BOSCH",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.18000000715255737
+      },
+      {
+        "SenSorName": "AK09918 Magnetometer -Wakeup Secondary",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "AKM",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 1.100000023841858
+      },
+      {
+        "SenSorName": "AK09918 Magnetometer Uncalibrated -Wakeup Secondary",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "AKM",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 1.100000023841858
+      },
+      {
+        "SenSorName": "BMI120 Gyroscope -Wakeup Secondary",
+        "SenSorVersion": "2062701",
+        "SenSorManufacturer": "BOSCH",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.8999999761581421
+      },
+      {
+        "SenSorName": "BMI120 Gyroscope Uncalibrated -Wakeup Secondary",
+        "SenSorVersion": "2062701",
+        "SenSorManufacturer": "BOSCH",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.8999999761581421
+      },
+      {
+        "SenSorName": "LTR579 ALSPS -Non Wakeup Secondary",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "LiteOn",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0949999988079071
+      },
+      {
+        "SenSorName": "LTR579 ALSPS -Wakeup Secondary",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "LiteOn",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.10999999940395355
+      },
+      {
+        "SenSorName": "Gravity",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 1.079986572265625
+      },
+      {
+        "SenSorName": "Linear Acceleration",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 1.079986572265625
+      },
+      {
+        "SenSorName": "Rotation Vector",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 1.9999847412109375
+      },
+      {
+        "SenSorName": "Step Detector",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.17999267578125
+      },
+      {
+        "SenSorName": "Step Counter",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.17999267578125
+      },
+      {
+        "SenSorName": "Significant Motion Detector",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.17999267578125
+      },
+      {
+        "SenSorName": "Game Rotation Vector",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 1.079986572265625
+      },
+      {
+        "SenSorName": "GeoMagnetic Rotation Vector",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 1.2890625
+      },
+      {
+        "SenSorName": "Orientation",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 1.9999847412109375
+      },
+      {
+        "SenSorName": "Tilt Detector",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.17999267578125
+      },
+      {
+        "SenSorName": "Pick Up Gesture",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.2750000059604645
+      },
+      {
+        "SenSorName": "Gravity -Wakeup Secondary",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 1.079986572265625
+      },
+      {
+        "SenSorName": "Linear Acceleration -Wakeup Secondary",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 1.079986572265625
+      },
+      {
+        "SenSorName": "Rotation Vector -Wakeup Secondary",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 1.9999847412109375
+      },
+      {
+        "SenSorName": "Step Detector -Wakeup Secondary",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.17999267578125
+      },
+      {
+        "SenSorName": "Step Counter -Wakeup Secondary",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.17999267578125
+      },
+      {
+        "SenSorName": "Game Rotation Vector -Wakeup Secondary",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 1.079986572265625
+      },
+      {
+        "SenSorName": "GeoMagnetic Rotation Vector -Wakeup Secondary",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 1.2890625
+      },
+      {
+        "SenSorName": "Orientation -Wakeup Secondary",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 1.9999847412109375
+      },
+      {
+        "SenSorName": "oem7 Pick Up Gesture",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "Xiaomi",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.2750000059604645
+      },
+      {
+        "SenSorName": "AMD",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.17999267578125
+      },
+      {
+        "SenSorName": "RMD",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.17999267578125
+      },
+      {
+        "SenSorName": "Basic Gestures",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.17999267578125
+      },
+      {
+        "SenSorName": "Facing",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.17999267578125
+      },
+      {
+        "SenSorName": "Pedometer",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.17999267578125
+      },
+      {
+        "SenSorName": "Motion Accel",
+        "SenSorVersion": "2",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.17999267578125
+      },
+      {
+        "SenSorName": "Coarse Motion Classifier",
+        "SenSorVersion": "3",
+        "SenSorManufacturer": "QTI",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.17999267578125
+      },
+      {
+        "SenSorName": "BU52061NVX ROHM_Hall_Effect -Wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "ROHM_SEMICONDUCTOR",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.004000000189989805
+      }
+    ],
+    "CPUModel": "arm64-v8a:",
+    "BuildId": "OPM1.171019.019",
+    "BuildDisplay": "ZQL1711-vince-build-20190721210504",
+    "BuildProduct": "vince",
+    "BuildDevice": "vince",
+    "BuildBoard": "msm8953",
+    "BuildBootloader": "MSM8953_DAISY1.0_20190721211422",
+    "BuildHardware": "qcom",
+    "BuildSupportedAbis": "arm64-v8a,armeabi-v7a,armeabi",
+    "BuildSupportedAbis32": "armeabi-v7a,armeabi",
+    "BuildSupportedAbis64": "arm64-v8a",
+    "BuildType": "user",
+    "BuildTags": "release-keys",
+    "BuildFingerPrint": "xiaomi\/vince\/vince:8.1.0\/OPM1.171019.019\/V10.3.2.0.OEGCNXM:user\/release-keys",
+    "BuildRadioVersion": "953_GEN_PACK-1.174284.1.194887.2",
+    "BuildIncremental": "V10.3.2.0.OEGCNXM",
+    "BuildSecurityPatch": "2019-07-01",
+    "BuildPreviewSdkInt": "0",
+    "BuildSdkInt": "27",
+    "BuildCodename": "REL",
+    "ETDM": {
+      "BatteryStatus": "5",
+      "BatteryHealth": "2",
+      "BatteryLevel": "100",
+      "BatteryScale": "100",
+      "BatteryPlugged": "0",
+      "BatteryTechnology": "Li-poly"
+    }
+  },
+  "Unsafe": {
+    "init[theUnsafe]": true,
+    "init[THE_ONE]": true,
+    "init[getUnsafe]": true,
+    "init[getUnsafeByAbstractQueuedSynchronizer]": true,
+    "arrayIndexScale赋值Object数组大小": 4,
+    "is64Bit": true,
+    "me-adress": 331455000,
+    "me-hash": 86774053,
+    "me格式化-address": "13c19a18",
+    "me1-adress": 331455000,
+    "me1-hash": 86774053,
+    "me1格式化-address": "13c19a18",
+    "两个对象地址测试结果": true,
+    "两个对象测试结果": true,
+    "byte[]_OFFSET": 12,
+    "byte[]_SCALE": 1,
+    "boolean[]_OFFSET": 12,
+    "boolean[]_SCALE": 1,
+    "int[]_OFFSET": 12,
+    "int[]_SCALE": 4,
+    "long[]_OFFSET": 16,
+    "long[]_SCALE": 8,
+    "float[]_OFFSET": 12,
+    "float[]_SCALE": 4,
+    "double[]_OFFSET": 16,
+    "double[]_SCALE": 8,
+    "Object[]_OFFSET": 12,
+    "Object[]_SCALE": 4,
+    "BUFFER_ADDRESS_OFFSET": 8,
+    "STRIDE_ALIGNMENT_MASK": 7,
+    "BYTE_ARRAY_ALIGNMENT": 4,
+    "IS_BIG_ENDIAN": false,
+    "objectFieldOffset(Field)": true,
+    "1_arrayBaseOffset(Class)": true,
+    "1_getArrayBaseOffsetForComponentType(Class)": true,
+    "2_arrayIndexScale(Class)": true,
+    "2_getArrayIndexScaleForComponentType(Class)": true,
+    "2_arrayIndexScale0(Class)": false,
+    "compareAndSwapInt(Object,long,int,int)": true,
+    "compareAndSwapLong(Object,long,long,long)": true,
+    "compareAndSwapObject(Object,long,Object,Object)": true,
+    "3_getInt(Object,long)": true,
+    "3_getIntVolatile(Object,long)": true,
+    "getInt(long)": true,
+    "4_putInt(Object,long,int)": true,
+    "4_putIntVolatile(Object,long,int)": true,
+    "putInt(long,int)": true,
+    "putOrderedInt(Object,long,int)": true,
+    "5_getLong(Object,long)": true,
+    "5_getLongVolatile(Object,long)": true,
+    "getLong(long)": true,
+    "putLong(Object,long,long)": true,
+    "getObject(Object,long)": true,
+    "putObject(Object,long,Object)": true,
+    "getByte(long)": true,
+    "getByte(Object,long)": true,
+    "putByte(long,byte)": false,
+    "putByte(Object,long,byte)": true,
+    "getBoolean(Object,long)": true,
+    "putBoolean(Object,long,boolean)": true,
+    "getFloat(Object,long)": true,
+    "putFloat(Object,long,float)": true,
+    "getDouble(Object,long)": true,
+    "putDouble(Object,long,double)": true,
+    "bufferAddressField": "long java.nio.Buffer.address",
+    "putLong(long,long)": true,
+    "copyMemory(long,long,long)": true,
+    "addressSize()": true,
+    "pageSize()": true,
+    "allocateInstance(Class)": true,
+    "allocateMemory(long)": true,
+    "copyMemoryToPrimitiveArray(long,Object,long,long)": true,
+    "copyMemoryFromPrimitiveArray(Object,long,long,long)": true,
+    "setMemory(long,long,byte)": true,
+    "freeMemory(long)": true,
+    "getAndAddInt(Object,long,int)": true,
+    "getAndSetInt(Object,long,int)": true,
+    "getAndAddLong(Object,long,long)": true,
+    "getAndSetLong(Object,long,long)": true,
+    "getAndSetObject(Object,long,Object)": true
+  },
+  "MAC": {
+    "java_mac": "38:e6:0a:84:9c:2f",
+    "api_mac": "02:00:00:00:00:00",
+    "file_mac": "",
+    "ip_address": "1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default \n    link\/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00\n    inet 127.0.0.1\/8 scope host lo\n       valid_lft forever preferred_lft forever\n    inet6 ::1\/128 scope host \n       valid_lft forever preferred_lft forever\n2: dummy0: <BROADCAST,NOARP,UP,LOWER_UP> mtu 1500 qdisc noqueue state UNKNOWN group default \n    link\/ether 56:73:8d:a5:df:56 brd ff:ff:ff:ff:ff:ff\n    inet6 fe80::5473:8dff:fea5:df56\/64 scope link \n       valid_lft forever preferred_lft forever\n3: sit0@NONE: <NOARP> mtu 1480 qdisc noop state DOWN group default \n    link\/sit 0.0.0.0 brd 0.0.0.0\n4: rmnet_ipa0: <UP,LOWER_UP> mtu 2000 qdisc pfifo_fast state UNKNOWN group default qlen 1000\n    link\/[530] \n5: rmnet_data0: <UP,LOWER_UP> mtu 2000 qdisc htb state UNKNOWN group default qlen 1000\n    link\/[530] \n    inet6 fe80::4374:f95b:8cc4:943c\/64 scope link \n       valid_lft forever preferred_lft forever\n6: rmnet_data1: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n7: rmnet_data2: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n8: rmnet_data3: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n9: rmnet_data4: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n10: rmnet_data5: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n11: rmnet_data6: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n12: rmnet_data7: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n13: r_rmnet_data0: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n14: r_rmnet_data1: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n15: r_rmnet_data2: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n16: r_rmnet_data3: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n17: r_rmnet_data4: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n18: r_rmnet_data5: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n19: r_rmnet_data6: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n20: r_rmnet_data7: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n21: r_rmnet_data8: <> mtu 1500 qdisc noop state DOWN group default qlen 1000\n    link\/[530] \n22: wlan0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 1000\n    link\/ether 38:e6:0a:84:9c:2f brd ff:ff:ff:ff:ff:ff\n    inet 10.43.50.221\/23 brd 10.43.51.255 scope global wlan0\n       valid_lft forever preferred_lft forever\n    inet6 fe80::3ae6:aff:fe84:9c2f\/64 scope link \n       valid_lft forever preferred_lft forever\n23: p2p0: <NO-CARRIER,BROADCAST,MULTICAST,UP> mtu 1500 qdisc mq state DOWN group default qlen 1000\n    link\/ether 3a:e6:0a:84:9c:2f brd ff:ff:ff:ff:ff:ff\n",
+    "ip_link": "1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN mode DEFAULT group default \n    link\/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00\n2: dummy0: <BROADCAST,NOARP,UP,LOWER_UP> mtu 1500 qdisc noqueue state UNKNOWN mode DEFAULT group default \n    link\/ether 56:73:8d:a5:df:56 brd ff:ff:ff:ff:ff:ff\n3: sit0@NONE: <NOARP> mtu 1480 qdisc noop state DOWN mode DEFAULT group default \n    link\/sit 0.0.0.0 brd 0.0.0.0\n4: rmnet_ipa0: <UP,LOWER_UP> mtu 2000 qdisc pfifo_fast state UNKNOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n5: rmnet_data0: <UP,LOWER_UP> mtu 2000 qdisc htb state UNKNOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n6: rmnet_data1: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n7: rmnet_data2: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n8: rmnet_data3: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n9: rmnet_data4: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n10: rmnet_data5: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n11: rmnet_data6: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n12: rmnet_data7: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n13: r_rmnet_data0: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n14: r_rmnet_data1: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n15: r_rmnet_data2: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n16: r_rmnet_data3: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n17: r_rmnet_data4: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n18: r_rmnet_data5: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n19: r_rmnet_data6: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n20: r_rmnet_data7: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n21: r_rmnet_data8: <> mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\n    link\/[530] \n22: wlan0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP mode DORMANT group default qlen 1000\n    link\/ether 38:e6:0a:84:9c:2f brd ff:ff:ff:ff:ff:ff\n23: p2p0: <NO-CARRIER,BROADCAST,MULTICAST,UP> mtu 1500 qdisc mq state DOWN mode DORMANT group default qlen 1000\n    link\/ether 3a:e6:0a:84:9c:2f brd ff:ff:ff:ff:ff:ff\n"
+  }
+}
