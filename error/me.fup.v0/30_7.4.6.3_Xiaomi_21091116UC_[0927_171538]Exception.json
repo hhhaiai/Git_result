@@ -1,0 +1,6 @@
+java.lang.NoSuchMethodError: No static method rmethoda()Ljava/lang/String; in class Lme/hhhaiai/fastuploadid/hotfixs/fix/fix_models/AModel; or its super classes (declaration of 'me.hhhaiai.fastuploadid.hotfixs.fix.fix_models.AModel' appears in base.apk)
+	at me.hhhaiai.fastuploadid.hotfixs.fix.RFdemo.testRFix(RFdemo.java:17)
+	at me.hhhaiai.fastuploadid.ui.MainActivity.processOnClick(MainActivity.java:84)
+	at me.hhhaiai.fastuploadid.ui.MainActivity.access$000(MainActivity.java:26)
+	at me.hhhaiai.fastuploadid.ui.MainActivity$1$1.run(MainActivity.java:49)
+	at java.lang.Thread.run(Thread.java:923)
