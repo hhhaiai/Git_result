@@ -1,0 +1,865 @@
+{
+  "LetMeSee": {
+    "com.coloros.backuprestore": [
+      "\/sdcard\/Android\/data\/com.coloros.backuprestore\/Backup"
+    ],
+    "com.oplus.logkit": [
+      "\/sdcard\/Android\/data\/com.oplus.logkit\/files",
+      "\/sdcard\/Android\/data\/com.oplus.logkit\/files\/log",
+      "\/sdcard\/Android\/data\/com.oplus.logkit\/files\/Log",
+      "\/sdcard\/Android\/data\/com.oplus.logkit\/files\/Documents",
+      "\/sdcard\/Android\/data\/com.oplus.logkit\/files\/config"
+    ],
+    "com.heytap.cloud": [
+      "\/sdcard\/Android\/data\/com.heytap.cloud\/files",
+      "\/sdcard\/Android\/data\/com.heytap.cloud\/cache"
+    ],
+    "com.heytap.music": [
+      "\/sdcard\/Android\/data\/com.heytap.music\/files",
+      "\/sdcard\/Android\/data\/com.heytap.music\/files\/Music",
+      "\/sdcard\/Android\/data\/com.heytap.music\/cache"
+    ],
+    "com.gangduo.microbeauty": [
+      "\/sdcard\/Android\/data\/com.gangduo.microbeauty\/files",
+      "\/sdcard\/Android\/data\/com.gangduo.microbeauty\/files\/tbslog"
+    ],
+    "com.joyark.cloudgames.community": [
+      "\/sdcard\/Android\/data\/com.joyark.cloudgames.community\/files",
+      "\/sdcard\/Android\/data\/com.joyark.cloudgames.community\/cache"
+    ],
+    "com.finshell.wallet": [
+      "\/sdcard\/Android\/data\/com.finshell.wallet\/files",
+      "\/sdcard\/Android\/data\/com.finshell.wallet\/files\/cache",
+      "\/sdcard\/Android\/data\/com.finshell.wallet\/files\/cache\/offline",
+      "\/sdcard\/Android\/data\/com.finshell.wallet\/files\/cache\/network"
+    ],
+    "com.oplus.autotest.appcrawler": [
+      "\/sdcard\/Android\/data\/com.oplus.autotest.appcrawler\/files"
+    ],
+    "com.shanbay.sentence": [
+      "\/sdcard\/Android\/data\/com.shanbay.sentence\/files",
+      "\/sdcard\/Android\/data\/com.shanbay.sentence\/files\/tbslog"
+    ],
+    "com.oplus.autotest.otest.host": [
+      "\/sdcard\/Android\/data\/com.oplus.autotest.otest.host\/files",
+      "\/sdcard\/Android\/data\/com.oplus.autotest.otest.host\/files\/download",
+      "\/sdcard\/Android\/data\/com.oplus.autotest.otest.host\/files\/Download"
+    ],
+    "com.safeclean.lsjsqldw": [
+      "\/sdcard\/Android\/data\/com.safeclean.lsjsqldw\/files",
+      "\/sdcard\/Android\/data\/com.safeclean.lsjsqldw\/files\/TTCache",
+      "\/sdcard\/Android\/data\/com.safeclean.lsjsqldw\/files\/TTCache\/pangle_com.byted.pangle",
+      "\/sdcard\/Android\/data\/com.safeclean.lsjsqldw\/files\/download",
+      "\/sdcard\/Android\/data\/com.safeclean.lsjsqldw\/files\/download\/pangle_com.byted.pangle",
+      "\/sdcard\/Android\/data\/com.safeclean.lsjsqldw\/files\/Download",
+      "\/sdcard\/Android\/data\/com.safeclean.lsjsqldw\/files\/Download\/pangle_com.byted.pangle",
+      "\/sdcard\/Android\/data\/com.safeclean.lsjsqldw\/files\/kwad_ex",
+      "\/sdcard\/Android\/data\/com.safeclean.lsjsqldw\/files\/kwad_ex\/java_crash",
+      "\/sdcard\/Android\/data\/com.safeclean.lsjsqldw\/files\/kwad_ex\/anr_log",
+      "\/sdcard\/Android\/data\/com.safeclean.lsjsqldw\/cache",
+      "\/sdcard\/Android\/data\/com.safeclean.lsjsqldw\/cache\/pangle_com.byted.pangle",
+      "\/sdcard\/Android\/data\/com.safeclean.lsjsqldw\/cache\/pangle_com.byted.pangle\/tt_tmpl_pkg",
+      "\/sdcard\/Android\/data\/com.safeclean.lsjsqldw\/cache\/ksadsdk",
+      "\/sdcard\/Android\/data\/com.safeclean.lsjsqldw\/cache\/ksadsdk\/ksad-images"
+    ],
+    "com.nearme.play": [
+      "\/sdcard\/Android\/data\/com.nearme.play\/files",
+      "\/sdcard\/Android\/data\/com.nearme.play\/files\/tbslog",
+      "\/sdcard\/Android\/data\/com.nearme.play\/files\/cache",
+      "\/sdcard\/Android\/data\/com.nearme.play\/files\/cache\/image_manager_disk_cache"
+    ],
+    "com.ss.android.ugc.aweme.lite": [
+      "\/sdcard\/Android\/data\/com.ss.android.ugc.aweme.lite\/files",
+      "\/sdcard\/Android\/data\/com.ss.android.ugc.aweme.lite\/files\/MiPushLog",
+      "\/sdcard\/Android\/data\/com.ss.android.ugc.aweme.lite\/cache",
+      "\/sdcard\/Android\/data\/com.ss.android.ugc.aweme.lite\/cache\/runnableCache",
+      "\/sdcard\/Android\/data\/com.ss.android.ugc.aweme.lite\/cache\/picture",
+      "\/sdcard\/Android\/data\/com.ss.android.ugc.aweme.lite\/cache\/picture\/fresco_cache"
+    ],
+    "com.heytap.health": [
+      "\/sdcard\/Android\/data\/com.heytap.health\/files"
+    ],
+    "com.heytap.market": [
+      "\/sdcard\/Android\/data\/com.heytap.market\/files",
+      "\/sdcard\/Android\/data\/com.heytap.market\/files\/app",
+      "\/sdcard\/Android\/data\/com.heytap.market\/files\/cache",
+      "\/sdcard\/Android\/data\/com.heytap.market\/files\/cache\/image_manager_disk_cache",
+      "\/sdcard\/Android\/data\/com.heytap.market\/files\/cache\/video",
+      "\/sdcard\/Android\/data\/com.heytap.market\/cache",
+      "\/sdcard\/Android\/data\/com.heytap.market\/cache\/h5_offline_dir"
+    ],
+    "me.ele": [
+      "\/sdcard\/Android\/data\/me.ele\/files",
+      "\/sdcard\/Android\/data\/me.ele\/cache"
+    ],
+    "com.heytap.reader": [
+      "\/sdcard\/Android\/data\/com.heytap.reader\/files",
+      "\/sdcard\/Android\/data\/com.heytap.reader\/files\/logs",
+      "\/sdcard\/Android\/data\/com.heytap.reader\/files\/backup",
+      "\/sdcard\/Android\/data\/com.heytap.reader\/files\/tmp",
+      "\/sdcard\/Android\/data\/com.heytap.reader\/files\/books",
+      "\/sdcard\/Android\/data\/com.heytap.reader\/cache",
+      "\/sdcard\/Android\/data\/com.heytap.reader\/cache\/tt_tmpl_pkg",
+      "\/sdcard\/Android\/data\/com.heytap.reader\/cache\/tt_tmpl_pkg\/template"
+    ],
+    "com.android.contacts": [
+      "\/sdcard\/Android\/data\/com.android.contacts\/files",
+      "\/sdcard\/Android\/data\/com.android.contacts\/files\/Documents"
+    ],
+    "com.android.mms": [
+      "\/sdcard\/Android\/data\/com.android.mms\/files",
+      "\/sdcard\/Android\/data\/com.android.mms\/files\/log",
+      "\/sdcard\/Android\/data\/com.android.mms\/files\/Log",
+      "\/sdcard\/Android\/data\/com.android.mms\/files\/Documents"
+    ],
+    "com.tianxuanjiandao.nearme.gamecenter": [
+      "\/sdcard\/Android\/data\/com.tianxuanjiandao.nearme.gamecenter\/files"
+    ],
+    "com.chexun.platform": [
+      "\/sdcard\/Android\/data\/com.chexun.platform\/files",
+      "\/sdcard\/Android\/data\/com.chexun.platform\/files\/log",
+      "\/sdcard\/Android\/data\/com.chexun.platform\/files\/Log"
+    ],
+    "com.tencent.qqlive": [
+      "\/sdcard\/Android\/data\/com.tencent.qqlive\/files",
+      "\/sdcard\/Android\/data\/com.tencent.qqlive\/files\/tbslog",
+      "\/sdcard\/Android\/data\/com.tencent.qqlive\/files\/log",
+      "\/sdcard\/Android\/data\/com.tencent.qqlive\/files\/Log",
+      "\/sdcard\/Android\/data\/com.tencent.qqlive\/files\/cache",
+      "\/sdcard\/Android\/data\/com.tencent.qqlive\/files\/backup",
+      "\/sdcard\/Android\/data\/com.tencent.qqlive\/cache",
+      "\/sdcard\/Android\/data\/com.tencent.qqlive\/cache\/download",
+      "\/sdcard\/Android\/data\/com.tencent.qqlive\/cache\/Download"
+    ],
+    "com.heytap.speechassist": [
+      "\/sdcard\/Android\/data\/com.heytap.speechassist\/files",
+      "\/sdcard\/Android\/data\/com.heytap.speechassist\/files\/Movies",
+      "\/sdcard\/Android\/data\/com.heytap.speechassist\/files\/Movies\/baidu",
+      "\/sdcard\/Android\/data\/com.heytap.speechassist\/files\/log",
+      "\/sdcard\/Android\/data\/com.heytap.speechassist\/files\/Log",
+      "\/sdcard\/Android\/data\/com.heytap.speechassist\/cache"
+    ],
+    "com.xunmeng.pinduoduo": [
+      "\/sdcard\/Android\/data\/com.xunmeng.pinduoduo\/files",
+      "\/sdcard\/Android\/data\/com.xunmeng.pinduoduo\/files\/Documents",
+      "\/sdcard\/Android\/data\/com.xunmeng.pinduoduo\/files\/backup",
+      "\/sdcard\/Android\/data\/com.xunmeng.pinduoduo\/files\/commonlog",
+      "\/sdcard\/Android\/data\/com.xunmeng.pinduoduo\/files\/commonlog\/tbs"
+    ],
+    "org.langhuan.tianer": [
+      "\/sdcard\/Android\/data\/org.langhuan.tianer\/files"
+    ],
+    "com.ss.android.article.news": [
+      "\/sdcard\/Android\/data\/com.ss.android.article.news\/files",
+      "\/sdcard\/Android\/data\/com.ss.android.article.news\/files\/perf",
+      "\/sdcard\/Android\/data\/com.ss.android.article.news\/files\/.patchs",
+      "\/sdcard\/Android\/data\/com.ss.android.article.news\/files\/MiPushLog",
+      "\/sdcard\/Android\/data\/com.ss.android.article.news\/files\/resources",
+      "\/sdcard\/Android\/data\/com.ss.android.article.news\/files\/plugins",
+      "\/sdcard\/Android\/data\/com.ss.android.article.news\/cache",
+      "\/sdcard\/Android\/data\/com.ss.android.article.news\/cache\/TT",
+      "\/sdcard\/Android\/data\/com.ss.android.article.news\/cache\/mgl",
+      "\/sdcard\/Android\/data\/com.ss.android.article.news\/cache\/src",
+      "\/sdcard\/Android\/data\/com.ss.android.article.news\/memorywidgets",
+      "\/sdcard\/Android\/data\/com.ss.android.article.news\/memory"
+    ],
+    "com.nearme.gamecenter": [
+      "\/sdcard\/Android\/data\/com.nearme.gamecenter\/files",
+      "\/sdcard\/Android\/data\/com.nearme.gamecenter\/files\/app",
+      "\/sdcard\/Android\/data\/com.nearme.gamecenter\/files\/cache",
+      "\/sdcard\/Android\/data\/com.nearme.gamecenter\/files\/cache\/image_manager_disk_cache",
+      "\/sdcard\/Android\/data\/com.nearme.gamecenter\/files\/DCIM",
+      "\/sdcard\/Android\/data\/com.nearme.gamecenter\/cache",
+      "\/sdcard\/Android\/data\/com.nearme.gamecenter\/cache\/Statistics",
+      "\/sdcard\/Android\/data\/com.nearme.gamecenter\/cache\/Statistics\/track_log",
+      "\/sdcard\/Android\/data\/com.nearme.gamecenter\/cache\/h5_offline_dir"
+    ],
+    "com.ss.android.ugc.aweme": [
+      "\/sdcard\/Android\/data\/com.ss.android.ugc.aweme\/files",
+      "\/sdcard\/Android\/data\/com.ss.android.ugc.aweme\/files\/perf",
+      "\/sdcard\/Android\/data\/com.ss.android.ugc.aweme\/files\/perfUploading",
+      "\/sdcard\/Android\/data\/com.ss.android.ugc.aweme\/files\/push_cdata.lock",
+      "\/sdcard\/Android\/data\/com.ss.android.ugc.aweme\/files\/push_cdata.data",
+      "\/sdcard\/Android\/data\/com.ss.android.ugc.aweme\/files\/.patchs",
+      "\/sdcard\/Android\/data\/com.ss.android.ugc.aweme\/files\/MiPushLog",
+      "\/sdcard\/Android\/data\/com.ss.android.ugc.aweme\/files\/fastbot",
+      "\/sdcard\/Android\/data\/com.ss.android.ugc.aweme\/files\/perfUploading",
+      "\/sdcard\/Android\/data\/com.ss.android.ugc.aweme\/files\/webofflinex",
+      "\/sdcard\/Android\/data\/com.ss.android.ugc.aweme\/files\/monitor_data_switch",
+      "\/sdcard\/Android\/data\/com.ss.android.ugc.aweme\/files\/monitor",
+      "\/sdcard\/Android\/data\/com.ss.android.ugc.aweme\/cache",
+      "\/sdcard\/Android\/data\/com.ss.android.ugc.aweme\/cache\/video",
+      "\/sdcard\/Android\/data\/com.ss.android.ugc.aweme\/cache\/video\/cache",
+      "\/sdcard\/Android\/data\/com.ss.android.ugc.aweme\/cache\/video\/Cache",
+      "\/sdcard\/Android\/data\/com.ss.android.ugc.aweme\/cache\/video",
+      "\/sdcard\/Android\/data\/com.ss.android.ugc.aweme\/cache\/video\/cache",
+      "\/sdcard\/Android\/data\/com.ss.android.ugc.aweme\/cache\/video\/Cache",
+      "\/sdcard\/Android\/data\/com.ss.android.ugc.aweme\/cache\/TT",
+      "\/sdcard\/Android\/data\/com.ss.android.ugc.aweme\/cache\/runnableCache",
+      "\/sdcard\/Android\/data\/com.ss.android.ugc.aweme\/cache\/src",
+      "\/sdcard\/Android\/data\/com.ss.android.ugc.aweme\/cache\/src\/hotsoon",
+      "\/sdcard\/Android\/data\/com.ss.android.ugc.aweme\/cache\/picture",
+      "\/sdcard\/Android\/data\/com.ss.android.ugc.aweme\/cache\/picture\/fresco_cache"
+    ],
+    "com.coloros.note": [
+      "\/sdcard\/Android\/data\/com.coloros.note\/files",
+      "\/sdcard\/Android\/data\/com.coloros.note\/cache"
+    ],
+    "com.lixiangdong.textscanner": [
+      "\/sdcard\/Android\/data\/com.lixiangdong.textscanner\/files",
+      "\/sdcard\/Android\/data\/com.lixiangdong.textscanner\/cache"
+    ],
+    "com.kuaishou.nebula": [
+      "\/sdcard\/Android\/data\/com.kuaishou.nebula\/files",
+      "\/sdcard\/Android\/data\/com.kuaishou.nebula\/files\/perf",
+      "\/sdcard\/Android\/data\/com.kuaishou.nebula\/files\/perfUploading",
+      "\/sdcard\/Android\/data\/com.kuaishou.nebula\/files\/push_cdata.lock",
+      "\/sdcard\/Android\/data\/com.kuaishou.nebula\/files\/push_cdata.data",
+      "\/sdcard\/Android\/data\/com.kuaishou.nebula\/files\/perfUploading",
+      "\/sdcard\/Android\/data\/com.kuaishou.nebula\/files\/performance",
+      "\/sdcard\/Android\/data\/com.kuaishou.nebula\/cache",
+      "\/sdcard\/Android\/data\/com.kuaishou.nebula\/cache\/plugins"
+    ],
+    "com.oppo.camera": [
+      "\/sdcard\/Android\/data\/com.oppo.camera\/cache"
+    ],
+    "com.coloros.calendar": [
+      "\/sdcard\/Android\/data\/com.coloros.calendar\/files"
+    ],
+    "com.zhihu.android": [
+      "\/sdcard\/Android\/data\/com.zhihu.android\/files"
+    ],
+    "com.jingdong.app.mall": [
+      "\/sdcard\/Android\/data\/com.jingdong.app.mall\/files"
+    ],
+    "com.heytap.browser": [
+      "\/sdcard\/Android\/data\/com.heytap.browser\/files",
+      "\/sdcard\/Android\/data\/com.heytap.browser\/files\/xlog",
+      "\/sdcard\/Android\/data\/com.heytap.browser\/cache"
+    ],
+    "com.oppo.usercenter": [
+      "\/sdcard\/Android\/data\/com.oppo.usercenter\/files"
+    ],
+    "com.gtja.office.bst": [
+      "\/sdcard\/Android\/data\/com.gtja.office.bst\/files",
+      "\/sdcard\/Android\/data\/com.gtja.office.bst\/files\/RLog",
+      "\/sdcard\/Android\/data\/com.gtja.office.bst\/files\/rong_log"
+    ],
+    "com.android.email": [
+      "\/sdcard\/Android\/data\/com.android.email\/files",
+      "\/sdcard\/Android\/data\/com.android.email\/files\/log",
+      "\/sdcard\/Android\/data\/com.android.email\/files\/Log",
+      "\/sdcard\/Android\/data\/com.android.email\/files\/Ringtones",
+      "\/sdcard\/Android\/data\/com.android.email\/cache"
+    ],
+    "com.smile.gifmaker": [
+      "\/sdcard\/Android\/data\/com.smile.gifmaker\/files",
+      "\/sdcard\/Android\/data\/com.smile.gifmaker\/files\/push_cdata.lock",
+      "\/sdcard\/Android\/data\/com.smile.gifmaker\/files\/push_cdata.data",
+      "\/sdcard\/Android\/data\/com.smile.gifmaker\/cache"
+    ],
+    "com.heytap.themestore": [
+      "\/sdcard\/Android\/data\/com.heytap.themestore\/files"
+    ],
+    "com.ss.android.article.video": [
+      "\/sdcard\/Android\/data\/com.ss.android.article.video\/files",
+      "\/sdcard\/Android\/data\/com.ss.android.article.video\/files\/logs",
+      "\/sdcard\/Android\/data\/com.ss.android.article.video\/files\/.patchs",
+      "\/sdcard\/Android\/data\/com.ss.android.article.video\/files\/MiPushLog",
+      "\/sdcard\/Android\/data\/com.ss.android.article.video\/files\/webofflinex",
+      "\/sdcard\/Android\/data\/com.ss.android.article.video\/cache",
+      "\/sdcard\/Android\/data\/com.ss.android.article.video\/bytedance",
+      "\/sdcard\/Android\/data\/com.ss.android.article.video\/bytedance\/device_parameters.dat"
+    ],
+    "com.taobao.taobao": [
+      "\/sdcard\/Android\/data\/com.taobao.taobao\/files",
+      "\/sdcard\/Android\/data\/com.taobao.taobao\/files\/logs",
+      "\/sdcard\/Android\/data\/com.taobao.taobao\/files\/AVFSCache",
+      "\/sdcard\/Android\/data\/com.taobao.taobao\/files\/AVFSCache\/DAI",
+      "\/sdcard\/Android\/data\/com.taobao.taobao\/files\/instant-patch",
+      "\/sdcard\/Android\/data\/com.taobao.taobao\/cache",
+      "\/sdcard\/Android\/data\/com.taobao.taobao\/cache\/fulltrace",
+      "\/sdcard\/Android\/data\/com.taobao.taobao\/cache\/fulltrace\/log",
+      "\/sdcard\/Android\/data\/com.taobao.taobao\/cache\/video-cache"
+    ],
+    "com.heytap.yoli": [
+      "\/sdcard\/Android\/data\/com.heytap.yoli\/files",
+      "\/sdcard\/Android\/data\/com.heytap.yoli\/files\/cache"
+    ],
+    "com.coloros.gallery3d": [
+      "\/sdcard\/Android\/data\/com.coloros.gallery3d\/files",
+      "\/sdcard\/Android\/data\/com.coloros.gallery3d\/files\/Documents",
+      "\/sdcard\/Android\/data\/com.coloros.gallery3d\/cache"
+    ],
+    "tv.danmaku.bili": [
+      "\/sdcard\/Android\/data\/tv.danmaku.bili\/files",
+      "\/sdcard\/Android\/data\/tv.danmaku.bili\/files\/update",
+      "\/sdcard\/Android\/data\/tv.danmaku.bili\/files\/data",
+      "\/sdcard\/Android\/data\/tv.danmaku.bili\/files\/block-list",
+      "\/sdcard\/Android\/data\/tv.danmaku.bili\/cache",
+      "\/sdcard\/Android\/data\/tv.danmaku.bili\/cache\/ImagePipeLine",
+      "\/sdcard\/Android\/data\/tv.danmaku.bili\/cache\/ImagePipeLine\/v2.ols100.1"
+    ],
+    "com.eg.android.AlipayGphone": [
+      "\/sdcard\/Android\/data\/com.eg.android.AlipayGphone\/files",
+      "\/sdcard\/Android\/data\/com.eg.android.AlipayGphone\/files\/nebulaH5App",
+      "\/sdcard\/Android\/data\/com.eg.android.AlipayGphone\/cache"
+    ],
+    "com.shanbay.listen": [
+      "\/sdcard\/Android\/data\/com.shanbay.listen\/files",
+      "\/sdcard\/Android\/data\/com.shanbay.listen\/files\/tbslog"
+    ],
+    "com.heytap.smarthome": [
+      "\/sdcard\/Android\/data\/com.heytap.smarthome\/cache"
+    ],
+    "com.bcvcloudtest.two": [
+      "\/sdcard\/Android\/data\/com.bcvcloudtest.two\/files"
+    ],
+    "com.achievo.vipshop": [
+      "\/sdcard\/Android\/data\/com.achievo.vipshop\/files"
+    ],
+    "com.coloros.phonemanager": [
+      "\/sdcard\/Android\/data\/com.coloros.phonemanager\/files"
+    ],
+    "com.redteamobile.roaming": [
+      "\/sdcard\/Android\/data\/com.redteamobile.roaming\/files"
+    ],
+    "com.heytap.pictorial": [
+      "\/sdcard\/Android\/data\/com.heytap.pictorial\/files",
+      "\/sdcard\/Android\/data\/com.heytap.pictorial\/files\/xlog",
+      "\/sdcard\/Android\/data\/com.heytap.pictorial\/cache"
+    ],
+    "com.oplus.sau": [
+      "\/sdcard\/Android\/data\/com.oplus.sau\/files"
+    ],
+    "com.oplus.onetrace": [
+      "\/sdcard\/Android\/data\/com.oplus.onetrace\/files",
+      "\/sdcard\/Android\/data\/com.oplus.onetrace\/files\/xlog"
+    ],
+    "com.sohu.inputmethod.sogouoem": [
+      "\/sdcard\/Android\/data\/com.sohu.inputmethod.sogouoem\/files",
+      "\/sdcard\/Android\/data\/com.sohu.inputmethod.sogouoem\/cache"
+    ],
+    "com.iflytek.speechsuite": [
+      "\/sdcard\/Android\/data\/com.iflytek.speechsuite\/files"
+    ],
+    "com.oplus.apprecover": [
+      "\/sdcard\/Android\/data\/com.oplus.apprecover\/files"
+    ],
+    "com.coloros.focusmode": [
+      "\/sdcard\/Android\/data\/com.coloros.focusmode\/files"
+    ],
+    "com.android.vending": [
+      "\/sdcard\/Android\/data\/com.android.vending\/files",
+      "\/sdcard\/Android\/data\/com.android.vending\/files\/debug"
+    ],
+    "com.oplus.appdetail": [
+      "\/sdcard\/Android\/data\/com.oplus.appdetail\/files"
+    ],
+    "com.ted.number": [
+      "\/sdcard\/Android\/data\/com.ted.number\/cache"
+    ],
+    "com.coloros.assistantscreen": [
+      "\/sdcard\/Android\/data\/com.coloros.assistantscreen\/files",
+      "\/sdcard\/Android\/data\/com.coloros.assistantscreen\/files\/cache",
+      "\/sdcard\/Android\/data\/com.coloros.assistantscreen\/files\/cache\/certificate",
+      "\/sdcard\/Android\/data\/com.coloros.assistantscreen\/files\/cache\/offline",
+      "\/sdcard\/Android\/data\/com.coloros.assistantscreen\/files\/cache\/network",
+      "\/sdcard\/Android\/data\/com.coloros.assistantscreen\/files\/xlog",
+      "\/sdcard\/Android\/data\/com.coloros.assistantscreen\/files\/FrameworkJsc",
+      "\/sdcard\/Android\/data\/com.coloros.assistantscreen\/cache",
+      "\/sdcard\/Android\/data\/com.coloros.assistantscreen\/cache\/Statistics",
+      "\/sdcard\/Android\/data\/com.coloros.assistantscreen\/cache\/Statistics\/track_log",
+      "\/sdcard\/Android\/data\/com.coloros.assistantscreen\/cache\/file"
+    ],
+    "com.coloros.activation": [
+      "\/sdcard\/Android\/data\/com.coloros.activation\/files"
+    ],
+    "com.google.android.gms": [
+      "\/sdcard\/Android\/data\/com.google.android.gms\/files",
+      "\/sdcard\/Android\/data\/com.google.android.gms\/cache",
+      "\/data\/data\/com.google.android.gms\/files",
+      "\/data\/data\/com.google.android.gms\/files\/fonts",
+      "\/data\/data\/com.google.android.gms\/cache",
+      "\/data\/data\/com.google.android.gms\/no_backup",
+      "\/data\/data\/com.google.android.gms\/code_cache",
+      "\/data\/data\/com.google.android.gms\/databases",
+      "\/data\/data\/com.google.android.gms\/shared_prefs"
+    ],
+    "com.oplus.uxdesign": [
+      "\/sdcard\/Android\/data\/com.oplus.uxdesign\/cache"
+    ],
+    "com.opos.ads": [
+      "\/sdcard\/Android\/data\/com.opos.ads\/files"
+    ],
+    "com.coloros.findmyphone": [
+      "\/sdcard\/Android\/data\/com.coloros.findmyphone\/files",
+      "\/sdcard\/Android\/data\/com.coloros.findmyphone\/cache"
+    ],
+    "com.coloros.wifisecuredetect": [
+      "\/sdcard\/Android\/data\/com.coloros.wifisecuredetect\/files"
+    ],
+    "com.heytap.quicksearchbox": [
+      "\/sdcard\/Android\/data\/com.heytap.quicksearchbox\/files"
+    ],
+    "com.nearme.instant.platform": [
+      "\/sdcard\/Android\/data\/com.nearme.instant.platform\/files",
+      "\/sdcard\/Android\/data\/com.nearme.instant.platform\/files\/TTCache",
+      "\/sdcard\/Android\/data\/com.nearme.instant.platform\/files\/cache",
+      "\/sdcard\/Android\/data\/com.nearme.instant.platform\/files\/cache\/certificate",
+      "\/sdcard\/Android\/data\/com.nearme.instant.platform\/files\/cache\/offline",
+      "\/sdcard\/Android\/data\/com.nearme.instant.platform\/files\/cache\/network",
+      "\/sdcard\/Android\/data\/com.nearme.instant.platform\/files\/download",
+      "\/sdcard\/Android\/data\/com.nearme.instant.platform\/files\/Download",
+      "\/sdcard\/Android\/data\/com.nearme.instant.platform\/files\/FrameworkJsc",
+      "\/sdcard\/Android\/data\/com.nearme.instant.platform\/cache",
+      "\/sdcard\/Android\/data\/com.nearme.instant.platform\/cache\/Statistics",
+      "\/sdcard\/Android\/data\/com.nearme.instant.platform\/cache\/Statistics\/track_log",
+      "\/sdcard\/Android\/data\/com.nearme.instant.platform\/cache\/tt_tmpl_pkg",
+      "\/sdcard\/Android\/data\/com.nearme.instant.platform\/cache\/tt_tmpl_pkg\/template",
+      "\/sdcard\/Android\/data\/com.nearme.instant.platform\/cache\/file"
+    ],
+    "com.amap.android.location": [
+      "\/sdcard\/Android\/data\/com.amap.android.location\/files"
+    ],
+    "com.qti.ltebc": [
+      "\/sdcard\/Android\/data\/com.qti.ltebc\/files"
+    ],
+    "com.coloros.regservice": [
+      "\/sdcard\/Android\/data\/com.coloros.regservice\/files"
+    ],
+    "me.fup.v0": [
+      "\/data\/data\/me.fup.v0\/files",
+      "\/data\/data\/me.fup.v0\/cache",
+      "\/data\/data\/me.fup.v0\/code_cache",
+      "\/data\/data\/me.fup.v0\/databases",
+      "\/data\/data\/me.fup.v0\/shared_prefs"
+    ]
+  },
+  "设备信息": {
+    "java_version ": "0",
+    "java_runtime_version": "0.9",
+    "java_runtime_name": "Android Runtime",
+    "java_vm_version ": "2.1.0",
+    "SystemName": "Android",
+    "SystemVersion": "11",
+    "DeviceBrand": "OPPO",
+    "UM-OAID": "998E253C1F3D464FA71B6D40EF371325b989e8d6095c6fbc92ea6c07a84a475e",
+    "DeviceModel": "PENM00",
+    "ApplicationChannel": "CHANNEL-OPPO",
+    "ApplicationKey": "APPKE",
+    "APILevel": "30",
+    "UA": "Mozilla\/5.0 (Linux; Android 11; PENM00 Build\/RKQ1.201105.002; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/83.0.4103.106 Mobile Safari\/537.36",
+    "TargetSdkVersion": "31",
+    "BootTimeMilliseconds": "1658077319864",
+    "Simulator": "1",
+    "Debug": "0",
+    "Hijack": "0",
+    "SDK--utdid": "YzK+Kp7Z1gMDADhDubN+n6qu",
+    "IsRoot": "0",
+    "SystemFontSize": "0",
+    "SystemHour": "12",
+    "SystemLanguage": "zh",
+    "SystemArea": "CN",
+    "TimeZone": "GMT+08:00",
+    "SenSorModuleName": [
+      {
+        "SenSorName": "icm4x6xx Accelerometer Non-wakeup",
+        "SenSorVersion": "308",
+        "SenSorManufacturer": "TDK-Invensense",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.23999999463558197
+      },
+      {
+        "SenSorName": "ak0991x Magnetometer Non-wakeup",
+        "SenSorVersion": "146953",
+        "SenSorManufacturer": "akm",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 1.100000023841858
+      },
+      {
+        "SenSorName": "Rotation Vector  Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "qualcomm",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 1.4149999618530273
+      },
+      {
+        "SenSorName": "icm4x6xx Gyroscope Non-wakeup",
+        "SenSorVersion": "308",
+        "SenSorManufacturer": "TDK-Invensense",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.5699999928474426
+      },
+      {
+        "SenSorName": "tcs3701 Proximity Sensor Wakeup",
+        "SenSorVersion": "205",
+        "SenSorManufacturer": "oplus",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.10000000149011612
+      },
+      {
+        "SenSorName": "gravity  Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "qualcomm",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.5149999856948853
+      },
+      {
+        "SenSorName": "linear_acceleration",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "qualcomm",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.5149999856948853
+      },
+      {
+        "SenSorName": "Rotation Vector  Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "qualcomm",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 1.4149999618530273
+      },
+      {
+        "SenSorName": "ak0991x Magnetometer-Uncalibrated Non-wakeup",
+        "SenSorVersion": "146953",
+        "SenSorManufacturer": "akm",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 1.100000023841858
+      },
+      {
+        "SenSorName": "Game Rotation Vector  Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "qualcomm",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.5149999856948853
+      },
+      {
+        "SenSorName": "icm4x6xx Gyroscope-Uncalibrated Non-wakeup",
+        "SenSorVersion": "308",
+        "SenSorManufacturer": "TDK-Invensense",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.5699999928474426
+      },
+      {
+        "SenSorName": "sns_smd  Wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "qualcomm",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.02500000037252903
+      },
+      {
+        "SenSorName": "pedometer  Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "oplus",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "pedometer  Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "oplus",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "sns_geomag_rv  Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "qualcomm",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 1.0499999523162842
+      },
+      {
+        "SenSorName": "pick_up_motion  Wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "oplus",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "device_orient  Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "oplus",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "device_orient  Wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "oplus",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "stationary_detect",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "qualcomm",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.02500000037252903
+      },
+      {
+        "SenSorName": "motion_detect",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "qualcomm",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.02500000037252903
+      },
+      {
+        "SenSorName": "icm4x6xx Accelerometer-Uncalibrated Non-wakeup",
+        "SenSorVersion": "308",
+        "SenSorManufacturer": "TDK-Invensense",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.23999999463558197
+      },
+      {
+        "SenSorName": "OPLUS Fusion Light Sensor",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "OPLUS",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 1.9100000858306885
+      },
+      {
+        "SenSorName": "sensor_logger  Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "oplus",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "tcs3701 wise Light Sensor Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "oplus",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.07999999821186066
+      },
+      {
+        "SenSorName": "lux_aod  Wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "oplus",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "pedometer_minute  Wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "oplus",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "cmc_oplus  Wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "oplus",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "elevator_detect  Wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "oplus",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "oplus_activity_recognition  Wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "oplus",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "tcs3408 RGB Sensor Rear Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "oplus",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.07999999821186066
+      },
+      {
+        "SenSorName": "tcs3408 Flicker Sensor Rear Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "oplus",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.07999999821186066
+      },
+      {
+        "SenSorName": "tcs3408 Ambient Light Sensor Rear Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "oplus",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.07999999821186066
+      },
+      {
+        "SenSorName": "double_tap double_tap Sensor Wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "oplus",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "context_aware  Non-wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "oplus",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0.0010000000474974513
+      },
+      {
+        "SenSorName": "oca_detect  Wakeup",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "oplus",
+        "SenSorId": 0,
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 0.0010000000474974513
+      }
+    ],
+    "CPUModel": "arm64-v8a:",
+    "BuildId": "RKQ1.201105.002",
+    "BuildDisplay": "PENM00_11_A.01",
+    "BuildProduct": "PENM00",
+    "BuildDevice": "OP4EC1",
+    "BuildBoard": "kona",
+    "BuildHardware": "qcom",
+    "BuildSupportedAbis": "arm64-v8a,armeabi-v7a,armeabi",
+    "BuildSupportedAbis32": "armeabi-v7a,armeabi",
+    "BuildSupportedAbis64": "arm64-v8a",
+    "BuildType": "user",
+    "BuildTags": "release-keys",
+    "BuildFingerPrint": "OPPO\/PENM00\/OP4EC1:11\/RKQ1.201105.002\/1640794982915:user\/release-keys",
+    "BuildRadioVersion": "Q_V1_P14,Q_V1_P14",
+    "BuildIncremental": "1640794982915",
+    "BuildSecurityPatch": "2022-01-05",
+    "BuildPreviewSdkInt": "0",
+    "BuildSdkInt": "30",
+    "BuildCodename": "REL",
+    "IDFA": "d0209a80-72f7-4fef-beb3-6b56eb4c260f",
+    "ETDM": {
+      "BatteryStatus": "5",
+      "BatteryHealth": "2",
+      "BatteryLevel": "100",
+      "BatteryScale": "100",
+      "BatteryPlugged": "2",
+      "BatteryTechnology": "Li-ion"
+    }
+  },
+  "Unsafe": {
+    "init[theUnsafe]": true,
+    "init[THE_ONE]": true,
+    "init[getUnsafe]": true,
+    "init[getUnsafeByAbstractQueuedSynchronizer]": true,
+    "arrayIndexScale赋值Object数组大小": 4,
+    "is64Bit": true,
+    "me-adress": 320581920,
+    "me-hash": 142715908,
+    "me格式化-address": "131bb120",
+    "me1-adress": 320581920,
+    "me1-hash": 142715908,
+    "me1格式化-address": "131bb120",
+    "两个对象地址测试结果": true,
+    "两个对象测试结果": true,
+    "byte[]_OFFSET": 12,
+    "byte[]_SCALE": 1,
+    "boolean[]_OFFSET": 12,
+    "boolean[]_SCALE": 1,
+    "int[]_OFFSET": 12,
+    "int[]_SCALE": 4,
+    "long[]_OFFSET": 16,
+    "long[]_SCALE": 8,
+    "float[]_OFFSET": 12,
+    "float[]_SCALE": 4,
+    "double[]_OFFSET": 16,
+    "double[]_SCALE": 8,
+    "Object[]_OFFSET": 12,
+    "Object[]_SCALE": 4,
+    "BUFFER_ADDRESS_OFFSET": 8,
+    "STRIDE_ALIGNMENT_MASK": 7,
+    "BYTE_ARRAY_ALIGNMENT": 4,
+    "IS_BIG_ENDIAN": false,
+    "objectFieldOffset(Field)": true,
+    "1_arrayBaseOffset(Class)": true,
+    "1_getArrayBaseOffsetForComponentType(Class)": true,
+    "2_arrayIndexScale(Class)": true,
+    "2_getArrayIndexScaleForComponentType(Class)": true,
+    "2_arrayIndexScale0(Class)": false,
+    "compareAndSwapInt(Object,long,int,int)": true,
+    "compareAndSwapLong(Object,long,long,long)": true,
+    "compareAndSwapObject(Object,long,Object,Object)": true,
+    "3_getInt(Object,long)": true,
+    "3_getIntVolatile(Object,long)": true,
+    "getInt(long)": true,
+    "4_putInt(Object,long,int)": true,
+    "4_putIntVolatile(Object,long,int)": true,
+    "putInt(long,int)": true,
+    "putOrderedInt(Object,long,int)": true,
+    "5_getLong(Object,long)": true,
+    "5_getLongVolatile(Object,long)": true,
+    "getLong(long)": true,
+    "putLong(Object,long,long)": true,
+    "getObject(Object,long)": true,
+    "putObject(Object,long,Object)": true,
+    "getByte(long)": true,
+    "getByte(Object,long)": true,
+    "putByte(long,byte)": false,
+    "putByte(Object,long,byte)": true,
+    "getBoolean(Object,long)": true,
+    "putBoolean(Object,long,boolean)": true,
+    "getFloat(Object,long)": true,
+    "putFloat(Object,long,float)": true,
+    "getDouble(Object,long)": true,
+    "putDouble(Object,long,double)": true,
+    "bufferAddressField": "long java.nio.Buffer.address",
+    "putLong(long,long)": true,
+    "copyMemory(long,long,long)": true,
+    "addressSize()": true,
+    "pageSize()": true,
+    "allocateInstance(Class)": true,
+    "allocateMemory(long)": true,
+    "copyMemoryToPrimitiveArray(long,Object,long,long)": true,
+    "copyMemoryFromPrimitiveArray(Object,long,long,long)": true,
+    "setMemory(long,long,byte)": true,
+    "freeMemory(long)": true,
+    "getAndAddInt(Object,long,int)": true,
+    "getAndSetInt(Object,long,int)": true,
+    "getAndAddLong(Object,long,long)": true,
+    "getAndSetLong(Object,long,long)": true,
+    "getAndSetObject(Object,long,Object)": true
+  },
+  "MAC": {
+    "java_mac": "02:00:00:00:00:00",
+    "api_mac": "02:00:00:00:00:00",
+    "file_mac": "",
+    "ip_address": "",
+    "ip_link": ""
+  }
+}
