@@ -1,0 +1,6 @@
+java.lang.NoSuchMethodError: No static method methoda()Ljava/lang/String; in class Lme/hhhaiai/fastuploadid/hotfixs/fix/fix_models/AModel; or its super classes (declaration of 'me.hhhaiai.fastuploadid.hotfixs.fix.fix_models.AModel' appears in /data/app/me.fup.v0-V6E2tgqK5fhSYmTmC6Ej3w==/base.apk)
+	at me.hhhaiai.fastuploadid.hotfixs.fix.KFdemo.testKFix(KFdemo.java:16)
+	at me.hhhaiai.fastuploadid.ui.MainActivity.processOnClick(MainActivity.java:81)
+	at me.hhhaiai.fastuploadid.ui.MainActivity.access$000(MainActivity.java:26)
+	at me.hhhaiai.fastuploadid.ui.MainActivity$1$1.run(MainActivity.java:49)
+	at java.lang.Thread.run(Thread.java:764)
