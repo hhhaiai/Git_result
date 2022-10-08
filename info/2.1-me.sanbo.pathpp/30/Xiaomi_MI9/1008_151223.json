@@ -1,0 +1,353 @@
+{
+  "com.miui.powerkeeper": [
+    "\/sdcard\/Android\/data\/com.miui.powerkeeper\/files",
+    "\/sdcard\/Android\/data\/com.miui.powerkeeper\/files\/perf",
+    "\/sdcard\/Android\/data\/com.miui.powerkeeper\/files\/perfUploading"
+  ],
+  "com.google.android.gms": [
+    "\/data\/data\/com.google.android.gms\/files",
+    "\/data\/data\/com.google.android.gms\/files\/fonts",
+    "\/data\/data\/com.google.android.gms\/cache",
+    "\/data\/data\/com.google.android.gms\/cache\/volley",
+    "\/data\/data\/com.google.android.gms\/no_backup",
+    "\/data\/data\/com.google.android.gms\/code_cache",
+    "\/data\/data\/com.google.android.gms\/databases",
+    "\/data\/data\/com.google.android.gms\/shared_prefs",
+    "\/sdcard\/Android\/data\/com.google.android.gms\/files",
+    "\/data\/data\/com.google.android.gms\/files",
+    "\/data\/data\/com.google.android.gms\/files\/fonts",
+    "\/data\/data\/com.google.android.gms\/cache",
+    "\/data\/data\/com.google.android.gms\/cache\/volley",
+    "\/data\/data\/com.google.android.gms\/no_backup",
+    "\/data\/data\/com.google.android.gms\/code_cache",
+    "\/data\/data\/com.google.android.gms\/databases",
+    "\/data\/data\/com.google.android.gms\/shared_prefs"
+  ],
+  "com.android.providers.calendar": [
+    "\/sdcard\/Android\/data\/com.android.providers.calendar\/files"
+  ],
+  "com.milink.service": [
+    "\/sdcard\/Android\/data\/com.milink.service\/files",
+    "\/sdcard\/Android\/data\/com.milink.service\/files\/dump"
+  ],
+  "me.sanbo.pathpp": [
+    "\/data\/data\/me.sanbo.pathpp\/cache",
+    "\/data\/data\/me.sanbo.pathpp\/code_cache",
+    "\/data\/data\/me.sanbo.pathpp\/cache",
+    "\/data\/data\/me.sanbo.pathpp\/code_cache"
+  ],
+  "com.xiaomi.account": [
+    "\/sdcard\/Android\/data\/com.xiaomi.account\/files",
+    "\/sdcard\/Android\/data\/com.xiaomi.account\/files\/perf",
+    "\/sdcard\/Android\/data\/com.xiaomi.account\/files\/perfUploading",
+    "\/sdcard\/Android\/data\/com.xiaomi.account\/files\/MiPushLog"
+  ],
+  "com.miui.securityadd": [
+    "\/sdcard\/Android\/data\/com.miui.securityadd\/files",
+    "\/sdcard\/Android\/data\/com.miui.securityadd\/files\/perf",
+    "\/sdcard\/Android\/data\/com.miui.securityadd\/files\/perfUploading"
+  ],
+  "com.miui.gallery": [
+    "\/sdcard\/Android\/data\/com.miui.gallery\/files",
+    "\/sdcard\/Android\/data\/com.miui.gallery\/files\/noMediaRecord",
+    "\/sdcard\/Android\/data\/com.miui.gallery\/files\/gallery_disk_cache",
+    "\/sdcard\/Android\/data\/com.miui.gallery\/files\/gallery_disk_cache\/small_size",
+    "\/sdcard\/Android\/data\/com.miui.gallery\/files\/gallery_disk_cache\/full_size",
+    "\/sdcard\/Android\/data\/com.miui.gallery\/files\/gallery_disk_cache\/remote_data",
+    "\/sdcard\/Android\/data\/com.miui.gallery\/files\/mounted",
+    "\/sdcard\/Android\/data\/com.miui.gallery\/cache",
+    "\/sdcard\/Android\/data\/com.miui.gallery\/cache\/searchCache",
+    "\/sdcard\/Android\/data\/com.miui.gallery\/cache\/localThumbnailFile"
+  ],
+  "com.android.quicksearchbox": [
+    "\/sdcard\/Android\/data\/com.android.quicksearchbox\/files",
+    "\/sdcard\/Android\/data\/com.android.quicksearchbox\/cache"
+  ],
+  "com.android.providers.downloads": [
+    "\/sdcard\/Android\/data\/com.android.providers.downloads\/files",
+    "\/sdcard\/Android\/data\/com.android.providers.downloads\/files\/perf",
+    "\/sdcard\/Android\/data\/com.android.providers.downloads\/files\/perfUploading",
+    "\/sdcard\/Android\/data\/com.android.providers.downloads\/files\/push_cdata.lock",
+    "\/sdcard\/Android\/data\/com.android.providers.downloads\/files\/push_cdata.data",
+    "\/sdcard\/Android\/data\/com.android.providers.downloads\/files\/MiPushLog"
+  ],
+  "com.miui.securitycenter": [
+    "\/sdcard\/Android\/data\/com.miui.securitycenter\/files",
+    "\/sdcard\/Android\/data\/com.miui.securitycenter\/files\/perf",
+    "\/sdcard\/Android\/data\/com.miui.securitycenter\/files\/perfUploading",
+    "\/sdcard\/Android\/data\/com.miui.securitycenter\/files\/push_cdata.lock",
+    "\/sdcard\/Android\/data\/com.miui.securitycenter\/files\/push_cdata.data",
+    "\/sdcard\/Android\/data\/com.miui.securitycenter\/cache",
+    "\/sdcard\/Android\/data\/com.miui.securitycenter\/cache\/uil-images"
+  ],
+  "com.android.browser": [
+    "\/sdcard\/Android\/data\/com.android.browser\/files",
+    "\/sdcard\/Android\/data\/com.android.browser\/files\/update",
+    "\/sdcard\/Android\/data\/com.android.browser\/files\/perf",
+    "\/sdcard\/Android\/data\/com.android.browser\/files\/perfUploading",
+    "\/sdcard\/Android\/data\/com.android.browser\/files\/push_cdata.lock",
+    "\/sdcard\/Android\/data\/com.android.browser\/files\/push_cdata.data",
+    "\/sdcard\/Android\/data\/com.android.browser\/files\/DuoKan",
+    "\/sdcard\/Android\/data\/com.android.browser\/files\/DuoKan\/cache",
+    "\/sdcard\/Android\/data\/com.android.browser\/files\/DuoKan\/cache\/temp",
+    "\/sdcard\/Android\/data\/com.android.browser\/files\/DuoKan\/cache\/Temp",
+    "\/sdcard\/Android\/data\/com.android.browser\/files\/DuoKan\/Cache",
+    "\/sdcard\/Android\/data\/com.android.browser\/files\/DuoKan\/Cache\/temp",
+    "\/sdcard\/Android\/data\/com.android.browser\/files\/DuoKan\/Cache\/Temp",
+    "\/sdcard\/Android\/data\/com.android.browser\/files\/DuoKan\/Resource",
+    "\/sdcard\/Android\/data\/com.android.browser\/files\/DuoKan\/Resource\/Font",
+    "\/sdcard\/Android\/data\/com.android.browser\/files\/DuoKan\/Resource\/font",
+    "\/sdcard\/Android\/data\/com.android.browser\/files\/DuoKan\/resource",
+    "\/sdcard\/Android\/data\/com.android.browser\/files\/DuoKan\/resource\/Font",
+    "\/sdcard\/Android\/data\/com.android.browser\/files\/DuoKan\/resource\/font",
+    "\/sdcard\/Android\/data\/com.android.browser\/files\/duokan",
+    "\/sdcard\/Android\/data\/com.android.browser\/files\/duokan\/cache",
+    "\/sdcard\/Android\/data\/com.android.browser\/files\/duokan\/cache\/temp",
+    "\/sdcard\/Android\/data\/com.android.browser\/files\/duokan\/cache\/Temp",
+    "\/sdcard\/Android\/data\/com.android.browser\/files\/duokan\/Cache",
+    "\/sdcard\/Android\/data\/com.android.browser\/files\/duokan\/Cache\/temp",
+    "\/sdcard\/Android\/data\/com.android.browser\/files\/duokan\/Cache\/Temp",
+    "\/sdcard\/Android\/data\/com.android.browser\/files\/duokan\/Resource",
+    "\/sdcard\/Android\/data\/com.android.browser\/files\/duokan\/Resource\/Font",
+    "\/sdcard\/Android\/data\/com.android.browser\/files\/duokan\/Resource\/font",
+    "\/sdcard\/Android\/data\/com.android.browser\/files\/duokan\/resource",
+    "\/sdcard\/Android\/data\/com.android.browser\/files\/duokan\/resource\/Font",
+    "\/sdcard\/Android\/data\/com.android.browser\/files\/duokan\/resource\/font",
+    "\/sdcard\/Android\/data\/com.android.browser\/cache",
+    "\/sdcard\/Android\/data\/com.android.browser\/cache\/mitustats",
+    "\/sdcard\/Android\/data\/com.android.browser\/cache\/mitustats\/exception",
+    "\/sdcard\/Android\/data\/com.android.browser\/cache\/mitustats\/memory",
+    "\/sdcard\/Android\/data\/com.android.browser\/cache\/mitustats\/ui_thread",
+    "\/sdcard\/Android\/data\/com.android.browser\/cache\/BrowserFileCache",
+    "\/sdcard\/Android\/data\/com.android.browser\/DNS"
+  ],
+  "com.miui.systemAdSolution": [
+    "\/sdcard\/Android\/data\/com.miui.systemAdSolution\/files",
+    "\/sdcard\/Android\/data\/com.miui.systemAdSolution\/files\/perf",
+    "\/sdcard\/Android\/data\/com.miui.systemAdSolution\/files\/perfUploading",
+    "\/sdcard\/Android\/data\/com.miui.systemAdSolution\/files\/MiPushLog",
+    "\/sdcard\/Android\/data\/com.miui.systemAdSolution\/files\/miad",
+    "\/sdcard\/Android\/data\/com.miui.systemAdSolution\/files\/miad\/cache",
+    "\/sdcard\/Android\/data\/com.miui.systemAdSolution\/files\/miad\/Cache",
+    "\/sdcard\/Android\/data\/com.miui.systemAdSolution\/files\/miad\/splash_resource",
+    "\/sdcard\/Android\/data\/com.miui.systemAdSolution\/files\/miad\/cacheFolderAd",
+    "\/sdcard\/Android\/data\/com.miui.systemAdSolution\/files\/miad\/splash_preload",
+    "\/sdcard\/Android\/data\/com.miui.systemAdSolution\/cache"
+  ],
+  "com.miui.tsmclient": [
+    "\/sdcard\/Android\/data\/com.miui.tsmclient\/files",
+    "\/sdcard\/Android\/data\/com.miui.tsmclient\/files\/perf",
+    "\/sdcard\/Android\/data\/com.miui.tsmclient\/files\/perfUploading",
+    "\/sdcard\/Android\/data\/com.miui.tsmclient\/cache",
+    "\/sdcard\/Android\/data\/com.miui.tsmclient\/cache\/uil-images"
+  ],
+  "com.android.vending": [
+    "\/sdcard\/Android\/data\/com.android.vending\/files",
+    "\/sdcard\/Android\/data\/com.android.vending\/files\/debug"
+  ],
+  "com.miui.daemon": [
+    "\/sdcard\/Android\/data\/com.miui.daemon\/files",
+    "\/sdcard\/Android\/data\/com.miui.daemon\/files\/activity_stats",
+    "\/sdcard\/Android\/data\/com.miui.daemon\/files\/cpuusage",
+    "\/sdcard\/Android\/data\/com.miui.daemon\/files\/memory",
+    "\/sdcard\/Android\/data\/com.miui.daemon\/files\/free_frag",
+    "\/sdcard\/Android\/data\/com.miui.daemon\/files\/heart_beat",
+    "\/sdcard\/Android\/data\/com.miui.daemon\/files\/psi",
+    "\/sdcard\/Android\/data\/com.miui.daemon\/files\/graphics_stats",
+    "\/sdcard\/Android\/data\/com.miui.daemon\/files\/mem_compact",
+    "\/sdcard\/Android\/data\/com.miui.daemon\/files\/jank_inspector",
+    "\/sdcard\/Android\/data\/com.miui.daemon\/files\/defrag",
+    "\/sdcard\/Android\/data\/com.miui.daemon\/files\/launch_time",
+    "\/sdcard\/Android\/data\/com.miui.daemon\/files\/matrix_result",
+    "\/sdcard\/Android\/data\/com.miui.daemon\/files\/pc",
+    "\/sdcard\/Android\/data\/com.miui.daemon\/files\/e2escenario_stats",
+    "\/sdcard\/Android\/data\/com.miui.daemon\/files\/mi_speed",
+    "\/sdcard\/Android\/data\/com.miui.daemon\/files\/notifications",
+    "\/sdcard\/Android\/data\/com.miui.daemon\/files\/perfevent_stats",
+    "\/sdcard\/Android\/data\/com.miui.daemon\/files\/proc_memory",
+    "\/sdcard\/Android\/data\/com.miui.daemon\/files\/Memory"
+  ],
+  "com.miui.hybrid": [
+    "\/sdcard\/Android\/data\/com.miui.hybrid\/files",
+    "\/sdcard\/Android\/data\/com.miui.hybrid\/files\/perf",
+    "\/sdcard\/Android\/data\/com.miui.hybrid\/files\/perfUploading",
+    "\/sdcard\/Android\/data\/com.miui.hybrid\/cache"
+  ],
+  "com.xiaomi.simactivate.service": [
+    "\/sdcard\/Android\/data\/com.xiaomi.simactivate.service\/files"
+  ],
+  "com.miui.player": [
+    "\/sdcard\/Android\/data\/com.miui.player\/files",
+    "\/sdcard\/Android\/data\/com.miui.player\/files\/perf",
+    "\/sdcard\/Android\/data\/com.miui.player\/files\/perfUploading",
+    "\/sdcard\/Android\/data\/com.miui.player\/files\/push_cdata.lock",
+    "\/sdcard\/Android\/data\/com.miui.player\/files\/push_cdata.data",
+    "\/sdcard\/Android\/data\/com.miui.player\/cache"
+  ],
+  "com.miui.miservice": [
+    "\/sdcard\/Android\/data\/com.miui.miservice\/files",
+    "\/sdcard\/Android\/data\/com.miui.miservice\/files\/perf",
+    "\/sdcard\/Android\/data\/com.miui.miservice\/files\/perfUploading",
+    "\/sdcard\/Android\/data\/com.miui.miservice\/files\/dump",
+    "\/sdcard\/Android\/data\/com.miui.miservice\/cache"
+  ],
+  "com.miui.bugreport": [
+    "\/sdcard\/Android\/data\/com.miui.bugreport\/files"
+  ],
+  "com.miui.voicetrigger": [
+    "\/sdcard\/Android\/data\/com.miui.voicetrigger\/cache"
+  ],
+  "com.miui.cloudbackup": [
+    "\/sdcard\/Android\/data\/com.miui.cloudbackup\/cache"
+  ],
+  "com.android.camera": [
+    "\/sdcard\/Android\/data\/com.android.camera\/files",
+    "\/sdcard\/Android\/data\/com.android.camera\/cache"
+  ],
+  "com.xiaomi.xmsf": [
+    "\/sdcard\/Android\/data\/com.xiaomi.xmsf\/files",
+    "\/sdcard\/Android\/data\/com.xiaomi.xmsf\/files\/perf",
+    "\/sdcard\/Android\/data\/com.xiaomi.xmsf\/files\/perfUploading",
+    "\/sdcard\/Android\/data\/com.xiaomi.xmsf\/files\/rxmsflog"
+  ],
+  "com.miui.mishare.connectivity": [
+    "\/sdcard\/Android\/data\/com.miui.mishare.connectivity\/files",
+    "\/sdcard\/Android\/data\/com.miui.mishare.connectivity\/files\/log",
+    "\/sdcard\/Android\/data\/com.miui.mishare.connectivity\/files\/Log"
+  ],
+  "com.xiaomi.finddevice": [
+    "\/sdcard\/Android\/data\/com.xiaomi.finddevice\/files",
+    "\/sdcard\/Android\/data\/com.xiaomi.finddevice\/files\/perf",
+    "\/sdcard\/Android\/data\/com.xiaomi.finddevice\/files\/perfUploading",
+    "\/sdcard\/Android\/data\/com.xiaomi.finddevice\/files\/push_cdata.lock",
+    "\/sdcard\/Android\/data\/com.xiaomi.finddevice\/files\/push_cdata.data"
+  ],
+  "com.miui.newhome": [
+    "\/sdcard\/Android\/data\/com.miui.newhome\/files",
+    "\/sdcard\/Android\/data\/com.miui.newhome\/files\/TTCache",
+    "\/sdcard\/Android\/data\/com.miui.newhome\/files\/perf",
+    "\/sdcard\/Android\/data\/com.miui.newhome\/files\/perfUploading",
+    "\/sdcard\/Android\/data\/com.miui.newhome\/files\/MiPushLog",
+    "\/sdcard\/Android\/data\/com.miui.newhome\/files\/download",
+    "\/sdcard\/Android\/data\/com.miui.newhome\/files\/Download",
+    "\/sdcard\/Android\/data\/com.miui.newhome\/cache",
+    "\/sdcard\/Android\/data\/com.miui.newhome\/cache\/playable",
+    "\/sdcard\/Android\/data\/com.miui.newhome\/cache\/playable\/games",
+    "\/sdcard\/Android\/data\/com.miui.newhome\/cache\/tt_tmpl_pkg",
+    "\/sdcard\/Android\/data\/com.miui.newhome\/cache\/tt_tmpl_pkg\/template",
+    "\/sdcard\/Android\/data\/com.miui.newhome\/cache\/mitustats",
+    "\/sdcard\/Android\/data\/com.miui.newhome\/cache\/mitustats\/exception",
+    "\/sdcard\/Android\/data\/com.miui.newhome\/cache\/mitustats\/memory",
+    "\/sdcard\/Android\/data\/com.miui.newhome\/cache\/mitustats\/ui_thread",
+    "\/sdcard\/Android\/data\/com.miui.newhome\/cache\/tt_ad",
+    "\/sdcard\/Android\/data\/com.miui.newhome\/cache\/tt_ad\/tt_video_feed",
+    "\/sdcard\/Android\/data\/com.miui.newhome\/cache\/tt_ad\/tt_video_default",
+    "\/sdcard\/Android\/data\/com.miui.newhome\/cache\/tt_ad\/tt_video_default\/mdlManual",
+    "\/sdcard\/Android\/data\/com.miui.newhome\/cache\/tt_ad\/tt_video_default\/netCache",
+    "\/sdcard\/Android\/data\/com.miui.newhome\/cache\/tt_ad\/tt_video_default\/loaderFactory",
+    "\/sdcard\/Android\/data\/com.miui.newhome\/cache\/tt_ad\/tt_video_default\/mdlDownload",
+    "\/sdcard\/Android\/data\/com.miui.newhome\/cache\/tt_ad\/tt_video_brand",
+    "\/sdcard\/Android\/data\/com.miui.newhome\/cache\/tt_ad\/tt_video_reward_full",
+    "\/sdcard\/Android\/data\/com.miui.newhome\/cache\/tt_ad\/tt_video_splash"
+  ],
+  "com.miui.nextpay": [
+    "\/sdcard\/Android\/data\/com.miui.nextpay\/files",
+    "\/sdcard\/Android\/data\/com.miui.nextpay\/files\/perf",
+    "\/sdcard\/Android\/data\/com.miui.nextpay\/files\/perfUploading"
+  ],
+  "com.miui.video": [
+    "\/sdcard\/Android\/data\/com.miui.video\/files",
+    "\/sdcard\/Android\/data\/com.miui.video\/files\/mars",
+    "\/sdcard\/Android\/data\/com.miui.video\/files\/mars\/xlog_com.miui.video",
+    "\/sdcard\/Android\/data\/com.miui.video\/files\/mivideo",
+    "\/sdcard\/Android\/data\/com.miui.video\/files\/mivideo\/data",
+    "\/sdcard\/Android\/data\/com.miui.video\/cache",
+    "\/sdcard\/Android\/data\/com.miui.video\/cache\/Images",
+    "\/sdcard\/Android\/data\/com.miui.video\/cache\/images"
+  ],
+  "com.xiaomi.market": [
+    "\/sdcard\/Android\/data\/com.xiaomi.market\/files",
+    "\/sdcard\/Android\/data\/com.xiaomi.market\/files\/perf",
+    "\/sdcard\/Android\/data\/com.xiaomi.market\/files\/perfUploading",
+    "\/sdcard\/Android\/data\/com.xiaomi.market\/files\/push_cdata.lock",
+    "\/sdcard\/Android\/data\/com.xiaomi.market\/files\/push_cdata.data",
+    "\/sdcard\/Android\/data\/com.xiaomi.market\/files\/MiPushLog",
+    "\/sdcard\/Android\/data\/com.xiaomi.market\/files\/debug",
+    "\/sdcard\/Android\/data\/com.xiaomi.market\/files\/cmsVideo",
+    "\/sdcard\/Android\/data\/com.xiaomi.market\/files\/apk",
+    "\/sdcard\/Android\/data\/com.xiaomi.market\/files\/apk\/AutoUpdate",
+    "\/sdcard\/Android\/data\/com.xiaomi.market\/cache",
+    "\/sdcard\/Android\/data\/com.xiaomi.market\/cache\/video",
+    "\/sdcard\/Android\/data\/com.xiaomi.market\/cache\/video\/video",
+    "\/sdcard\/Android\/data\/com.xiaomi.market\/cache\/video\/video\/0",
+    "\/sdcard\/Android\/data\/com.xiaomi.market\/cache\/video\/video\/1",
+    "\/sdcard\/Android\/data\/com.xiaomi.market\/cache\/video\/video\/2",
+    "\/sdcard\/Android\/data\/com.xiaomi.market\/cache\/video\/video\/6",
+    "\/sdcard\/Android\/data\/com.xiaomi.market\/cache\/video\/video\/7",
+    "\/sdcard\/Android\/data\/com.xiaomi.market\/cache\/video\/video\/8",
+    "\/sdcard\/Android\/data\/com.xiaomi.market\/cache\/video\/video\/3",
+    "\/sdcard\/Android\/data\/com.xiaomi.market\/cache\/video\/video\/9",
+    "\/sdcard\/Android\/data\/com.xiaomi.market\/cache\/video\/video\/4",
+    "\/sdcard\/Android\/data\/com.xiaomi.market\/cache\/video\/video\/5",
+    "\/sdcard\/Android\/data\/com.xiaomi.market\/cache\/video\/Video",
+    "\/sdcard\/Android\/data\/com.xiaomi.market\/cache\/video\/Video\/0",
+    "\/sdcard\/Android\/data\/com.xiaomi.market\/cache\/video\/Video\/1",
+    "\/sdcard\/Android\/data\/com.xiaomi.market\/cache\/video\/Video\/2",
+    "\/sdcard\/Android\/data\/com.xiaomi.market\/cache\/video\/Video\/6",
+    "\/sdcard\/Android\/data\/com.xiaomi.market\/cache\/video\/Video\/7",
+    "\/sdcard\/Android\/data\/com.xiaomi.market\/cache\/video\/Video\/8",
+    "\/sdcard\/Android\/data\/com.xiaomi.market\/cache\/video\/Video\/3",
+    "\/sdcard\/Android\/data\/com.xiaomi.market\/cache\/video\/Video\/9",
+    "\/sdcard\/Android\/data\/com.xiaomi.market\/cache\/video\/Video\/4",
+    "\/sdcard\/Android\/data\/com.xiaomi.market\/cache\/video\/Video\/5",
+    "\/sdcard\/Android\/data\/com.xiaomi.market\/cache\/video\/http"
+  ],
+  "com.xiaomi.misettings": [
+    "\/sdcard\/Android\/data\/com.xiaomi.misettings\/files",
+    "\/sdcard\/Android\/data\/com.xiaomi.misettings\/cache",
+    "\/sdcard\/Android\/data\/com.xiaomi.misettings\/cache\/AppTimer"
+  ],
+  "com.miui.cloudservice": [
+    "\/sdcard\/Android\/data\/com.miui.cloudservice\/files",
+    "\/sdcard\/Android\/data\/com.miui.cloudservice\/files\/perf",
+    "\/sdcard\/Android\/data\/com.miui.cloudservice\/files\/perfUploading"
+  ],
+  "com.miui.miwallpaper": [
+    "\/sdcard\/Android\/data\/com.miui.miwallpaper\/files",
+    "\/sdcard\/Android\/data\/com.miui.miwallpaper\/cache",
+    "\/sdcard\/Android\/data\/com.miui.miwallpaper\/cache\/UnityShaderCache"
+  ],
+  "com.miui.cleanmaster": [
+    "\/sdcard\/Android\/data\/com.miui.cleanmaster\/cache",
+    "\/sdcard\/Android\/data\/com.miui.cleanmaster\/cache\/sift",
+    "\/sdcard\/Android\/data\/com.miui.cleanmaster\/cache\/uil-images"
+  ],
+  "com.android.settings": [
+    "\/sdcard\/Android\/data\/com.android.settings\/cache",
+    "\/sdcard\/Android\/data\/com.android.settings\/cache\/AppTimer"
+  ],
+  "com.miui.voiceassist": [
+    "\/sdcard\/Android\/data\/com.miui.voiceassist\/files",
+    "\/sdcard\/Android\/data\/com.miui.voiceassist\/files\/debug",
+    "\/sdcard\/Android\/data\/com.miui.voiceassist\/cache"
+  ],
+  "com.android.deskclock": [
+    "\/sdcard\/Android\/data\/com.android.deskclock\/files",
+    "\/sdcard\/Android\/data\/com.android.deskclock\/files\/dump",
+    "\/sdcard\/Android\/data\/com.android.deskclock\/files\/dump\/locked"
+  ],
+  "com.android.thememanager": [
+    "\/sdcard\/Android\/data\/com.android.thememanager\/files",
+    "\/sdcard\/Android\/data\/com.android.thememanager\/files\/perf",
+    "\/sdcard\/Android\/data\/com.android.thememanager\/files\/perfUploading",
+    "\/sdcard\/Android\/data\/com.android.thememanager\/files\/push_cdata.lock",
+    "\/sdcard\/Android\/data\/com.android.thememanager\/files\/push_cdata.data",
+    "\/sdcard\/Android\/data\/com.android.thememanager\/files\/MiPushLog",
+    "\/sdcard\/Android\/data\/com.android.thememanager\/files\/MIUI",
+    "\/sdcard\/Android\/data\/com.android.thememanager\/cache"
+  ],
+  "com.xiaomi.aiasst.service": [
+    "\/sdcard\/Android\/data\/com.xiaomi.aiasst.service\/files",
+    "\/sdcard\/Android\/data\/com.xiaomi.aiasst.service\/cache"
+  ]
+}
