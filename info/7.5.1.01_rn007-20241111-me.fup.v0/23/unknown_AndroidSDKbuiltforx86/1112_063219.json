@@ -1,0 +1,1039 @@
+{
+  "UAinfo": {
+    "UA1": "Mozilla\/5.0 (Linux; Android 6.0; Android SDK built for x86 Build\/MASTER; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/44.0.2403.119 Mobile Safari\/537.36",
+    "UA2": "Mozilla\/5.0 (Linux; Android 6.0; Android SDK built for x86 Build\/MASTER; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/44.0.2403.119 Mobile Safari\/537.36",
+    "UA3": "Dalvik\/2.1.0 (Linux; U; Android 6.0; Android SDK built for x86 Build\/MASTER)"
+  },
+  "simi": {
+    "deviceInfo_err": "设备信息获取错误->java.lang.SecurityException: getActiveSubInfoCount: Neither user 10055 nor current process has android.permission.READ_PHONE_STATE.",
+    "envInfo": {
+      "isHookedByC": false,
+      "getFileHashByC": {
+        "\/vendor\/lib\/": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "\/system\/lib\/": "31d7df981b28f3e94435544e8f0044da8ea4afd77d8fdaba98428fba24a6f8eb",
+        "\/system\/fonts\/": "6b385bdffc6c0c1de8b076dfd8c4d2f41890994af2bceff41abfb52e535f5462"
+      },
+      "getResultByC": "- Detected Hypervisor in cpuinfo\n- Detected Emulator File: dev\/qemu_pipe\n- Detected x86 Architecture\n",
+      "locationInfo": {},
+      "isRoot": 1,
+      "isRoot2": true,
+      "isEmulatorByC": true,
+      "isEmulator": 1,
+      "netInfo": "",
+      "installApps": [
+        {
+          "version_name": "7.5.1.01_rn007-20241111",
+          "version_code": 64,
+          "in_time": 1731393097058,
+          "app_name": "a速",
+          "up_time": 1731393097058,
+          "package_name": "me.fup.v0"
+        },
+        {
+          "version_name": "6.0-4174734",
+          "version_code": 23,
+          "in_time": 1499889337000,
+          "app_name": "com.android.smoketest",
+          "up_time": 1499889337000,
+          "package_name": "com.android.smoketest"
+        },
+        {
+          "version_name": "6.0-4174734",
+          "version_code": 23,
+          "in_time": 1499889477000,
+          "app_name": "Example Wallpapers",
+          "up_time": 1499889477000,
+          "package_name": "com.example.android.livecubes"
+        },
+        {
+          "version_name": "6.0-4174734",
+          "version_code": 23,
+          "in_time": 1499889451000,
+          "app_name": "Phone and Messaging Storage",
+          "up_time": 1499889451000,
+          "package_name": "com.android.providers.telephony"
+        },
+        {
+          "version_name": "6.0-4174734",
+          "version_code": 23,
+          "in_time": 1499889450000,
+          "app_name": "Calendar Storage",
+          "up_time": 1499889450000,
+          "package_name": "com.android.providers.calendar"
+        },
+        {
+          "version_name": "6.0-4174734",
+          "version_code": 800,
+          "in_time": 1499889450000,
+          "app_name": "Media Storage",
+          "up_time": 1499889450000,
+          "package_name": "com.android.providers.media"
+        },
+        {
+          "version_name": "1.0",
+          "version_code": 1,
+          "in_time": 1499889478000,
+          "app_name": "Home screen tips",
+          "up_time": 1499889478000,
+          "package_name": "com.android.protips"
+        },
+        {
+          "version_name": "6.0-4174734",
+          "version_code": 23,
+          "in_time": 1499889513000,
+          "app_name": "Documents",
+          "up_time": 1499889513000,
+          "package_name": "com.android.documentsui"
+        },
+        {
+          "version_name": "6.0-4174734",
+          "version_code": 23,
+          "in_time": 1499889450000,
+          "app_name": "Camera",
+          "up_time": 1499889450000,
+          "package_name": "com.android.gallery"
+        },
+        {
+          "version_name": "6.0-4174734",
+          "version_code": 23,
+          "in_time": 1499889450000,
+          "app_name": "External Storage",
+          "up_time": 1499889450000,
+          "package_name": "com.android.externalstorage"
+        },
+        {
+          "version_name": "6.0-4174734",
+          "version_code": 23,
+          "in_time": 1499889450000,
+          "app_name": "HTML Viewer",
+          "up_time": 1499889450000,
+          "package_name": "com.android.htmlviewer"
+        },
+        {
+          "version_name": "6.0-4174734",
+          "version_code": 23,
+          "in_time": 1499889450000,
+          "app_name": "Search",
+          "up_time": 1499889450000,
+          "package_name": "com.android.quicksearchbox"
+        },
+        {
+          "version_name": "6.0-4174734",
+          "version_code": 23,
+          "in_time": 1499889450000,
+          "app_name": "MmsService",
+          "up_time": 1499889450000,
+          "package_name": "com.android.mms.service"
+        },
+        {
+          "version_name": "6.0-4174734",
+          "version_code": 23,
+          "in_time": 1499889450000,
+          "app_name": "Download Manager",
+          "up_time": 1499889450000,
+          "package_name": "com.android.providers.downloads"
+        },
+        {
+          "version_name": "1.0.001 (4174734-70)",
+          "version_code": 10001170,
+          "in_time": 1499889623000,
+          "app_name": "Messaging",
+          "up_time": 1499889623000,
+          "package_name": "com.android.messaging"
+        },
+        {
+          "version_name": "6.0-4174734",
+          "version_code": 23,
+          "in_time": 1499889544000,
+          "app_name": "Browser",
+          "up_time": 1499889544000,
+          "package_name": "com.android.browser"
+        },
+        {
+          "version_name": "6.0-4174734",
+          "version_code": 23,
+          "in_time": 1499889450000,
+          "app_name": "Sound Recorder",
+          "up_time": 1499889450000,
+          "package_name": "com.android.soundrecorder"
+        },
+        {
+          "version_name": "6.0-4174734",
+          "version_code": 23,
+          "in_time": 1499889450000,
+          "app_name": "Package Access Helper",
+          "up_time": 1499889450000,
+          "package_name": "com.android.defcontainer"
+        },
+        {
+          "version_name": "6.0-4174734",
+          "version_code": 23,
+          "in_time": 1499889450000,
+          "app_name": "Downloads",
+          "up_time": 1499889450000,
+          "package_name": "com.android.providers.downloads.ui"
+        },
+        {
+          "version_name": "6.0-4174734",
+          "version_code": 23,
+          "in_time": 1499889450000,
+          "app_name": "PacProcessor",
+          "up_time": 1499889450000,
+          "package_name": "com.android.pacprocessor"
+        },
+        {
+          "version_name": "6.0-4174734",
+          "version_code": 23,
+          "in_time": 1499889450000,
+          "app_name": "Certificate Installer",
+          "up_time": 1499889450000,
+          "package_name": "com.android.certinstaller"
+        },
+        {
+          "version_name": "1.0.0",
+          "version_code": 1,
+          "in_time": 1499889450000,
+          "app_name": "com.android.carrierconfig",
+          "up_time": 1499889450000,
+          "package_name": "com.android.carrierconfig"
+        },
+        {
+          "version_name": "6.0-4174734",
+          "version_code": 23,
+          "in_time": 1499889589000,
+          "app_name": "Contacts",
+          "up_time": 1499889589000,
+          "package_name": "com.android.contacts"
+        },
+        {
+          "version_name": "6.0-4174734",
+          "version_code": 23,
+          "in_time": 1499889562000,
+          "app_name": "Launcher3",
+          "up_time": 1499889562000,
+          "package_name": "com.android.launcher3"
+        },
+        {
+          "version_name": "6.0-4174734",
+          "version_code": 23,
+          "in_time": 1499889450000,
+          "app_name": "com.android.backupconfirm",
+          "up_time": 1499889450000,
+          "package_name": "com.android.backupconfirm"
+        },
+        {
+          "version_name": "1.0",
+          "version_code": 1,
+          "in_time": 1499889450000,
+          "app_name": "Intent Filter Verification Service",
+          "up_time": 1499889450000,
+          "package_name": "com.android.statementservice"
+        },
+        {
+          "version_name": "6.0-4174734",
+          "version_code": 23,
+          "in_time": 1499889542000,
+          "app_name": "Calendar",
+          "up_time": 1499889542000,
+          "package_name": "com.android.calendar"
+        },
+        {
+          "version_name": "6.0-4174734",
+          "version_code": 23,
+          "in_time": 1499889450000,
+          "app_name": "Settings Storage",
+          "up_time": 1499889450000,
+          "package_name": "com.android.providers.settings"
+        },
+        {
+          "version_name": "6.0-4174734",
+          "version_code": 23,
+          "in_time": 1499889450000,
+          "app_name": "com.android.sharedstoragebackup",
+          "up_time": 1499889450000,
+          "package_name": "com.android.sharedstoragebackup"
+        },
+        {
+          "version_name": "1",
+          "version_code": 1,
+          "in_time": 1499889553000,
+          "app_name": "Print Spooler",
+          "up_time": 1499889553000,
+          "package_name": "com.android.printspooler"
+        },
+        {
+          "version_name": "6.0-4174734",
+          "version_code": 23,
+          "in_time": 1499889450000,
+          "app_name": "Basic Daydreams",
+          "up_time": 1499889450000,
+          "package_name": "com.android.dreams.basic"
+        },
+        {
+          "version_name": "44.0.2403.119",
+          "version_code": 246011910,
+          "in_time": 1499889450000,
+          "app_name": "Android System WebView",
+          "up_time": 1499889450000,
+          "package_name": "com.android.webview"
+        },
+        {
+          "version_name": "6.0-4174734",
+          "version_code": 23,
+          "in_time": 1499889450000,
+          "app_name": "Input Devices",
+          "up_time": 1499889450000,
+          "package_name": "com.android.inputdevices"
+        },
+        {
+          "version_name": "1.0",
+          "version_code": 1,
+          "in_time": 1499889450000,
+          "app_name": "BACKUP TEST",
+          "up_time": 1499889450000,
+          "package_name": "com.android.backuptester"
+        },
+        {
+          "version_name": "6.0-4174734",
+          "version_code": 23,
+          "in_time": 1499889450000,
+          "app_name": "Call Log Backup\/Restore",
+          "up_time": 1499889450000,
+          "package_name": "com.android.providers.calllogbackup"
+        },
+        {
+          "version_name": "6.0-4174734",
+          "version_code": 23,
+          "in_time": 1499889450000,
+          "app_name": "com.android.sdksetup",
+          "up_time": 1499889450000,
+          "package_name": "com.android.sdksetup"
+        },
+        {
+          "version_name": "6.0-4174734",
+          "version_code": 23,
+          "in_time": 1499889450000,
+          "app_name": "Phone Call Management",
+          "up_time": 1499889450000,
+          "package_name": "com.android.server.telecom"
+        },
+        {
+          "version_name": "6.0-4174734",
+          "version_code": 23,
+          "in_time": 1499889450000,
+          "app_name": "Key Chain",
+          "up_time": 1499889450000,
+          "package_name": "com.android.keychain"
+        },
+        {
+          "version_name": "1",
+          "version_code": 1,
+          "in_time": 1499889450000,
+          "app_name": "Camera",
+          "up_time": 1499889450000,
+          "package_name": "com.android.camera"
+        },
+        {
+          "version_name": "6.0-4174734",
+          "version_code": 23,
+          "in_time": 1499889586000,
+          "app_name": "Phone",
+          "up_time": 1499889586000,
+          "package_name": "com.android.dialer"
+        },
+        {
+          "version_name": "6.0-4174734",
+          "version_code": 23,
+          "in_time": 1499889450000,
+          "app_name": "Emulator Smoke Tests",
+          "up_time": 1499889450000,
+          "package_name": "com.android.emulator.smoketests"
+        },
+        {
+          "version_name": "6.0-4174734",
+          "version_code": 23,
+          "in_time": 1499889588000,
+          "app_name": "Package installer",
+          "up_time": 1499889588000,
+          "package_name": "com.android.packageinstaller"
+        },
+        {
+          "version_name": "1.0",
+          "version_code": 1,
+          "in_time": 1499889450000,
+          "app_name": "Pico TTS",
+          "up_time": 1499889450000,
+          "package_name": "com.svox.pico"
+        },
+        {
+          "version_name": "6.0-4174734",
+          "version_code": 23,
+          "in_time": 1499889520000,
+          "app_name": "API Demos",
+          "up_time": 1499889520000,
+          "package_name": "com.example.android.apis"
+        },
+        {
+          "version_name": "6.0-4174734",
+          "version_code": 23,
+          "in_time": 1499889450000,
+          "app_name": "ProxyHandler",
+          "up_time": 1499889450000,
+          "package_name": "com.android.proxyhandler"
+        },
+        {
+          "version_name": "6.0-4174734",
+          "version_code": 23,
+          "in_time": 1499889450000,
+          "app_name": "Fallback",
+          "up_time": 1499889450000,
+          "package_name": "com.android.fallback"
+        },
+        {
+          "version_name": "6.0-4174734",
+          "version_code": 23,
+          "in_time": 1499889594000,
+          "app_name": "Android Keyboard (AOSP)",
+          "up_time": 1499889594000,
+          "package_name": "com.android.inputmethod.latin"
+        },
+        {
+          "version_name": "6.0-4174734",
+          "version_code": 23,
+          "in_time": 1499889523000,
+          "app_name": "com.android.managedprovisioning",
+          "up_time": 1499889523000,
+          "package_name": "com.android.managedprovisioning"
+        },
+        {
+          "version_name": "6.0-4174734",
+          "version_code": 23,
+          "in_time": 1499889450000,
+          "app_name": "Live Wallpaper Picker",
+          "up_time": 1499889450000,
+          "package_name": "com.android.wallpaper.livepicker"
+        },
+        {
+          "version_name": "6.0-4174734",
+          "version_code": 23,
+          "in_time": 1499889450000,
+          "app_name": "NetSpeed",
+          "up_time": 1499889450000,
+          "package_name": "com.android.netspeed"
+        },
+        {
+          "version_name": "6.0-4174734",
+          "version_code": 23,
+          "in_time": 1499889450000,
+          "app_name": "OpenWnn",
+          "up_time": 1499889450000,
+          "package_name": "jp.co.omronsoft.openwnn"
+        },
+        {
+          "version_name": "6.0-4174734",
+          "version_code": 23,
+          "in_time": 1499889703000,
+          "app_name": "Settings",
+          "up_time": 1499889703000,
+          "package_name": "com.android.settings"
+        },
+        {
+          "version_name": "6.0-4174734",
+          "version_code": 23,
+          "in_time": 1499889507000,
+          "app_name": "Calculator",
+          "up_time": 1499889507000,
+          "package_name": "com.android.calculator2"
+        },
+        {
+          "version_name": "6.0-4174734",
+          "version_code": 23,
+          "in_time": 1499889477000,
+          "app_name": "com.android.gesture.builder",
+          "up_time": 1499889477000,
+          "package_name": "com.android.gesture.builder"
+        },
+        {
+          "version_name": "6.0-4174734",
+          "version_code": 23,
+          "in_time": 1499889450000,
+          "app_name": "VpnDialogs",
+          "up_time": 1499889450000,
+          "package_name": "com.android.vpndialogs"
+        },
+        {
+          "version_name": "6.0-4174734",
+          "version_code": 7008110,
+          "in_time": 1499889627000,
+          "app_name": "Email",
+          "up_time": 1499889627000,
+          "package_name": "com.android.email"
+        },
+        {
+          "version_name": "6.0-4174734",
+          "version_code": 23,
+          "in_time": 1499889480000,
+          "app_name": "Music",
+          "up_time": 1499889480000,
+          "package_name": "com.android.music"
+        },
+        {
+          "version_name": "6.0-4174734",
+          "version_code": 23,
+          "in_time": 1499889455000,
+          "app_name": "Phone Services",
+          "up_time": 1499889455000,
+          "package_name": "com.android.phone"
+        },
+        {
+          "version_name": "6.0-4174734",
+          "version_code": 23,
+          "in_time": 1499889524000,
+          "app_name": "Shell",
+          "up_time": 1499889524000,
+          "package_name": "com.android.shell"
+        },
+        {
+          "version_name": "6.0-4174734",
+          "version_code": 23,
+          "in_time": 1499889450000,
+          "app_name": "User Dictionary",
+          "up_time": 1499889450000,
+          "package_name": "com.android.providers.userdictionary"
+        },
+        {
+          "version_name": "6.0-4174734",
+          "version_code": 23,
+          "in_time": 1499889450000,
+          "app_name": "Fused Location",
+          "up_time": 1499889450000,
+          "package_name": "com.android.location.fused"
+        },
+        {
+          "version_name": "4.1.0",
+          "version_code": 410,
+          "in_time": 1499889552000,
+          "app_name": "Clock",
+          "up_time": 1499889552000,
+          "package_name": "com.android.deskclock"
+        },
+        {
+          "version_name": "6.0-4174734",
+          "version_code": 23,
+          "in_time": 1499889457000,
+          "app_name": "System UI",
+          "up_time": 1499889457000,
+          "package_name": "com.android.systemui"
+        },
+        {
+          "version_name": "6.0-4174734",
+          "version_code": 500065,
+          "in_time": 1499889590000,
+          "app_name": "Exchange Services",
+          "up_time": 1499889590000,
+          "package_name": "com.android.exchange"
+        },
+        {
+          "version_name": "6.0-4174734",
+          "version_code": 23,
+          "in_time": 1499889340000,
+          "app_name": "com.android.smoketest.tests",
+          "up_time": 1499889340000,
+          "package_name": "com.android.smoketest.tests"
+        },
+        {
+          "version_name": "1.0",
+          "version_code": 1,
+          "in_time": 1499889450000,
+          "app_name": "Custom Locale",
+          "up_time": 1499889450000,
+          "package_name": "com.android.customlocale2"
+        },
+        {
+          "version_name": "6.0-4174734",
+          "version_code": 23,
+          "in_time": 1499889477000,
+          "app_name": "Sample Soft Keyboard",
+          "up_time": 1499889477000,
+          "package_name": "com.example.android.softkeyboard"
+        },
+        {
+          "version_name": "1.0",
+          "version_code": 1,
+          "in_time": 1499889450000,
+          "app_name": "Dev Tools",
+          "up_time": 1499889450000,
+          "package_name": "com.android.development"
+        },
+        {
+          "version_name": "6.0-4174734",
+          "version_code": 23,
+          "in_time": 1499889450000,
+          "app_name": "Contacts Storage",
+          "up_time": 1499889450000,
+          "package_name": "com.android.providers.contacts"
+        },
+        {
+          "version_name": "6.0-4174734",
+          "version_code": 23,
+          "in_time": 1499889450000,
+          "app_name": "CaptivePortalLogin",
+          "up_time": 1499889450000,
+          "package_name": "com.android.captiveportallogin"
+        },
+        {
+          "version_name": "6.0-4174734",
+          "version_code": 23,
+          "in_time": 1499889477000,
+          "app_name": "Widget Preview",
+          "up_time": 1499889477000,
+          "package_name": "com.android.widgetpreview"
+        }
+      ]
+    },
+    "ipRoute": "",
+    "otherInfo": {
+      "androidId2": "",
+      "androidId": "60c11b715648ff25",
+      "boot_id": {
+        "sys_boot_id": "699f737c-863b-4811-9375-fdc66dbf121c",
+        "sys_uuid": "d6dbd3d3-703b-4f1e-9047-550758bc8737",
+        "cat_boot_id": "699f737c-863b-4811-9375-fdc66dbf121c",
+        "f_boot_id": "699f737c-863b-4811-9375-fdc66dbf121c\n",
+        "cat_uuid": "c03174a9-8827-44ee-b668-514e01055a86",
+        "f_uuid": "4dd42e7a-cb5a-486e-8267-c1acb0a8ad79\n"
+      },
+      "androidId3": "60c11b715648ff25",
+      "gaid": "",
+      "mac": {
+        "java_mac": "52:54:00:12:34:56",
+        "file_mac": "",
+        "ip_address": "1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN \n    link\/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00\n    inet 127.0.0.1\/8 scope host lo\n       valid_lft forever preferred_lft forever\n    inet6 ::1\/128 scope host \n       valid_lft forever preferred_lft forever\n2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000\n    link\/ether 52:54:00:12:34:56 brd ff:ff:ff:ff:ff:ff\n    inet 10.0.2.15\/24 brd 10.0.2.255 scope global eth0\n       valid_lft forever preferred_lft forever\n    inet6 fec0::5054:ff:fe12:3456\/64 scope site dynamic \n       valid_lft 86349sec preferred_lft 14349sec\n    inet6 fe80::5054:ff:fe12:3456\/64 scope link \n       valid_lft forever preferred_lft forever\n3: sit0: <NOARP> mtu 1480 qdisc noop state DOWN \n    link\/sit 0.0.0.0 brd 0.0.0.0",
+        "ip_link": "1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN mode DEFAULT \n    link\/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00\n2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP mode DEFAULT qlen 1000\n    link\/ether 52:54:00:12:34:56 brd ff:ff:ff:ff:ff:ff\n3: sit0: <NOARP> mtu 1480 qdisc noop state DOWN mode DEFAULT \n    link\/sit 0.0.0.0 brd 0.0.0.0",
+        "api_mac": ""
+      }
+    }
+  },
+  "simi耗时": 1886,
+  "Subinfo": {
+    "鸿蒙OS": false,
+    "鸿蒙Config": false,
+    "鸿蒙Loader": false,
+    "鸿蒙包含": false,
+    "华为": false,
+    "荣耀": false,
+    "华为系列": {
+      "isHuawei": false,
+      "包含": false,
+      "has": false,
+      "纯净版": 0,
+      "【ohos.system.version】列表": [],
+      "【ohos.system】列表": [],
+      "【com.huawei.system】列表": []
+    },
+    "getprop": {
+      "init.svc.goldfish-setup": "stopped",
+      "sys.settings_secure_version": "12",
+      "ro.secure": "1",
+      "ro.baseband": "unknown",
+      "gsm.version.ril-impl": "androidreference-ril1.0",
+      "net.eth0.gw": "10.0.2.2",
+      "gsm.current.phone-type": "1",
+      "ro.zygote": "zygote32",
+      "gsm.sim.operator.numeric": "310260",
+      "ro.build.version.preview_sdk": "0",
+      "ro.config.notification_sound": "OnTheHunt.ogg",
+      "ro.build.version.sdk": "23",
+      "sys.sysctl.extra_free_kbytes": "43200",
+      "dev.bootcomplete": "1",
+      "ro.build.type": "userdebug",
+      "xmpp.auto-presence": "true",
+      "gsm.sim.operator.alpha": "Android",
+      "init.svc.logd-reinit": "stopped",
+      "ro.kernel.ramoops.mem_address": "0xff018000",
+      "ro.boot.hardware": "ranchu",
+      "wlan.driver.status": "unloaded",
+      "init.svc.perfprofd": "running",
+      "service.bootanim.exit": "1",
+      "sys.boot_completed": "1",
+      "ro.product.cpu.abilist32": "x86",
+      "gsm.operator.numeric": "310260",
+      "ro.boot.serialno": "EMULATOR35X2X10X0",
+      "net.tcp.default_init_rwnd": "60",
+      "ro.bootimage.build.date": "WedJul1219:49:11UTC2017",
+      "dalvik.vm.image-dex2oat-Xms": "64m",
+      "ro.product.cpu.abilist": "x86",
+      "ro.kernel.qemu": "1",
+      "ro.kernel.qemu.opengles.version": "196608",
+      "ro.kernel.android.bootanim": "0",
+      "ro.build.version.incremental": "4174734",
+      "ro.config.nocheckin": "yes",
+      "ro.build.display.id": "sdk_phone_x86-userdebug6.0MASTER4174734test-keys",
+      "dalvik.vm.dex2oat-Xmx": "512m",
+      "ro.hardware.audio.primary": "goldfish",
+      "sys.settings_system_version": "4",
+      "qemu.sf.lcd_density": "560",
+      "net.dns1": "10.0.2.3",
+      "init.svc.drm": "running",
+      "sys.settings_global_version": "13",
+      "ro.kernel.qemu.gltransport": "pipe",
+      "status.battery.level_raw": "50",
+      "ro.kernel.qemu.uirenderer": "skiagl",
+      "net.gprs.local-ip": "10.0.2.15",
+      "init.svc.fingerprintd": "running",
+      "init.svc.bootanim": "stopped",
+      "ro.hwui.texture_cache_size": "72",
+      "ro.debuggable": "1",
+      "ro.build.user": "android-build",
+      "qemu.logcat": "start",
+      "init.svc.vold": "running",
+      "dalvik.vm.heapsize": "384m",
+      "ro.build.version.codename": "REL",
+      "ro.serialno": "EMULATOR35X2X10X0",
+      "ro.com.google.locationfeatures": "1",
+      "gsm.operator.alpha": "Android",
+      "persist.sys.usb.config": "adb",
+      "init.svc.media": "running",
+      "ro.build.description": "sdk_phone_x86-userdebug6.0MASTER4174734test-keys",
+      "ro.product.name": "sdk_phone_x86",
+      "qemu.hw.mainkeys": "0",
+      "ro.opengles.version": "196608",
+      "init.svc.servicemanager": "running",
+      "gsm.sim.state": "READY",
+      "sys.usb.config": "adb",
+      "init.svc.lmkd": "running",
+      "net.bt.name": "Android",
+      "ro.hardware": "ranchu",
+      "qemu.timezone": "Etc\/UTC",
+      "ro.qemu.initrc": "ranchu",
+      "ro.hwui.text_small_cache_width": "1024",
+      "ro.build.flavor": "sdk_phone_x86-userdebug",
+      "ro.build.date": "WedJul1219:48:30UTC2017",
+      "dalvik.vm.stack-trace-file": "\/data\/anr\/traces.txt",
+      "dalvik.vm.isa.x86.variant": "x86",
+      "ro.kernel.android.qemud": "1",
+      "ro.product.cpu.abi": "x86",
+      "sys.sysctl.tcp_def_init_rwnd": "60",
+      "sys.usb.state": "adb",
+      "ro.product.device": "generic_x86",
+      "ro.product.manufacturer": "unknown",
+      "ro.build.id": "MASTER",
+      "ro.bootloader": "unknown",
+      "vold.has_adoptable": "1",
+      "ro.wifi.channels": "",
+      "qemu.gles": "1",
+      "init.svc.console": "running",
+      "ro.kernel.qemu.vsync": "60",
+      "ro.product.model": "AndroidSDKbuiltforx86",
+      "persist.adb.notify": "1",
+      "ro.kernel.cma": "314M@0-4G",
+      "ro.kernel.memmap": "0x10000$0xff018000",
+      "dalvik.vm.lockprof.threshold": "500",
+      "net.hostname": "android-60c11b715648ff25",
+      "init.svc.ueventd": "running",
+      "init.svc.ril-daemon": "running",
+      "gsm.sim.operator.iso-country": "us",
+      "debug.sf.nobootanimation": "1",
+      "ro.build.product": "generic_x86",
+      "qemu.cmdline": "androidboot.logcat=*:Vandroidboot.consolepipe=qemu_pipe,pipe:logcat",
+      "init.svc.logd": "running",
+      "ro.dalvik.vm.native.bridge": "0",
+      "status.battery.level_scale": "9",
+      "ro.build.version.release": "6.0",
+      "ro.config.alarm_alert": "Alarm_Classic.ogg",
+      "rild.libpath": "\/system\/lib\/libreference-ril.so",
+      "net.change": "net.dns1",
+      "ro.kernel.ramoops.mem_size": "0x10000",
+      "init.svc.zygote": "running",
+      "init.svc.installd": "running",
+      "gsm.nitz.time": "1731393104003",
+      "ro.hwui.texture_cache_flushrate": "0.4",
+      "gsm.operator.isroaming": "false",
+      "ro.kernel.androidboot.hardware": "ranchu",
+      "init.svc.goldfish-logcat": "running",
+      "qemu.adb.secure": "0",
+      "ro.board.platform": "",
+      "ro.hwui.drop_shadow_cache_size": "6",
+      "ro.kernel.loop.max_part": "7",
+      "ro.allow.mock.location": "0",
+      "ro.hwui.gradient_cache_size": "1",
+      "gsm.defaultpdpcontext.active": "true",
+      "selinux.reload_policy": "1",
+      "ro.hwui.r_buffer_cache_size": "8",
+      "ro.build.version.base_os": "",
+      "persist.sys.dalvik.vm.lib.2": "libart.so",
+      "gsm.operator.iso-country": "us",
+      "init.svc.debuggerd": "running",
+      "ro.kernel.clocksource": "pit",
+      "ro.hwui.layer_cache_size": "48",
+      "ro.bootimage.build.fingerprint": "Android\/sdk_phone_x86\/generic_x86:6.0\/MASTER\/4174734:userdebug\/test-keys",
+      "ro.kernel.qemu.avd_name": "23-default-x86",
+      "vold.post_fs_data_done": "1",
+      "init.svc.healthd": "running",
+      "ro.product.locale": "en-US",
+      "qemu.sf.fake_camera": "none",
+      "ro.build.characteristics": "emulator",
+      "ro.product.brand": "Android",
+      "net.qtaguid_enabled": "1",
+      "ro.revision": "0",
+      "ro.product.cpu.abilist64": "",
+      "ro.build.fingerprint": "Android\/sdk_phone_x86\/generic_x86:6.0\/MASTER\/4174734:userdebug\/test-keys",
+      "debug.atrace.tags.enableflags": "0",
+      "dalvik.vm.isa.x86.features": "default",
+      "ro.runtime.firstboot": "1731393093210",
+      "ro.build.tags": "test-keys",
+      "persist.sys.timezone": "Etc\/UTC",
+      "ro.kernel.printk.devkmsg": "on",
+      "net.eth0.dns1": "10.0.2.3",
+      "ro.hwui.text_large_cache_width": "2048",
+      "ro.boot.android_dt_dir": "\/sys\/bus\/platform\/devices\/ANDR0001:00\/properties\/android\/",
+      "ro.build.host": "wphs2.hot.corp.google.com",
+      "init.svc.gatekeeperd": "running",
+      "ro.build.date.utc": "1499888910",
+      "ro.build.version.security_patch": "2016-09-06",
+      "ro.bootmode": "unknown",
+      "status.battery.state": "Slow",
+      "ro.build.version.all_codenames": "REL",
+      "ro.product.board": "",
+      "ro.kernel.qemu.gles": "1",
+      "ro.kernel.console": "0",
+      "gsm.network.type": "LTE",
+      "init.svc.qemu-props": "stopped",
+      "init.svc.surfaceflinger": "running",
+      "ro.hwui.text_large_cache_height": "1024",
+      "ro.radio.use-ppp": "no",
+      "ro.bootimage.build.date.utc": "1499888951",
+      "dalvik.vm.dex2oat-Xms": "64m",
+      "status.battery.level": "5",
+      "dalvik.vm.image-dex2oat-Xmx": "64m",
+      "init.svc.netd": "running",
+      "init.svc.keystore": "running",
+      "debug.force_rtl": "0",
+      "ro.hwui.path_cache_size": "32",
+      "init.svc.adbd": "running",
+      "ro.kernel.androidboot.serialno": "EMULATOR35X2X10X0",
+      "ro.hwui.text_small_cache_height": "1024",
+      "rild.libargs": "-d\/dev\/ttyS0",
+      "ro.crypto.state": "unencrypted",
+      "persist.sys.profiler_ms": "0"
+    }
+  },
+  "屏幕信息": {
+    "me_whwh": "&width=411.42856&height=683.4286&w=1440&h=2560",
+    "me_ua": "Dalvik\/2.1.0 (Linux; U; Android 6.0; Android SDK built for x86 Build\/MASTER)",
+    "me_ua1": "Mozilla\/5.0 (Linux; Android 6.0; Android SDK built for x86 Build\/MASTER; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/44.0.2403.119 Mobile Safari\/537.36",
+    "density": 3.5,
+    "width": 411.42856,
+    "height": 683.4286,
+    "w": 1440,
+    "h": 2560
+  },
+  "USB": {
+    "isEnable": true,
+    "isEnableEnv1": true,
+    "isEnableEnv2": false,
+    "isEnableEnv3": false,
+    "status": "",
+    "settings-system": "[]",
+    "settings-secure": "[]",
+    "settings-global": "[]",
+    "getprop-usb": "[\"[persist.sys.usb.config]: [adb]\",\"[sys.usb.config]: [adb]\",\"[sys.usb.state]: [adb]\"]"
+  },
+  "ids": {
+    "PLANA": {
+      "stat_path": "stat is a tracked alias for \/system\/bin\/stat\n",
+      "\/-0000000000000000": "4096-0-0",
+      "\/etc\/-8c829c5f2697bfed": "4096-317408-81920",
+      "\/system\/-8c829c5f2697bfed": "4096-317408-81920",
+      "\/data\/-c8ba634573858d55": "4096-193002-57344",
+      "\/sdcard\/-0000000000000000": "4096-193002-57344",
+      "\/dev\/-0000000000000000": "4096-128842-128842",
+      "\/mnt\/-0000000000000000": "4096-128842-128842",
+      "\/storage\/-0000000000000000": "4096-128842-128842"
+    },
+    "PLANB": {
+      "sys_boot_id": "699f737c-863b-4811-9375-fdc66dbf121c",
+      "sys_uuid": "6cfe6d7b-6d9f-461f-939a-6aa87ff0c94d",
+      "cat_boot_id": "699f737c-863b-4811-9375-fdc66dbf121c\n",
+      "f_boot_id": "699f737c-863b-4811-9375-fdc66dbf121c\n",
+      "cat_uuid": "7beef2bc-23a5-4e86-8dee-6acb48275432\n",
+      "f_uuid": "12a98743-d4a0-455c-85ba-e2a6d775448b\n",
+      "ls_kernel_list": [
+        "boot_id",
+        "entropy_avail",
+        "poolsize",
+        "read_wakeup_threshold",
+        "uuid",
+        "write_wakeup_threshold"
+      ],
+      "flist_kernel_list": [
+        "boot_id",
+        "entropy_avail",
+        "poolsize",
+        "read_wakeup_threshold",
+        "uuid",
+        "write_wakeup_threshold"
+      ]
+    },
+    "UniqueId": "ffffffff-c715-0522-ffff-ffff9ddc2362",
+    "uname-a": "Linux localhost 3.10.0+ #1 SMP PREEMPT Wed Feb 22 08:53:42 PST 2017 i686\n",
+    "android_id_api": "60c11b715648ff25",
+    "android_id_setting_cr": "60c11b715648ff25",
+    "android_id_content": ""
+  },
+  "streamline": {
+    "boot_id": "699f737c-863b-4811-9375-fdc66dbf121c",
+    "UniqueId": "ffffffff-c715-0522-ffff-ffff9ddc2362",
+    "java_mac": "52:54:00:12:34:56"
+  },
+  "Unknow": {
+    "App-Count": 72,
+    "Now": "2024-11-12 06:32:16",
+    "Research-Count": 2
+  },
+  "MAC": {
+    "java_mac": "52:54:00:12:34:56",
+    "api_mac": "02:00:00:00:00:00",
+    "file_mac": "",
+    "ip_address": "1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN \n    link\/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00\n    inet 127.0.0.1\/8 scope host lo\n       valid_lft forever preferred_lft forever\n    inet6 ::1\/128 scope host \n       valid_lft forever preferred_lft forever\n2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000\n    link\/ether 52:54:00:12:34:56 brd ff:ff:ff:ff:ff:ff\n    inet 10.0.2.15\/24 brd 10.0.2.255 scope global eth0\n       valid_lft forever preferred_lft forever\n    inet6 fec0::5054:ff:fe12:3456\/64 scope site dynamic \n       valid_lft 86344sec preferred_lft 14344sec\n    inet6 fe80::5054:ff:fe12:3456\/64 scope link \n       valid_lft forever preferred_lft forever\n3: sit0: <NOARP> mtu 1480 qdisc noop state DOWN \n    link\/sit 0.0.0.0 brd 0.0.0.0\n",
+    "ip_link": "1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN mode DEFAULT \n    link\/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00\n2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP mode DEFAULT qlen 1000\n    link\/ether 52:54:00:12:34:56 brd ff:ff:ff:ff:ff:ff\n3: sit0: <NOARP> mtu 1480 qdisc noop state DOWN mode DEFAULT \n    link\/sit 0.0.0.0 brd 0.0.0.0\n"
+  },
+  "设备信息": {
+    "java_version ": "0",
+    "java_runtime_version": "0.9",
+    "java_runtime_name": "Android Runtime",
+    "java_vm_version ": "2.1.0",
+    "SystemName": "Android",
+    "SystemVersion": "6.0",
+    "DeviceBrand": "Android",
+    "DeviceModel": "Android SDK built for x86",
+    "SerialNumber": "EMULATOR35X2X10X0",
+    "ApplicationChannel": "CHANNEL-unknown",
+    "ApplicationKey": "APPKE",
+    "APILevel": "23",
+    "UA": "Mozilla\/5.0 (Linux; Android 6.0; Android SDK built for x86 Build\/MASTER; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/44.0.2403.119 Mobile Safari\/537.36",
+    "TargetSdkVersion": "31",
+    "BootTimeMilliseconds": "1731393076528",
+    "Simulator": "1",
+    "Debug": "0",
+    "Hijack": "0",
+    "IsRoot": "1",
+    "SystemFontSize": "0",
+    "SystemHour": "12",
+    "SystemLanguage": "en",
+    "SystemArea": "US",
+    "TimeZone": "UTC",
+    "SenSorModuleName": [
+      {
+        "SenSorName": "Goldfish 3-axis Accelerometer",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "The Android Open Source Project",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 3
+      },
+      {
+        "SenSorName": "Goldfish 3-axis Magnetic field sensor",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "The Android Open Source Project",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 6.699999809265137
+      },
+      {
+        "SenSorName": "Goldfish Orientation sensor",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "The Android Open Source Project",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 9.699999809265137
+      },
+      {
+        "SenSorName": "Goldfish Temperature sensor",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "The Android Open Source Project",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 0
+      },
+      {
+        "SenSorName": "Goldfish Proximity sensor",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "The Android Open Source Project",
+        "SenSorWakeUpSensor": true,
+        "SenSorPower": 20
+      },
+      {
+        "SenSorName": "Goldfish Light sensor",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "The Android Open Source Project",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 20
+      },
+      {
+        "SenSorName": "Goldfish Pressure sensor",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "The Android Open Source Project",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 20
+      },
+      {
+        "SenSorName": "Goldfish Humidity sensor",
+        "SenSorVersion": "1",
+        "SenSorManufacturer": "The Android Open Source Project",
+        "SenSorWakeUpSensor": false,
+        "SenSorPower": 20
+      }
+    ],
+    "CPUModel": "x86:",
+    "BuildId": "MASTER",
+    "BuildDisplay": "sdk_phone_x86-userdebug 6.0 MASTER 4174734 test-keys",
+    "BuildProduct": "sdk_phone_x86",
+    "BuildDevice": "generic_x86",
+    "BuildHardware": "ranchu",
+    "BuildSupportedAbis": "x86",
+    "BuildSupportedAbis32": "x86",
+    "BuildType": "userdebug",
+    "BuildTags": "test-keys",
+    "BuildFingerPrint": "Android\/sdk_phone_x86\/generic_x86:6.0\/MASTER\/4174734:userdebug\/test-keys",
+    "BuildIncremental": "4174734",
+    "BuildSecurityPatch": "2016-09-06",
+    "BuildPreviewSdkInt": "0",
+    "BuildSdkInt": "23",
+    "BuildCodename": "REL",
+    "ETDM": {
+      "BatteryStatus": "2",
+      "BatteryHealth": "2",
+      "BatteryLevel": "100",
+      "BatteryScale": "100",
+      "BatteryPlugged": "1",
+      "BatteryTechnology": "Li-ion"
+    }
+  },
+  "Build_Class": {
+    "BRAND": "Android",
+    "CPU_ABI": "x86",
+    "DEVICE": "generic_x86",
+    "DISPLAY": "sdk_phone_x86-userdebug 6.0 MASTER 4174734 test-keys",
+    "FINGERPRINT": "Android\/sdk_phone_x86\/generic_x86:6.0\/MASTER\/4174734:userdebug\/test-keys",
+    "HARDWARE": "ranchu",
+    "HOST": "wphs2.hot.corp.google.com",
+    "ID": "MASTER",
+    "IS_DEBUGGABLE": true,
+    "MODEL": "Android SDK built for x86",
+    "PRODUCT": "sdk_phone_x86",
+    "SERIAL": "EMULATOR35X2X10X0",
+    "SUPPORTED_32_BIT_ABIS": [
+      "x86"
+    ],
+    "SUPPORTED_64_BIT_ABIS": [],
+    "SUPPORTED_ABIS": [
+      "x86"
+    ],
+    "TAG": "Build",
+    "TAGS": "test-keys",
+    "TIME": 1499888910000,
+    "TYPE": "userdebug",
+    "USER": "android-build"
+  },
+  "oxx": [
+    "Found 0 services:"
+  ],
+  "总耗时": 4807
+}
